@@ -1,0 +1,642 @@
+{
+    "A013_C012": {
+        "0": "L\u00e4hestyt\u00e4\u00e4n Golden\u00a0Gate -siltaa San\u00a0Franciscosta",
+        "140": "Ylitet\u00e4\u00e4n Golden\u00a0Gate -silta",
+        "60": "Kuljetaan Golden\u00a0Gate -sillan vieress\u00e4 kohti Marin\u00a0Headlandsia",
+        "230": "Kuljetaan Golden\u00a0Gate -sillan pohjoisen tornin ohi",
+        "260": "Kuljetaan\u00a0San\u00a0Franciscon lahden yll\u00e4 Golden\u00a0Gate -siltaa pitkin"
+    },
+    "I005_C008": {
+        "324": "Kuljetaan M\u00fdrdalsj\u00f6kullin j\u00e4\u00e4tik\u00f6n yli Islannissa",
+        "225": "M\u00fdrdalsj\u00f6kullin j\u00e4\u00e4tikk\u00f6 Islannissa",
+        "0": "Kuljetaan M\u00fdrdalsj\u00f6kullin j\u00e4\u00e4tikk\u00f6\u00e4 kohti Islannissa",
+        "150": "L\u00e4hestyt\u00e4\u00e4n M\u00fdrdalsj\u00f6kullin j\u00e4\u00e4tikk\u00f6\u00e4 Islannissa"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Kuljetaan kohti Half\u00a0Domea Yosemiten kansallispuistossa Yhdysvalloissa",
+        "60": "Half\u00a0Dome Yosemiten kansallispuistossa Yhdysvalloissa",
+        "155": "Yosemiten kansallispuiston yll\u00e4, kaukaisuudessa n\u00e4kyy Nevada\u00a0Fall",
+        "285": "Nevada, Vernal ja Illilouette\u00a0Falls Yosemiten kansallispuistossa Yhdysvalloissa",
+        "255": "Nevada ja Illilouette\u00a0Falls Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "A351_C001_1213SK": {
+        "130": "Arabian\u00a0niemimaan yll\u00e4, kuljetaan kohti Irania",
+        "400": "Kuljetaan kohti pohjoista Kazakstanin yll\u00e4",
+        "265": "Kuljetaan kohti Turkmenistania ja Garagumin aavikkoa",
+        "0": "Kuljetaan kohti koillista Etiopian yl\u00e4ng\u00f6n yll\u00e4",
+        "100": "Kuljetaan kohti koillista Arabian\u00a0niemimaan yll\u00e4",
+        "322": "Pamir-Alay-vuoristo ja Ferganan\u00a0laakso Keski-Aasiassa",
+        "240": "Ison\u00a0Hiekka-aavikon yll\u00e4 Iranissa",
+        "210": "Zagrosvuorten yll\u00e4 Iranissa",
+        "305": "Amudarjajoki ja Pamir-Alay-vuoristo Keski-Aasiassa",
+        "450": "Altai-vuoriston yll\u00e4, kuljetaan kohti Mongoliaa",
+        "360": "Kuljetaan Kirgisiasta kohti Kaakkois-Kazakstania",
+        "45": "Kuljetaan Punaisenmeren yll\u00e4 Arabian\u00a0niemimaalle",
+        "190": "L\u00e4hestyt\u00e4\u00e4n Iranin rannikkoa, takana n\u00e4kyy Zagrosvuoret",
+        "165": "Arabian\u00a0niemimaan yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Irania"
+    },
+    "A114_C001_0305OT": {
+        "20": "Kuljetaan etel\u00e4\u00e4 kohti Kalifornian rannikolla",
+        "50": "L\u00e4ntisen Kalifornian yll\u00e4, kuljetaan kohti Meksikoa",
+        "130": "L\u00e4ntisten Sierra\u00a0Madre -vuorten yll\u00e4 Meksikon l\u00e4nsirannikolla",
+        "65": "L\u00e4hestyt\u00e4\u00e4n Mojaven\u00a0aavikkoa etel\u00e4isess\u00e4 Kaliforniassa, takana n\u00e4kyy Meksiko",
+        "225": "Katsotaan etel\u00e4\u00e4n kohti Tyynt\u00e4merta Sierra\u00a0Madre del Surin yli Meksikossa",
+        "185": "Kuljetaan kohti Meksikon l\u00e4nsirannikkoa l\u00e4ntisten Sierra\u00a0Madre -vuorten yll\u00e4",
+        "290": "Tyynimeri Meksikon ja Guatemalan edustalla",
+        "280": "Tyynimeri Meksikon edustalla",
+        "95": "Kalifornian lahti Sonoran\u00a0aavikon ja Baja\u00a0Californian niemimaan v\u00e4liss\u00e4"
+    },
+    "H007_C003": {
+        "0": "Lennet\u00e4\u00e4n Laup\u0101hoehoe\u00a0Nuin yli Kohala\u00a0Forest Reservess\u00e4 Havaijilla"
+    },
+    "S005_C015": {
+        "0": "Loch Moidartin yll\u00e4 Skotlannin l\u00e4nsirannikolla",
+        "252": "L\u00e4hestyt\u00e4\u00e4n Hebridien merta Skotlannissa"
+    },
+    "L007_C007": {
+        "299": "Ylitet\u00e4\u00e4n Thames-joki Lontoossa",
+        "279": "Kuljetaan The\u00a0Shardin ohi Etel\u00e4-Lontoossa",
+        "104": "Ylitet\u00e4\u00e4n Thames-joki ja kuljetaan London\u00a0Eyen yli",
+        "149": "Kuljetaan Etel\u00e4-Lontoon ohi",
+        "0": "Kuljetaan Buckinghamin\u00a0palatsin yli Lontoossa",
+        "49": "Kuljetaan St\u00a0James\u2019s Parkin yll\u00e4 kohti Thames-jokea Lontoossa",
+        "324": "Ylitet\u00e4\u00e4n Thames-joki Tower\u00a0Bridgen kohdalla Lontoossa",
+        "24": "Buckinghamin\u00a0palatsin yll\u00e4 Lontoossa"
+    },
+    "GMT306_139NC_139J_3066": {
+        "120": "Yhdysvaltojen it\u00e4osissa, l\u00e4hestyt\u00e4\u00e4n Salt\u00a0Lake\u00a0City\u00e4",
+        "110": "Las\u00a0Vegasin yll\u00e4, kuljetaan kohti Salt\u00a0Lake\u00a0City\u00e4",
+        "70": "Kalifornian rannikon yll\u00e4, kuljetaan kohti sis\u00e4maata",
+        "95": "Los\u00a0Angelesin yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Las\u00a0Vegasia",
+        "85": "Kuljetaan Los\u00a0Angelesin yli Yhdysvaltojen l\u00e4nsirannikolla",
+        "170": "Kalliovuorten yll\u00e4 Yhdysvalloissa",
+        "0": "Tyynenmeren yll\u00e4, kuljetaan kohti Kalifornian rannikkoa",
+        "155": "Kuljetaan Salt\u00a0Lake\u00a0Cityn ja Denverin v\u00e4liss\u00e4 Yhdysvalloissa"
+    },
+    "A013_C004": {
+        "0": "San\u00a0Franciscon lahden yll\u00e4, kuljetaan kohti Embarcaderoa",
+        "90": "Embarcaderon yll\u00e4, katse kohti Market\u00a0Streeti\u00e4 San\u00a0Franciscossa",
+        "360": "Seurataan Market\u00a0Streeti\u00e4 San\u00a0Franciscon l\u00e4pi",
+        "150": "Seurataan Market\u00a0Streeti\u00e4 San\u00a0Franciscon keskustan l\u00e4pi"
+    },
+    "GL_G004_C010": {
+        "0": "Kuljetaan Nuussuaq-niemell\u00e4 Gr\u00f6nlannissa"
+    },
+    "A009_C001_10181A": {
+        "30": "Ylitet\u00e4\u00e4n Sahara",
+        "210": "Tunisian rannikon yll\u00e4, kuljetaan kohti Italiaa",
+        "230": "L\u00e4hestyt\u00e4\u00e4n Italiaa V\u00e4limerell\u00e4",
+        "245": "Italian yll\u00e4, kuljetaan kohti Balkanin\u00a0niemimaata",
+        "155": "It\u00e4isen\u00a0Iso\u00a0Ergin yll\u00e4 Pohjois-Afrikassa, kuljetaan kohti V\u00e4limerta",
+        "110": "Kuljetaan Ahaggar-vuorten yli Saharassa",
+        "310": "Karpaatit ja Mustameri",
+        "195": "Tunisian rannikko ja V\u00e4limeri",
+        "0": "L\u00e4ntisen Afrikan yll\u00e4, kuljetaan kohti Saharaa",
+        "285": "Balkanin\u00a0niemimaan yll\u00e4, kuljetaan kohti Karpaatteja"
+    },
+    "H012_C009": {
+        "0": "Seurataan Kohalan rantaviivaa Havaijilla"
+    },
+    "TH_804_A001_8": {
+        "0": "Aallot murtuvat Tahitin rannoille"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "40": "Balkanin\u00a0niemimaan yll\u00e4, kuljetaan Mustanmeren ohi",
+        "5": "V\u00e4limeren yll\u00e4, katse kohti Sisiliaa ja Italian\u00a0niemimaata",
+        "25": "Balkanin\u00a0niemimaan yll\u00e4, kuljetaan kohti Keski-Aasiaa",
+        "55": "Ukrainan yll\u00e4, takana n\u00e4kyy Ven\u00e4j\u00e4",
+        "0": "Tunisian yll\u00e4, kuljetaan kohti Italiaa",
+        "15": "Etel\u00e4-Italian yll\u00e4, takana n\u00e4kyy Balkanin\u00a0niemimaa",
+        "75": "Lounais-Ven\u00e4j\u00e4n yll\u00e4, kuljetaan Kazakstanin ohi"
+    },
+    "U009_C004": {
+        "0": "Harmaariuttahait uivat l\u00e4hell\u00e4 Ranskan\u00a0Polynesiaa"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "10": "Keski-Kiinan yll\u00e4, kuljetaan kohti Shanghaita",
+        "0": "Keski-Aasian yll\u00e4, kuljetaan kohti Kiinan rannikkoa",
+        "30": "Kuljetaan It\u00e4-Kiinan yli l\u00e4hestyen Shanghaita",
+        "45": "L\u00e4hestyt\u00e4\u00e4n Shanghaita, kuljetaan kohti It\u00e4-Kiinan\u00a0merta",
+        "50": "Shanghain yll\u00e4, kuljetaan kohti It\u00e4-Kiinan\u00a0merta"
+    },
+    "GL_G010_C006": {
+        "0": "Ilulissat-vuono Gr\u00f6nlannin rannikolla"
+    },
+    "LA_A011_C003": {
+        "0": "Ylitet\u00e4\u00e4n Los\u00a0Angelesin keskusta"
+    },
+    "GMT312_162NC_139M_1041": {
+        "120": "Kuljetaan V\u00e4limeren yll\u00e4 kohti Italiaa",
+        "230": "Kuljetaan Ukrainan yll\u00e4 kohti Ven\u00e4j\u00e4\u00e4",
+        "165": "Balkanin\u00a0niemimaan yll\u00e4, kuljetaan kohti Mustaamerta",
+        "140": "Etel\u00e4-Italian yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Balkanin\u00a0niemimaata ja kaukaisuudessa n\u00e4kyy Turkki",
+        "0": "Kuljetaan kohti koillista Saharan yll\u00e4 y\u00f6ll\u00e4",
+        "70": "It\u00e4isen\u00a0Iso\u00a0Ergin yll\u00e4, kuljetaan kohti V\u00e4limerta",
+        "180": "Balkanin\u00a0niemimaan yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Mustaamerta",
+        "210": "Kuljetaan Mustanmeren yli kohti Ukrainaa",
+        "100": "V\u00e4limeren rannikko Tunisiassa ja Libyassa"
+    },
+    "A013_C005": {
+        "190": "Ylitet\u00e4\u00e4n Golden\u00a0Gate -silta matkalla kohti Marin\u00a0Headlandsia",
+        "0": "Kuljetaan Presidio of San\u00a0Franciscoa pitkin kohti Golden\u00a0Gate -siltaa"
+    },
+    "GMT314_139M_170NC": {
+        "300": "Kuljetaan kohti Pohjois-Atlanttia, revontulia Labradorin yll\u00e4 Kanadassa",
+        "45": "Baja\u00a0Californian yll\u00e4, katsotaan pohjoiseen kohti Yhdysvaltoja",
+        "125": "Kuljetaan Yhdysvaltojen Suurten\u00a0tasankojen yli",
+        "200": "Suurten\u00a0j\u00e4rvien yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Kanadan Ontariota",
+        "235": "Revontulia Pohjois-Ontarion yll\u00e4 Kanadassa",
+        "185": "L\u00e4hestyt\u00e4\u00e4n Suuria\u00a0j\u00e4rvi\u00e4, takana n\u00e4kyy Kanadan Ontario",
+        "250": "Revontulia Pohjois-Quebecin yll\u00e4 Kanadassa",
+        "0": "Tyynenmeren yll\u00e4, kuljetaan kohti Baja\u00a0Californiaa",
+        "110": "Kalliovuorten yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Denveri\u00e4",
+        "210": "Revontulia L\u00e4nsi-Ontarion yll\u00e4 Kanadassa",
+        "55": "Meksikon yll\u00e4, kuljetaan kohti Yhdysvaltojen lounaisosia",
+        "75": "Yhdysvaltojen lounaisosien yll\u00e4"
+    },
+    "A108_C001_0215V8": {
+        "35": "Tyynenmeren rannikkoa Nicaraguassa, Costa\u00a0Ricassa ja Panamassa",
+        "65": "Nicaraguan Moskiittorannikko",
+        "50": "Kuljetaan Keski-Amerikan yli, kaukaisuudessa n\u00e4kyy Etel\u00e4-Amerikka",
+        "110": "Kuljetaan pilvien peitt\u00e4m\u00e4n Jamaikan ohi Karibianmerell\u00e4",
+        "170": "Kuljetaan Bahaman yli, katse kohti Haitia ja Dominikaanista\u00a0tasavaltaa",
+        "125": "Ylitet\u00e4\u00e4n Kuuba, katse kohti Haitia ja Dominikaanista\u00a0tasavaltaa",
+        "85": "Karibianmeren yll\u00e4, kuljetaan kohti Kuubaa",
+        "190": "Turks- ja Caicossaaret Atlantilla"
+    },
+    "A015_C018": {
+        "80": "Ylitet\u00e4\u00e4n Bay\u00a0Bridge matkalla kohti San\u00a0Franciscon keskustaa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Bay\u00a0Bridge\u00e4 ja San\u00a0Franciscon keskustaa",
+        "116": "San\u00a0Franciscon lahden yll\u00e4, kuljetaan kohti keskustaa"
+    },
+    "GMT307_136NC_134K_8277": {
+        "190": "Kuljetaan New\u00a0Orleansin ja Yhdysvaltojen Gulf\u00a0Coastin yll\u00e4",
+        "180": "Kuljetaan Houstonin ohi ja l\u00e4hestyt\u00e4\u00e4n New\u00a0Orleansia",
+        "0": "Tyynenmeren yll\u00e4, kuljetaan kohti Meksikoa",
+        "320": "Yhdysvaltojen it\u00e4osissa, l\u00e4hestyt\u00e4\u00e4n New\u00a0York\u00a0City\u00e4",
+        "105": "Kuljetaan M\u00e9xicon yli kohti Meksikonlahtea",
+        "215": "Kuljetaan Yhdysvaltojen kaakkoisosien yll\u00e4",
+        "280": "Yhdysvaltojen it\u00e4osissa, kuljetaan kohti New\u00a0Yorkia",
+        "122": "Lennet\u00e4\u00e4n Meksikonlahden yli kohti Yhdysvaltoja"
+    },
+    "A105_C002_021206_002": {
+        "300": "Floridan ja Bahaman yll\u00e4, kuljetaan kohti Sargassomerta",
+        "350": "Sargassomeren yll\u00e4, kuljetaan kohti Atlanttia",
+        "100": "Ylitet\u00e4\u00e4n Keski-Amerikka matkalla kohti Karibianmerta",
+        "70": "Keski-Amerikan lounaisrannikko, kuljetaan kohti Karibianmerta",
+        "240": "Kuuban yll\u00e4, takana n\u00e4kyy Florida ja Bahama",
+        "150": "Karibianmeren yll\u00e4, kuljetaan kohti Kuubaa"
+    },
+    "I001_C014": {
+        "0": "Kuljetaan J\u00f6kulgilskv\u00edsl-jokea pitkin Landmannalaugarin l\u00e4hell\u00e4 Islannissa"
+    },
+    "D004_L014": {
+        "0": "Ryh\u00e4valas l\u00e4hell\u00e4 Ranskan\u00a0Polynesiaa"
+    },
+    "A103_C002205DG": {
+        "0": "Afrikan sarven yll\u00e4, kuljetaan kohti Adeninlahtea"
+    },
+    "G007_C004": {
+        "0": "Seurataan Colorado-jokea Grand\u00a0Canyonin l\u00e4pi Yhdysvalloissa"
+    },
+    "DB_D001_C005": {
+        "0": "Lennet\u00e4\u00e4n Dubai\u00a0Marinaa pitkin Arabiemiirikunnissa"
+    },
+    "A006_C003": {
+        "0": "San\u00a0Franciscon lahti ja Golden\u00a0Gate -silta",
+        "191": "San Franciscon lahden yll\u00e4",
+        "140": "Kuljetaan Golden\u00a0Gate -sillan pohjoisen tornin ohi kohti San\u00a0Franciscoa"
+    },
+    "A012_C004": {
+        "150": "Ylitet\u00e4\u00e4n Golden\u00a0Gate -silta matkalla kohti Presidio of San\u00a0Franciscoa",
+        "0": "Marin\u00a0Headlandsin yll\u00e4, katse kohti Golden\u00a0Gate -siltaa"
+    },
+    "HK_H004_C013": {
+        "270": "Hongkongin saaren yll\u00e4",
+        "150": "Hongkongin keskustan yll\u00e4",
+        "0": "Wan\u00a0Chain yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Hongkongin\u00a0keskustaa"
+    },
+    "LA_A008_C004": {
+        "430": "Santa\u00a0Monica State Beachin yll\u00e4 Los\u00a0Angelesissa",
+        "365": "Kuljetaan Santa\u00a0Monica Pierin yli Los\u00a0Angelesin l\u00e4hell\u00e4",
+        "0": "Santa\u00a0Monica State Beachin yll\u00e4 Los\u00a0Angelesissa"
+    },
+    "N008_C009": {
+        "246": "Midtown\u00a0Manhattanin yll\u00e4 New\u00a0Yorkissa",
+        "0": "Central\u00a0Parkin yll\u00e4, kuljetaan kohti Midtown\u00a0Manhattania New\u00a0Yorkissa"
+    },
+    "Y002_C013_0226": {
+        "70": "L\u00e4hestyt\u00e4\u00e4n Half\u00a0Domea Yosemiten kansallispuistossa Yhdysvalloissa",
+        "87": "Half\u00a0Dome Yosemiten kansallispuistossa Yhdysvalloissa",
+        "210": "Yosemiten kansallispuiston yll\u00e4 Yhdysvalloissa"
+    },
+    "GMT308_139K_142NC": {
+        "220": "Floridan yll\u00e4, kuljetaan kohti Bahamaa",
+        "300": "Dominikaanisen\u00a0tasavallan ja Haitin yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Karibianmerta",
+        "90": "Kuljetaan kohti kaakkoa Yhdysvaltojen Keskil\u00e4nnen yll\u00e4",
+        "0": "Kuljetaan kohti kaakkoa Yhdysvaltojen Suurten\u00a0tasankojen yll\u00e4",
+        "285": "Bahaman yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Haitia ja Dominikaanista\u00a0tasavaltaa",
+        "315": "Karibianmeren yll\u00e4, kuljetaan etel\u00e4\u00e4n kohti Venezuelaa",
+        "240": "Kuljetaan kohti kaakkoa Bahaman yll\u00e4",
+        "120": "Yhdysvaltojen kaakkoisosien yll\u00e4, kuljetaan kohti Floridaa"
+    },
+    "A012_C014": {
+        "208": "Seurataan Market\u00a0Streeti\u00e4 San\u00a0Franciscon l\u00e4pi",
+        "0": "San\u00a0Franciscon lahden yll\u00e4, kuljetaan kohti Embarcaderoa"
+    },
+    "A001_C004_1207W5": {
+        "165": "Kuljetaan kohti koillista Baleaarien yll\u00e4",
+        "125": "V\u00e4limeri ja Etel\u00e4-Espanja",
+        "45": "Kuljetaan kohti koillista Marokon rannikkoa pitkin",
+        "105": "Marokon yll\u00e4, l\u00e4hestyt\u00e4\u00e4n V\u00e4limerta",
+        "75": "Kuljetaan Atlasvuorten yli Marokossa",
+        "220": "Kuljetaan kohti koillista Alppien yll\u00e4",
+        "0": "Kanariansaaret, Atlantti ja Afrikan rannikko",
+        "185": "L\u00e4ntisen V\u00e4limeren yll\u00e4, Alpit n\u00e4kyv\u00e4t takana",
+        "145": "Kuljetaan kohti koillista Costa\u00a0Blancan yll\u00e4"
+    },
+    "A018_C014": {
+        "10": "Transamerica\u00a0Pyramid San\u00a0Franciscon keskustassa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n San\u00a0Franciscon keskustaa, kaukaisuudessa n\u00e4kyy Sutro\u00a0Tower",
+        "40": "San\u00a0Franciscon keskusta, kaukaisuudessa n\u00e4kyy Sutro\u00a0Tower"
+    },
+    "A103_C002_0205DG": {
+        "145": "Makranin\u00a0rannikko Iranissa ja Pakistanissa",
+        "280": "Takla\u00a0Makanin\u00a0aavikko L\u00e4nsi-Kiinassa",
+        "235": "Karakoramin yll\u00e4, kuljetaan kohti Kiinaa",
+        "315": "Tien\u0161an-vuoristo Keski-Aasiassa",
+        "160": "Iranin yll\u00e4, kuljetaan kohti Afganistania ja Pakistania",
+        "45": "Arabian\u00a0niemimaan kaakkoisosa",
+        "115": "Omaninlahti, l\u00e4hestyt\u00e4\u00e4n Makranin\u00a0rannikkoa",
+        "180": "Afganistanin ja Pakistanin yll\u00e4, kuljetaan kohti Karakorumia"
+    },
+    "DB_D011_C010": {
+        "330": "L\u00e4hestyt\u00e4\u00e4n rantaa Dubain\u00a0keskustan yll\u00e4",
+        "280": "Kuljetaan Burj\u00a0Khalifan ohi Dubain keskustassa Arabiemiirikunnissa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Burj\u00a0Khalifaa Dubain keskustassa Arabiemiirikunnissa"
+    },
+    "I003_C005": {
+        "0": "Lennet\u00e4\u00e4n Langisj\u00f3rin ja F\u00f6grufj\u00f6llin yli Islannissa"
+    },
+    "N006_C003": {
+        "0": "L\u00e4hestyt\u00e4\u00e4n Lower\u00a0Manhattania New\u00a0Yorkissa",
+        "40": "Lower\u00a0Manhattanin yll\u00e4 New\u00a0Yorkissa",
+        "140": "Lower\u00a0Manhattanin yll\u00e4 New\u00a0Yorkissa, kuljetaan kohti Midtownia"
+    },
+    "DB_D002_C003": {
+        "0": "L\u00e4hestyt\u00e4\u00e4n Dubain keskustaa Arabiemiirikunnissa",
+        "210": "Kuljetaan Dubain keskustan ohi Arabiemiirikunnissa"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "L004_C011": {
+        "325": "Kuljetaan Westminsterin palatsin ohi Thames-joella Lontoossa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Tower\u00a0Bridge\u00e4 Thames-joella Lontoossa",
+        "20": "Seurataan Thames-jokea Lontoossa",
+        "310": "Seurataan Thames-jokea London\u00a0Eyen ohi",
+        "130": "Seurataan Thames-jokea kohti London\u00a0Eyeta",
+        "210": "L\u00e4hestyt\u00e4\u00e4n London\u00a0Eyeta Thames-joella"
+    },
+    "L010_C006": {
+        "178": "Thames-joen etel\u00e4puolella Lontoossa",
+        "78": "Seurataan Thames-jokea Lontoossa",
+        "258": "Ylitet\u00e4\u00e4n Thames-joki Lontoossa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Tower\u00a0Bridge\u00e4 Thames-joella Lontoossa"
+    },
+    "A015_C014": {
+        "0": "San\u00a0Franciscon lahden yll\u00e4, kuljetaan kohti Embarcaderoa",
+        "210": "Seurataan Market\u00a0Streeti\u00e4 San\u00a0Franciscon keskustan l\u00e4pi"
+    },
+    "Y003_C009": {
+        "130": "Merced\u00a0Peak Yosemiten kansallispuistossa Yhdysvalloissa",
+        "221": "Ohitetaan Merced\u00a0Peak Yosemiten kansallispuistossa Yhdysvalloissa",
+        "0": "Yosemiten kansallispuiston yll\u00e4 Yhdysvalloissa",
+        "244": "Kuljetaan Yosemiten kansallispuiston yli Yhdysvalloissa",
+        "93": "Kuljetaan kohti Merced\u00a0Peakia Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "N008_C003": {
+        "0": "L\u00e4hestyt\u00e4\u00e4n Lower\u00a0Manhattania New\u00a0Yorkin sataman suunnalta",
+        "110": "Kuljetaan Lower\u00a0Manhattania pitkin matkalla kohti One World\u00a0Trade\u00a0Centeri\u00e4",
+        "180": "Kuljetaan One World\u00a0Trade\u00a0Centerin ohi kohti Midtown\u00a0Manhattania",
+        "210": "Lower\u00a0Manhattanin yll\u00e4 New\u00a0Yorkissa, kuljetaan kohti Midtownia"
+    },
+    "A004_C012": {
+        "0": "Korvameduusoja Alaskan rannikolla Yhdysvalloissa",
+        "100": "San\u00a0Franciscon keskusta, Coit\u00a0Tower etualalla"
+    },
+    "Y011_C001": {
+        "44": "Kuljetaan it\u00e4\u00e4n kohti El\u00a0Capitania Yosemiten kansallispuistossa Yhdysvalloissa",
+        "585": "Kuljetaan it\u00e4\u00e4n Yosemite-laakson yli Yhdysvalloissa",
+        "470": "Kuljetaan Half\u00a0Domen ohi Yosemite-laaksossa Yhdysvalloissa",
+        "87": "Ohitetaan El\u00a0Capitan Yosemiten kansallispuistossa Yhdysvalloissa",
+        "120": "Kuljetaan it\u00e4\u00e4n kohti Half\u00a0Domea Yosemiten kansallispuistossa Yhdysvalloissa",
+        "390": "Half\u00a0Dome Yosemiten kansallispuistossa Yhdysvalloissa",
+        "0": "Kuljetaan kohti Bridalveil\u00a0Fallia ja El\u00a0Capitania Yosemiten kansallispuistossa"
+    },
+    "A001_C007": {
+        "348": "Kultameduusoja Palaun vesill\u00e4",
+        "0": "Kultameduusoja Palaun vesill\u00e4",
+        "282": "Kultameduusoja ja kuumeduusa niiden keskell\u00e4"
+    },
+    "A007_C017": {
+        "196": "San Franciscon keskusta",
+        "150": "Kuljetaan Coit\u00a0Towerin ohi kohti San\u00a0Franciscon keskustaa ja Bay\u00a0Bridge\u00e4",
+        "80": "L\u00e4hestyt\u00e4\u00e4n Coit\u00a0Toweria, taustalla San\u00a0Franciscon keskusta ja Bay\u00a0Bridge",
+        "0": "Fisherman\u2019s\u00a0Wharfin yll\u00e4, kuljetaan kohti San\u00a0Franciscon keskustaa"
+    },
+    "A016_C009": {
+        "0": "Afrikanmerikarhuja Cape\u00a0Peninsulan rannikolla Etel\u00e4-Afrikassa"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart Skotlannin l\u00e4nsirannikolla",
+        "181": "Castle Tioram Skotlannin l\u00e4nsirannikolla",
+        "214": "Kuljetaan Skotlannin l\u00e4nsirannikon yli",
+        "139": "L\u00e4hestyt\u00e4\u00e4n Castle Tioramia Skotlannin l\u00e4nsirannikolla"
+    },
+    "H010_C006": {
+        "300": "Honop\u016b\u00a0Valley Kohala\u00a0Forest Reservess\u00e4 Havaijilla",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Honop\u016b\u00a0Valleya Kohala\u00a0Forest Reservess\u00e4 Havaijilla"
+    },
+    "A012_C031": {
+        "0": "Sarvimerit\u00e4hti\u00e4 meren- pohjassa l\u00e4hell\u00e4 Borneota"
+    },
+    "L012_C002": {
+        "92": "Kuljetaan Thames-joen etel\u00e4puolella kohti London\u00a0Eyeta",
+        "20": "Ylitet\u00e4\u00e4n Thames-joki Lontoossa",
+        "270": "Westminsterin yll\u00e4 Lontoossa",
+        "60": "Kuljetaan The\u00a0Shardin ohi Etel\u00e4-Lontoossa",
+        "0": "L\u00e4hestyt\u00e4\u00e4n Tower\u00a0Bridge\u00e4 Thames-joella Lontoossa",
+        "200": "Ylitet\u00e4\u00e4n Thames-joki matkalla kohti Westminsteri\u00e4 Lontoossa"
+    },
+    "A083_C002_1130KZ": {
+        "0": "Aurinko heijastuu Iranin rannikkoa pitkin",
+        "60": "Siirryt\u00e4\u00e4n p\u00e4iv\u00e4st\u00e4 y\u00f6h\u00f6n Keski-Aasian yll\u00e4",
+        "15": "Siirryt\u00e4\u00e4n p\u00e4iv\u00e4st\u00e4 y\u00f6h\u00f6n Iranin yll\u00e4"
+    },
+    "S009_C007": {
+        "0": "Kuljetaan Isle of Skyen yli Skotlannissa",
+        "135": "Old Man of Storr Skotlannissa Isle of Skyella",
+        "173": "Kuljetaan Isle of Skyen yli Skotlannissa"
+    },
+    "G010_C026107KE": {
+        "0": "Kuljetaan Colorado-joen rinnalla Grand\u00a0Canyonissa Yhdysvalloissa"
+    },
+    "A105_C003_0212CT": {
+        "170": "Poistutaan Uudesta-Seelannista, kuljetaan kohti koillista Tyynenmeren yll\u00e4",
+        "70": "Siirryt\u00e4\u00e4n y\u00f6st\u00e4 p\u00e4iv\u00e4\u00e4n Uuden-Seelannin yl\u00e4puolella",
+        "110": "L\u00e4hestyt\u00e4\u00e4n auringonnousua Uuden-Seelannin yll\u00e4"
+    },
+    "A050_C004_1027V8": {
+        "20": "Kuljetaan kohti kaakkoa Alppien ja Pojoen laakson yll\u00e4",
+        "220": "Arabian aavikko Niilin ja Suezinlahden v\u00e4liss\u00e4",
+        "0": "Kuljetaan L\u00e4nsi-Euroopan yli, kaukaisuudessa n\u00e4kyy Iso-Britannia ja Irlanti",
+        "240": "Kuljetaan kohti kaakkoa Punaisenmeren yll\u00e4",
+        "205": "Niili virtaa Saharan l\u00e4pi Egyptiss\u00e4",
+        "185": "V\u00e4limeri ja Niilin\u00a0suisto",
+        "160": "Kuljetaan kohti kaakkoa V\u00e4limeren yll\u00e4",
+        "50": "Kuljetaan Italian\u00a0niemimaata ja Adrianmerta alasp\u00e4in",
+        "100": "Kreikka Joonianmeren ja Egeanmeren v\u00e4liss\u00e4"
+    },
+    "GMT060_117NC_363D": {
+        "220": "Australian\u00a0Pohjoisterritorion yll\u00e4, kuljetaan kohti Uutta-Guineaa",
+        "335": "Arafuranmeren yll\u00e4, kuljetaan kohti Uutta-Guineaa",
+        "0": "Intian\u00a0valtameren yll\u00e4, kuljetaan kohti Australian Perthi\u00e4",
+        "50": "Kuljetaan kohti koillista L\u00e4nsi-Australian halki",
+        "170": "L\u00e4nsi-Australian yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Pohjoisterritoriota"
+    },
+    "GMT329_117NC_401C_1037": {
+        "45": "Iso-Britannian yll\u00e4, kuljetaan kohti manner-Eurooppaa",
+        "165": "It\u00e4-Euroopan yll\u00e4, katse kohti Moskovaa",
+        "195": "Ven\u00e4j\u00e4n yll\u00e4, kuljetaan kohti Keski-Aasiaa",
+        "185": "L\u00e4ntisen Ven\u00e4j\u00e4n yll\u00e4, kuljetaan Moskovan ohi",
+        "105": "Keski-Euroopan yll\u00e4, kuljetaan kohti Ven\u00e4j\u00e4\u00e4",
+        "65": "Luoteis-Euroopan yll\u00e4, kuljetaan kohti Ven\u00e4j\u00e4\u00e4",
+        "15": "Irlanti ja Iso-Britannia",
+        "0": "Pohjois-Atlantin yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Irlantia ja Isoa-Britanniaa",
+        "150": "It\u00e4-Euroopan yll\u00e4, kaukaisuudessa n\u00e4kyy Moskova"
+    },
+    "P001_C005_11059D": {
+        "0": "Liikutaan Cuernos del Painen yll\u00e4 Torres del Painen kansallispuistossa Chiless\u00e4"
+    },
+    "Y009_C015304I": {
+        "0": "Kuljetaan Tuolumne\u00a0Meadowsin yli Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "C003_C003": {
+        "0": "Mutianyu-osa Kiinan\u00a0muurista Huairoun\u00a0maakunnassa Kiinassa"
+    },
+    "CH_C002_C005": {
+        "0": "Kuljetaan Longjin riisipeltojen ohi Guangxissa Kiinassa"
+    },
+    "G009_C014106B9": {
+        "0": "Kuljetaan Grand\u00a0Canyonin l\u00e4pi Yhdysvalloissa"
+    },
+    "A108_C001215V8": {
+        "0": "Kuljetaan Tyynenmeren yll\u00e4 kohti Keski-Amerikkaa"
+    },
+    "Y002_C013226": {
+        "0": "Yosemiten kansallispuiston yll\u00e4 Yhdysvalloissa"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "32": "Mongolian yll\u00e4, kuljetaan kohti Kiinaa",
+        "195": "Japanin yll\u00e4, katse kohti Tyynt\u00e4merta",
+        "0": "Kuljetaan kohti kaakkoa Siperian ja Mongolian yll\u00e4",
+        "60": "Pohjois-Kiinan yll\u00e4, kuljetaan kohti Korean\u00a0niemimaata",
+        "260": "Tyynenmeren yll\u00e4 Japanin kaakkoispuolella",
+        "22": "Kuljetaan kohti Sis\u00e4-Mongoliaa",
+        "110": "Kiinan yll\u00e4, kuljetaan kohti Korean\u00a0niemimaata",
+        "180": "Etel\u00e4-Korean yll\u00e4, kuljetaan kohti Japania",
+        "150": "Korean\u00a0niemimaa, kaukaisuudessa n\u00e4kyy Japani"
+    },
+    "N003_C006": {
+        "160": "L\u00e4hestyt\u00e4\u00e4n Empire\u00a0State Buildingi\u00e4 New Yorkissa",
+        "205": "Kuljetaan Empire\u00a0State Buildingin ohi kohti Lower\u00a0Manhattania",
+        "50": "Midtown\u00a0Manhattanin yll\u00e4, kuljetaan kohti Empire\u00a0State Buildingia",
+        "0": "Upper East Siden ja Central\u00a0Parkin yll\u00e4 New\u00a0Yorkissa"
+    },
+    "A001_C001_120530": {
+        "115": "Portugalin ja Espanjan yll\u00e4",
+        "0": "Pohjois-Atlantin yll\u00e4, kuljetaan kohti Portugalia",
+        "180": "L\u00e4nsi-Euroopan yll\u00e4, kaukaisuudessa n\u00e4kyy Pohjois-Atlantti",
+        "150": "Kuljetaan poisp\u00e4in Iberian\u00a0niemimaalta ja kuljetaan Biskajanlahden ja Ranskan yli"
+    },
+    "CH_C007_C011": {
+        "0": "Kuljetaan Wulingyuanin kansallispuiston l\u00e4pi Kiinassa"
+    },
+    "Y011_C008": {
+        "75": "Lennet\u00e4\u00e4n Matthes\u00a0Crestin yli Yosemiten kansallispuistossa Yhdysvalloissa",
+        "0": "Kuljetaan kohti Matthes\u00a0Cresti\u00e4 Yosemiten kansallispuistossa Yhdysvalloissa",
+        "215": "Lennet\u00e4\u00e4n Matthes\u00a0Crestin yli Yosemiten kansallispuistossa Yhdysvalloissa",
+        "396": "Kuljetaan kohti Tuolumne\u00a0Meadowsia Yosemiten kansallispuistossa Yhdysvalloissa",
+        "124": "Lennet\u00e4\u00e4n l\u00e4pi Matthes\u00a0Crestin Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "A006_C008": {
+        "0": "Kotkarauskuja Meksikon rannikolla"
+    },
+    "P005_C002_1109E1": {
+        "0": "Kuljetaan Lago Nordenskj\u00f6ldin\u00a0rinnalla Torres del Painen kansallispuistossa Chiless\u00e4"
+    },
+    "I003_C004": {
+        "0": "Lennet\u00e4\u00e4n Langisj\u00f3rin yli Islannissa"
+    },
+    "HK_H004_C010": {
+        "150": "Lennet\u00e4\u00e4n Hongkongin yli kohti Victoria\u00a0Harbouria",
+        "330": "Victoria\u00a0Harbourin yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Kowloonin\u00a0niemimaata",
+        "0": "Lennet\u00e4\u00e4n Victoria\u00a0Peakin yli Hongkongissa"
+    },
+    "A114_C001305OT": {
+        "0": "Tyynenmeren yll\u00e4, kuljetaan kohti Yhdysvaltoja"
+    },
+    "S003_C020": {
+        "0": "Kuljetaan Isle of Skyen rannikkoa pitkin Skotlannissa",
+        "372": "Isle of Skye, Scotlanti",
+        "338": "Neist Point -majakka, Isle of Skye, Skotlanti"
+    },
+    "I003_C011": {
+        "308": "Kuljetaan Islannin yl\u00e4nk\u00f6jen yli",
+        "0": "Seurataan J\u00f6kulgilskv\u00edsl-jokea Landmannalaugarissa Islannissa"
+    },
+    "H005_C012": {
+        "0": "Waimanu\u00a0Valley Kohala\u00a0Forest Reservess\u00e4 Havaijilla"
+    },
+    "G008_C015106MB": {
+        "0": "Lennet\u00e4\u00e4n Burnt\u00a0Canyonin alueen yli Grand\u00a0Canyonissa Yhdysvalloissa"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Ohitetaan Half\u00a0Dome ja l\u00e4hestyt\u00e4\u00e4n Nevada\u00a0Fallia Yosemiten kansallispuistossa",
+        "146": "Half\u00a0Dome ja Nevada\u00a0Fall Yosemiten kansallispuistossa Yhdysvalloissa"
+    },
+    "A014_C023": {
+        "0": "Lauma isosilm\u00e4makrilleja Borneon rannikolla"
+    },
+    "A010_C002": {
+        "0": "Liu'utaan lev\u00e4viidakon l\u00e4pi l\u00e4hell\u00e4 Cape\u00a0Peninsulaa Etel\u00e4-Afrikassa"
+    },
+    "DB_D008_C010": {
+        "0": "Kuljetaan pitkin Sheikh\u00a0Zayed Roadia Dubaissa Arabiemiirikunnissa"
+    },
+    "LW_L001_C006": {
+        "0": "Lennet\u00e4\u00e4n Liwan\u00a0keitaan yli Arabiemiirikunnissa"
+    },
+    "A018_C029": {
+        "0": "Lauma Chevron-barrakudia Borneon l\u00e4hivesill\u00e4"
+    },
+    "C004_C003": {
+        "0": "Mutianyu-osa Kiinan\u00a0muurista Huairoun\u00a0maakunnassa Kiinassa"
+    },
+    "A010_C007": {
+        "0": "Kultameduusoja Palaun vesill\u00e4"
+    },
+    "A014_C008": {
+        "0": "Kyhmypapukaijakaloja koralli- riuttojen yll\u00e4 Borneolla"
+    },
+    "TH_803_A001_8": {
+        "0": "Aallot murtuvat Tahitin rannoille"
+    },
+    "LW_L001_C003": {
+        "0": "Lennet\u00e4\u00e4n Liwan\u00a0keitaan yli Arabiemiirikunnissa"
+    },
+    "HK_H004_C008": {
+        "0": "Victoria\u00a0Harbourin yll\u00e4, katse kohti Hongkongin saarta"
+    },
+    "S004_C019": {
+        "0": "Kuljetaan Isle of Skyen Cuillin Hillsin yli Skotlannissa."
+    },
+    "LA_A009_C009": {
+        "0": "Griffith\u00a0Observatory ja Hollywood\u00a0Hills Los\u00a0Angelesissa"
+    },
+    "A009_C007": {
+        "0": "Py\u00f6ri\u00e4isdelfiinej\u00e4 Costa\u00a0Rican vesill\u00e4"
+    },
+    "N013_C004": {
+        "40": "Times\u00a0Squaren yll\u00e4 New\u00a0Yorkissa",
+        "0": "Kuljetaan pitkin New\u00a0Yorkin 7th Avenueta kohti Time\u00a0Squarea",
+        "120": "Kuljetaan kohti 7th Avenueta Midtown\u00a0Manhattanilla New\u00a0Yorkissa"
+    },
+    "LA_A006_C004": {
+        "250": "Kaliforniassa Hollywood\u00a0Hillsin yll\u00e4, l\u00e4hestyt\u00e4\u00e4n Burbankia",
+        "0": "Hollywood-kyltti Los\u00a0Angelesissa"
+    },
+    "G009_C00310678": {
+        "0": "Kuljetaan Grand\u00a0Canyonin yli Yhdysvalloissa"
+    },
+    "H004_C009": {
+        "0": "Pu\u2019u\u00a0O\u00a0Umi -luonnonpuiston yll\u00e4 Havaijilla"
+    },
+    "HK_B005_C011": {
+        "0": "Victoria\u00a0Harbourin yll\u00e4, kuljetaan kohti Hongkongin keskustaa"
+    },
+    "Y005_C003228SC": {
+        "0": "Yosemiten kansallispuiston yll\u00e4 Yhdysvalloissa"
+    },
+    "A003_C014": {
+        "0": "Ajelehditaan korvameduusojen yll\u00e4 l\u00e4hell\u00e4 Alaskan rannikkoa Yhdysvalloissa"
+    },
+    "I003_C015": {
+        "0": "Kuljetaan J\u00f6kulgilin yli Landmannalaugarin l\u00e4hell\u00e4 Islannissa"
+    },
+    "A002_C009": {
+        "0": "Kultameduusoja Palaun vesill\u00e4"
+    },
+    "A008_C007": {
+        "150": "Ylitet\u00e4\u00e4n Golden\u00a0Gate -silta matkalla kohti Presidio of San\u00a0Franciscoa",
+        "0": "Marin\u00a0Headlandsin yll\u00e4, katse kohti Golden\u00a0Gate -siltaa"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Revontulia Etel\u00e4mantereen yll\u00e4"
+    },
+    "A008_C010": {
+        "0": "Koralliriutta Punaisessameress\u00e4 l\u00e4hell\u00e4 Egypti\u00e4"
+    },
+    "A016_C002": {
+        "0": "Kuljetaan merilev\u00e4n keskell\u00e4 Kalifornian rannikolla Yhdysvalloissa"
+    },
+    "LA_A006_C008": {
+        "0": "Lennet\u00e4\u00e4n Los\u00a0Angelesin kansainv\u00e4lisen\u00a0lentokent\u00e4n yli"
+    },
+    "H004_C007": {
+        "0": "Pu\u2019u\u00a0O\u00a0Umi -luonnonpuiston yll\u00e4 Havaijilla"
+    },
+    "P007_C027": {
+        "0": "Kuljetaan Torres del Painen kansallispuiston yli\u00a0Chiless\u00e4"
+    },
+    "B002_C011": {
+        "0": "Delfiinej\u00e4 Kalifornian rannikolla Yhdysvalloissa"
+    },
+    "A004_C003": {
+        "0": "Koralliriutta Palaun l\u00e4hell\u00e4"
+    },
+    "DB_D001_C001": {
+        "0": "Lennet\u00e4\u00e4n Dubai\u00a0Marinan yli Arabiemiirikunnissa"
+    },
+    "LA_A005_C009": {
+        "0": "Seurataan Interstate 110:t\u00e4 pohjoiseen Los\u00a0Angelesin l\u00e4pi"
+    },
+    "CH_C007_C004": {
+        "0": "Tutustutaan Wulingyuanin kansallispuistoon Kiinassa"
+    },
+    "GL_G002_C002": {
+        "0": "Ilulissat-vuono Gr\u00f6nlannin rannikolla"
+    },
+    "I004_C014": {
+        "0": "Kuljetaan Landmannalaugarin yli Islannissa"
+    },
+    "A105_C0022120602": {
+        "0": "Tyynenmeren yll\u00e4, kuljetaan kohti Keski-Amerikkaa"
+    },
+    "I003_C008": {
+        "0": "Kuljetaan Tungna\u00e1n yli Islannin yl\u00e4ng\u00f6ill\u00e4"
+    },
+    "P006_C002_11106T": {
+        "0": "Lago Nordenskj\u00f6ldin\u00a0yll\u00e4 Torres del Painen kansallispuistossa Chiless\u00e4"
+    },
+    "C001_C005": {
+        "0": "Mutianyu-osa Kiinan\u00a0muurista Huairoun\u00a0maakunnassa\u00a0Kiinassa"
+    },
+    "HK_H004_C001": {
+        "0": "Victoria\u00a0Harbourin yll\u00e4, kuljetaan kohti Hongkongin keskustaa"
+    },
+    "A105_C003212CT": {
+        "0": "Siirryt\u00e4\u00e4n y\u00f6st\u00e4 p\u00e4iv\u00e4\u00e4n etel\u00e4isen\u00a0Tyynenmeren yl\u00e4puolella"
+    }
+}

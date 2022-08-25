@@ -1,0 +1,642 @@
+{
+    "A083_C002_1130KZ": {
+        "0": "Refleksi matahari di sepanjang pesisir Iran",
+        "60": "Melintas di atas Asia bagian tengah dari siang hingga malam hari",
+        "15": "Melintas di atas Iran dari siang hingga malam hari"
+    },
+    "GMT329_117NC_401C_1037": {
+        "195": "Di atas Rusia menuju Asia bagian tengah",
+        "185": "Di atas Rusia bagian barat melalui Moscow",
+        "105": "Di atas Eropa bagian tengah ke arah Rusia",
+        "45": "Di atas Inggris\u00a0Raya menuju Eropa daratan",
+        "65": "Di atas Eropa bagian barat laut ke arah Rusia",
+        "165": "Di atas Eropa bagian timur menghadap ke Moscow",
+        "15": "Irlandia dan Inggris\u00a0Raya",
+        "0": "Di atas Atlantik\u00a0Utara menuju Irlandia dan Inggris\u00a0Raya",
+        "150": "Di atas Eropa bagian timur dengan Moscow di kejauhan"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "5": "Di atas Laut\u00a0Tengah menghadap ke Sisilia dan Semenanjung\u00a0Italia",
+        "0": "Di atas Tunisia ke arah Italia",
+        "55": "Di atas Ukraina dengan Rusia di kejauhan",
+        "75": "Di atas Rusia bagian barat daya melewati Kazakhstan",
+        "40": "Di atas Semenanjung\u00a0Balkan melewati Laut\u00a0Hitam",
+        "25": "Di atas Semenanjung\u00a0Balkan menuju Asia bagian tengah",
+        "15": "Di atas Italia bagian selatan dengan Semenanjung\u00a0Balkan di kejauhan"
+    },
+    "GMT312_162NC_139M_1041": {
+        "165": "Di atas Semenanjung Balkan menuju Laut\u00a0Hitam",
+        "0": "Mengarah ke timur laut di atas Sahara pada malam hari",
+        "120": "Melintas di atas Laut Tengah ke arah Italia",
+        "70": "Di atas Grand\u00a0Erg\u00a0Oriental ke arah Laut\u00a0Tengah",
+        "210": "Melintas di atas Laut\u00a0Hitam ke arah Ukraina",
+        "100": "Pesisir Mediterania Tunisia dan Libya",
+        "180": "Di atas Semenanjung\u00a0Balkan menuju Laut\u00a0Hitam",
+        "230": "Melintas di atas Ukraina ke arah Rusia",
+        "140": "Di atas Italia bagian selatan menuju Semenanjung\u00a0Balkan dengan Turki di kejauhan"
+    },
+    "A016_C002": {
+        "0": "Melintas melalui hutan rumput laut di lepas pantai California, Amerika\u00a0Serikat"
+    },
+    "A105_C003212CT": {
+        "0": "Menyeberangi Samudra\u00a0Pasifik\u00a0Selatan dari malam hingga siang hari"
+    },
+    "I005_C008": {
+        "0": "Ke arah gletser M\u00fdrdalsj\u00f6kull di Islandia",
+        "225": "Gletser M\u00fdrdalsj\u00f6kull di Islandia",
+        "324": "Melintas di atas gletser M\u00fdrdalsj\u00f6kull di Islandia",
+        "150": "Menuju gletser M\u00fdrdalsj\u00f6kull di Islandia"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Di atas Samudra\u00a0Pasifik menuju pesisir California",
+        "85": "Lewat di atas Los\u00a0Angeles dan pesisir barat Amerika\u00a0Serikat",
+        "110": "Di atas Las\u00a0Vegas ke arah Salt\u00a0Lake\u00a0City di Amerika\u00a0Serikat",
+        "70": "Di atas pesisir California menuju wilayah tengah",
+        "95": "Di atas Los\u00a0Angeles menuju Las\u00a0Vegas di Amerika\u00a0Serikat",
+        "120": "Di atas Amerika\u00a0Serikat bagian barat menuju Salt\u00a0Lake\u00a0City",
+        "170": "Di atas Pegunungan\u00a0Rocky di Amerika\u00a0Serikat",
+        "155": "Lewat di antara Salt\u00a0Lake\u00a0City dan Denver di Amerika\u00a0Serikat"
+    },
+    "Y005_C003228SC": {
+        "0": "Di atas Taman\u00a0Nasional Yosemite di Amerika\u00a0Serikat"
+    },
+    "GL_G010_C006": {
+        "0": "Ilulissat\u00a0Icefjord di lepas pantai Grinlandia"
+    },
+    "A114_C001_0305OT": {
+        "20": "Mengarah ke selatan di pesisir California",
+        "185": "Di atas pegunungan Sierra\u00a0Madre Occidental menuju pesisir barat Meksiko",
+        "225": "Menghadap ke selatan ke arah Samudra\u00a0Pasifik di atas Sierra\u00a0Madre del Sur di Meksiko",
+        "65": "Menuju Gurun\u00a0Mojave di California selatan dengan Meksiko di kejauhan",
+        "95": "Pesisir California diapit oleh Gurun\u00a0Sonoran dan Semenanjung Baja\u00a0California",
+        "290": "Samudra\u00a0Pasifik di lepas pantai Meksiko dan Guatemala",
+        "130": "Pegunungan Sierra\u00a0Madre Occidental di pesisir barat Meksiko",
+        "280": "Samudra\u00a0Pasifik di lepas pantai Meksiko",
+        "50": "Di atas California bagian selatan menuju Meksiko"
+    },
+    "GMT308_139K_142NC": {
+        "315": "Di atas Laut\u00a0Karibia ke arah selatan menuju Venezuela",
+        "285": "Di atas Bahama menuju Republik\u00a0Dominika dan Haiti",
+        "220": "Di atas Florida menuju Bahama",
+        "240": "Mengarah ke tenggara di atas Bahama",
+        "300": "Di atas Republik\u00a0Dominika dan Haiti menuju Laut\u00a0Karibia",
+        "90": "Ke arah tenggara di atas Amerika\u00a0Serikat bagian Midwest",
+        "0": "Ke arah tenggara di atas Great\u00a0Plains di Amerika\u00a0Serikat",
+        "120": "Di atas Amerika\u00a0Serikat bagian tenggara ke arah Florida"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Melewati Half\u00a0Dome dan menuju Nevada\u00a0Fall di Taman\u00a0Nasional Yosemite",
+        "146": "Half\u00a0Dome dan Nevada\u00a0Fall di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "A108_C001_0215V8": {
+        "85": "Di atas Laut\u00a0Karibia menuju Kuba",
+        "65": "Mosquito Coast di Nikaragua",
+        "50": "Lewat di atas Amerika\u00a0Tengah dengan Amerika\u00a0Selatan di kejauhan",
+        "125": "Melintas di atas Kuba menghadap ke Haiti dan Republik\u00a0Dominika",
+        "170": "Melintas di atas Bahama menghadap ke Haiti dan Republik\u00a0Dominika",
+        "110": "Melewati Jamaika yang berselimut awan di Laut\u00a0Karibia",
+        "190": "Kepulauan Turks dan Caicos di Samudra\u00a0Atlantik",
+        "35": "Pesisir Pasifik Nikaragua, Kosta\u00a0Rika, dan Panama"
+    },
+    "A009_C001_10181A": {
+        "0": "Di atas Afrika bagian barat menuju Sahara",
+        "155": "Di atas Grand\u00a0Erg\u00a0Oriental di Afrika Utara ke arah Laut\u00a0Tengah",
+        "110": "Lewat di atas Pegunungan Ahaggar di Sahara, Afrika Utara",
+        "195": "Pesisir Tunisia dan Laut\u00a0Tengah",
+        "285": "Di atas Semenanjung\u00a0Balkan ke arah Pegunungan\u00a0Carpathian",
+        "245": "Di atas Italia menuju Semenanjung\u00a0Balkan",
+        "210": "Di atas pesisir Tunisia menuju Italia",
+        "230": "Menuju Italia di Laut\u00a0Tengah",
+        "310": "Pegunungan\u00a0Carpathian dan Laut\u00a0Hitam",
+        "30": "Menyeberangi Sahara di Afrika Utara"
+    },
+    "GMT307_136NC_134K_8277": {
+        "215": "Melintas di atas Amerika\u00a0Serikat bagian tenggara",
+        "190": "Melintas di atas New\u00a0Orleans dan Pantai\u00a0Teluk Amerika\u00a0Serikat",
+        "320": "Di atas Amerika\u00a0Serikat bagian timur menuju New\u00a0York\u00a0City",
+        "180": "Melewati Houston dan menuju New\u00a0Orleans di Amerika\u00a0Serikat",
+        "0": "Di atas Samudra\u00a0Pasifik ke arah Meksiko",
+        "105": "Lewat di atas Mexico\u00a0City ke arah Teluk\u00a0Meksiko",
+        "122": "Terbang di atas Teluk\u00a0Meksiko ke arah Amerika\u00a0Serikat",
+        "280": "Di atas Amerika\u00a0Serikat bagian timur menuju New\u00a0York"
+    },
+    "P001_C005_11059D": {
+        "0": "Menyusuri Cuernos del Paine di Taman\u00a0Nasional Torres del Paine, Cile"
+    },
+    "A018_C029": {
+        "0": "Kawanan ikan Barakuda\u00a0Chevron di perairan dekat Borneo"
+    },
+    "A014_C008": {
+        "0": "Ikan Kakaktua\u00a0Berdahi\u00a0Bulat di atas terumbu karang Borneo"
+    },
+    "A351_C001_1213SK": {
+        "210": "Di atas Pegunungan Zagros di Iran",
+        "130": "Di atas Jazirah\u00a0Arab menuju Iran",
+        "45": "Melintas di atas Laut\u00a0Merah ke Jazirah\u00a0Arab",
+        "100": "Ke arah timur laut di atas Jazirah\u00a0Arab",
+        "165": "Di atas Jazirah\u00a0Arab menuju Iran",
+        "265": "Mengarah ke Turkmenistan dan gurun Garagum",
+        "360": "Mengarah ke Kazakhstan bagian tenggara Kyrgyzstan",
+        "190": "Menuju pesisir Iran dengan Pegunungan\u00a0Zagros di kejauhan",
+        "450": "Di atas Pegunungan\u00a0Altai menuju Mongolia",
+        "305": "Sungai Amu\u00a0Darya dan Pegunungan Pamir-Alay di Asia bagian tengah",
+        "0": "Mengarah ke timur laut di atas Dataran Tinggi Etiopia",
+        "400": "Ke arah utara di atas Kazakhstan",
+        "322": "Pegunungan Pamir-Alay dan Lembah\u00a0Fergana di Asia bagian tengah",
+        "240": "Di atas gurun Dasht-e\u00a0Lut di Iran"
+    },
+    "L010_C006": {
+        "78": "Menyusuri Sungai\u00a0Thames di London",
+        "258": "Menyeberangi Sungai\u00a0Thames di London",
+        "178": "Selatan Sungai\u00a0Thames di London",
+        "0": "Menuju Tower\u00a0Bridge di Sungai\u00a0Thames, London"
+    },
+    "D004_L014": {
+        "0": "Paus Bungkuk di Polinesia\u00a0Prancis"
+    },
+    "DB_D011_C010": {
+        "0": "Menuju Burj\u00a0Khalifa di Pusat Kota Dubai, Uni\u00a0Emirat\u00a0Arab",
+        "280": "Melewati Burj\u00a0Khalifa di Pusat Kota Dubai, Uni\u00a0Emirat\u00a0Arab",
+        "330": "Di atas Pusat\u00a0Kota\u00a0Dubai menuju pesisir"
+    },
+    "A050_C004_1027V8": {
+        "160": "Mengarah ke tenggara di atas Laut\u00a0Tengah",
+        "100": "Yunani diapit oleh Laut Ionian dan Aegean",
+        "0": "Melintas di atas Eropa\u00a0Barat dengan Inggris\u00a0Raya dan Irlandia di kejauhan",
+        "240": "Ke arah tenggara di atas Laut\u00a0Merah",
+        "220": "Gurun Timur diapit oleh Sungai\u00a0Nil dan Teluk Suez",
+        "20": "Ke arah tenggara di atas Pegunungan Alpen dan Lembah Sungai\u00a0Po",
+        "185": "Laut\u00a0Tengah dan Sungai\u00a0Nil\u00a0Delta",
+        "50": "Melintasi Semenanjung\u00a0Italia dan Laut\u00a0Adriatik",
+        "205": "Sungai\u00a0Nil mengalir melalui Sahara di Mesir"
+    },
+    "Y011_C001": {
+        "120": "Ke arah timur menuju Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "390": "Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "0": "Ke arah Bridalveil\u00a0Fall dan El\u00a0Capitan di Taman\u00a0Nasional Yosemite",
+        "44": "Ke arah timur menuju El Capitan di Taman Nasional Yosemite, Amerika\u00a0Serikat",
+        "585": "Ke arah timur melintasi Lembah\u00a0Yosemite, Amerika\u00a0Serikat",
+        "87": "Melewati El\u00a0Capitan, Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "470": "Melintasi Half\u00a0Dome di Lembah\u00a0Yosemite, Amerika\u00a0Serikat"
+    },
+    "A015_C018": {
+        "116": "Di atas Teluk San\u00a0Francisco ke arah pusat kota",
+        "80": "Menyeberang di atas Bay\u00a0Bridge ke arah pusat kota San\u00a0Francisco",
+        "0": "Menuju Bay\u00a0Bridge dan pusat kota San\u00a0Francisco"
+    },
+    "A008_C010": {
+        "0": "Terumbu karang di Laut Merah dekat Mesir"
+    },
+    "N003_C006": {
+        "0": "Di atas Upper East Side dan Central\u00a0Park di New\u00a0York",
+        "50": "Di atas Midtown\u00a0Manhattan ke arah pusat kota menuju Gedung\u00a0Empire\u00a0State",
+        "205": "Melewati Gedung\u00a0Empire\u00a0State ke arah Lower Manhattan",
+        "160": "Menuju Gedung\u00a0Empire\u00a0State di New York"
+    },
+    "Y005_C003_0228SC": {
+        "60": "Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "40": "Ke arah Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "285": "Nevada, Vernal, dan Illilouette\u00a0Falls di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "155": "Di atas Taman\u00a0Nasional Yosemite dengan Nevada\u00a0Fall di kejauhan",
+        "255": "Nevada dan Illilouette\u00a0Falls di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "DB_D002_C003": {
+        "0": "Menuju Pusat Kota Dubai di Uni\u00a0Emirat\u00a0Arab",
+        "210": "Melintas di atas Pusat Kota Dubai di Uni\u00a0Emirat\u00a0Arab"
+    },
+    "Y003_C009": {
+        "130": "Merced\u00a0Peak di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "244": "Melintas di atas Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "0": "Di atas Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "221": "Melewati Merced\u00a0Peak di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "93": "Ke arah Merced\u00a0Peak di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "A013_C004": {
+        "0": "Di atas Teluk San\u00a0Francisco ke arah Embarcadero",
+        "150": "Menyusuri Market\u00a0Street melalui pusat kota San\u00a0Francisco",
+        "360": "Menyusuri Market\u00a0Street melalui San\u00a0Francisco",
+        "90": "Di atas Embarcadero menghadap Market\u00a0Street di San\u00a0Francisco"
+    },
+    "A010_C007": {
+        "0": "Ubur-Ubur Emas di perairan Palau"
+    },
+    "A004_C012": {
+        "100": "Pusat kota San\u00a0Francisco dengan Gedung\u00a0Coit di latar depan",
+        "0": "Ubur-Ubur Bulan di dekat pesisir Alaska, Amerika\u00a0Serikat"
+    },
+    "I003_C008": {
+        "0": "Melintas di atas Tungna\u00e1 di dataran tinggi Islandia"
+    },
+    "A013_C012": {
+        "230": "Melewati North\u00a0Tower Jembatan Golden\u00a0Gate",
+        "60": "Di sepanjang Jembatan Golden\u00a0Gate ke arah Marin\u00a0Headlands",
+        "140": "Menyeberangi Jembatan Golden\u00a0Gate",
+        "0": "Menuju Jembatan Golden\u00a0Gate dari San\u00a0Francisco",
+        "260": "Di atas Teluk San\u00a0Francisco di sepanjang Jembatan Golden\u00a0Gate"
+    },
+    "A007_C017": {
+        "0": "Di atas Fisherman\u2019s\u00a0Wharf ke arah pusat kota San\u00a0Francisco",
+        "196": "Pusat kota San Francisco",
+        "80": "Menuju Gedung\u00a0Coit dengan pusat kota San\u00a0Francisco dan Bay\u00a0Bridge di latar belakang",
+        "150": "Melewati Coit\u00a0Tower ke arah pusat kota San\u00a0Francisco dan Bay\u00a0Bridge"
+    },
+    "I003_C011": {
+        "308": "Melintas di atas dataran tinggi Islandia",
+        "0": "Menyusuri sungai J\u00f6kulgilskv\u00edsl di Landmannalaugar, Islandia"
+    },
+    "A012_C014": {
+        "208": "Menyusuri Market\u00a0Street melalui San\u00a0Francisco",
+        "0": "Di atas Teluk San\u00a0Francisco ke arah Embarcadero"
+    },
+    "A004_C003": {
+        "0": "Terumbu karang dekat Palau"
+    },
+    "GMT314_139M_170NC": {
+        "55": "Di atas Meksiko ke arah Amerika\u00a0Serikat bagian barat daya",
+        "300": "Ke arah Atlantik Utara dengan Aurora\u00a0Borealis di atas Labrador, Kanada",
+        "45": "Di atas Baja\u00a0California menghadap ke utara ke arah Amerika\u00a0Serikat",
+        "125": "Melintas di atas Great\u00a0Plains di Amerika\u00a0Serikat",
+        "235": "Aurora\u00a0Borealis di atas Ontario bagian utara, Kanada",
+        "0": "Di atas Samudra\u00a0Pasifik menuju Baja\u00a0California",
+        "210": "Aurora\u00a0Borealis di atas Ontario bagian barat, Kanada",
+        "185": "Menuju Great\u00a0Lakes dengan Ontario, Kanada di kejauhan",
+        "250": "Aurora\u00a0Borealis di atas Quebec bagian utara, Kanada",
+        "110": "Di atas Pegunungan\u00a0Rocky menuju Denver",
+        "200": "Di atas Great\u00a0Lakes menuju Ontario, Kanada",
+        "75": "Di atas Amerika\u00a0Selatan bagian barat daya"
+    },
+    "HK_H004_C010": {
+        "150": "Terbang di atas Hong\u00a0Kong ke arah Victoria\u00a0Harbour",
+        "330": "Di atas Victoria\u00a0Harbour menuju Kowloon\u00a0Peninsula",
+        "0": "Terbang di atas Victoria\u00a0Peak di Hong\u00a0Kong"
+    },
+    "S004_C019": {
+        "0": "Melintas di atas Bukit Cuillin, Pulau Skye, Skotlandia"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart di lepas pantai pesisir Skotlandia",
+        "181": "Kastil Tioram di lepas pantai pesisir barat Skotlandia",
+        "139": "Menuju Kastil Tioram di pesisir barat Skotlandia",
+        "214": "Melintas di atas pesisir barat Skotlandia"
+    },
+    "Y011_C008": {
+        "0": "Ke arah Mattes\u00a0Crest di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "124": "Terbang melalui Matthes\u00a0Crest di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "75": "Terbang di atas Matthes\u00a0Crest di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "396": "Mengarah ke Tuolumne\u00a0Meadows di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "215": "Terbang di atas Matthes\u00a0Crest di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "H010_C006": {
+        "0": "Menuju Honop\u016b\u00a0Valley di Kohala\u00a0Forest Reserve di pulau\u00a0Hawai\u2018i",
+        "300": "Honop\u016b\u00a0Valley di Kohala\u00a0Forest Reserve di pulau\u00a0Hawai\u2018i"
+    },
+    "A018_C014": {
+        "10": "Gedung Piramid\u00a0Transamerica di pusat kota San\u00a0Francisco",
+        "40": "Pusat kota San\u00a0Francisco dengan Gedung\u00a0Sutro terlihat di kejauhan",
+        "0": "Menuju pusat kota San\u00a0Francisco dengan Gedung\u00a0Sutro terlihat di kejauhan"
+    },
+    "A001_C001_120530": {
+        "115": "Di atas Portugal dan Spanyol",
+        "150": "Menjauh dari Semenanjung\u00a0Iberia dan lewat di atas Bay of Biscay dan Prancis",
+        "180": "Di atas Eropa Barat dengan Samudra\u00a0Atlantik Utara di kejauhan",
+        "0": "Di atas Samudra\u00a0Atlantik Utara ke arah Portugal"
+    },
+    "A105_C002_021206_002": {
+        "70": "Pesisir barat daya Amerika\u00a0Tengah ke arah Laut\u00a0Karibia",
+        "240": "Di atas Kuba dengan Florida dan Bahama di kejauhan",
+        "350": "Di atas Laut\u00a0Sargasso ke arah Samudra\u00a0Atlantik",
+        "300": "Di atas Florida dan Bahama menuju Laut\u00a0Sargasso",
+        "150": "Di atas Laut\u00a0Karibia ke arah Kuba",
+        "100": "Menyeberangi Amerika\u00a0Tengah ke arah Laut\u00a0Karibia"
+    },
+    "LA_A006_C004": {
+        "0": "Tanda Hollywood di Los\u00a0Angeles",
+        "250": "Di atas Hollywood\u00a0Hills menuju Burbank, California"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "10": "Di atas Tiongkok bagian tengah menuju Shanghai",
+        "30": "Melintas di atas Tiongkok bagian timur menuju Shanghai",
+        "45": "Menuju Shanghai ke arah Laut\u00a0Cina\u00a0Timur",
+        "0": "Di atas Asia bagian tengah menuju pesisir Tiongkok",
+        "50": "Di atas Shanghai menuju Laut\u00a0Cina\u00a0Timur"
+    },
+    "C004_C003": {
+        "0": "Bagian Mutianyu dari Tembok\u00a0Besar di Distrik\u00a0Huairou, Tiongkok"
+    },
+    "N006_C003": {
+        "140": "Di atas Lower\u00a0Manhattan di New\u00a0York ke arah Midtown",
+        "40": "Di atas Lower\u00a0Manhattan di New\u00a0York",
+        "0": "Menuju Lower\u00a0Manhattan di New\u00a0York"
+    },
+    "I001_C014": {
+        "0": "Menyusuri J\u00f6kulgilskv\u00edsl di dekat Landmannalaugar, Islandia"
+    },
+    "A103_C002_0205DG": {
+        "145": "Pesisir\u00a0Makran Iran dan Pakistan",
+        "160": "Di atas Iran menuju Afganistan dan Pakistan",
+        "115": "Teluk Oman menuju Pesisir\u00a0Makran",
+        "315": "Pegunungan Tian\u00a0Shan di Asia Tengah",
+        "180": "Di atas Afganistan dan Pakistan menuju Pegunungan\u00a0Karakoram",
+        "280": "Gurun\u00a0Takla\u00a0Makan di Tiongkok bagian barat",
+        "235": "Di atas Pegunungan\u00a0Karakoram menuju Tiongkok",
+        "45": "Jazirah\u00a0Arab bagian tenggara"
+    },
+    "L012_C002": {
+        "20": "Menyeberangi Sungai\u00a0Thames di London",
+        "200": "Menyeberangi Sungai\u00a0Thames ke arah Westminster, London",
+        "92": "Selatan Sungai\u00a0Thames ke arah London\u00a0Eye",
+        "270": "Di atas Westminster, London",
+        "60": "Melewati The\u00a0Shard di London Selatan",
+        "0": "Menuju Tower\u00a0Bridge di Sungai\u00a0Thames, London"
+    },
+    "L007_C007": {
+        "149": "Lewat di atas London Selatan",
+        "49": "Di atas St\u00a0James\u2019s Park ke arah Sungai\u00a0Thames, London",
+        "0": "Lewat di atas Istana\u00a0Buckingham, London",
+        "24": "Di atas Istana\u00a0Buckingham di London",
+        "299": "Menyeberangi Sungai\u00a0Thames di London",
+        "324": "Menyeberangi Sungai\u00a0Thames di Tower\u00a0Bridge di London",
+        "279": "Melewati The\u00a0Shard di London Selatan",
+        "104": "Menyeberangi Sungai\u00a0Thames dan melintas di atas London\u00a0Eye"
+    },
+    "A010_C002": {
+        "0": "Berenang melalui hutan rumput laut dekat Semenanjung\u00a0Cape, Afrika\u00a0Selatan"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "180": "Di atas Korea Selatan menuju Jepang",
+        "22": "Ke arah Mongolia Dalam",
+        "195": "Di atas Jepang menghadap ke Samudra\u00a0Pasifik",
+        "32": "Di atas Mongolia menuju Tiongkok",
+        "110": "Di atas Tiongkok ke arah Semenanjung\u00a0Korea",
+        "260": "Di atas Samudra\u00a0Pasifik di sebelah tenggara Jepang",
+        "60": "Di atas Tiongkok bagian utara menuju Semenanjung\u00a0Korea",
+        "0": "Mengarah ke tenggara di atas Siberia dan Mongolia",
+        "150": "Semenanjung\u00a0Korea dengan Jepang di kejauhan"
+    },
+    "Y002_C013_0226": {
+        "210": "Di atas Taman\u00a0Nasional Yosemite di Amerika\u00a0Serikat",
+        "87": "Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat",
+        "70": "Menuju Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "A002_C009": {
+        "0": "Ubur-Ubur Emas di perairan Palau"
+    },
+    "H005_C012": {
+        "0": "Waimanu\u00a0Valley di Kohala\u00a0Forest Reserve di pulau\u00a0Hawai\u2018i"
+    },
+    "LA_A006_C008": {
+        "0": "Terbang di atas Bandara\u00a0Internasional Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Melewati Pusat Kota Los\u00a0Angeles"
+    },
+    "A012_C004": {
+        "0": "Di atas Marin\u00a0Headlands mengarah ke Golden\u00a0Gate Bridge",
+        "150": "Menyeberangi Jembatan Golden\u00a0Gate ke arah Presidio San\u00a0Francisco"
+    },
+    "A001_C004_1207W5": {
+        "105": "Di atas Maroko menuju Laut\u00a0Tengah",
+        "220": "Mengarah ke timur laut di atas Pegunungan Alpen",
+        "165": "Mengarah ke timur laut di atas Kepulauan\u00a0Balears di Spanyol",
+        "125": "Laut\u00a0Tengah dan Spanyol bagian selatan",
+        "0": "Kepulauan\u00a0Canary, Samudra\u00a0Atlantik, dan pesisir Afrika",
+        "145": "Mengarah ke timur laut di atas Costa\u00a0Blanca di Spanyol",
+        "75": "Lewat di atas Pegunungan\u00a0Atlas di Maroko",
+        "185": "Di atas Laut\u00a0Tengah bagian barat dengan Pegunungan Alpen di kejauhan",
+        "45": "Mengarah ke timur laut di sepanjang pesisir Maroko"
+    },
+    "I004_C014": {
+        "0": "Melintas di atas Landmannalaugar di Islandia"
+    },
+    "S005_C015": {
+        "252": "Menuju Laut Hebrides, Skotlandia",
+        "0": "Di atas Loch Moidart di pesisir barat Skotlandia"
+    },
+    "HK_H004_C013": {
+        "150": "Di atas Central Hong\u00a0Kong",
+        "0": "Di atas Wan Chai menuju Central\u00a0Hong\u00a0Kong",
+        "270": "Di atas Pulau Hong\u00a0Kong"
+    },
+    "H004_C007": {
+        "0": "Di atas Pu\u2018u\u00a0O\u00a0\u2018Umi Natural Area Reserve, di pulau\u00a0Hawai\u2018i"
+    },
+    "A103_C002205DG": {
+        "0": "Di atas Tanduk Afrika menuju Teluk Aden"
+    },
+    "N008_C009": {
+        "0": "Di atas Central\u00a0Park ke arah Midtown\u00a0Manhattan di New\u00a0York",
+        "246": "Di atas Midtown\u00a0Manhattan di New\u00a0York"
+    },
+    "CH_C007_C011": {
+        "0": "Menelusuri Taman\u00a0Nasional Wulingyuan di Tiongkok"
+    },
+    "LA_A008_C004": {
+        "430": "Di atas Santa\u00a0Monica State Beach dekat Los\u00a0Angeles",
+        "0": "Di atas Santa\u00a0Monica State Beach dekat Los\u00a0Angeles",
+        "365": "Lewat di atas Santa\u00a0Monica Pier dekat Los\u00a0Angeles"
+    },
+    "A105_C003_0212CT": {
+        "70": "Menyeberangi Selandia\u00a0Baru dari malam hingga siang hari",
+        "170": "Meninggalkan Selandia\u00a0Baru ke arah timur laut di atas Samudra\u00a0Pasifik",
+        "110": "Menuju matahari terbit di atas Selandia\u00a0Baru"
+    },
+    "GMT060_117NC_363D": {
+        "220": "Di atas Wilayah\u00a0Utara, Australia menuju Papua\u00a0Nugini",
+        "170": "Di atas Australia\u00a0Barat menuju Wilayah\u00a0Utara",
+        "335": "Di atas Laut\u00a0Arafura menuju Papua\u00a0Nugini",
+        "0": "Di atas Samudra\u00a0Hindia ke arah Perth, Australia",
+        "50": "Mengarah ke timur laut di atas Australia Barat"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "A009_C007": {
+        "0": "Lumba-Lumba Pemintal di perairan Kosta\u00a0Rika"
+    },
+    "A001_C007": {
+        "0": "Ubur-Ubur Emas di perairan Palau",
+        "348": "Ubur-Ubur Emas di perairan Palau",
+        "282": "Kawanan Ubur-Ubur\u00a0Emas dengan Ubur-Ubur\u00a0Bulan di tengah-tengahnya"
+    },
+    "A013_C005": {
+        "0": "Menyusuri Presidio San\u00a0Francisco ke arah Jembatan Golden\u00a0Gate",
+        "190": "Menyeberangi Jembatan Golden\u00a0Gate ke arah Marin\u00a0Headlands"
+    },
+    "S009_C007": {
+        "0": "Melintas di atas Pulau Skye, Skotlandia",
+        "173": "Melintas di atas Pulau Skye, Skotlandia",
+        "135": "Old Man of Storr di Pulau Skye, Skotlandia"
+    },
+    "C003_C003": {
+        "0": "Bagian Mutianyu dari Tembok\u00a0Besar di Distrik\u00a0Huairou, Tiongkok"
+    },
+    "N008_C003": {
+        "210": "Di atas Lower\u00a0Manhattan di New\u00a0York ke arah Midtown",
+        "0": "Menuju Lower\u00a0Manhattan dari New\u00a0York Harbor",
+        "180": "Melewati One World\u00a0Trade\u00a0Center ke arah Midtown\u00a0Manhattan",
+        "110": "Di sepanjang Lower\u00a0Manhattan menuju One World\u00a0Trade\u00a0Center"
+    },
+    "A014_C023": {
+        "0": "Kawanan ikan Bigeye\u00a0Jacks di lepas pantai Borneo"
+    },
+    "L004_C011": {
+        "20": "Menyusuri Sungai\u00a0Thames di London",
+        "310": "Menyusuri Sungai\u00a0Thames lewat London\u00a0Eye",
+        "130": "Menyusuri Sungai\u00a0Thames ke arah London\u00a0Eye",
+        "210": "Menuju London\u00a0Eye di Sungai\u00a0Thames",
+        "0": "Menuju Tower\u00a0Bridge di Sungai\u00a0Thames, London",
+        "325": "Melewati Gedung Parlemen di Sungai\u00a0Thames di London"
+    },
+    "GL_G004_C010": {
+        "0": "Menyusuri Semenanjung\u00a0Nuussuaq di Grinlandia"
+    },
+    "S003_C020": {
+        "338": "Mercusuar Neist Point, Pulau Skye, Skotlandia",
+        "0": "Menyusuri pesisir Pulau Skye, Skotlandia",
+        "372": "Pulau Skye, Skotlandia"
+    },
+    "HK_H004_C001": {
+        "0": "Di atas Victoria\u00a0Harbour ke arah Central Hong\u00a0Kong"
+    },
+    "A006_C003": {
+        "191": "Di atas Teluk San Francisco",
+        "140": "Melintas di atas menara utara Jembatan Golden\u00a0Gate ke arah San\u00a0Francisco",
+        "0": "Teluk San\u00a0Francisco dan Jembatan Golden\u00a0Gate"
+    },
+    "A105_C0022120602": {
+        "0": "Di atas Samudra\u00a0Pasifik menuju Amerika\u00a0Tengah"
+    },
+    "HK_H004_C008": {
+        "0": "Di atas Victoria\u00a0Harbour menghadap Pulau Hong\u00a0Kong"
+    },
+    "U009_C004": {
+        "0": "Ikan Hiu Lonjor berenang di dekat Polinesia\u00a0Prancis"
+    },
+    "DB_D001_C001": {
+        "0": "Terbang di atas Dubai\u00a0Marina di Uni\u00a0Emirat\u00a0Arab"
+    },
+    "Y009_C015304I": {
+        "0": "Lewat di atas Tuolumne\u00a0Meadows di Taman\u00a0Nasional Yosemite, Amerika\u00a0Serikat"
+    },
+    "P005_C002_1109E1": {
+        "0": "Menyusuri Lago\u00a0Nordenskj\u00f6ld di Taman\u00a0Nasional Torres del Paine, Cile"
+    },
+    "A008_C007": {
+        "0": "Di atas Marin\u00a0Headlands mengarah ke Golden\u00a0Gate Bridge",
+        "150": "Menyeberangi Jembatan Golden\u00a0Gate ke arah Presidio San\u00a0Francisco"
+    },
+    "P007_C027": {
+        "0": "Melintas di atas Taman\u00a0Nasional Torres del Paine di Cile"
+    },
+    "G009_C014106B9": {
+        "0": "Melintasi Grand\u00a0Canyon di Amerika\u00a0Serikat"
+    },
+    "A003_C014": {
+        "0": "Berenang di atas Ubur-Ubur Bulan di dekat pesisir Alaska, Amerika\u00a0Serikat"
+    },
+    "LW_L001_C006": {
+        "0": "Terbang di atas Liwa\u00a0Oasis di Uni\u00a0Emirat\u00a0Arab"
+    },
+    "A012_C031": {
+        "0": "Bintang\u00a0Laut Bertanduk di dasar samudra dekat Borneo"
+    },
+    "N013_C004": {
+        "0": "Melintasi 7th Avenue ke arah Times\u00a0Square, New\u00a0York",
+        "40": "Di atas Times\u00a0Square di New\u00a0York",
+        "120": "Mengarah ke 7th Avenue di Midtown\u00a0Manhattan, New\u00a0York"
+    },
+    "LA_A005_C009": {
+        "0": "Menyusuri Interstate 110 utara melalui Los\u00a0Angeles"
+    },
+    "G010_C026107KE": {
+        "0": "Menyusuri Sungai\u00a0Colorado di Grand\u00a0Canyon, Amerika\u00a0Serikat"
+    },
+    "G007_C004": {
+        "0": "Menyusuri Sungai\u00a0Colorado melalui Grand\u00a0Canyon di Amerika\u00a0Serikat"
+    },
+    "H004_C009": {
+        "0": "Di atas Pu\u2018u\u00a0O\u00a0\u2018Umi Natural Area Reserve, di pulau\u00a0Hawai\u2018i"
+    },
+    "A114_C001305OT": {
+        "0": "Di atas Samudra\u00a0Pasifik ke arah Amerika\u00a0Serikat"
+    },
+    "DB_D008_C010": {
+        "0": "Menyusuri Sheikh\u00a0Zayed Road di Dubai, Uni\u00a0Emirat\u00a0Arab"
+    },
+    "A108_C001215V8": {
+        "0": "Melintas di atas Samudra\u00a0Pasifik ke arah Amerika\u00a0Tengah"
+    },
+    "TH_804_A001_8": {
+        "0": "Ombak pecah di pantai Tahiti"
+    },
+    "LA_A009_C009": {
+        "0": "Observatorium\u00a0Griffith dan Hollywood\u00a0Hills di Los\u00a0Angeles"
+    },
+    "H007_C003": {
+        "0": "Terbang di atas Laup\u0101hoehoe\u00a0Nui di Kohala\u00a0Forest Reserve di pulau\u00a0Hawai\u2018i"
+    },
+    "GL_G002_C002": {
+        "0": "Ilulissat\u00a0Icefjord di lepas pantai Grinlandia"
+    },
+    "CH_C002_C005": {
+        "0": "Lewat di atas persawahan Longji di Provinsi\u00a0Guangxi, Tiongkok"
+    },
+    "I003_C005": {
+        "0": "Terbang di atas pegunungan Langisj\u00f3r dan F\u00f6grufj\u00f6ll di Islandia"
+    },
+    "A015_C014": {
+        "210": "Menyusuri Market\u00a0Street melalui pusat kota San\u00a0Francisco",
+        "0": "Di atas Teluk San\u00a0Francisco ke arah Embarcadero"
+    },
+    "HK_B005_C011": {
+        "0": "Di atas Victoria\u00a0Harbour ke arah Central Hong\u00a0Kong"
+    },
+    "B002_C011": {
+        "0": "Lumba-Lumba Moncong Pendek di lepas pantai California, Amerika\u00a0Serikat"
+    },
+    "I003_C015": {
+        "0": "Melintas melalui J\u00f6kulgil di Landmannalaugar, Islandia"
+    },
+    "P006_C002_11106T": {
+        "0": "Di atas Lago\u00a0Nordenskj\u00f6ld di Taman\u00a0Nasional Torres del Paine, Cile"
+    },
+    "A006_C008": {
+        "0": "Ikan Pari Pesek Keemasan di lepas pantai Meksiko"
+    },
+    "G008_C015106MB": {
+        "0": "Terbang di atas area Burnt\u00a0Canyon dari Grand\u00a0Canyon, Amerika\u00a0Serikat"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Aurora\u00a0Australis di atas Antarktika"
+    },
+    "TH_803_A001_8": {
+        "0": "Ombak pecah di pantai Tahiti"
+    },
+    "CH_C007_C004": {
+        "0": "Menjelajahi Taman\u00a0Nasional Wulingyuan di Tiongkok"
+    },
+    "LW_L001_C003": {
+        "0": "Terbang di atas Liwa\u00a0Oasis di Uni\u00a0Emirat\u00a0Arab"
+    },
+    "G009_C00310678": {
+        "0": "Melintas di atas Grand\u00a0Canyon di Amerika\u00a0Serikat"
+    },
+    "I003_C004": {
+        "0": "Terbang di atas Langisj\u00f3r di Islandia"
+    },
+    "DB_D001_C005": {
+        "0": "Terbang di sepanjang Dubai\u00a0Marina di Uni\u00a0Emirat\u00a0Arab"
+    },
+    "A016_C009": {
+        "0": "Anjing\u00a0Laut\u00a0Bulu\u00a0Cokelat di lepas pantai Semenanjung\u00a0Cape, Afrika\u00a0Selatan"
+    },
+    "H012_C009": {
+        "0": "Menyusuri garis pantai Kohala di pulau\u00a0Hawai\u2018i"
+    },
+    "Y002_C013226": {
+        "0": "Di atas Taman\u00a0Nasional Yosemite di Amerika\u00a0Serikat"
+    },
+    "C001_C005": {
+        "0": "Bagian Mutianyu dari Tembok\u00a0Besar di Distrik\u00a0Huairou,\u00a0Tiongkok"
+    }
+}

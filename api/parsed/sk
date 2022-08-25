@@ -1,0 +1,642 @@
+{
+    "A013_C012": {
+        "0": "Let smerom k\u00a0mostu Golden\u00a0Gate Bridge zo San\u00a0Francisca",
+        "140": "Prelet nad mostom Golden\u00a0Gate Bridge",
+        "60": "Let popri moste Golden\u00a0Gate Bridge smerom k\u00a0Marin\u00a0Headlands",
+        "230": "Let popri severnej\u00a0ve\u017ei mosta Golden\u00a0Gate Bridge",
+        "260": "Prelet nad\u00a0sanfrancisk\u00fdm z\u00e1livom pozd\u013a\u017e mosta Golden\u00a0Gate Bridge"
+    },
+    "I005_C008": {
+        "324": "Let nad \u013eadovcom M\u00fdrdalsj\u00f6kull na Islande",
+        "225": "\u013dadovec M\u00fdrdalsj\u00f6kull na Islande",
+        "0": "Let smerom k\u00a0\u013eadovcu M\u00fdrdalsj\u00f6kull na Islande",
+        "150": "Pr\u00edlet k\u00a0\u013eadovcu M\u00fdrdalsj\u00f6kull na Islande"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Let smerom k\u00a0mas\u00edvu Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "60": "Mas\u00edv Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "155": "Prelet nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom, v\u00a0dia\u013eke je vidie\u0165 vodop\u00e1d Nevada",
+        "285": "Vodop\u00e1dy Nevada, Vernal a\u00a0Illilouette v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "255": "Vodop\u00e1dy Nevada a\u00a0Illilouette v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A351_C001_1213SK": {
+        "130": "Prelet nad Arabsk\u00fdm\u00a0polostrovom smerom k\u00a0Ir\u00e1nu",
+        "400": "Let na sever cez Kazachstan",
+        "265": "Let smerom k\u00a0Turkm\u00e9nsku a\u00a0p\u00fa\u0161ti\u00a0Karakum",
+        "0": "Let na severov\u00fdchod ponad Eti\u00f3psku\u00a0vyso\u010dinu",
+        "322": "Pohorie Pam\u00edr a\u00a0Fergansk\u00e1\u00a0kotlina v\u00a0Centr\u00e1lnej\u00a0\u00c1zii",
+        "240": "Prelet nad p\u00fa\u0161\u0165ou Dasht-e\u00a0Lut v\u00a0Ir\u00e1ne",
+        "305": "Rieka Amudarja a\u00a0pohorie Pam\u00edr v\u00a0Strednej\u00a0\u00c1zii",
+        "450": "Prelet nad horsk\u00fdm\u00a0mas\u00edvom\u00a0Altaj smerom nad Mongolsko",
+        "360": "Let z\u00a0Kirgizska smerom nad juhov\u00fdchodn\u00fd Kazachstan",
+        "45": "Let nad \u010cerven\u00fdm\u00a0morom smerom k\u00a0Arabsk\u00e9mu\u00a0polostrovu",
+        "190": "Pobre\u017eie Ir\u00e1nu s\u00a0pohor\u00edm\u00a0Zagros na obzore",
+        "165": "Prelet nad Arabsk\u00fdm\u00a0polostrovom s\u00a0Ir\u00e1nom na obzore",
+        "210": "Prelet nad pohor\u00edm\u00a0Zagros v\u00a0Ir\u00e1ne",
+        "100": "Let severov\u00fdchodn\u00fdm smerom ponad Arabsk\u00fd\u00a0polostrov"
+    },
+    "L007_C007": {
+        "299": "Prelet cez rieku\u00a0Tem\u017ea v\u00a0Lond\u00fdne",
+        "279": "Prelet okolo mrakodrapu The\u00a0Shard v\u00a0ju\u017enom Lond\u00fdne",
+        "104": "Prelet nad Tem\u017eou a\u00a0\u010falej okolo Lond\u00fdnskeho\u00a0oka",
+        "0": "Prelet nad pozemkom Buckinghamsk\u00e9ho\u00a0pal\u00e1ca v\u00a0Lond\u00fdne",
+        "49": "Prelet nad lond\u00fdnskym St\u00a0James\u2019s parkom a\u00a0\u010falej k\u00a0rieke\u00a0Tem\u017ea",
+        "324": "Prelet cez rieku\u00a0Tem\u017ea pri moste Tower\u00a0Bridge v\u00a0Lond\u00fdne",
+        "24": "Prelet nad Buckinghamsk\u00fdm\u00a0pal\u00e1com v\u00a0Lond\u00fdne",
+        "149": "Prelet nad ju\u017en\u00fdm Lond\u00fdnom"
+    },
+    "GMT306_139NC_139J_3066": {
+        "120": "Prelet nad z\u00e1padnou \u010das\u0165ou Spojen\u00fdch\u00a0\u0161t\u00e1tov so Salt\u00a0Lake\u00a0City na obzore",
+        "110": "Prelet nad Las\u00a0Vegas smerom k\u00a0Salt\u00a0Lake\u00a0City v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "70": "Prelet nad pobre\u017e\u00edm Kalifornie smerom do vn\u00fatrozemia",
+        "85": "Prelet nad Los\u00a0Angeles na z\u00e1padnom pobre\u017e\u00ed Spojen\u00fdch\u00a0\u0161t\u00e1tov",
+        "170": "Prelet nad Skalnat\u00fdmi\u00a0vrchmi v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "0": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom smerom k\u00a0pobre\u017eiu Kalifornie",
+        "155": "Prelet medzi mestami Salt\u00a0Lake\u00a0City a\u00a0Denver v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "95": "Prelet nad Los\u00a0Angeles v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch s\u00a0Las\u00a0Vegas na obzore"
+    },
+    "A013_C004": {
+        "0": "Prelet nad\u00a0sanfrancisk\u00fdm z\u00e1livom smerom k\u00a0bulv\u00e1ru Embarcadero",
+        "90": "Prelet nad sanfrancisk\u00fdm bulv\u00e1rom Embarcadero s\u00a0v\u00fdh\u013eadom na Market\u00a0Street",
+        "360": "Prelet nad ulicou Market\u00a0Street v\u00a0San\u00a0Franciscu",
+        "150": "Prelet nad ulicou Market\u00a0Street cez centrum San\u00a0Francisca"
+    },
+    "GL_G004_C010": {
+        "0": "Let pozd\u013a\u017e polostrova Nuussuaq v\u00a0Gr\u00f3nsku"
+    },
+    "A009_C001_10181A": {
+        "30": "Naprie\u010d Saharou v\u00a0Severnej\u00a0Afrike",
+        "210": "Prelet nad pobre\u017e\u00edm Tuniska smerom k\u00a0Taliansku",
+        "230": "Taliansko v\u00a0Stredozemnom\u00a0mori",
+        "245": "Prelet nad Talianskom smerom k\u00a0Balk\u00e1nskemu\u00a0polostrovu",
+        "155": "Prelet nad p\u00fa\u0161\u0165ou Ve\u013ek\u00fd\u00a0v\u00fdchodn\u00fd\u00a0erg v\u00a0Severnej Afrike smerom k\u00a0Stredozemn\u00e9mu\u00a0moru",
+        "110": "Prelet nad pohor\u00edm D\u017eib\u00e1l\u00a0al-Hukk\u00e1r na Sahare v\u00a0Severnej\u00a0Afrike",
+        "310": "Karpaty a\u00a0\u010cierne\u00a0more",
+        "195": "Pobre\u017eie Tuniska a\u00a0Stredozemn\u00e9\u00a0more",
+        "0": "Prelet nad Z\u00e1padnou\u00a0Afrikou smerom na Saharu",
+        "285": "Prelet nad Balk\u00e1nskym\u00a0polostrovom smerom na Karpaty"
+    },
+    "H012_C009": {
+        "0": "Let nad pobre\u017e\u00edm Kohala na ostrove\u00a0Havaj"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "40": "Prelet nad Balk\u00e1nskym\u00a0polostrovom okolo \u010cierneho\u00a0mora",
+        "5": "Prelet nad Stredozemn\u00fdm\u00a0morom s\u00a0v\u00fdh\u013eadom na Sic\u00edliu a\u00a0Apeninsk\u00fd\u00a0polostrov",
+        "25": "Prelet nad Balk\u00e1nskym\u00a0polostrovom smerom k\u00a0Centr\u00e1lnej\u00a0\u00c1zii",
+        "55": "Prelet nad Ukrajinou s\u00a0Ruskom na obzore",
+        "0": "Prelet nad Tuniskom smerom k\u00a0Taliansku",
+        "15": "Prelet nad ju\u017en\u00fdm Talianskom s\u00a0Balk\u00e1nskym\u00a0polostrovom na obzore",
+        "75": "Prelet nad juhoz\u00e1padn\u00fdm Ruskom okolo Kazachstanu"
+    },
+    "U009_C004": {
+        "0": "Siv\u00e9 \u00fatesov\u00e9 \u017eraloky pl\u00e1vaj\u00face pri pobre\u017e\u00ed Franc\u00fazskej Polyn\u00e9zie"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "10": "Prelet nad strednou \u010c\u00ednou smerom k\u00a0\u0160anghaju",
+        "0": "Prelet nad Centr\u00e1lnou\u00a0\u00c1ziou smerom k\u00a0pobre\u017eiu \u010c\u00edny",
+        "30": "Let nad v\u00fdchodnou \u010c\u00ednou so \u0160anghajom na obzore",
+        "45": "\u0160anghaj s\u00a0v\u00fdh\u013eadom smerom na V\u00fdchodo\u010d\u00ednske\u00a0more",
+        "50": "Prelet nad \u0160anghajom smerom k\u00a0V\u00fdchodo\u010d\u00ednskemu\u00a0moru"
+    },
+    "GMT314_139M_170NC": {
+        "300": "Let smerom nad severn\u00fd Atlantik s\u00a0pol\u00e1rnou\u00a0\u017eiarou nad Labradorom v\u00a0Kanade",
+        "45": "Prelet nad Kalifornsk\u00fdm\u00a0polostrovom s\u00a0v\u00fdh\u013eadom na Spojen\u00e9\u00a0\u0161t\u00e1ty na severe",
+        "125": "Let nad Ve\u013ek\u00fdmi\u00a0pr\u00e9riami v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "200": "Ve\u013ek\u00e9\u00a0kanadsk\u00e9\u00a0jazer\u00e1 s\u00a0provinciou Ont\u00e1rio v\u00a0Kanade",
+        "235": "Pol\u00e1rna\u00a0\u017eiara nad severnou \u010das\u0165ou Ont\u00e1ria v\u00a0Kanade",
+        "185": "Ve\u013ek\u00e9\u00a0kanadsk\u00e9\u00a0jazer\u00e1 s\u00a0provinciou Ont\u00e1rio na obzore",
+        "0": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom smerom na Kalifornsk\u00fd\u00a0polostrov",
+        "110": "Prelet nad Skalnat\u00fdmi\u00a0vrchmi s\u00a0Denverom na obzore",
+        "210": "Pol\u00e1rna\u00a0\u017eiara nad z\u00e1padnou \u010das\u0165ou Ont\u00e1ria v\u00a0Kanade",
+        "55": "Prelet nad Mexikom smerom k\u00a0juhoz\u00e1padnej \u010dasti Spojen\u00fdch\u00a0\u0161t\u00e1tov",
+        "75": "Prelet nad juhoz\u00e1padnou \u010das\u0165ou Spojen\u00fdch\u00a0\u0161t\u00e1tov",
+        "250": "Pol\u00e1rna\u00a0\u017eiara nad severnou \u010das\u0165ou provincie Quebec v\u00a0Kanade"
+    },
+    "A015_C018": {
+        "80": "Prelet nad mostom Bay\u00a0Bridge smerom k\u00a0centru San\u00a0Francisca",
+        "0": "Prelet k\u00a0mostu Bay Bridge a\u00a0centru San\u00a0Francisca",
+        "116": "Prelet z\u00e1livom v\u00a0San\u00a0Franciscu smerom do centra"
+    },
+    "GMT307_136NC_134K_8277": {
+        "190": "Let ponad New\u00a0Orleans a\u00a0Gulf\u00a0Coast v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "180": "Prelet okolo mesta Houston k\u00a0New\u00a0Orleans v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "0": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom smerom k\u00a0Mexiku",
+        "105": "Let ponad mesto\u00a0Mexiko smerom k\u00a0Mexick\u00e9mu\u00a0z\u00e1livu",
+        "215": "Let ponad juhov\u00fdchodn\u00fa \u010das\u0165 Spojen\u00fdch\u00a0\u0161t\u00e1tov",
+        "280": "Prelet nad v\u00fdchodnou \u010das\u0165ou Spojen\u00fdch\u00a0\u0161t\u00e1tov smerom k\u00a0New\u00a0Yorku",
+        "122": "Prelet nad Mexick\u00fdm\u00a0z\u00e1livom smerom k\u00a0Spojen\u00fdm\u00a0\u0161t\u00e1tom",
+        "320": "Prelet nad v\u00fdchodnou \u010das\u0165ou Spojen\u00fdch\u00a0\u0161t\u00e1tov, bl\u00ed\u017ei mesto\u00a0New\u00a0York"
+    },
+    "A105_C002_021206_002": {
+        "300": "Prelet nad Floridou a\u00a0Bahamami smerom k\u00a0Sargasov\u00e9mu\u00a0moru",
+        "350": "Prelet nad Sargasov\u00fdm\u00a0morom smerom k\u00a0Atlantick\u00e9mu\u00a0oce\u00e1nu",
+        "100": "Prelet nad Strednou\u00a0Amerikou smerom na Karibsk\u00e9\u00a0more",
+        "240": "Prelet nad Kubou s\u00a0Floridou a\u00a0Bahamami na obzore",
+        "150": "Prelet nad Karibsk\u00fdm\u00a0morom smerom na Kubu",
+        "70": "Cez juhoz\u00e1padn\u00e9 pobre\u017eie Strednej\u00a0Ameriky smerom na Karibsk\u00e9\u00a0more"
+    },
+    "A013_C005": {
+        "0": "Prelet popri parku Presidio of San\u00a0Francisco k\u00a0mostu Golden\u00a0Gate",
+        "190": "Prelet nad mostom Golden\u00a0Gate smerom k\u00a0Marin\u00a0Headlands"
+    },
+    "I001_C014": {
+        "0": "Let pozd\u013a\u017e rieky J\u00f6kulgilskv\u00edsl v\u00a0bl\u00edzkosti oblasti Landmannalaugar na Islande"
+    },
+    "D004_L014": {
+        "0": "Vr\u00e1skavec dlhoplutv\u00fd pri pobre\u017e\u00ed Franc\u00fazskej Polyn\u00e9zie"
+    },
+    "A103_C002205DG": {
+        "0": "Prelet nad Africk\u00fdm\u00a0rohom smerom k\u00a0Adensk\u00e9mu\u00a0z\u00e1livu"
+    },
+    "G007_C004": {
+        "0": "Let pozd\u013a\u017e rieky Colorado te\u010d\u00facej cez Ve\u013ek\u00fd ka\u0148on v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "DB_D001_C005": {
+        "0": "Prelet popri Dubai\u00a0Marina v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "A006_C003": {
+        "0": "Z\u00e1liv v\u00a0San\u00a0Franciscu a\u00a0most Golden\u00a0Gate",
+        "191": "Prelet nad sanfrancisk\u00fdm z\u00e1livom",
+        "140": "Let ponad severn\u00fa ve\u017eu mosta Golden\u00a0Gate Bridge smerom na San\u00a0Francisco"
+    },
+    "A012_C004": {
+        "150": "Prelet nad mostom Golden\u00a0Gate smerom k\u00a0parku Presidio of San\u00a0Francisco",
+        "0": "Prelet nad Marin\u00a0Headlands s\u00a0v\u00fdh\u013eadom na most Golden\u00a0Gate"
+    },
+    "HK_H004_C013": {
+        "270": "Let ponad ostrov Hongkong Island",
+        "150": "Prelet nad centr\u00e1lnym Hongkongom ",
+        "0": "Prelet nad Wan \u010cchaj smerom k\u00a0centr\u00e1lnemu Hongkongu"
+    },
+    "LA_A008_C004": {
+        "430": "Prelet nad pl\u00e1\u017eou Santa\u00a0Monica State Beach ne\u010faleko Los\u00a0Angeles",
+        "365": "Let ponad m\u00f3lo Santa\u00a0Monica Pier ne\u010faleko Los\u00a0Angeles",
+        "0": "Prelet nad pl\u00e1\u017eou Santa\u00a0Monica State Beach ne\u010faleko Los\u00a0Angeles"
+    },
+    "N008_C009": {
+        "246": "Prelet nad centr\u00e1lnym Manhattanom v\u00a0New Yorku",
+        "0": "Nad newyorsk\u00fdm Central\u00a0Parkom smerom do centr\u00e1lneho Manhattanu"
+    },
+    "Y002_C013_0226": {
+        "70": "Pr\u00edlet k\u00a0mas\u00edvu Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "87": "Mas\u00edv Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "210": "Let nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A012_C014": {
+        "208": "Prelet nad ulicou Market\u00a0Street v\u00a0San\u00a0Franciscu",
+        "0": "Prelet nad\u00a0sanfrancisk\u00fdm z\u00e1livom smerom k\u00a0bulv\u00e1ru Embarcadero"
+    },
+    "A001_C004_1207W5": {
+        "165": "Let na severov\u00fdchod nad \u0161panielskymi Bale\u00e1rskymi\u00a0ostrovmi",
+        "45": "Let smerom na severov\u00fdchod pozd\u013a\u017e pobre\u017eia Maroka",
+        "105": "Prelet nad Marokom so Stredozemn\u00fdm\u00a0morom na obzore",
+        "75": "Prelet nad pohor\u00edm\u00a0Atlas v\u00a0Maroku",
+        "220": "Let smerom na severov\u00fdchod ponad Alpy",
+        "0": "Kan\u00e1rske\u00a0ostrovy, Atlantick\u00fd\u00a0oce\u00e1n a\u00a0pobre\u017eie Afriky",
+        "185": "Prelet nad z\u00e1padnou \u010das\u0165ou Stredozemn\u00e9ho\u00a0mora s\u00a0Alpami na obzore",
+        "145": "Let na severov\u00fdchod nad \u0161panielskym pobre\u017e\u00edm Costa\u00a0Blanca",
+        "125": "Stredozemn\u00e9\u00a0more a\u00a0ju\u017en\u00e9 \u0160panielsko"
+    },
+    "A114_C001_0305OT": {
+        "50": "Prelet nad ju\u017enou Kaliforniou smerom k\u00a0Mexiku",
+        "130": "Pohorie Sierra\u00a0Madre Occidental na z\u00e1padnom pobre\u017e\u00ed Mexika",
+        "65": "Mohavsk\u00e1\u00a0p\u00fa\u0161\u0165 v\u00a0ju\u017enej Kalifornii s\u00a0Mexikom na obzore",
+        "225": "Poh\u013ead na juh na Tich\u00fd\u00a0oce\u00e1n ponad pohorie Sierra\u00a0Madre del Sur v\u00a0Mexiku",
+        "185": "Prelet nad pohor\u00edm Sierra\u00a0Madre Occidental smerom k\u00a0z\u00e1padn\u00e9mu pobre\u017eiu Mexika",
+        "290": "Tich\u00fd\u00a0oce\u00e1n pri pobre\u017e\u00ed Mexika a\u00a0Guatemaly",
+        "280": "Tich\u00fd\u00a0oce\u00e1n pri pobre\u017e\u00ed Mexika",
+        "95": "Kalifornsk\u00fd\u00a0z\u00e1liv lemovan\u00fd Sonorskou\u00a0p\u00fa\u0161\u0165ou a\u00a0Kalifornsk\u00fdm\u00a0polostrovom",
+        "20": "Let na juh nad pobre\u017e\u00edm Kalifornie"
+    },
+    "A103_C002_0205DG": {
+        "145": "Makr\u00e1nske\u00a0pobre\u017eie Ir\u00e1nu a\u00a0Pakistanu",
+        "280": "P\u00fa\u0161\u0165\u00a0Taklamakan v\u00a0z\u00e1padnej \u010c\u00edne",
+        "235": "Prelet nad pohor\u00edm\u00a0Karakoram smerom na \u010c\u00ednu",
+        "315": "Pohorie \u0164an\u0161an v\u00a0Centr\u00e1lnej\u00a0\u00c1zii",
+        "160": "Prelet nad Ir\u00e1nom smerom k\u00a0Afganistanu a\u00a0Pakistanu",
+        "45": "Juhov\u00fdchodn\u00e1 \u010das\u0165 Arabsk\u00e9ho\u00a0polostrova",
+        "115": "Om\u00e1nsky\u00a0z\u00e1liv v\u00a0bl\u00edzkosti Makr\u00e1nskeho\u00a0pobre\u017eia",
+        "180": "Prelet nad Afganistanom a\u00a0Pakistanom smerom k\u00a0pohoriu\u00a0Karakoram"
+    },
+    "DB_D011_C010": {
+        "330": "Prelet nad centrom\u00a0Dubaja smerom k\u00a0pobre\u017eiu",
+        "280": "Let popri mrakodrape Burd\u017e\u00a0Chal\u00edfa v\u00a0centre Dubaja v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch",
+        "0": "Smerom k\u00a0mrakodrapu Burd\u017e\u00a0Chal\u00edfa v\u00a0centre Dubaja v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "I003_C005": {
+        "0": "Prelet nad jazerom Langisj\u00f3r a\u00a0hrebe\u0148om F\u00f6grufj\u00f6ll na Islande"
+    },
+    "N006_C003": {
+        "0": "Smerom k\u00a0doln\u00e9mu Manhattanu v\u00a0New\u00a0Yorku",
+        "40": "Prelet nad doln\u00fdm\u00a0Manhattanom v\u00a0New Yorku",
+        "140": "Prelet nad doln\u00fdm Manhattanom v\u00a0New\u00a0Yorku smerom k\u00a0centr\u00e1lnemu Manhattanu"
+    },
+    "DB_D002_C003": {
+        "0": "Prelet k\u00a0centru Dubaja v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch",
+        "210": "Let ponad centrum Dubaja v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "Y004_C015227PD": {
+        "0": "Mas\u00edv Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "L004_C011": {
+        "325": "Prelet nad budovou parlamentu na rieke\u00a0Tem\u017ea v\u00a0Lond\u00fdne",
+        "0": "Nad Tem\u017eou v\u00a0Lond\u00fdne smerom k\u00a0mostu Tower\u00a0Bridge",
+        "20": "Prelet nad Tem\u017eou v\u00a0Lond\u00fdne",
+        "310": "Let pozd\u013a\u017e Tem\u017ee okolo Lond\u00fdnskeho\u00a0oka",
+        "130": "Let pozd\u013a\u017e Tem\u017ee smerom k\u00a0Lond\u00fdnskemu\u00a0oku",
+        "210": "Nad Tem\u017eou smerom k\u00a0Lond\u00fdnskemu\u00a0oku"
+    },
+    "L010_C006": {
+        "178": "Na juh od rieky\u00a0Tem\u017ea v\u00a0Lond\u00fdne",
+        "78": "Prelet nad Tem\u017eou v\u00a0Lond\u00fdne",
+        "0": "Nad Tem\u017eou v\u00a0Lond\u00fdne smerom k\u00a0mostu Tower\u00a0Bridge",
+        "258": "Prelet cez rieku\u00a0Tem\u017ea v\u00a0Lond\u00fdne"
+    },
+    "Y003_C009": {
+        "130": "Vrchol Merced Peak v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "221": "Prelet okolo vrcholu Merced\u00a0Peak v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "0": "Let nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "244": "Prelet nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "93": "Pr\u00edlet k\u00a0vrcholu Merced\u00a0Peak v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "N008_C003": {
+        "0": "Smerom z\u00a0New\u00a0York\u00a0Harbor k\u00a0doln\u00e9mu\u00a0Manhattanu",
+        "110": "Prelet nad doln\u00fdm Manhattanom smerom k\u00a0budove One World\u00a0Trade\u00a0Center",
+        "180": "Popri budove One World\u00a0Trade\u00a0Center smerom k\u00a0centr\u00e1lnemu Manhattanu",
+        "210": "Prelet nad doln\u00fdm Manhattanom v\u00a0New\u00a0Yorku smerom k\u00a0centr\u00e1lnemu Manhattanu"
+    },
+    "A004_C012": {
+        "0": "Tanierovky u\u0161at\u00e9 pri pobre\u017e\u00ed Alja\u0161ky v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "100": "Centrum San\u00a0Francisca s\u00a0v\u00fdh\u013eadom na ve\u017eu Coit\u00a0Tower"
+    },
+    "Y011_C001": {
+        "44": "Let na v\u00fdchod smerom k\u00a0skaln\u00e9mu \u00fatvaru El Capitan v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "585": "Let smerom na v\u00fdchod ponad\u00a0Yosemitsk\u00e9 \u00fadolie v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "470": "Prelet okolo mas\u00edvu Half\u00a0Dome v\u00a0Yosemitskom \u00fadol\u00ed v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "87": "Prelet okolo skaln\u00e9ho \u00fatvaru El Capitan v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "390": "Mas\u00edv Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "0": "Let smerom k\u00a0vodop\u00e1du Bridalveil a\u00a0skaln\u00e9mu \u00fatvaru El Capitan\u00a0v\u00a0Yosemitskom n\u00e1rodnom parku",
+        "120": "Let na v\u00fdchod smerom k\u00a0mas\u00edvu Half\u00a0Dome v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A001_C007": {
+        "348": "Med\u00fazy zlat\u00e9 vo vod\u00e1ch pri Palau",
+        "0": "Med\u00fazy zlat\u00e9 vo vod\u00e1ch pri Palau",
+        "282": "Med\u00fazy zlat\u00e9 s\u00a0tanierovkou u\u0161atou v\u00a0strede"
+    },
+    "A007_C017": {
+        "196": "Centrum San Francisca",
+        "150": "Prelet okolo ve\u017ee Coit\u00a0Tower smerom do centra San\u00a0Francisca a\u00a0k\u00a0mostu Bay\u00a0Bridge",
+        "0": "Prelet nad \u0161tvr\u0165ou Fisherman\u2019s\u00a0Wharf smerom k\u00a0centru San\u00a0Francisca",
+        "80": "Let smerom k\u00a0ve\u017ei Coit\u00a0Tower s\u00a0centrom San\u00a0Francisca a\u00a0mostom Bay\u00a0Bridge v\u00a0pozad\u00ed"
+    },
+    "A016_C009": {
+        "0": "U\u0161katce juhoafrick\u00e9 pri pobre\u017e\u00ed Kapsk\u00e9ho polostrova v\u00a0Ju\u017enej Afrike"
+    },
+    "S006_C007": {
+        "0": "Jazero Loch Moidart na z\u00e1padnom pobre\u017e\u00ed \u0160k\u00f3tska",
+        "214": "Let nad z\u00e1padn\u00fdm pobre\u017e\u00edm \u0160k\u00f3tska",
+        "139": "Pr\u00edlet k\u00a0hradu Tioram na z\u00e1padnom pobre\u017e\u00ed \u0160k\u00f3tska",
+        "181": "Hrad Tioram na z\u00e1padnom pobre\u017e\u00ed \u0160k\u00f3tska"
+    },
+    "H010_C006": {
+        "300": "\u00dadolie Honop\u016b v\u00a0lesnej rezerv\u00e1cii Kohala na ostrove\u00a0Havaj",
+        "0": "Let smerom k\u00a0\u00fadoliu Honop\u016b v\u00a0lesnej rezerv\u00e1cii Kohala na ostrove Havaj"
+    },
+    "A012_C031": {
+        "0": "Hviezdovky na dne oce\u00e1na v\u00a0bl\u00edzkosti Bornea"
+    },
+    "L012_C002": {
+        "92": "Ju\u017ene od Tem\u017ee smerom k\u00a0Lond\u00fdnskemu\u00a0oku",
+        "20": "Prelet cez rieku\u00a0Tem\u017ea v\u00a0Lond\u00fdne",
+        "60": "Let popri mrakodrape The\u00a0Shard v\u00a0ju\u017enom Lond\u00fdne",
+        "200": "Prelet nad riekou Tem\u017ea v\u00a0Lond\u00fdne smerom na Westminstersk\u00fd\u00a0pal\u00e1c",
+        "270": "Prelet na Westminsterom v\u00a0Lond\u00fdne",
+        "0": "Nad Tem\u017eou v\u00a0Lond\u00fdne smerom k\u00a0mostu Tower\u00a0Bridge"
+    },
+    "A083_C002_1130KZ": {
+        "0": "Odraz slnka pozd\u013a\u017e pobre\u017eia Ir\u00e1nu",
+        "60": "De\u0148 sa men\u00ed na noc nad Centr\u00e1lnou\u00a0\u00c1ziou",
+        "15": "De\u0148 sa men\u00ed na noc nad Ir\u00e1nom"
+    },
+    "S009_C007": {
+        "0": "Let nad ostrovom Skye v\u00a0\u0160k\u00f3tsku",
+        "135": "Skaln\u00fd \u00fatvar Old Man of Storr na ostrove Skye v\u00a0\u0160k\u00f3tsku",
+        "173": "Prelet ponad ostrov Skye v\u00a0\u0160k\u00f3tsku"
+    },
+    "G010_C026107KE": {
+        "0": "Let pozd\u013a\u017e rieky Colorado vo Ve\u013ekom ka\u0148one v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A105_C003_0212CT": {
+        "170": "Let smerom z\u00a0Nov\u00e9ho\u00a0Z\u00e9landu na severov\u00fdchod ponad Tich\u00fd\u00a0oce\u00e1n",
+        "110": "Poh\u013ead na vych\u00e1dzaj\u00face slnko nad Nov\u00fdm\u00a0Z\u00e9landom",
+        "70": "Brie\u017edenie nad Nov\u00fdm\u00a0Z\u00e9landom"
+    },
+    "GMT060_117NC_363D": {
+        "220": "Prelet nad Severn\u00fdm\u00a0terit\u00f3riom v\u00a0Austr\u00e1lii smerom na Nov\u00fa\u00a0Guineu",
+        "335": "Prelet nad Arafursk\u00fdm\u00a0morom smerom na Nov\u00fa\u00a0Guineu",
+        "0": "Prelet nad Indick\u00fdm\u00a0oce\u00e1nom smerom k\u00a0mestu Perth v\u00a0Austr\u00e1lii",
+        "50": "Let na severov\u00fdchod cez Z\u00e1padn\u00fa\u00a0Austr\u00e1liu",
+        "170": "Prelet nad Z\u00e1padnou\u00a0Austr\u00e1liou so Severn\u00fdm\u00a0terit\u00f3riom na obzore"
+    },
+    "GMT329_117NC_401C_1037": {
+        "45": "Prelet nad Ve\u013ekou\u00a0Brit\u00e1niou smerom na kontinent\u00e1lnu Eur\u00f3pu",
+        "195": "Prelet nad Ruskom smerom k\u00a0Centr\u00e1lnej\u00a0\u00c1zii",
+        "185": "Prelet nad v\u00fdchodn\u00fdm Ruskom okolo Moskvy",
+        "105": "Prelet nad Strednou\u00a0Eur\u00f3pou smerom k\u00a0Rusku",
+        "65": "Prelet nad severoz\u00e1padnou Eur\u00f3pou smerom k\u00a0Rusku",
+        "15": "\u00cdrsko a\u00a0Ve\u013ek\u00e1\u00a0Brit\u00e1nia",
+        "0": "Prelet nad severn\u00fdm\u00a0Atlantikom, bl\u00ed\u017ei sa \u00cdrsko a\u00a0Ve\u013ek\u00e1 Brit\u00e1nia",
+        "150": "Prelet nad V\u00fdchodnou\u00a0Eur\u00f3pou, v\u00a0dia\u013eke je vidie\u0165 Moskvu",
+        "165": "Prelet nad V\u00fdchodnou\u00a0Eur\u00f3pou s\u00a0v\u00fdh\u013eadom na Moskvu"
+    },
+    "P001_C005_11059D": {
+        "0": "Prelet popri mas\u00edve Cuernos del Paine v\u00a0n\u00e1rodnom parku Torres\u00a0del Paine v\u00a0\u010cile"
+    },
+    "GMT308_139K_142NC": {
+        "300": "Prelet nad Dominik\u00e1nskou\u00a0republikou a\u00a0Haiti s\u00a0Karibsk\u00fdm\u00a0morom na obzore",
+        "90": "Let juhov\u00fdchodn\u00fdm smerom ponad stredoz\u00e1pad Spojen\u00fdch\u00a0\u0161t\u00e1tov",
+        "285": "Prelet nad Bahamami s\u00a0Dominik\u00e1nskou\u00a0republikou a\u00a0Haiti na obzore",
+        "315": "Prelet nad Karibsk\u00fdm\u00a0morom smerom na juh k\u00a0Venezuele",
+        "0": "Let juhov\u00fdchodn\u00fdm smerom ponad Ve\u013ek\u00e9\u00a0pr\u00e9rie v\u00a0Spojen\u00fdch\u00a0\u0161t\u00e1toch",
+        "240": "Let smerom na juhov\u00fdchod ponad Bahamy",
+        "120": "Prelet nad juhov\u00fdchodnou \u010das\u0165ou Spojen\u00fdch\u00a0\u0161t\u00e1tov smerom k\u00a0Floride",
+        "220": "Prelet nad Floridou smerom na Bahamy"
+    },
+    "Y009_C015304I": {
+        "0": "Prelet nad oblas\u0165ou Tuolumne\u00a0Meadows v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "C003_C003": {
+        "0": "\u00dasek \u010c\u00ednskeho\u00a0m\u00faru Mu-tchien-j\u00fc v\u00a0obvode Chuaj-\u017eou"
+    },
+    "CH_C002_C005": {
+        "0": "Let ponad ry\u017eov\u00e9 terasy Lung-\u0165i v\u00a0\u010d\u00ednskej provincii Kuang-si"
+    },
+    "A108_C001215V8": {
+        "0": "Let nad Tich\u00fdm\u00a0oce\u00e1nom smerom k\u00a0Strednej\u00a0Amerike"
+    },
+    "Y002_C013226": {
+        "0": "Let nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "32": "Prelet nad Mongolskom smerom k\u00a0\u010c\u00edne",
+        "195": "Prelet nad Japonskom s\u00a0v\u00fdh\u013eadom na Tich\u00fd\u00a0oce\u00e1n",
+        "0": "Let smerom na juhov\u00fdchod ponad Sib\u00edr a\u00a0Mongolsko",
+        "260": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom juhov\u00fdchodne od Japonska",
+        "22": "Let smerom na Vn\u00fatorn\u00e9\u00a0Mongolsko",
+        "110": "Prelet nad \u010c\u00ednou smerom na K\u00f3rejsk\u00fd\u00a0polostrov",
+        "180": "Prelet nad K\u00f3rejskou\u00a0republikou smerom k\u00a0Japonsku",
+        "150": "K\u00f3rejsk\u00fd\u00a0polostrov, v\u00a0dia\u013eke je vidie\u0165 Japonsko",
+        "60": "Prelet nad severnou \u010c\u00ednou smerom na K\u00f3rejsk\u00fd\u00a0polostrov"
+    },
+    "N003_C006": {
+        "160": "Smerom k\u00a0budove Empire\u00a0State Building v\u00a0New\u00a0Yorku",
+        "205": "Prelet popri budove Empire\u00a0State Building smerom k\u00a0doln\u00e9mu Manhattanu",
+        "50": "Let ponad centr\u00e1lny Manhattan a\u00a0\u010falej do centra k\u00a0budove Empire\u00a0State Building",
+        "0": "Prelet nad \u0161tvr\u0165ou Upper East Side a\u00a0Central\u00a0Parkom v\u00a0New\u00a0Yorku"
+    },
+    "GMT312_162NC_139M_1041": {
+        "165": "Prelet nad Balk\u00e1nskym\u00a0polostrovom smerom k\u00a0\u010ciernemu\u00a0moru",
+        "140": "Prelet nad ju\u017en\u00fdm Talianskom s\u00a0Balk\u00e1nskym\u00a0polostrovom na obzore, v\u00a0dia\u013eke je vidie\u0165 Turecko",
+        "0": "No\u010dn\u00fd let na severov\u00fdchod nad Saharou",
+        "70": "Prelet nad p\u00fa\u0161\u0165ou Ve\u013ek\u00fd\u00a0v\u00fdchodn\u00fd\u00a0erg smerom k\u00a0Stredozemn\u00e9mu\u00a0moru",
+        "180": "Prelet nad Balk\u00e1nskym\u00a0polostrovom s\u00a0\u010ciernym\u00a0morom na obzore",
+        "210": "Let nad \u010ciernym\u00a0morom smerom k\u00a0Ukrajine",
+        "230": "Let nad Ukrajinou smerom k\u00a0Rusku",
+        "120": "Let ponad Stredozemn\u00e9\u00a0more smerom k\u00a0Taliansku",
+        "100": "Pobre\u017eie Stredozemn\u00e9ho\u00a0mora v\u00a0Tunisku a\u00a0L\u00fdbii"
+    },
+    "A001_C001_120530": {
+        "115": "Prelet nad Portugalskom a\u00a0\u0160panielskom",
+        "0": "Prelet nad severn\u00fdm Atlantick\u00fdm\u00a0oce\u00e1nom smerom na Portugalsko",
+        "180": "Prelet nad Z\u00e1padnou\u00a0Eur\u00f3pu, v\u00a0dia\u013eke je vidie\u0165 severn\u00fd Atlantick\u00fd\u00a0oce\u00e1n",
+        "150": "Let smerom z\u00a0Pyrenejsk\u00e9ho\u00a0polostrova ponad Biskajsk\u00fd\u00a0z\u00e1liv a\u00a0Franc\u00fazsko"
+    },
+    "CH_C007_C011": {
+        "0": "Prelet nad N\u00e1rodn\u00fdm\u00a0parkom Wu\u2011ling\u2011j\u00fcan v\u00a0\u010c\u00edne"
+    },
+    "Y011_C008": {
+        "75": "Prelet nad skaln\u00fdm hrebe\u0148om Matthes\u00a0Crest v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "0": "Let smerom k\u00a0skaln\u00e9mu hrebe\u0148u Matthes\u00a0Crest v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "215": "Prelet nad skaln\u00fdm hrebe\u0148om Matthes\u00a0Crest v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "396": "Prelet k\u00a0oblasti Tuolumne\u00a0Meadows v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch",
+        "124": "Prelet cez skaln\u00fd hrebe\u0148 Matthes\u00a0Crest v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A050_C004_1027V8": {
+        "220": "V\u00fdchodn\u00e1\u00a0p\u00fa\u0161\u0165 lemovan\u00e1 riekou\u00a0N\u00edl a\u00a0Suezsk\u00fdm\u00a0z\u00e1livom",
+        "0": "Let nad Z\u00e1padnou\u00a0Eur\u00f3pou, v\u00a0dia\u013eke je vidie\u0165 Ve\u013ek\u00e1\u00a0Brit\u00e1nia a\u00a0\u00cdrsko",
+        "240": "Let juhov\u00fdchodn\u00fdm smerom ponad \u010cerven\u00e9\u00a0more",
+        "205": "Rieka N\u00edl te\u010d\u00faca cez Saharu v\u00a0Egypte",
+        "185": "Stredozemn\u00e9\u00a0more a\u00a0delta\u00a0rieky\u00a0N\u00edl",
+        "160": "Let na juhov\u00fdchod nad Stredozemn\u00fdm\u00a0morom",
+        "50": "Let ponad Apeninsk\u00fd\u00a0polostrov a\u00a0Jadransk\u00e9\u00a0more",
+        "100": "Gr\u00e9cko lemovan\u00e9 I\u00f3nskym\u00a0a\u00a0Egejsk\u00fdm morom",
+        "20": "Let juhov\u00fdchodn\u00fdm smerom ponad Alpy a\u00a0P\u00e1dsku\u00a0n\u00ed\u017einu"
+    },
+    "P005_C002_1109E1": {
+        "0": "Let pozd\u013a\u017e jazera\u00a0Lago Nordenskj\u00f6ld v\u00a0n\u00e1rodnom parku Torres\u00a0del Paine v\u00a0\u010cile"
+    },
+    "A018_C014": {
+        "0": "Let smerom do centra San\u00a0Francisca, v\u00a0dia\u013eke je vidie\u0165 ve\u017eu Sutro\u00a0Tower",
+        "40": "Centrum San\u00a0Francisca, v\u00a0dia\u013eke je vidie\u0165 ve\u017eu Sutro\u00a0Tower",
+        "10": "Budova Transamerica\u00a0Pyramid v\u00a0centre San\u00a0Francisca"
+    },
+    "I003_C004": {
+        "0": "Prelet nad jazerom Langisj\u00f3r na Islande"
+    },
+    "HK_H004_C010": {
+        "150": "Prelet nad Hongkongom smerom k\u00a0pr\u00edstavu Victoria\u00a0Harbour",
+        "330": "Prelet nad pr\u00edstavom Victoria\u00a0Harbour smerom k\u00a0polostrovu\u00a0Kowloon",
+        "0": "Prelet nad kopcom Victoria\u00a0Peak v\u00a0Hongkongu"
+    },
+    "A114_C001305OT": {
+        "0": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom smerom k\u00a0Spojen\u00fdm\u00a0\u0161t\u00e1tom"
+    },
+    "I003_C011": {
+        "308": "Let nad Islandskou vyso\u010dinou",
+        "0": "Let nad riekou J\u00f6kulgilskv\u00edsl v\u00a0oblasti Landmannalaugar na Islande"
+    },
+    "H005_C012": {
+        "0": "\u00dadolie Waimanu v\u00a0lesnej rezerv\u00e1cii Kohala na ostrove Havaj"
+    },
+    "G008_C015106MB": {
+        "0": "Prelet nad oblas\u0165ou Burnt\u00a0Canyon vo Ve\u013ekom ka\u0148one v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Prelet okolo mas\u00edvu Half\u00a0Dome k\u00a0vodop\u00e1du Nevada v\u00a0Yosemitskom n\u00e1rodnom parku",
+        "146": "Mas\u00edv Half\u00a0Dome a\u00a0vodop\u00e1d Nevada v\u00a0Yosemitskom n\u00e1rodnom parku v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A014_C023": {
+        "0": "H\u00faf karanxov pri pobre\u017e\u00ed Bornea"
+    },
+    "A015_C014": {
+        "210": "Prelet nad ulicou Market\u00a0Street cez centrum San\u00a0Francisca",
+        "0": "Prelet nad\u00a0sanfrancisk\u00fdm z\u00e1livom smerom k\u00a0bulv\u00e1ru Embarcadero"
+    },
+    "S003_C020": {
+        "372": "Ostrov Skye v\u00a0\u0160k\u00f3tsku",
+        "338": "Maj\u00e1k Neist Point na ostrove Skye v\u00a0\u0160k\u00f3tsku",
+        "0": "Let pozd\u013a\u017e pobre\u017eia ostrova Skye v\u00a0\u0160k\u00f3tsku"
+    },
+    "A010_C002": {
+        "0": "Potulky v\u00a0chaluhovom lese pri Kapskom polostrove v\u00a0Ju\u017enej Afrike"
+    },
+    "DB_D008_C010": {
+        "0": "Let pozd\u013a\u017e magistr\u00e1ly \u0161ejka\u00a0Zajda v\u00a0Dubaji v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "LW_L001_C006": {
+        "0": "Prelet nad p\u00fa\u0161\u0165ou\u00a0Liwa v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "A108_C001_0215V8": {
+        "65": "Pobre\u017eie\u00a0Moskytov v\u00a0Nikarague",
+        "50": "Poh\u013ead na Stredn\u00fa\u00a0Ameriku s\u00a0Ju\u017enou Amerikou v\u00a0pozad\u00ed",
+        "170": "Let nad Bahamami s\u00a0v\u00fdh\u013eadom na Haiti a\u00a0Dominik\u00e1nsku\u00a0republiku",
+        "125": "Prelet nad Kubou s\u00a0v\u00fdh\u013eadom na Haiti a\u00a0Dominik\u00e1nsku\u00a0republiku",
+        "85": "Prelet nad Karibsk\u00fdm\u00a0morom postupuj\u00fac na Kubu",
+        "190": "Ostrovy Turks a\u00a0Caicos v\u00a0Atlantickom\u00a0oce\u00e1ne",
+        "110": "Prelet okolo Jamajky zahalenej v\u00a0oblakoch v\u00a0Karibskom\u00a0mori",
+        "35": "Tichomorsk\u00e9 pobre\u017eie Nikaraguy, Kostariky a\u00a0Panamy"
+    },
+    "A018_C029": {
+        "0": "H\u00faf barak\u00fad \u010diernoplutv\u00fdch vo vod\u00e1ch v\u00a0bl\u00edzkosti Bornea"
+    },
+    "C004_C003": {
+        "0": "\u00dasek \u010c\u00ednskeho\u00a0m\u00faru Mu-tchien-j\u00fc v\u00a0obvode Chuaj-\u017eou"
+    },
+    "A010_C007": {
+        "0": "Med\u00fazy zlat\u00e9 vo vod\u00e1ch pri Palau"
+    },
+    "HK_H004_C008": {
+        "0": "Prelet nad pr\u00edstavom Victoria Harbour s\u00a0v\u00fdh\u013eadom na ostrov Hongkong"
+    },
+    "S004_C019": {
+        "0": "Prelet ponad pohorie Cuillin na ostrove Skye v\u00a0\u0160k\u00f3tsku"
+    },
+    "LA_A009_C009": {
+        "0": "Griffithovo\u00a0observat\u00f3rium a\u00a0kopce Hollywood\u00a0Hills v\u00a0Los\u00a0Angeles"
+    },
+    "A009_C007": {
+        "0": "Delf\u00edny dlhonos\u00e9 vo vod\u00e1ch pri pobre\u017e\u00ed Kostariky"
+    },
+    "N013_C004": {
+        "40": "Prelet nad Times\u00a0Square v\u00a0New\u00a0Yorku",
+        "0": "Let pozd\u013a\u017e 7.\u00a0avenue smerom k\u00a0Times\u00a0Square v\u00a0New\u00a0Yorku",
+        "120": "Let pozd\u013a\u017e 7.\u00a0avenue v\u00a0centr\u00e1lnom Manhattane v\u00a0New\u00a0Yorku"
+    },
+    "LA_A006_C004": {
+        "250": "Prelet nad kopcami Hollywood\u00a0Hills smerom na Burbank v\u00a0Kalifornii",
+        "0": "Prelet nad n\u00e1pisom Hollywood v\u00a0Los\u00a0Angeles"
+    },
+    "G009_C00310678": {
+        "0": "Let nad Ve\u013ek\u00fdm ka\u0148onom v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "H004_C009": {
+        "0": "Let v\u00a0oblakoch ponad pr\u00edrodn\u00fa rezerv\u00e1ciu Pu\u2018u\u00a0O\u00a0\u2018Umi na ostrove Havaj"
+    },
+    "HK_B005_C011": {
+        "0": "Prelet nad pr\u00edstavom Victoria\u00a0Harbour smerom k\u00a0centr\u00e1lnemu Hongkongu"
+    },
+    "S005_C015": {
+        "252": "Pr\u00edlet k\u00a0Hebridsk\u00e9mu moru v\u00a0\u0160k\u00f3tsku",
+        "0": "Let nad jazerom Loch Moidart na z\u00e1padnom pobre\u017e\u00ed \u0160k\u00f3tska"
+    },
+    "Y005_C003228SC": {
+        "0": "Let nad Yosemitsk\u00fdm n\u00e1rodn\u00fdm parkom v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A003_C014": {
+        "0": "Poh\u013ead zhora na tanierovky u\u0161at\u00e9 vzn\u00e1\u0161aj\u00face sa pri Alja\u0161skom pobre\u017e\u00ed Spojen\u00fdch \u0161t\u00e1tov"
+    },
+    "I003_C015": {
+        "0": "Let cez \u00fadolie J\u00f6kulgil v\u00a0oblasti Landmannalaugar na Islande"
+    },
+    "A002_C009": {
+        "0": "Med\u00fazy zlat\u00e9 vo vod\u00e1ch pri Palau"
+    },
+    "A008_C007": {
+        "150": "Prelet nad mostom Golden\u00a0Gate smerom k\u00a0parku Presidio of San\u00a0Francisco",
+        "0": "Prelet nad Marin\u00a0Headlands s\u00a0v\u00fdh\u013eadom na most Golden\u00a0Gate"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Pol\u00e1rna\u00a0\u017eiara nad Antarkt\u00eddou"
+    },
+    "A008_C010": {
+        "0": "Koralov\u00fd \u00fates v\u00a0\u010cervenom mori v\u00a0bl\u00edzkosti Egypta"
+    },
+    "A016_C002": {
+        "0": "Pot\u00e1panie v\u00a0chaluhov\u00fdch lesoch pri Kalifornskom pobre\u017e\u00ed Spojen\u00fdch \u0161t\u00e1tov"
+    },
+    "H004_C007": {
+        "0": "Let v\u00a0oblakoch ponad pr\u00edrodn\u00fa rezerv\u00e1ciu Pu\u2018u\u00a0O\u00a0\u2018Umi na ostrove Havaj"
+    },
+    "P007_C027": {
+        "0": "Prelet nad n\u00e1rodn\u00fdm parkom Torres del\u00a0Paine v\u00a0\u010cile"
+    },
+    "B002_C011": {
+        "0": "Delf\u00edny oby\u010dajn\u00e9 pri Kalifornskom pobre\u017e\u00ed Spojen\u00fdch \u0161t\u00e1tov"
+    },
+    "A004_C003": {
+        "0": "Koralov\u00fd \u00fates bl\u00edzko Palau"
+    },
+    "DB_D001_C001": {
+        "0": "Prelet nad Dubai\u00a0Marina v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "LA_A005_C009": {
+        "0": "Let pozd\u013a\u017e cesty Interstate 110 North smerom na Los\u00a0Angeles"
+    },
+    "CH_C007_C004": {
+        "0": "Kr\u00e1sy N\u00e1rodn\u00e9ho\u00a0parku Wu\u2011ling\u2011j\u00fcan v\u00a0\u010c\u00edne"
+    },
+    "GL_G002_C002": {
+        "0": "\u013dadovcov\u00fd fjord v\u00a0Ilulissate na pobre\u017e\u00ed Gr\u00f3nska"
+    },
+    "I004_C014": {
+        "0": "Prelet nad oblas\u0165ou Landmannalaugar na Islande"
+    },
+    "I003_C008": {
+        "0": "Let nad riekou Tungna\u00e1 v\u00a0Islandskej vyso\u010dine"
+    },
+    "P006_C002_11106T": {
+        "0": "Prelet nad\u00a0jazerom Lago Nordenskj\u00f6ld v\u00a0n\u00e1rodnom parku\u00a0Torres del Paine v\u00a0\u010cile"
+    },
+    "C001_C005": {
+        "0": "\u00dasek \u010c\u00ednskeho\u00a0m\u00faru Mu-tchien-j\u00fc v\u00a0obvode Chuaj-\u017eou"
+    },
+    "HK_H004_C001": {
+        "0": "Prelet nad pr\u00edstavom Victoria\u00a0Harbour smerom k\u00a0centr\u00e1lnemu Hongkongu"
+    },
+    "GL_G010_C006": {
+        "0": "\u013dadovcov\u00fd fjord v\u00a0Ilulissate na pobre\u017e\u00ed Gr\u00f3nska"
+    },
+    "A014_C008": {
+        "0": "Ploskozubec na koralov\u00fdch \u00fatesoch pri Borneu"
+    },
+    "TH_803_A001_8": {
+        "0": "Pr\u00edboj na brehoch Tahiti"
+    },
+    "LW_L001_C003": {
+        "0": "Prelet nad p\u00fa\u0161\u0165ou\u00a0Liwa v\u00a0Spojen\u00fdch arabsk\u00fdch emir\u00e1toch"
+    },
+    "LA_A006_C008": {
+        "0": "Let ponad medzin\u00e1rodn\u00e9 letisko v\u00a0Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Prelet nad centrom Los\u00a0Angeles"
+    },
+    "H007_C003": {
+        "0": "Prelet nad mysom Laup\u0101hoehoe\u00a0Nui v\u00a0lesnej rezerv\u00e1cii Kohala na ostrove\u00a0Havaj"
+    },
+    "G009_C014106B9": {
+        "0": "Let cez Ve\u013ek\u00fd ka\u0148on v\u00a0Spojen\u00fdch \u0161t\u00e1toch"
+    },
+    "A105_C0022120602": {
+        "0": "Prelet nad Tich\u00fdm\u00a0oce\u00e1nom smerom k\u00a0Strednej\u00a0Amerike"
+    },
+    "A006_C008": {
+        "0": "Zlat\u00e9 raje pri pobre\u017e\u00ed Mexika"
+    },
+    "TH_804_A001_8": {
+        "0": "Pr\u00edboj na brehoch Tahiti"
+    },
+    "A105_C003212CT": {
+        "0": "Brie\u017edenie nad ju\u017en\u00fdm\u00a0Tich\u00fdm\u00a0oce\u00e1nom"
+    }
+}
