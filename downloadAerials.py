@@ -1,4 +1,5 @@
 import json
+from pickle import FALSE
 import requests
 from requests.auth import HTTPBasicAuth
 import os
@@ -11,6 +12,9 @@ urllib3.disable_warnings()
 
 SKIP_GENERATE_POI = False
 if 'SKIP_GENERATE_POI' in os.environ: SKIP_GENERATE_POI = True
+
+SKIP_DOWNLOADS = False
+if 'SKIP_DOWNLOADS' in os.environ: SKIP_DOWNLOADS = True
 
 if 'LOCALISE_BIZ_API_KEY' in os.environ: 
     LOCALISE_BIZ_API_KEY = os.environ['LOCALISE_BIZ_API_KEY']
@@ -170,14 +174,14 @@ if __name__ == "__main__":
         print("fetching resources...")
         get_tvos_resources()
 
-        if SKIP_GENERATE_POI:
+        if not SKIP_GENERATE_POI:
             print("cleaning old assets...")
             delete_assets()
             print("generating sub strings...")
             get_sub_strings()
-
-        print("downloading files...")
-        download_aerials()
+        if not SKIP_DOWNLOADS:
+            print("downloading files...")
+            download_aerials()
     except Exception as e: 
         print("Something failed...", str(e))
     finally:
