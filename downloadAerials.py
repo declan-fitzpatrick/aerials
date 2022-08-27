@@ -141,7 +141,6 @@ def download_aerials():
             print(f"Downloading {filename} {index+1}/{len(entries['assets'])}")
             download_aerial(url, filename)
             print("")
-            pass
         except KeyError as e: 
             print(f"Died downloading {filename}", str(e))
     
@@ -183,5 +182,4 @@ if __name__ == "__main__":
         print("Something failed...", str(e))
     finally:
         cleanup()
-        pass
 
