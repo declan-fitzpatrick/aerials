@@ -1,634 +1,228 @@
 {
-    "GMT306_139NC_139J_3066": {
-        "0": "Podr\u00f3\u017c nad Pacyfikiem w\u00a0stron\u0119 wybrze\u017ca Kaliforni",
-        "110": "Podr\u00f3\u017c nad Las\u00a0Vegas w\u00a0kierunku Salt\u00a0Lake\u00a0City (USA)",
-        "70": "Podr\u00f3\u017c nad wybrze\u017cem Kaliforni w\u00a0stron\u0119 l\u0105du",
-        "170": "Nad G\u00f3rami\u00a0Skalistymi (USA)",
-        "120": "Nad zachodni\u0105 cz\u0119\u015bci\u0105 USA, zbli\u017caj\u0105c si\u0119 do Salt\u00a0Lake\u00a0City",
-        "85": "Przelot nad Los\u00a0Angeles na zachodnim wybrze\u017cu USA",
-        "155": "Mi\u0119dzy Salt\u00a0Lake\u00a0City a\u00a0Denver (USA)",
-        "95": "Podr\u00f3\u017c nad Los\u00a0Angeles w\u00a0kierunku Las\u00a0Vegas (USA)"
+    "A001_C001_120530": {
+        "0": "Nad p\u00f3\u0142nocnym Atlantykiem, w\u00a0stron\u0119 Portugalii",
+        "115": "Nad Portugali\u0105 i\u00a0Hiszpani\u0105",
+        "150": "Oddalaj\u0105c si\u0119 od P\u00f3\u0142wyspu\u00a0Iberyjskiego i\u00a0przelatuj\u0105c nad Zatok\u0105 Biskajsk\u0105 i\u00a0Francj\u0105",
+        "180": "Nad Europ\u0105\u00a0Zachodni\u0105, z\u00a0widocznym w\u00a0oddali p\u00f3\u0142nocnym Atlantykiem"
     },
-    "GMT308_139K_142NC": {
-        "315": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Wenezueli",
-        "240": "Na po\u0142udniowy wsch\u00f3d ponad wyspami Bahama",
-        "120": "Nad po\u0142udniowo-wschodni\u0105 cz\u0119\u015bci\u0105 USA, w\u00a0stron\u0119 Florydy",
-        "300": "Nad Dominikan\u0105 i\u00a0Haiti, zbli\u017caj\u0105c si\u0119 do Morza\u00a0Karaibskiego",
-        "90": "Na po\u0142udniowy wsch\u00f3d, ponad regionem Midwest (USA)",
-        "285": "Nad wyspami Bahama, zbli\u017caj\u0105c si\u0119 do Dominikany i\u00a0Haiti",
-        "0": "Na po\u0142udniowy wsch\u00f3d, ponad Wielkimi R\u00f3wninami (USA)",
-        "220": "Podr\u00f3\u017c nad Floryd\u0105 w\u00a0kierunku Baham\u00f3w"
+    "A001_C004_1207W5": {
+        "0": "Wyspy Kanaryjskie, Atlantyk i\u00a0wybrze\u017ce Afryki",
+        "105": "Nad Marokiem, zbli\u017caj\u0105c si\u0119 do Morza\u00a0\u015ar\u00f3dziemnego",
+        "125": "Morze\u00a0\u015ar\u00f3dziemne i\u00a0po\u0142udniowa Hiszpania",
+        "145": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad regionem Costa\u00a0Blanca (Hiszpania)",
+        "165": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Balearami (Hiszpania)",
+        "185": "Nad zachodni\u0105 cz\u0119\u015bci\u0105 Morza\u00a0\u015ar\u00f3dziemnego, Alpy w\u00a0tle",
+        "220": "Na p\u00f3\u0142nocny wsch\u00f3d ponad Alpami",
+        "45": "Na p\u00f3\u0142nocny wsch\u00f3d wzd\u0142u\u017c wybrze\u017ca Maroka",
+        "75": "Nad g\u00f3rami Atlas (Maroko)"
     },
-    "GMT329_117NC_401C_1037": {
-        "185": "Nad zachodni\u0105 Rosj\u0105, mijaj\u0105c Moskw\u0119",
-        "165": "Nad Europ\u0105\u00a0Wschodni\u0105, widok w\u00a0kierunku Moskwy",
-        "15": "Irlandia i\u00a0Wielka\u00a0Brytania",
-        "105": "Nad Europ\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku Rosji",
-        "65": "Nad p\u00f3\u0142nocnozachodni\u0105 Europ\u0105 w\u00a0kierunku Rosji",
-        "195": "Podr\u00f3\u017c nad Rosj\u0105 w\u00a0kierunku Azji\u00a0\u015arodkowej",
-        "150": "Nad Europ\u0105\u00a0Wschodni\u0105, z\u00a0widoczn\u0105 w\u00a0oddali Moskw\u0105",
-        "0": "Nad p\u00f3\u0142nocnym Atlantykiem, zbli\u017caj\u0105c si\u0119 do Irlandii i\u00a0Wielkiej Brytanii",
-        "45": "Podr\u00f3\u017c nad Wielk\u0105\u00a0Brytani\u0105 w\u00a0kierunku Europy kontynentalnej"
+    "A001_C007": {
+        "0": "Meduza z\u0142ota w\u00a0wodach Palau",
+        "282": "Meduza z\u0142ota w\u015br\u00f3d meduz ksi\u0119\u017cycowych",
+        "348": "Meduza z\u0142ota w\u00a0wodach Palau"
     },
-    "GMT329_1_113NC_396B_1105": {
-        "0": "Nad Tunezj\u0105, w\u00a0stron\u0119 W\u0142och",
-        "55": "Nad Ukrain\u0105, Rosja w\u00a0tle",
-        "75": "Nad po\u0142udniowozachodni\u0105 Rosj\u0105, mijaj\u0105c Kazachstan",
-        "40": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim, mijaj\u0105c Morze\u00a0Czarne",
-        "25": "Nad P\u00f3\u0142wyspem\u00a0Ba\u0142ka\u0144skim w\u00a0kierunku Azji\u00a0\u015arodkowej",
-        "15": "Nad po\u0142udniowymi W\u0142ochami, P\u00f3\u0142wysep\u00a0Ba\u0142ka\u0144ski w\u00a0tle",
-        "5": "Nad Morzem\u00a0\u015ar\u00f3dziemnym, widok w\u00a0kierunku Sycylii i\u00a0P\u00f3\u0142wyspu\u00a0Apeni\u0144skiego"
-    },
-    "A010_C007": {
+    "A002_C009": {
         "0": "Meduza z\u0142ota w\u00a0wodach Palau"
     },
-    "A013_C012": {
-        "230": "Mijaj\u0105c p\u00f3\u0142nocn\u0105 wie\u017c\u0119 Golden\u00a0Gate\u00a0Bridge",
-        "0": "Zbli\u017caj\u0105c si\u0119 do Golden\u00a0Gate\u00a0Bridge od strony San\u00a0Francisco",
-        "60": "Wzd\u0142u\u017c Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Marin\u00a0Headlands",
-        "260": "Nad Zatok\u0105 San\u00a0Francisco wzd\u0142u\u017c Golden\u00a0Gate\u00a0Bridge",
-        "140": "Przelot nad Golden\u00a0Gate\u00a0Bridge"
+    "A003_C014": {
+        "0": "Dryfuj\u0105c nad che\u0142bi\u0105 modr\u0105 u\u00a0wybrze\u017cy Alaski (USA)"
     },
-    "A108_C001_0215V8": {
-        "65": "Wybrze\u017ce Moskit\u00f3w (Nikaragua)",
-        "35": "Wybrze\u017ce pacyficzne Nikaragui, Kostaryki i\u00a0Panamy",
-        "85": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Kuby",
-        "110": "Nad pogr\u0105\u017con\u0105 w\u00a0chmurach Jamajk\u0105 na Morzu Karaibskim",
-        "125": "Przelot nad Kub\u0105, widok w\u00a0kierunku Haiti\u00a0i\u00a0Dominikany",
-        "170": "Podr\u00f3\u017c nad wyspami Bahama, widok w\u00a0kierunku Haiti\u00a0i\u00a0Dominikany",
-        "50": "Przelot nad Ameryk\u0105\u00a0\u015arodkow\u0105, z\u00a0widoczn\u0105 w\u00a0oddali Ameryk\u0105 Po\u0142udniow\u0105",
-        "190": "Wyspy Turks\u00a0i\u00a0Caicos na Atlantyku"
-    },
-    "S006_C007": {
-        "0": "Zatoka Loch Moidart na zachodnim wybrze\u017cu Szkocji",
-        "139": "Zbli\u017caj\u0105c si\u0119 do zamku Tioram na zachodnim wybrze\u017cu Szkocji",
-        "214": "Podr\u00f3\u017c nad zachodnim wybrze\u017cem Szkocji",
-        "181": "Zamek Tioram na zachodnim wybrze\u017cu Szkocji"
-    },
-    "H010_C006": {
-        "0": "Zbli\u017caj\u0105c si\u0119 do Honop\u016b\u00a0Valley w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i",
-        "300": "Honop\u016b\u00a0Valley w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
-    },
-    "A105_C002_021206_002": {
-        "70": "Po\u0142udniowo-zachodnie wybrze\u017ce Ameryki\u00a0\u015arodkowej, widok w\u00a0kierunku Morza\u00a0Karaibskiego",
-        "240": "Nad Kub\u0105 i\u00a0Floryd\u0105, Bahamy w\u00a0tle",
-        "350": "Nad Morzem\u00a0Sargassowym, w\u00a0stron\u0119 Atlantyku",
-        "300": "Podr\u00f3\u017c nad Floryd\u0105 i\u00a0wyspami Bahama w\u00a0kierunku Morza\u00a0Sargassowego",
-        "150": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Kuby",
-        "100": "Przelot nad Ameryk\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku Morza\u00a0Karaibskiego"
-    },
-    "A351_C001_1213SK": {
-        "100": "Nad P\u00f3\u0142wyspem\u00a0Arabskim, na p\u00f3\u0142nocny wsch\u00f3d",
-        "190": "Zbli\u017caj\u0105c si\u0119 do wybrze\u017ca Iranu z\u00a0g\u00f3rami\u00a0Zagros w\u00a0tle",
-        "450": "Nad g\u00f3rami A\u0142taju w\u00a0stron\u0119\u00a0Mongolii",
-        "305": "Rzeka Amu-daria i\u00a0g\u00f3ry Pamiro-A\u0142aj (Azja\u00a0\u015arodkowa)",
-        "0": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Wy\u017cyn\u0105\u00a0Abisy\u0144sk\u0105",
-        "400": "Podr\u00f3\u017c na p\u00f3\u0142noc nad Kazachstanem",
-        "322": "G\u00f3ry Pamiro-A\u0142aj i\u00a0Kotlina Ferga\u0144ska (Azja\u00a0\u015arodkowa)",
-        "240": "Nad pustyni\u0105 Daszt-e Lut w\u00a0Iranie",
-        "210": "Nad g\u00f3rami Zagros (Iran)",
-        "360": "Zmierzaj\u0105c z\u00a0Kirgistanu w\u00a0stron\u0119 Kazachstanu",
-        "165": "Nad P\u00f3\u0142wyspem\u00a0Arabskim, zbli\u017caj\u0105c si\u0119 do Iranu",
-        "130": "Nad P\u00f3\u0142wyspem\u00a0Arabskim w\u00a0kierunku Iranu",
-        "265": "Przelot w\u00a0kierunku Turkmenistanu i\u00a0pustyni Kara-kum",
-        "45": "Podr\u00f3\u017c nad Morzem\u00a0Czerwonym w\u00a0stron\u0119 P\u00f3\u0142wyspu\u00a0Arabskiego"
-    },
-    "LA_A006_C004": {
-        "0": "Napis Hollywood w\u00a0Los\u00a0Angeles",
-        "250": "Nad Hollywood\u00a0Hills w\u00a0stron\u0119 Burbank (Kalifornia)"
-    },
-    "N006_C003": {
-        "140": "Nad Dolnym\u00a0Manhattanem, w\u00a0kierunku \u015arodkowego (Nowy\u00a0Jork)",
-        "40": "Nad Dolnym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku",
-        "0": "Zbli\u017caj\u0105c si\u0119 do Dolnego\u00a0Manhattanu w\u00a0Nowym\u00a0Jorku"
-    },
-    "I001_C014": {
-        "0": "Podr\u00f3\u017c wzd\u0142u\u017c rzeki J\u00f6kulgilskv\u00edsl w\u00a0pobli\u017cu Landmannalaugar na Islandii"
-    },
-    "A114_C001_0305OT": {
-        "65": "Zbli\u017caj\u0105c si\u0119 do pustyni\u00a0Mojave w\u00a0po\u0142udniowej\u00a0Kaliforni, Meksyk w\u00a0tle",
-        "95": "Zatoka\u00a0Kalifornijska mi\u0119dzy Sonor\u0105 i\u00a0P\u00f3\u0142wyspem\u00a0Kalifornijskim",
-        "130": "Sierra Madre\u00a0Zachodnia na zachodnim wybrze\u017cu Meksyku",
-        "50": "Nad po\u0142udniow\u0105 Kaliforni\u0105 w\u00a0kierunku Meksyku",
-        "185": "Nad Sierra Madre\u00a0Zachodni\u0105 w\u00a0stron\u0119 zachodniego wybrze\u017ca Meksyku",
-        "20": "Podr\u00f3\u017c na po\u0142udnie wzd\u0142u\u017c wybrze\u017ca Kaliforni",
-        "280": "Pacyfik i\u00a0wybrze\u017ce Meksyku",
-        "290": "Pacyfik oraz wybrze\u017ce Meksyku i\u00a0Gwatemali",
-        "225": "Widok w\u00a0kierunku Pacyfiku, ponad Sierra\u00a0Madre del Sur (Meksyk)"
+    "A004_C003": {
+        "0": "Rafa koralowa w\u00a0pobli\u017cu Palau"
     },
     "A004_C012": {
         "0": "Che\u0142bia modra u\u00a0wybrze\u017cy Alaski (USA)",
         "100": "\u015ar\u00f3dmie\u015bcie San\u00a0Francisco z\u00a0wie\u017c\u0105 Coit\u00a0Tower na pierwszym planie"
     },
-    "A103_C002_0205DG": {
-        "145": "Wybrze\u017ce z\u00a0g\u00f3rami Mekran (Iran i\u00a0Pakistan)",
-        "115": "Nad Zatok\u0105 Oma\u0144sk\u0105, zbli\u017caj\u0105c si\u0119 do wybrze\u017ca z\u00a0g\u00f3rami Makran",
-        "315": "G\u00f3ry Tienszan w\u00a0Azji\u00a0\u015arodkowej",
-        "180": "Nad Afganistanem i\u00a0Pakistanem w\u00a0kierunku \u0142a\u0144cucha Karakorum",
-        "235": "Podr\u00f3\u017c nad \u0142a\u0144cuchem Karakorum w\u00a0stron\u0119 Chin",
-        "45": "Po\u0142udniowo-wschodnia cz\u0119\u015b\u0107 P\u00f3\u0142wyspu\u00a0Arabskiego",
-        "280": "Pustynia Takla\u00a0Makan w\u00a0zachodnich Chinach",
-        "160": "Podr\u00f3\u017c nad Iranem w\u00a0kierunku Afganistanu i\u00a0Pakistanu"
-    },
-    "GMT312_162NC_139M_1041": {
-        "70": "Nad Wielkim Ergiem\u00a0Wschodnim, w\u00a0stron\u0119 Morza\u00a0\u015ar\u00f3dziemnego",
-        "210": "Podr\u00f3\u017c nad Morzem\u00a0Czarnym w\u00a0stron\u0119 Ukrainy",
-        "100": "Wybrze\u017ce Morza\u00a0\u015ar\u00f3dziemnego (Tunezja i\u00a0Libia)",
-        "230": "Podr\u00f3\u017c nad Ukrain\u0105 w\u00a0stron\u0119 Rosji",
-        "0": "Nocna podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Sahar\u0105",
-        "165": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim w\u00a0kierunku Morza\u00a0Czarnego",
-        "120": "Nad Morzem\u00a0\u015ar\u00f3dziemnym w\u00a0kierunku W\u0142och",
-        "180": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim, zbli\u017caj\u0105c si\u0119 do Morza\u00a0Czarnego",
-        "140": "Nad po\u0142udniowymi W\u0142ochami, zbli\u017caj\u0105c si\u0119 do P\u00f3\u0142wyspu\u00a0Ba\u0142ka\u0144skiego, z\u00a0widoczn\u0105 w\u00a0oddali Turcj\u0105"
-    },
-    "Y011_C001": {
-        "0": "Podr\u00f3\u017cuj\u0105c w kierunku\u00a0wodospadu Bridalveil oraz\u00a0El Capitan w Parku\u00a0Narodowym Yosemite",
-        "44": "Podr\u00f3\u017cuj\u0105c na wsch\u00f3d w\u00a0kierunku El Capitan w\u00a0Parku Narodowym Yosemite (USA)",
-        "87": "Mijaj\u0105c El\u00a0Capitan, Park Narodowy Yosemite (USA)",
-        "470": "Podr\u00f3\u017cuj\u0105c przez Half\u00a0Dome w\u00a0dolinie Yosemite (USA)",
-        "120": "Podr\u00f3\u017c na wsch\u00f3d w\u00a0kierunku Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
-        "585": "Podr\u00f3\u017cuj\u0105c na wsch\u00f3d w\u00a0dolinie Yosemite (USA)",
-        "390": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "A010_C002": {
-        "0": "P\u0142yn\u0105c przez las wodorost\u00f3w w\u00a0pobli\u017cu P\u00f3\u0142wyspu Przyl\u0105dkowego (Po\u0142udniowa Afryka)"
-    },
-    "GMT026_363A_103NC_E1027": {
-        "180": "Podr\u00f3\u017c nad Kore\u0105 Po\u0142udniow\u0105 w\u00a0kierunku Japonii",
-        "32": "Podr\u00f3\u017c nad Mongoli\u0105 w\u00a0kierunku Chin",
-        "260": "Nad Pacyfikiem, na po\u0142udniowy wsch\u00f3d od Japonii",
-        "0": "Na po\u0142udniowy wsch\u00f3d ponad Syberi\u0105 i\u00a0Mongoli\u0105",
-        "22": "W\u00a0kierunku Mongolii Wewn\u0119trznej",
-        "150": "P\u00f3\u0142wysep\u00a0Korea\u0144ski z\u00a0widoczn\u0105 w\u00a0oddali Japoni\u0105",
-        "195": "Nad Japoni\u0105, widok w\u00a0kierunku Pacyfiku",
-        "60": "Nad p\u00f3\u0142nocnymi Chinami w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Korea\u0144skiego",
-        "110": "Nad Chinami, w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Korea\u0144skiego"
-    },
-    "Y002_C013_0226": {
-        "210": "Nad Parkiem Narodowym Yosemite (USA)",
-        "87": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
-        "70": "Zbli\u017caj\u0105c si\u0119 do Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "H005_C012": {
-        "0": "Dolina\u00a0Waimanu w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
-    },
-    "LA_A006_C008": {
-        "0": "Przelot nad portem lotniczym Los\u00a0Angeles"
-    },
-    "LA_A011_C003": {
-        "0": "Nad centrum Los Angeles"
-    },
-    "A001_C004_1207W5": {
-        "105": "Nad Marokiem, zbli\u017caj\u0105c si\u0119 do Morza\u00a0\u015ar\u00f3dziemnego",
-        "220": "Na p\u00f3\u0142nocny wsch\u00f3d ponad Alpami",
-        "165": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Balearami (Hiszpania)",
-        "125": "Morze\u00a0\u015ar\u00f3dziemne i\u00a0po\u0142udniowa Hiszpania",
-        "0": "Wyspy Kanaryjskie, Atlantyk i\u00a0wybrze\u017ce Afryki",
-        "145": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad regionem Costa\u00a0Blanca (Hiszpania)",
-        "45": "Na p\u00f3\u0142nocny wsch\u00f3d wzd\u0142u\u017c wybrze\u017ca Maroka",
-        "185": "Nad zachodni\u0105 cz\u0119\u015bci\u0105 Morza\u00a0\u015ar\u00f3dziemnego, Alpy w\u00a0tle",
-        "75": "Nad g\u00f3rami Atlas (Maroko)"
-    },
-    "I004_C014": {
-        "0": "Podr\u00f3\u017c nad masywem Landmannalaugar na Islandii"
-    },
-    "S005_C015": {
-        "252": "Zbli\u017caj\u0105c si\u0119 do Morza Hebrydzkiego, Szkocja",
-        "0": "Nad zatok\u0105 Loch Moidart na zachodnim wybrze\u017cu Szkocji"
-    },
-    "DB_D011_C010": {
-        "280": "Mijaj\u0105c Burd\u017c\u00a0Chalifa w\u00a0centrum Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)",
-        "330": "Nad centrum Dubaju, w\u00a0kierunku wybrze\u017ca",
-        "0": "Zbli\u017caj\u0105c si\u0119 do Burd\u017c\u00a0Chalifa w\u00a0centrum Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
-    },
-    "I005_C008": {
-        "324": "Podr\u00f3\u017c nad lodowcem M\u00fdrdalsj\u00f6kull na Islandii",
-        "150": "Zbli\u017caj\u0105c si\u0119 do lodowca M\u00fdrdalsj\u00f6kull na Islandii",
-        "0": "Przelot w\u00a0kierunku lodowca M\u00fdrdalsj\u00f6kull na Islandii",
-        "225": "Lodowiec M\u00fdrdalsj\u00f6kull na Islandii"
-    },
-    "A009_C001_10181A": {
-        "195": "Wybrze\u017ce Tunezji i\u00a0Morze\u00a0\u015ar\u00f3dziemne",
-        "285": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim w\u00a0kierunku Karpat",
-        "245": "Podr\u00f3\u017c nad W\u0142ochami w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Ba\u0142ka\u0144skiego",
-        "210": "Podr\u00f3\u017c nad wybrze\u017cem Tunezji w\u00a0kierunku W\u0142och",
-        "310": "Karpaty i\u00a0Morze\u00a0Czarne",
-        "110": "Nad g\u00f3rami Ahaggar na Saharze (Afryka\u00a0P\u00f3\u0142nocna)",
-        "155": "Nad Wielkim Ergiem\u00a0Wschodnim, w\u00a0stron\u0119 Morza\u00a0\u015ar\u00f3dziemnego (Afryka P\u00f3\u0142nocna)",
-        "30": "Przelot nad Sahar\u0105 (p\u00f3\u0142nocna Afryka)",
-        "0": "Nad Afryk\u0105\u00a0Zachodni\u0105, w\u00a0stron\u0119 Sahary",
-        "230": "Zbli\u017caj\u0105c si\u0119 do \u015br\u00f3dziemnomorskiego wybrze\u017ca W\u0142och"
-    },
-    "H004_C007": {
-        "0": "Nad rezerwatem Pu\u2018u\u00a0O\u00a0\u2018Umi na\u00a0wyspie Hawai\u2018i"
-    },
-    "GMT314_139M_170NC": {
-        "45": "Nad Kaliforni\u0105\u00a0Doln\u0105, widok na p\u00f3\u0142noc w\u00a0kierunku USA",
-        "235": "Zorza polarna nad p\u00f3\u0142nocnym Ontario (Kanada)",
-        "210": "Zorza polarna nad zachodnim Ontario (Kanada)",
-        "250": "Zorza polarna nad p\u00f3\u0142nocnym Quebekiem (Kanada)",
-        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Kaliforni\u00a0Dolnej",
-        "110": "Nad G\u00f3rami\u00a0Skalistymi, zbli\u017caj\u0105c si\u0119 do Denver",
-        "200": "Nad Wielkimi Jeziorami, zbli\u017caj\u0105c si\u0119 do Ontario (Kanada)",
-        "300": "W\u00a0kierunku p\u00f3\u0142nocnego Atlantyku, z\u00a0zorz\u0105 polarn\u0105 nad Labradorem (Kanada)",
-        "185": "Zbli\u017caj\u0105c si\u0119 do Wielkich\u00a0Jezior, za nimi Ontario\u00a0(Kanada)",
-        "75": "Nad po\u0142udniowo-zachodnim regionem USA",
-        "125": "Podr\u00f3\u017c nad Wielkimi R\u00f3wninami (USA)",
-        "55": "Podr\u00f3\u017c nad Meksykiem na po\u0142udniowy zach\u00f3d USA"
-    },
-    "I003_C011": {
-        "0": "Wzd\u0142u\u017c rzeki J\u00f6kulgilskv\u00edsl w\u00a0masywie Landmannalaugar na Islandii",
-        "308": "Podr\u00f3\u017c nad g\u00f3rami Islandii"
-    },
-    "L007_C007": {
-        "0": "Przelot nad terenem pa\u0142acu Buckingham (Londyn)",
-        "279": "Mijaj\u0105c The\u00a0Shard w\u00a0po\u0142udniowym Londynie",
-        "104": "Przelot nad Tamiz\u0105 przy London\u00a0Eye",
-        "324": "Przelot nad Tamiz\u0105 przy londy\u0144skim Tower\u00a0Bridge",
-        "49": "Nad stadionem St\u00a0James Park w\u00a0kierunku Tamizy (London)",
-        "24": "Nad pa\u0142acem Buckingham w\u00a0Londynie",
-        "149": "Mijaj\u0105c po\u0142udniow\u0105 cz\u0119\u015b\u0107 Londynu",
-        "299": "Przelot nad Tamiz\u0105 w\u00a0Londynie"
-    },
-    "Y004_C015227PD": {
-        "0": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "A009_C007": {
-        "0": "Delfinki d\u0142ugoszcz\u0119kie u wybrze\u017cy Kostaryki"
-    },
-    "GMT060_117NC_363D": {
-        "170": "Nad zachodni\u0105 Australi\u0105, zbli\u017caj\u0105c si\u0119 do Terytorium\u00a0P\u00f3\u0142nocnego",
-        "335": "Podr\u00f3\u017c nad morzem Arafura w\u00a0kierunku Nowej Gwinei",
-        "0": "Nad Oceanem\u00a0Indyjskim, w\u00a0stron\u0119 Perth (Australia)",
-        "220": "Nad Terytorium\u00a0P\u00f3\u0142nocnym (Australia) w\u00a0kierunku Nowej Gwinei",
-        "50": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Australi\u0105\u00a0Zachodni\u0105"
-    },
-    "A013_C005": {
-        "0": "Wzd\u0142u\u017c Presidio (San\u00a0Francisco), w\u00a0kierunku Golden\u00a0Gate\u00a0Bridge",
-        "190": "Przelot nad Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Marin\u00a0Headlands"
-    },
-    "A018_C014": {
-        "40": "\u015ar\u00f3dmie\u015bcie San\u00a0Francisco z\u00a0widoczn\u0105 w\u00a0oddali wie\u017c\u0105 transmisyjn\u0105 Sutro\u00a0Tower",
-        "0": "Zbli\u017caj\u0105c si\u0119 do\u00a0\u015br\u00f3dmie\u015bcia San\u00a0Francisco z\u00a0widoczn\u0105 w\u00a0oddali wie\u017c\u0105 transmisyjn\u0105 Sutro\u00a0Tower",
-        "10": "Piramida\u00a0Transamerica w\u00a0\u015br\u00f3dmie\u015bciu San\u00a0Francisco"
-    },
-    "A014_C023": {
-        "0": "\u0141awica karanks\u00f3w smugowych u\u00a0wybrze\u017cy Borneo"
-    },
-    "A001_C001_120530": {
-        "150": "Oddalaj\u0105c si\u0119 od P\u00f3\u0142wyspu\u00a0Iberyjskiego i\u00a0przelatuj\u0105c nad Zatok\u0105 Biskajsk\u0105 i\u00a0Francj\u0105",
-        "180": "Nad Europ\u0105\u00a0Zachodni\u0105, z\u00a0widocznym w\u00a0oddali p\u00f3\u0142nocnym Atlantykiem",
-        "0": "Nad p\u00f3\u0142nocnym Atlantykiem, w\u00a0stron\u0119 Portugalii",
-        "115": "Nad Portugali\u0105 i\u00a0Hiszpani\u0105"
-    },
-    "GL_G004_C010": {
-        "0": "Przelot wzd\u0142u\u017c P\u00f3\u0142wyspu Nuussuaq na Grenlandii"
-    },
-    "Y005_C003_0228SC": {
-        "285": "Wodospady Nevada, Vernal oraz Illilouette w\u00a0Parku Narodowym Yosemite (USA)",
-        "255": "Wodospady Nevada oraz Illilouette w\u00a0Parku Narodowym Yosemite (USA)",
-        "40": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku szczytu Half\u00a0Dome  w\u00a0Parku Narodowym Yosemite (USA)",
-        "60": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
-        "155": "Nad Parkiem Narodowym Yosemite  z\u00a0wodospadem Nevada w\u00a0oddali"
-    },
-    "HK_H004_C001": {
-        "0": "Nad Victoria\u00a0Harbour w\u00a0kierunku centrum Hongkongu"
-    },
-    "L010_C006": {
-        "178": "Po\u0142udniowy brzeg Tamizy w\u00a0Londynie",
-        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105",
-        "78": "Wzd\u0142u\u017c Tamizy w\u00a0Londynie",
-        "258": "Przelot nad Tamiz\u0105 w\u00a0Londynie"
-    },
-    "N003_C006": {
-        "50": "Nad \u015arodkowym\u00a0Manhattanem, w\u00a0kierunku centrum i\u00a0Empire\u00a0State Building",
-        "160": "Zbli\u017caj\u0105c si\u0119 do Empire\u00a0State Building w\u00a0Nowym\u00a0Jorku",
-        "0": "Nad Upper\u00a0East\u00a0Side i\u00a0Central\u00a0Parkiem w\u00a0Nowym\u00a0Jorku",
-        "205": "Mijaj\u0105c Empire\u00a0State Building w\u00a0kierunku Dolnego Manhattanu"
-    },
-    "N008_C003": {
-        "0": "Zbli\u017caj\u0105c si\u0119 do Dolnego\u00a0Manhattanu od strony New\u00a0York\u00a0Harbor",
-        "110": "Wzd\u0142u\u017c Dolnego\u00a0Manhattanu w\u00a0stron\u0119 One World\u00a0Trade\u00a0Center",
-        "180": "Mijaj\u0105c wie\u017cowiec One World\u00a0Trade\u00a0Center w\u00a0stron\u0119 \u015arodkowego\u00a0Manhattanu",
-        "210": "Nad Dolnym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku, w\u00a0kierunku centrum"
-    },
-    "A105_C003_0212CT": {
-        "170": "Nad Pacyfikiem, z\u00a0Nowej\u00a0Zelandii na p\u00f3\u0142nocny wsch\u00f3d",
-        "110": "Zbli\u017caj\u0105c si\u0119 do Nowej\u00a0Zelandii o\u00a0wschodzie s\u0142o\u0144ca",
-        "70": "Przelot z\u00a0nocy w\u00a0dzie\u0144 nad Now\u0105\u00a0Zelandi\u0105"
-    },
-    "A105_C0022120602": {
-        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Ameryki\u00a0\u015arodkowej"
-    },
-    "S009_C007": {
-        "173": "Podr\u00f3\u017c nad wysp\u0105 Skye w\u00a0Szkocji",
-        "135": "Formacja skalna Old Man of Storr na wyspie Skye w\u00a0Szkocji",
-        "0": "Podr\u00f3\u017c nad wysp\u0105 Skye w\u00a0Szkocji"
-    },
-    "Y003_C009": {
-        "0": "Nad Parkiem Narodowym Yosemite (USA)",
-        "93": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku szczytu Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)",
-        "130": "Szczyt Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)",
-        "244": "Podr\u00f3\u017c nad Parkiem Narodowym Yosemite (USA)",
-        "221": "Mijaj\u0105c szczyt Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "U009_C004": {
-        "0": "Rafowe rekiny szare u\u00a0wybrze\u017cy Polinezji Francuskiej"
-    },
-    "DB_D001_C001": {
-        "0": "Przelot nad dystryktem Dubai\u00a0Marina (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
-    },
-    "Y009_C015304I": {
-        "0": "Przelot nad \u0142\u0105kami Tuolumne w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "L012_C002": {
-        "92": "Po\u0142udniowy brzeg Tamizy, w\u00a0kierunku London\u00a0Eye",
-        "60": "Przelot nad The\u00a0Shard w\u00a0po\u0142udniowym Londynie",
-        "20": "Przelot nad Tamiz\u0105 w\u00a0Londynie",
-        "200": "Przelot nad Tamiz\u0105 w\u00a0stron\u0119 Westminster (Londyn)",
-        "270": "Nad Westminster (Londyn)",
-        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105"
-    },
-    "P005_C002_1109E1": {
-        "0": "Przelot nad jeziorem\u00a0Nordenskj\u00f6ld w\u00a0Parku Narodowym Torres del\u00a0Paine, Chile"
-    },
-    "A003_C014": {
-        "0": "Dryfuj\u0105c nad che\u0142bi\u0105 modr\u0105 u\u00a0wybrze\u017cy Alaski (USA)"
-    },
-    "LA_A008_C004": {
-        "0": "Nad Santa\u00a0Monica State Beach nieopodal Los\u00a0Angeles",
-        "365": "Mijaj\u0105c molo Santa\u00a0Monica\u00a0Pier w\u00a0pobli\u017cu Los\u00a0Angeles",
-        "430": "Nad Santa\u00a0Monica State Beach nieopodal Los\u00a0Angeles"
-    },
-    "LW_L001_C006": {
-        "0": "Przelot nad oaz\u0105 Liwa (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
-    },
-    "GMT329_2_113NC_396B_1105": {
-        "45": "Zbli\u017caj\u0105c si\u0119 do Szanghaju w\u00a0stron\u0119 Morza\u00a0Wschodniochi\u0144skiego",
-        "0": "Nad Azj\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku wybrze\u017ca Chin",
-        "50": "Nad Szanghajem w\u00a0stron\u0119 Morza\u00a0Wschodniochi\u0144skiego",
-        "10": "Nad \u015brodkowymi Chinami w\u00a0kierunku Szanghaju",
-        "30": "Nad wschodnimi Chinami, zbli\u017caj\u0105c si\u0119 do Szanghaju"
-    },
-    "A050_C004_1027V8": {
-        "185": "Morze\u00a0\u015ar\u00f3dziemne i\u00a0delta Nilu",
-        "50": "Na po\u0142udnie, nad P\u00f3\u0142wyspem\u00a0Apeni\u0144skim i\u00a0Adriatykiem",
-        "205": "Nil p\u0142yn\u0105cy przez Sahar\u0119 (Egipt)",
-        "220": "Pustynia\u00a0Wschodnia mi\u0119dzy Nilem i\u00a0Zatok\u0105 Suesk\u0105",
-        "0": "Podr\u00f3\u017c nad Europ\u0105 zachodni\u0105, oraz Wielk\u0105 Brytani\u0105 i\u00a0Irlandi\u0105 w\u00a0oddali",
-        "100": "Grecja mi\u0119dzy Morzem\u00a0Jo\u0144skim i\u00a0Egejskim",
-        "240": "Na po\u0142udniowy wsch\u00f3d, ponad Morzem\u00a0Czerwonym",
-        "160": "Podr\u00f3\u017c na po\u0142udniowy wsch\u00f3d nad Morzem\u00a0\u015ar\u00f3dziemnym",
-        "20": "Na po\u0142udniowy wsch\u00f3d, ponad Alpami i\u00a0dolin\u0105 Padu"
-    },
-    "A012_C031": {
-        "0": "Protoreaster na dnie oceanu w\u00a0pobli\u017cu Borneo"
-    },
-    "N013_C004": {
-        "0": "Wzd\u0142u\u017c 7. Alei w\u00a0kierunku Times\u00a0Square (Nowy\u00a0Jork)",
-        "40": "Nad Times\u00a0Square w\u00a0Nowym\u00a0Jorku",
-        "120": "Wzd\u0142u\u017c 7.\u00a0Alei w\u00a0\u015brodkowym\u00a0Manhattanie (Nowy\u00a0Jork)"
-    },
-    "H004_C009": {
-        "0": "Nad rezerwatem Pu\u2018u\u00a0O\u00a0\u2018Umi na\u00a0wyspie Hawai\u2018i"
-    },
-    "A108_C001215V8": {
-        "0": "Podr\u00f3\u017c nad Pacyfikiem w\u00a0stron\u0119 Ameryki\u00a0\u015arodkowej"
-    },
-    "A013_C004": {
-        "360": "Wzd\u0142u\u017c Market\u00a0Street przez San\u00a0Francisco",
-        "90": "Nad Embarcadero z\u00a0widokiem na Market\u00a0Street w\u00a0San\u00a0Francisco",
-        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero",
-        "150": "Wzd\u0142u\u017c Market\u00a0Street przez \u015br\u00f3dmie\u015bcie San\u00a0Francisco"
-    },
-    "S003_C020": {
-        "0": "Podr\u00f3\u017c wzd\u0142u\u017c wybrze\u017ca wyspy Skye w\u00a0Szkocji",
-        "338": "Latarnia morska Neist Point na wyspie Skye w\u00a0Szkocji",
-        "372": "Wyspa Skye w\u00a0Szkocji"
-    },
-    "TH_804_A001_8": {
-        "0": "Fale bij\u0105ce w\u00a0brzeg na Tahiti"
-    },
-    "N008_C009": {
-        "246": "Nad \u015arodkowym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku",
-        "0": "Nad Central\u00a0Park w\u00a0kierunku \u015brodkowego\u00a0Manhattanu (Nowy\u00a0Jork)"
-    },
-    "Y011_C008": {
-        "396": "Przelot w\u00a0kierunku \u0142\u0105k Tuolumne w\u00a0Parku Narodowym Yosemite (USA)",
-        "0": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
-        "215": "Przelatuj\u0105c nad Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
-        "75": "Przelatuj\u0105c nad Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
-        "124": "Przelatuj\u0105c przez Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)"
-    },
-    "LA_A009_C009": {
-        "0": "Obserwatorium\u00a0Griffitha i\u00a0Hollywood\u00a0Hills w\u00a0Los\u00a0Angeles"
-    },
-    "H007_C003": {
-        "0": "Przelot nad Laup\u0101hoehoe\u00a0Nui w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
-    },
-    "GL_G002_C002": {
-        "0": "Fiord Ilulissat, wybrze\u017ce Grenlandii"
-    },
-    "CH_C002_C005": {
-        "0": "Przelot nad tarasami ry\u017cowymi Longji w\u00a0prowincji Guangxi (Chiny)"
-    },
-    "A015_C014": {
-        "210": "Wzd\u0142u\u017c Market\u00a0Street przez \u015br\u00f3dmie\u015bcie San\u00a0Francisco",
-        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero"
-    },
-    "HK_H004_C013": {
-        "0": "Nad Wan Chai, zbli\u017caj\u0105c si\u0119 do centrum Hongkongu",
-        "150": "Nad centrum Hongkongu",
-        "270": "Nad wysp\u0105 Hongkong"
-    },
-    "HK_B005_C011": {
-        "0": "Nad Victoria\u00a0Harbour w\u00a0kierunku centrum Hongkongu"
-    },
-    "L004_C011": {
-        "210": "Zbli\u017caj\u0105c si\u0119 do London\u00a0Eye nad Tamiz\u0105",
-        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105",
-        "325": "Przelot nad Pa\u0142acem Westminsterskim nad Tamiz\u0105 (Londyn)",
-        "310": "Wzd\u0142u\u017c Tamizy, mijaj\u0105c\u00a0London\u00a0Eye",
-        "130": "Wzd\u0142u\u017c Tamizy, w\u00a0kierunku London\u00a0Eye",
-        "20": "Wzd\u0142u\u017c Tamizy w\u00a0Londynie"
-    },
-    "A015_C018": {
-        "80": "Przelot nad mostem Bay\u00a0Bridge w\u00a0kierunku \u015br\u00f3dmie\u015bcia San\u00a0Francisco",
-        "0": "Zbli\u017caj\u0105c si\u0119 do mostu Bay\u00a0Bridge i\u00a0\u015br\u00f3dmie\u015bcie San\u00a0Francisco",
-        "116": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku \u015br\u00f3dmie\u015bcia"
-    },
-    "P006_C002_11106T": {
-        "0": "Nad jeziorem\u00a0Nordenskj\u00f6ld w\u00a0Parku Narodowym Torres del\u00a0Paine, Chile"
+    "A006_C003": {
+        "0": "Nad Zatok\u0105 San\u00a0Francisco i\u00a0Golden\u00a0Gate\u00a0Bridge",
+        "140": "Nad p\u00f3\u0142nocn\u0105 wie\u017c\u0105 Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 San\u00a0Francisco",
+        "191": "Nad Zatok\u0105 San Francisco"
     },
     "A006_C008": {
         "0": "Z\u0142ote orlenie krowonose u\u00a0wybrze\u017cy Meksyku"
     },
     "A007_C017": {
-        "150": "Mijaj\u0105c Coit\u00a0Tower, w\u00a0kierunku \u015br\u00f3dmie\u015bcia San\u00a0Francisco i\u00a0Bay\u00a0Bridge",
         "0": "Nad Fisherman's\u00a0Wharf w\u00a0kierunku \u015br\u00f3dmie\u015bcia San\u00a0Francisco",
-        "80": "Zbli\u017caj\u0105c si\u0119 do Coit\u00a0Tower, w\u00a0tle \u015br\u00f3dmie\u015bcie San\u00a0Francisco i\u00a0Bay\u00a0Bridge",
-        "196": "\u015ar\u00f3dmie\u015bcie San Francisco"
-    },
-    "GMT110_112NC_364D_1054": {
-        "0": "Zorza polarna nad Antarktyd\u0105"
-    },
-    "TH_803_A001_8": {
-        "0": "Fale bij\u0105ce w\u00a0brzeg na Tahiti"
-    },
-    "CH_C007_C004": {
-        "0": "Nad parkiem narodowym Wulingyuan (Chiny)"
-    },
-    "G009_C00310678": {
-        "0": "Podr\u00f3\u017c nad Wielkim Kanionem (USA)"
-    },
-    "I003_C004": {
-        "0": "Przelot nad jeziorem Langisj\u00f3r na Islandii"
-    },
-    "Y004_C015_0227PD": {
-        "146": "Half\u00a0Dome oraz wodospad Nevada w\u00a0Parku Narodowym Yosemite (USA)",
-        "124": "Mijaj\u0105c Half\u00a0Dome i\u00a0zbli\u017caj\u0105c si\u0119 do wodospadu Nevada w\u00a0Parku Narodowym Yosemite"
-    },
-    "A012_C014": {
-        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero",
-        "208": "Wzd\u0142u\u017c Market\u00a0Street przez San\u00a0Francisco"
-    },
-    "H012_C009": {
-        "0": "Wzd\u0142u\u017c wybrze\u017ca Kohala na wyspie Hawai\u2018i"
-    },
-    "Y002_C013226": {
-        "0": "Nad Parkiem Narodowym Yosemite (USA)"
+        "150": "Mijaj\u0105c Coit\u00a0Tower, w\u00a0kierunku \u015br\u00f3dmie\u015bcia San\u00a0Francisco i\u00a0Bay\u00a0Bridge",
+        "196": "\u015ar\u00f3dmie\u015bcie San Francisco",
+        "80": "Zbli\u017caj\u0105c si\u0119 do Coit\u00a0Tower, w\u00a0tle \u015br\u00f3dmie\u015bcie San\u00a0Francisco i\u00a0Bay\u00a0Bridge"
     },
     "A008_C007": {
-        "150": "Przelot nad Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Presidio (San\u00a0Francisco)",
-        "0": "Nad Marin\u00a0Headlands z\u00a0widokiem na Golden\u00a0Gate\u00a0Bridge"
-    },
-    "A006_C003": {
-        "191": "Nad Zatok\u0105 San Francisco",
-        "140": "Nad p\u00f3\u0142nocn\u0105 wie\u017c\u0105 Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 San\u00a0Francisco",
-        "0": "Nad Zatok\u0105 San\u00a0Francisco i\u00a0Golden\u00a0Gate\u00a0Bridge"
-    },
-    "A016_C002": {
-        "0": "Las wodorost\u00f3w u\u00a0wybrze\u017cy Kalifornii (USA)"
-    },
-    "LW_L001_C003": {
-        "0": "Przelot nad oaz\u0105 Liwa (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
-    },
-    "P007_C027": {
-        "0": "Przelot nad Parkiem Narodowym Torres del\u00a0Paine w\u00a0Chile"
-    },
-    "A114_C001305OT": {
-        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 USA"
-    },
-    "HK_H004_C008": {
-        "0": "Nad Victoria\u00a0Harbour z\u00a0widokiem na wysp\u0119 Hongkong"
-    },
-    "HK_H004_C010": {
-        "0": "Przelot nad Wzg\u00f3rzem\u00a0Wiktorii (Hong\u00a0Kong)",
-        "330": "Nad Victoria\u00a0Harbour w\u00a0kierunku p\u00f3\u0142wyspu Koulun",
-        "150": "Przelot nad Hongkongiem w\u00a0kierunku Victoria\u00a0Harbour"
-    },
-    "G008_C015106MB": {
-        "0": "Przelot nad obszarem Burnt\u00a0Canyon w\u00a0Wielkim Kanionie (USA)"
-    },
-    "C004_C003": {
-        "0": "Sekcja Mutianyu Wielkiego Muru w\u00a0dystrykcie Huairou (Chiny)"
-    },
-    "GL_G010_C006": {
-        "0": "Fiord Ilulissat, wybrze\u017ce Grenlandii"
-    },
-    "D004_L014": {
-        "0": "Humbak u\u00a0wybrze\u017cy Polinezji Francuskiej"
-    },
-    "G010_C026107KE": {
-        "0": "Przelot wzd\u0142u\u017c rzeki Kolorado  w\u00a0Wielkim Kanionie (USA)"
-    },
-    "G007_C004": {
-        "0": "Wzd\u0142u\u017c rzeki Kolorado przez Wielki Kanion (USA)"
-    },
-    "G009_C014106B9": {
-        "0": "Podr\u00f3\u017c przez Wielki Kanion (USA)"
-    },
-    "GMT307_136NC_134K_8277": {
-        "215": "Nad po\u0142udniowo-wschodnim regionem USA",
-        "320": "Nad wschodni\u0105 cz\u0119\u015bci\u0105 USA, zbli\u017caj\u0105c si\u0119 do Nowego\u00a0Jorku",
-        "180": "Mijaj\u0105c Houston i\u00a0zbli\u017caj\u0105c si\u0119 do Nowego\u00a0Orleanu (USA)",
-        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Meksyku",
-        "280": "Podr\u00f3\u017c nad wschodni\u0105 cz\u0119\u015bci\u0105 USA w\u00a0kierunku Nowego\u00a0Jorku",
-        "190": "Przelot nad Nowym\u00a0Orleanem i\u00a0po\u0142udniowym wybrze\u017cem USA",
-        "122": "Przelot nad Zatok\u0105\u00a0Meksyka\u0144sk\u0105 w\u00a0kierunku USA",
-        "105": "Nad miastem Meksyk w\u00a0kierunku Zatoki\u00a0Meksyka\u0144skiej"
-    },
-    "Y005_C003228SC": {
-        "0": "Nad Parkiem Narodowym Yosemite (USA)"
-    },
-    "I003_C008": {
-        "0": "Podr\u00f3\u017c wzd\u0142u\u017c rzeki Tungna\u00e1 w\u00a0g\u00f3rach Islandii"
-    },
-    "I003_C015": {
-        "0": "Podr\u00f3\u017c przez dolin\u0119 J\u00f6kulgil w\u00a0masywie Landmannalaugar na Islandii"
-    },
-    "A018_C029": {
-        "0": "\u0141awica barakud chevron w\u00a0wodach Borneo"
-    },
-    "A014_C008": {
-        "0": "Bolbometopon nad rafami koralowymi u\u00a0wybrze\u017cy Borneo"
+        "0": "Nad Marin\u00a0Headlands z\u00a0widokiem na Golden\u00a0Gate\u00a0Bridge",
+        "150": "Przelot nad Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Presidio (San\u00a0Francisco)"
     },
     "A008_C010": {
         "0": "Rafa koralowa na Morzu Czerwonym u\u00a0wybrze\u017cy Egiptu"
     },
-    "C003_C003": {
-        "0": "Sekcja Mutianyu Wielkiego Muru w\u00a0dystrykcie Huairou (Chiny)"
+    "A009_C001_10181A": {
+        "0": "Nad Afryk\u0105\u00a0Zachodni\u0105, w\u00a0stron\u0119 Sahary",
+        "110": "Nad g\u00f3rami Ahaggar na Saharze (Afryka\u00a0P\u00f3\u0142nocna)",
+        "155": "Nad Wielkim Ergiem\u00a0Wschodnim, w\u00a0stron\u0119 Morza\u00a0\u015ar\u00f3dziemnego (Afryka P\u00f3\u0142nocna)",
+        "195": "Wybrze\u017ce Tunezji i\u00a0Morze\u00a0\u015ar\u00f3dziemne",
+        "210": "Podr\u00f3\u017c nad wybrze\u017cem Tunezji w\u00a0kierunku W\u0142och",
+        "230": "Zbli\u017caj\u0105c si\u0119 do \u015br\u00f3dziemnomorskiego wybrze\u017ca W\u0142och",
+        "245": "Podr\u00f3\u017c nad W\u0142ochami w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Ba\u0142ka\u0144skiego",
+        "285": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim w\u00a0kierunku Karpat",
+        "30": "Przelot nad Sahar\u0105 (p\u00f3\u0142nocna Afryka)",
+        "310": "Karpaty i\u00a0Morze\u00a0Czarne"
+    },
+    "A009_C007": {
+        "0": "Delfinki d\u0142ugoszcz\u0119kie u wybrze\u017cy Kostaryki"
+    },
+    "A010_C002": {
+        "0": "P\u0142yn\u0105c przez las wodorost\u00f3w w\u00a0pobli\u017cu P\u00f3\u0142wyspu Przyl\u0105dkowego (Po\u0142udniowa Afryka)"
+    },
+    "A010_C007": {
+        "0": "Meduza z\u0142ota w\u00a0wodach Palau"
     },
     "A012_C004": {
         "0": "Nad Marin\u00a0Headlands z\u00a0widokiem na Golden\u00a0Gate\u00a0Bridge",
         "150": "Przelot nad Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Presidio (San\u00a0Francisco)"
     },
-    "A103_C002205DG": {
-        "0": "Podr\u00f3\u017c nad Rogiem Afryki w\u00a0kierunku Zatoki Ade\u0144skiej"
+    "A012_C014": {
+        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero",
+        "208": "Wzd\u0142u\u017c Market\u00a0Street przez San\u00a0Francisco"
     },
-    "A083_C002_1130KZ": {
-        "60": "Przej\u015bcie z\u00a0dnia w\u00a0noc nad Azj\u0105\u00a0\u015arodkow\u0105",
-        "0": "S\u0142o\u0144ce odbijaj\u0105ce si\u0119 wzd\u0142u\u017c wybrze\u017ca Iranu",
-        "15": "Przej\u015bcie z\u00a0dnia w\u00a0noc nad Iranem"
+    "A012_C031": {
+        "0": "Protoreaster na dnie oceanu w\u00a0pobli\u017cu Borneo"
     },
-    "I003_C005": {
-        "0": "Przelot nad jeziorem Langisj\u00f3r i\u00a0masywem F\u00f6grufj\u00f6ll na Islandii"
+    "A013_C004": {
+        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero",
+        "150": "Wzd\u0142u\u017c Market\u00a0Street przez \u015br\u00f3dmie\u015bcie San\u00a0Francisco",
+        "360": "Wzd\u0142u\u017c Market\u00a0Street przez San\u00a0Francisco",
+        "90": "Nad Embarcadero z\u00a0widokiem na Market\u00a0Street w\u00a0San\u00a0Francisco"
     },
-    "DB_D001_C005": {
-        "0": "Przelot wzd\u0142u\u017c dystryktu Dubai\u00a0Marina (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    "A013_C005": {
+        "0": "Wzd\u0142u\u017c Presidio (San\u00a0Francisco), w\u00a0kierunku Golden\u00a0Gate\u00a0Bridge",
+        "190": "Przelot nad Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Marin\u00a0Headlands"
     },
-    "A001_C007": {
-        "348": "Meduza z\u0142ota w\u00a0wodach Palau",
-        "282": "Meduza z\u0142ota w\u015br\u00f3d meduz ksi\u0119\u017cycowych",
-        "0": "Meduza z\u0142ota w\u00a0wodach Palau"
+    "A013_C012": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do Golden\u00a0Gate\u00a0Bridge od strony San\u00a0Francisco",
+        "140": "Przelot nad Golden\u00a0Gate\u00a0Bridge",
+        "230": "Mijaj\u0105c p\u00f3\u0142nocn\u0105 wie\u017c\u0119 Golden\u00a0Gate\u00a0Bridge",
+        "260": "Nad Zatok\u0105 San\u00a0Francisco wzd\u0142u\u017c Golden\u00a0Gate\u00a0Bridge",
+        "60": "Wzd\u0142u\u017c Golden\u00a0Gate\u00a0Bridge w\u00a0stron\u0119 Marin\u00a0Headlands"
     },
-    "CH_C007_C011": {
-        "0": "Przelot nad parkiem narodowym Wulingyuan (Chiny)"
+    "A014_C008": {
+        "0": "Bolbometopon nad rafami koralowymi u\u00a0wybrze\u017cy Borneo"
+    },
+    "A014_C023": {
+        "0": "\u0141awica karanks\u00f3w smugowych u\u00a0wybrze\u017cy Borneo"
+    },
+    "A015_C014": {
+        "0": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku Embarcadero",
+        "210": "Wzd\u0142u\u017c Market\u00a0Street przez \u015br\u00f3dmie\u015bcie San\u00a0Francisco"
+    },
+    "A015_C018": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do mostu Bay\u00a0Bridge i\u00a0\u015br\u00f3dmie\u015bcie San\u00a0Francisco",
+        "116": "Nad Zatok\u0105\u00a0San\u00a0Francisco w\u00a0kierunku \u015br\u00f3dmie\u015bcia",
+        "80": "Przelot nad mostem Bay\u00a0Bridge w\u00a0kierunku \u015br\u00f3dmie\u015bcia San\u00a0Francisco"
+    },
+    "A016_C002": {
+        "0": "Las wodorost\u00f3w u\u00a0wybrze\u017cy Kalifornii (USA)"
     },
     "A016_C009": {
         "0": "Kotik kar\u0142owaty przy wybrze\u017cu P\u00f3\u0142wyspu Przyl\u0105dkowego (Po\u0142udniowa Afryka)"
     },
-    "DB_D008_C010": {
-        "0": "Przelot wzd\u0142u\u017c Sheikh\u00a0Zayed Road w\u00a0Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    "A018_C014": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do\u00a0\u015br\u00f3dmie\u015bcia San\u00a0Francisco z\u00a0widoczn\u0105 w\u00a0oddali wie\u017c\u0105 transmisyjn\u0105 Sutro\u00a0Tower",
+        "10": "Piramida\u00a0Transamerica w\u00a0\u015br\u00f3dmie\u015bciu San\u00a0Francisco",
+        "40": "\u015ar\u00f3dmie\u015bcie San\u00a0Francisco z\u00a0widoczn\u0105 w\u00a0oddali wie\u017c\u0105 transmisyjn\u0105 Sutro\u00a0Tower"
     },
-    "DB_D002_C003": {
-        "0": "Zbli\u017caj\u0105c si\u0119 do centrum\u00a0Dubaju w\u00a0Zjednoczonych\u00a0Emiratach\u00a0Arabskich",
-        "210": "Przelot nad centrum Dubaju w\u00a0Zjednoczonych\u00a0Emiratach\u00a0Arabskich"
+    "A018_C029": {
+        "0": "\u0141awica barakud chevron w\u00a0wodach Borneo"
     },
-    "P001_C005_11059D": {
-        "0": "Przelot wzd\u0142u\u017c Cuernos del Paine w\u00a0Parku Narodowym Torres del Paine, Chile"
+    "A050_C004_1027V8": {
+        "0": "Podr\u00f3\u017c nad Europ\u0105 zachodni\u0105, oraz Wielk\u0105 Brytani\u0105 i\u00a0Irlandi\u0105 w\u00a0oddali",
+        "100": "Grecja mi\u0119dzy Morzem\u00a0Jo\u0144skim i\u00a0Egejskim",
+        "160": "Podr\u00f3\u017c na po\u0142udniowy wsch\u00f3d nad Morzem\u00a0\u015ar\u00f3dziemnym",
+        "185": "Morze\u00a0\u015ar\u00f3dziemne i\u00a0delta Nilu",
+        "20": "Na po\u0142udniowy wsch\u00f3d, ponad Alpami i\u00a0dolin\u0105 Padu",
+        "205": "Nil p\u0142yn\u0105cy przez Sahar\u0119 (Egipt)",
+        "220": "Pustynia\u00a0Wschodnia mi\u0119dzy Nilem i\u00a0Zatok\u0105 Suesk\u0105",
+        "240": "Na po\u0142udniowy wsch\u00f3d, ponad Morzem\u00a0Czerwonym",
+        "50": "Na po\u0142udnie, nad P\u00f3\u0142wyspem\u00a0Apeni\u0144skim i\u00a0Adriatykiem"
     },
-    "A002_C009": {
-        "0": "Meduza z\u0142ota w\u00a0wodach Palau"
+    "A083_C002_1130KZ": {
+        "0": "S\u0142o\u0144ce odbijaj\u0105ce si\u0119 wzd\u0142u\u017c wybrze\u017ca Iranu",
+        "15": "Przej\u015bcie z\u00a0dnia w\u00a0noc nad Iranem",
+        "60": "Przej\u015bcie z\u00a0dnia w\u00a0noc nad Azj\u0105\u00a0\u015arodkow\u0105"
     },
-    "S004_C019": {
-        "0": "Podr\u00f3\u017c nad pasmem Cuillin Hills na wyspie Skye w\u00a0Szkocji"
+    "A103_C002205DG": {
+        "0": "Podr\u00f3\u017c nad Rogiem Afryki w\u00a0kierunku Zatoki Ade\u0144skiej"
     },
-    "A004_C003": {
-        "0": "Rafa koralowa w\u00a0pobli\u017cu Palau"
+    "A103_C002_0205DG": {
+        "115": "Nad Zatok\u0105 Oma\u0144sk\u0105, zbli\u017caj\u0105c si\u0119 do wybrze\u017ca z\u00a0g\u00f3rami Makran",
+        "145": "Wybrze\u017ce z\u00a0g\u00f3rami Mekran (Iran i\u00a0Pakistan)",
+        "160": "Podr\u00f3\u017c nad Iranem w\u00a0kierunku Afganistanu i\u00a0Pakistanu",
+        "180": "Nad Afganistanem i\u00a0Pakistanem w\u00a0kierunku \u0142a\u0144cucha Karakorum",
+        "235": "Podr\u00f3\u017c nad \u0142a\u0144cuchem Karakorum w\u00a0stron\u0119 Chin",
+        "280": "Pustynia Takla\u00a0Makan w\u00a0zachodnich Chinach",
+        "315": "G\u00f3ry Tienszan w\u00a0Azji\u00a0\u015arodkowej",
+        "45": "Po\u0142udniowo-wschodnia cz\u0119\u015b\u0107 P\u00f3\u0142wyspu\u00a0Arabskiego"
     },
-    "LA_A005_C009": {
-        "0": "Wzd\u0142u\u017c autostrady 110, na p\u00f3\u0142noc przez Los\u00a0Angeles"
+    "A105_C0022120602": {
+        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Ameryki\u00a0\u015arodkowej"
+    },
+    "A105_C002_021206_002": {
+        "100": "Przelot nad Ameryk\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku Morza\u00a0Karaibskiego",
+        "150": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Kuby",
+        "240": "Nad Kub\u0105 i\u00a0Floryd\u0105, Bahamy w\u00a0tle",
+        "300": "Podr\u00f3\u017c nad Floryd\u0105 i\u00a0wyspami Bahama w\u00a0kierunku Morza\u00a0Sargassowego",
+        "350": "Nad Morzem\u00a0Sargassowym, w\u00a0stron\u0119 Atlantyku",
+        "70": "Po\u0142udniowo-zachodnie wybrze\u017ce Ameryki\u00a0\u015arodkowej, widok w\u00a0kierunku Morza\u00a0Karaibskiego"
+    },
+    "A105_C003212CT": {
+        "0": "Przelot z\u00a0nocy w\u00a0dzie\u0144 nad po\u0142udniowym Pacyfikiem"
+    },
+    "A105_C003_0212CT": {
+        "110": "Zbli\u017caj\u0105c si\u0119 do Nowej\u00a0Zelandii o\u00a0wschodzie s\u0142o\u0144ca",
+        "170": "Nad Pacyfikiem, z\u00a0Nowej\u00a0Zelandii na p\u00f3\u0142nocny wsch\u00f3d",
+        "70": "Przelot z\u00a0nocy w\u00a0dzie\u0144 nad Now\u0105\u00a0Zelandi\u0105"
+    },
+    "A108_C001215V8": {
+        "0": "Podr\u00f3\u017c nad Pacyfikiem w\u00a0stron\u0119 Ameryki\u00a0\u015arodkowej"
+    },
+    "A108_C001_0215V8": {
+        "110": "Nad pogr\u0105\u017con\u0105 w\u00a0chmurach Jamajk\u0105 na Morzu Karaibskim",
+        "125": "Przelot nad Kub\u0105, widok w\u00a0kierunku Haiti\u00a0i\u00a0Dominikany",
+        "170": "Podr\u00f3\u017c nad wyspami Bahama, widok w\u00a0kierunku Haiti\u00a0i\u00a0Dominikany",
+        "190": "Wyspy Turks\u00a0i\u00a0Caicos na Atlantyku",
+        "35": "Wybrze\u017ce pacyficzne Nikaragui, Kostaryki i\u00a0Panamy",
+        "50": "Przelot nad Ameryk\u0105\u00a0\u015arodkow\u0105, z\u00a0widoczn\u0105 w\u00a0oddali Ameryk\u0105 Po\u0142udniow\u0105",
+        "65": "Wybrze\u017ce Moskit\u00f3w (Nikaragua)",
+        "85": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Kuby"
+    },
+    "A114_C001305OT": {
+        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 USA"
+    },
+    "A114_C001_0305OT": {
+        "130": "Sierra Madre\u00a0Zachodnia na zachodnim wybrze\u017cu Meksyku",
+        "185": "Nad Sierra Madre\u00a0Zachodni\u0105 w\u00a0stron\u0119 zachodniego wybrze\u017ca Meksyku",
+        "20": "Podr\u00f3\u017c na po\u0142udnie wzd\u0142u\u017c wybrze\u017ca Kaliforni",
+        "225": "Widok w\u00a0kierunku Pacyfiku, ponad Sierra\u00a0Madre del Sur (Meksyk)",
+        "280": "Pacyfik i\u00a0wybrze\u017ce Meksyku",
+        "290": "Pacyfik oraz wybrze\u017ce Meksyku i\u00a0Gwatemali",
+        "50": "Nad po\u0142udniow\u0105 Kaliforni\u0105 w\u00a0kierunku Meksyku",
+        "65": "Zbli\u017caj\u0105c si\u0119 do pustyni\u00a0Mojave w\u00a0po\u0142udniowej\u00a0Kaliforni, Meksyk w\u00a0tle",
+        "95": "Zatoka\u00a0Kalifornijska mi\u0119dzy Sonor\u0105 i\u00a0P\u00f3\u0142wyspem\u00a0Kalifornijskim"
+    },
+    "A351_C001_1213SK": {
+        "0": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Wy\u017cyn\u0105\u00a0Abisy\u0144sk\u0105",
+        "100": "Nad P\u00f3\u0142wyspem\u00a0Arabskim, na p\u00f3\u0142nocny wsch\u00f3d",
+        "130": "Nad P\u00f3\u0142wyspem\u00a0Arabskim w\u00a0kierunku Iranu",
+        "165": "Nad P\u00f3\u0142wyspem\u00a0Arabskim, zbli\u017caj\u0105c si\u0119 do Iranu",
+        "190": "Zbli\u017caj\u0105c si\u0119 do wybrze\u017ca Iranu z\u00a0g\u00f3rami\u00a0Zagros w\u00a0tle",
+        "210": "Nad g\u00f3rami Zagros (Iran)",
+        "240": "Nad pustyni\u0105 Daszt-e Lut w\u00a0Iranie",
+        "265": "Przelot w\u00a0kierunku Turkmenistanu i\u00a0pustyni Kara-kum",
+        "305": "Rzeka Amu-daria i\u00a0g\u00f3ry Pamiro-A\u0142aj (Azja\u00a0\u015arodkowa)",
+        "322": "G\u00f3ry Pamiro-A\u0142aj i\u00a0Kotlina Ferga\u0144ska (Azja\u00a0\u015arodkowa)",
+        "360": "Zmierzaj\u0105c z\u00a0Kirgistanu w\u00a0stron\u0119 Kazachstanu",
+        "400": "Podr\u00f3\u017c na p\u00f3\u0142noc nad Kazachstanem",
+        "45": "Podr\u00f3\u017c nad Morzem\u00a0Czerwonym w\u00a0stron\u0119 P\u00f3\u0142wyspu\u00a0Arabskiego",
+        "450": "Nad g\u00f3rami A\u0142taju w\u00a0stron\u0119\u00a0Mongolii"
     },
     "B002_C011": {
         "0": "Delfiny pospolite u\u00a0wybrze\u017cy Kalifornii (USA)"
@@ -636,7 +230,413 @@
     "C001_C005": {
         "0": "Sekcja Mutianyu Wielkiego Muru w\u00a0dystrykcie Huairou (Chiny)"
     },
-    "A105_C003212CT": {
-        "0": "Przelot z\u00a0nocy w\u00a0dzie\u0144 nad po\u0142udniowym Pacyfikiem"
+    "C003_C003": {
+        "0": "Sekcja Mutianyu Wielkiego Muru w\u00a0dystrykcie Huairou (Chiny)"
+    },
+    "C004_C003": {
+        "0": "Sekcja Mutianyu Wielkiego Muru w\u00a0dystrykcie Huairou (Chiny)"
+    },
+    "CH_C002_C005": {
+        "0": "Przelot nad tarasami ry\u017cowymi Longji w\u00a0prowincji Guangxi (Chiny)"
+    },
+    "CH_C007_C004": {
+        "0": "Nad parkiem narodowym Wulingyuan (Chiny)"
+    },
+    "CH_C007_C011": {
+        "0": "Przelot nad parkiem narodowym Wulingyuan (Chiny)"
+    },
+    "D004_L014": {
+        "0": "Humbak u\u00a0wybrze\u017cy Polinezji Francuskiej"
+    },
+    "DB_D001_C001": {
+        "0": "Przelot nad dystryktem Dubai\u00a0Marina (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    },
+    "DB_D001_C005": {
+        "0": "Przelot wzd\u0142u\u017c dystryktu Dubai\u00a0Marina (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    },
+    "DB_D002_C003": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do centrum\u00a0Dubaju w\u00a0Zjednoczonych\u00a0Emiratach\u00a0Arabskich",
+        "210": "Przelot nad centrum Dubaju w\u00a0Zjednoczonych\u00a0Emiratach\u00a0Arabskich"
+    },
+    "DB_D008_C010": {
+        "0": "Przelot wzd\u0142u\u017c Sheikh\u00a0Zayed Road w\u00a0Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    },
+    "DB_D011_C010": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do Burd\u017c\u00a0Chalifa w\u00a0centrum Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)",
+        "280": "Mijaj\u0105c Burd\u017c\u00a0Chalifa w\u00a0centrum Dubaju (Zjednoczone\u00a0Emiraty\u00a0Arabskie)",
+        "330": "Nad centrum Dubaju, w\u00a0kierunku wybrze\u017ca"
+    },
+    "G007_C004": {
+        "0": "Wzd\u0142u\u017c rzeki Kolorado przez Wielki Kanion (USA)"
+    },
+    "G008_C015106MB": {
+        "0": "Przelot nad obszarem Burnt\u00a0Canyon w\u00a0Wielkim Kanionie (USA)"
+    },
+    "G009_C00310678": {
+        "0": "Podr\u00f3\u017c nad Wielkim Kanionem (USA)"
+    },
+    "G009_C014106B9": {
+        "0": "Podr\u00f3\u017c przez Wielki Kanion (USA)"
+    },
+    "G010_C026107KE": {
+        "0": "Przelot wzd\u0142u\u017c rzeki Kolorado  w\u00a0Wielkim Kanionie (USA)"
+    },
+    "GL_G002_C002": {
+        "0": "Fiord Ilulissat, wybrze\u017ce Grenlandii"
+    },
+    "GL_G004_C010": {
+        "0": "Przelot wzd\u0142u\u017c P\u00f3\u0142wyspu Nuussuaq na Grenlandii"
+    },
+    "GL_G010_C006": {
+        "0": "Fiord Ilulissat, wybrze\u017ce Grenlandii"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Na po\u0142udniowy wsch\u00f3d ponad Syberi\u0105 i\u00a0Mongoli\u0105",
+        "110": "Nad Chinami, w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Korea\u0144skiego",
+        "150": "P\u00f3\u0142wysep\u00a0Korea\u0144ski z\u00a0widoczn\u0105 w\u00a0oddali Japoni\u0105",
+        "180": "Podr\u00f3\u017c nad Kore\u0105 Po\u0142udniow\u0105 w\u00a0kierunku Japonii",
+        "195": "Nad Japoni\u0105, widok w\u00a0kierunku Pacyfiku",
+        "22": "W\u00a0kierunku Mongolii Wewn\u0119trznej",
+        "260": "Nad Pacyfikiem, na po\u0142udniowy wsch\u00f3d od Japonii",
+        "32": "Podr\u00f3\u017c nad Mongoli\u0105 w\u00a0kierunku Chin",
+        "60": "Nad p\u00f3\u0142nocnymi Chinami w\u00a0kierunku P\u00f3\u0142wyspu\u00a0Korea\u0144skiego"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Nad Oceanem\u00a0Indyjskim, w\u00a0stron\u0119 Perth (Australia)",
+        "170": "Nad zachodni\u0105 Australi\u0105, zbli\u017caj\u0105c si\u0119 do Terytorium\u00a0P\u00f3\u0142nocnego",
+        "220": "Nad Terytorium\u00a0P\u00f3\u0142nocnym (Australia) w\u00a0kierunku Nowej Gwinei",
+        "335": "Podr\u00f3\u017c nad morzem Arafura w\u00a0kierunku Nowej Gwinei",
+        "50": "Podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Australi\u0105\u00a0Zachodni\u0105"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Zorza polarna nad Antarktyd\u0105"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Podr\u00f3\u017c nad Pacyfikiem w\u00a0stron\u0119 wybrze\u017ca Kaliforni",
+        "110": "Podr\u00f3\u017c nad Las\u00a0Vegas w\u00a0kierunku Salt\u00a0Lake\u00a0City (USA)",
+        "120": "Nad zachodni\u0105 cz\u0119\u015bci\u0105 USA, zbli\u017caj\u0105c si\u0119 do Salt\u00a0Lake\u00a0City",
+        "155": "Mi\u0119dzy Salt\u00a0Lake\u00a0City a\u00a0Denver (USA)",
+        "170": "Nad G\u00f3rami\u00a0Skalistymi (USA)",
+        "70": "Podr\u00f3\u017c nad wybrze\u017cem Kaliforni w\u00a0stron\u0119 l\u0105du",
+        "85": "Przelot nad Los\u00a0Angeles na zachodnim wybrze\u017cu USA",
+        "95": "Podr\u00f3\u017c nad Los\u00a0Angeles w\u00a0kierunku Las\u00a0Vegas (USA)"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Meksyku",
+        "105": "Nad miastem Meksyk w\u00a0kierunku Zatoki\u00a0Meksyka\u0144skiej",
+        "122": "Przelot nad Zatok\u0105\u00a0Meksyka\u0144sk\u0105 w\u00a0kierunku USA",
+        "180": "Mijaj\u0105c Houston i\u00a0zbli\u017caj\u0105c si\u0119 do Nowego\u00a0Orleanu (USA)",
+        "190": "Przelot nad Nowym\u00a0Orleanem i\u00a0po\u0142udniowym wybrze\u017cem USA",
+        "215": "Nad po\u0142udniowo-wschodnim regionem USA",
+        "280": "Podr\u00f3\u017c nad wschodni\u0105 cz\u0119\u015bci\u0105 USA w\u00a0kierunku Nowego\u00a0Jorku",
+        "320": "Nad wschodni\u0105 cz\u0119\u015bci\u0105 USA, zbli\u017caj\u0105c si\u0119 do Nowego\u00a0Jorku"
+    },
+    "GMT308_139K_142NC": {
+        "0": "Na po\u0142udniowy wsch\u00f3d, ponad Wielkimi R\u00f3wninami (USA)",
+        "120": "Nad po\u0142udniowo-wschodni\u0105 cz\u0119\u015bci\u0105 USA, w\u00a0stron\u0119 Florydy",
+        "220": "Podr\u00f3\u017c nad Floryd\u0105 w\u00a0kierunku Baham\u00f3w",
+        "240": "Na po\u0142udniowy wsch\u00f3d ponad wyspami Bahama",
+        "285": "Nad wyspami Bahama, zbli\u017caj\u0105c si\u0119 do Dominikany i\u00a0Haiti",
+        "300": "Nad Dominikan\u0105 i\u00a0Haiti, zbli\u017caj\u0105c si\u0119 do Morza\u00a0Karaibskiego",
+        "315": "Nad Morzem\u00a0Karaibskim w\u00a0kierunku Wenezueli",
+        "90": "Na po\u0142udniowy wsch\u00f3d, ponad regionem Midwest (USA)"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Nocna podr\u00f3\u017c na p\u00f3\u0142nocny wsch\u00f3d nad Sahar\u0105",
+        "100": "Wybrze\u017ce Morza\u00a0\u015ar\u00f3dziemnego (Tunezja i\u00a0Libia)",
+        "120": "Nad Morzem\u00a0\u015ar\u00f3dziemnym w\u00a0kierunku W\u0142och",
+        "140": "Nad po\u0142udniowymi W\u0142ochami, zbli\u017caj\u0105c si\u0119 do P\u00f3\u0142wyspu\u00a0Ba\u0142ka\u0144skiego, z\u00a0widoczn\u0105 w\u00a0oddali Turcj\u0105",
+        "165": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim w\u00a0kierunku Morza\u00a0Czarnego",
+        "180": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim, zbli\u017caj\u0105c si\u0119 do Morza\u00a0Czarnego",
+        "210": "Podr\u00f3\u017c nad Morzem\u00a0Czarnym w\u00a0stron\u0119 Ukrainy",
+        "230": "Podr\u00f3\u017c nad Ukrain\u0105 w\u00a0stron\u0119 Rosji",
+        "70": "Nad Wielkim Ergiem\u00a0Wschodnim, w\u00a0stron\u0119 Morza\u00a0\u015ar\u00f3dziemnego"
+    },
+    "GMT314_139M_170NC": {
+        "0": "Nad Pacyfikiem, w\u00a0stron\u0119 Kaliforni\u00a0Dolnej",
+        "110": "Nad G\u00f3rami\u00a0Skalistymi, zbli\u017caj\u0105c si\u0119 do Denver",
+        "125": "Podr\u00f3\u017c nad Wielkimi R\u00f3wninami (USA)",
+        "185": "Zbli\u017caj\u0105c si\u0119 do Wielkich\u00a0Jezior, za nimi Ontario\u00a0(Kanada)",
+        "200": "Nad Wielkimi Jeziorami, zbli\u017caj\u0105c si\u0119 do Ontario (Kanada)",
+        "210": "Zorza polarna nad zachodnim Ontario (Kanada)",
+        "235": "Zorza polarna nad p\u00f3\u0142nocnym Ontario (Kanada)",
+        "250": "Zorza polarna nad p\u00f3\u0142nocnym Quebekiem (Kanada)",
+        "300": "W\u00a0kierunku p\u00f3\u0142nocnego Atlantyku, z\u00a0zorz\u0105 polarn\u0105 nad Labradorem (Kanada)",
+        "45": "Nad Kaliforni\u0105\u00a0Doln\u0105, widok na p\u00f3\u0142noc w\u00a0kierunku USA",
+        "55": "Podr\u00f3\u017c nad Meksykiem na po\u0142udniowy zach\u00f3d USA",
+        "75": "Nad po\u0142udniowo-zachodnim regionem USA"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Nad p\u00f3\u0142nocnym Atlantykiem, zbli\u017caj\u0105c si\u0119 do Irlandii i\u00a0Wielkiej Brytanii",
+        "105": "Nad Europ\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku Rosji",
+        "15": "Irlandia i\u00a0Wielka\u00a0Brytania",
+        "150": "Nad Europ\u0105\u00a0Wschodni\u0105, z\u00a0widoczn\u0105 w\u00a0oddali Moskw\u0105",
+        "165": "Nad Europ\u0105\u00a0Wschodni\u0105, widok w\u00a0kierunku Moskwy",
+        "185": "Nad zachodni\u0105 Rosj\u0105, mijaj\u0105c Moskw\u0119",
+        "195": "Podr\u00f3\u017c nad Rosj\u0105 w\u00a0kierunku Azji\u00a0\u015arodkowej",
+        "45": "Podr\u00f3\u017c nad Wielk\u0105\u00a0Brytani\u0105 w\u00a0kierunku Europy kontynentalnej",
+        "65": "Nad p\u00f3\u0142nocnozachodni\u0105 Europ\u0105 w\u00a0kierunku Rosji"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Nad Tunezj\u0105, w\u00a0stron\u0119 W\u0142och",
+        "15": "Nad po\u0142udniowymi W\u0142ochami, P\u00f3\u0142wysep\u00a0Ba\u0142ka\u0144ski w\u00a0tle",
+        "25": "Nad P\u00f3\u0142wyspem\u00a0Ba\u0142ka\u0144skim w\u00a0kierunku Azji\u00a0\u015arodkowej",
+        "40": "Nad P\u00f3\u0142wyspem Ba\u0142ka\u0144skim, mijaj\u0105c Morze\u00a0Czarne",
+        "5": "Nad Morzem\u00a0\u015ar\u00f3dziemnym, widok w\u00a0kierunku Sycylii i\u00a0P\u00f3\u0142wyspu\u00a0Apeni\u0144skiego",
+        "55": "Nad Ukrain\u0105, Rosja w\u00a0tle",
+        "75": "Nad po\u0142udniowozachodni\u0105 Rosj\u0105, mijaj\u0105c Kazachstan"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "Nad Azj\u0105\u00a0\u015arodkow\u0105 w\u00a0kierunku wybrze\u017ca Chin",
+        "10": "Nad \u015brodkowymi Chinami w\u00a0kierunku Szanghaju",
+        "30": "Nad wschodnimi Chinami, zbli\u017caj\u0105c si\u0119 do Szanghaju",
+        "45": "Zbli\u017caj\u0105c si\u0119 do Szanghaju w\u00a0stron\u0119 Morza\u00a0Wschodniochi\u0144skiego",
+        "50": "Nad Szanghajem w\u00a0stron\u0119 Morza\u00a0Wschodniochi\u0144skiego"
+    },
+    "H004_C007": {
+        "0": "Nad rezerwatem Pu\u2018u\u00a0O\u00a0\u2018Umi na\u00a0wyspie Hawai\u2018i"
+    },
+    "H004_C009": {
+        "0": "Nad rezerwatem Pu\u2018u\u00a0O\u00a0\u2018Umi na\u00a0wyspie Hawai\u2018i"
+    },
+    "H005_C012": {
+        "0": "Dolina\u00a0Waimanu w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
+    },
+    "H007_C003": {
+        "0": "Przelot nad Laup\u0101hoehoe\u00a0Nui w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
+    },
+    "H010_C006": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do Honop\u016b\u00a0Valley w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i",
+        "300": "Honop\u016b\u00a0Valley w\u00a0rezerwacie le\u015bnym Kohala na wyspie Hawai\u2018i"
+    },
+    "H012_C009": {
+        "0": "Wzd\u0142u\u017c wybrze\u017ca Kohala na wyspie Hawai\u2018i"
+    },
+    "HK_B005_C011": {
+        "0": "Nad Victoria\u00a0Harbour w\u00a0kierunku centrum Hongkongu"
+    },
+    "HK_H004_C001": {
+        "0": "Nad Victoria\u00a0Harbour w\u00a0kierunku centrum Hongkongu"
+    },
+    "HK_H004_C008": {
+        "0": "Nad Victoria\u00a0Harbour z\u00a0widokiem na wysp\u0119 Hongkong"
+    },
+    "HK_H004_C010": {
+        "0": "Przelot nad Wzg\u00f3rzem\u00a0Wiktorii (Hong\u00a0Kong)",
+        "150": "Przelot nad Hongkongiem w\u00a0kierunku Victoria\u00a0Harbour",
+        "330": "Nad Victoria\u00a0Harbour w\u00a0kierunku p\u00f3\u0142wyspu Koulun"
+    },
+    "HK_H004_C013": {
+        "0": "Nad Wan Chai, zbli\u017caj\u0105c si\u0119 do centrum Hongkongu",
+        "150": "Nad centrum Hongkongu",
+        "270": "Nad wysp\u0105 Hongkong"
+    },
+    "I001_C014": {
+        "0": "Podr\u00f3\u017c wzd\u0142u\u017c rzeki J\u00f6kulgilskv\u00edsl w\u00a0pobli\u017cu Landmannalaugar na Islandii"
+    },
+    "I003_C004": {
+        "0": "Przelot nad jeziorem Langisj\u00f3r na Islandii"
+    },
+    "I003_C005": {
+        "0": "Przelot nad jeziorem Langisj\u00f3r i\u00a0masywem F\u00f6grufj\u00f6ll na Islandii"
+    },
+    "I003_C008": {
+        "0": "Podr\u00f3\u017c wzd\u0142u\u017c rzeki Tungna\u00e1 w\u00a0g\u00f3rach Islandii"
+    },
+    "I003_C011": {
+        "0": "Wzd\u0142u\u017c rzeki J\u00f6kulgilskv\u00edsl w\u00a0masywie Landmannalaugar na Islandii",
+        "308": "Podr\u00f3\u017c nad g\u00f3rami Islandii"
+    },
+    "I003_C015": {
+        "0": "Podr\u00f3\u017c przez dolin\u0119 J\u00f6kulgil w\u00a0masywie Landmannalaugar na Islandii"
+    },
+    "I004_C014": {
+        "0": "Podr\u00f3\u017c nad masywem Landmannalaugar na Islandii"
+    },
+    "I005_C008": {
+        "0": "Przelot w\u00a0kierunku lodowca M\u00fdrdalsj\u00f6kull na Islandii",
+        "150": "Zbli\u017caj\u0105c si\u0119 do lodowca M\u00fdrdalsj\u00f6kull na Islandii",
+        "225": "Lodowiec M\u00fdrdalsj\u00f6kull na Islandii",
+        "324": "Podr\u00f3\u017c nad lodowcem M\u00fdrdalsj\u00f6kull na Islandii"
+    },
+    "L004_C011": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105",
+        "130": "Wzd\u0142u\u017c Tamizy, w\u00a0kierunku London\u00a0Eye",
+        "20": "Wzd\u0142u\u017c Tamizy w\u00a0Londynie",
+        "210": "Zbli\u017caj\u0105c si\u0119 do London\u00a0Eye nad Tamiz\u0105",
+        "310": "Wzd\u0142u\u017c Tamizy, mijaj\u0105c\u00a0London\u00a0Eye",
+        "325": "Przelot nad Pa\u0142acem Westminsterskim nad Tamiz\u0105 (Londyn)"
+    },
+    "L007_C007": {
+        "0": "Przelot nad terenem pa\u0142acu Buckingham (Londyn)",
+        "104": "Przelot nad Tamiz\u0105 przy London\u00a0Eye",
+        "149": "Mijaj\u0105c po\u0142udniow\u0105 cz\u0119\u015b\u0107 Londynu",
+        "24": "Nad pa\u0142acem Buckingham w\u00a0Londynie",
+        "279": "Mijaj\u0105c The\u00a0Shard w\u00a0po\u0142udniowym Londynie",
+        "299": "Przelot nad Tamiz\u0105 w\u00a0Londynie",
+        "324": "Przelot nad Tamiz\u0105 przy londy\u0144skim Tower\u00a0Bridge",
+        "49": "Nad stadionem St\u00a0James Park w\u00a0kierunku Tamizy (London)"
+    },
+    "L010_C006": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105",
+        "178": "Po\u0142udniowy brzeg Tamizy w\u00a0Londynie",
+        "258": "Przelot nad Tamiz\u0105 w\u00a0Londynie",
+        "78": "Wzd\u0142u\u017c Tamizy w\u00a0Londynie"
+    },
+    "L012_C002": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do londy\u0144skiego Tower\u00a0Bridge nad Tamiz\u0105",
+        "20": "Przelot nad Tamiz\u0105 w\u00a0Londynie",
+        "200": "Przelot nad Tamiz\u0105 w\u00a0stron\u0119 Westminster (Londyn)",
+        "270": "Nad Westminster (Londyn)",
+        "60": "Przelot nad The\u00a0Shard w\u00a0po\u0142udniowym Londynie",
+        "92": "Po\u0142udniowy brzeg Tamizy, w\u00a0kierunku London\u00a0Eye"
+    },
+    "LA_A005_C009": {
+        "0": "Wzd\u0142u\u017c autostrady 110, na p\u00f3\u0142noc przez Los\u00a0Angeles"
+    },
+    "LA_A006_C004": {
+        "0": "Napis Hollywood w\u00a0Los\u00a0Angeles",
+        "250": "Nad Hollywood\u00a0Hills w\u00a0stron\u0119 Burbank (Kalifornia)"
+    },
+    "LA_A006_C008": {
+        "0": "Przelot nad portem lotniczym Los\u00a0Angeles"
+    },
+    "LA_A008_C004": {
+        "0": "Nad Santa\u00a0Monica State Beach nieopodal Los\u00a0Angeles",
+        "365": "Mijaj\u0105c molo Santa\u00a0Monica\u00a0Pier w\u00a0pobli\u017cu Los\u00a0Angeles",
+        "430": "Nad Santa\u00a0Monica State Beach nieopodal Los\u00a0Angeles"
+    },
+    "LA_A009_C009": {
+        "0": "Obserwatorium\u00a0Griffitha i\u00a0Hollywood\u00a0Hills w\u00a0Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Nad centrum Los Angeles"
+    },
+    "LW_L001_C003": {
+        "0": "Przelot nad oaz\u0105 Liwa (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    },
+    "LW_L001_C006": {
+        "0": "Przelot nad oaz\u0105 Liwa (Zjednoczone\u00a0Emiraty\u00a0Arabskie)"
+    },
+    "N003_C006": {
+        "0": "Nad Upper\u00a0East\u00a0Side i\u00a0Central\u00a0Parkiem w\u00a0Nowym\u00a0Jorku",
+        "160": "Zbli\u017caj\u0105c si\u0119 do Empire\u00a0State Building w\u00a0Nowym\u00a0Jorku",
+        "205": "Mijaj\u0105c Empire\u00a0State Building w\u00a0kierunku Dolnego Manhattanu",
+        "50": "Nad \u015arodkowym\u00a0Manhattanem, w\u00a0kierunku centrum i\u00a0Empire\u00a0State Building"
+    },
+    "N006_C003": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do Dolnego\u00a0Manhattanu w\u00a0Nowym\u00a0Jorku",
+        "140": "Nad Dolnym\u00a0Manhattanem, w\u00a0kierunku \u015arodkowego (Nowy\u00a0Jork)",
+        "40": "Nad Dolnym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku"
+    },
+    "N008_C003": {
+        "0": "Zbli\u017caj\u0105c si\u0119 do Dolnego\u00a0Manhattanu od strony New\u00a0York\u00a0Harbor",
+        "110": "Wzd\u0142u\u017c Dolnego\u00a0Manhattanu w\u00a0stron\u0119 One World\u00a0Trade\u00a0Center",
+        "180": "Mijaj\u0105c wie\u017cowiec One World\u00a0Trade\u00a0Center w\u00a0stron\u0119 \u015arodkowego\u00a0Manhattanu",
+        "210": "Nad Dolnym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku, w\u00a0kierunku centrum"
+    },
+    "N008_C009": {
+        "0": "Nad Central\u00a0Park w\u00a0kierunku \u015brodkowego\u00a0Manhattanu (Nowy\u00a0Jork)",
+        "246": "Nad \u015arodkowym\u00a0Manhattanem w\u00a0Nowym\u00a0Jorku"
+    },
+    "N013_C004": {
+        "0": "Wzd\u0142u\u017c 7. Alei w\u00a0kierunku Times\u00a0Square (Nowy\u00a0Jork)",
+        "120": "Wzd\u0142u\u017c 7.\u00a0Alei w\u00a0\u015brodkowym\u00a0Manhattanie (Nowy\u00a0Jork)",
+        "40": "Nad Times\u00a0Square w\u00a0Nowym\u00a0Jorku"
+    },
+    "P001_C005_11059D": {
+        "0": "Przelot wzd\u0142u\u017c Cuernos del Paine w\u00a0Parku Narodowym Torres del Paine, Chile"
+    },
+    "P005_C002_1109E1": {
+        "0": "Przelot nad jeziorem\u00a0Nordenskj\u00f6ld w\u00a0Parku Narodowym Torres del\u00a0Paine, Chile"
+    },
+    "P006_C002_11106T": {
+        "0": "Nad jeziorem\u00a0Nordenskj\u00f6ld w\u00a0Parku Narodowym Torres del\u00a0Paine, Chile"
+    },
+    "P007_C027": {
+        "0": "Przelot nad Parkiem Narodowym Torres del\u00a0Paine w\u00a0Chile"
+    },
+    "S003_C020": {
+        "0": "Podr\u00f3\u017c wzd\u0142u\u017c wybrze\u017ca wyspy Skye w\u00a0Szkocji",
+        "338": "Latarnia morska Neist Point na wyspie Skye w\u00a0Szkocji",
+        "372": "Wyspa Skye w\u00a0Szkocji"
+    },
+    "S004_C019": {
+        "0": "Podr\u00f3\u017c nad pasmem Cuillin Hills na wyspie Skye w\u00a0Szkocji"
+    },
+    "S005_C015": {
+        "0": "Nad zatok\u0105 Loch Moidart na zachodnim wybrze\u017cu Szkocji",
+        "252": "Zbli\u017caj\u0105c si\u0119 do Morza Hebrydzkiego, Szkocja"
+    },
+    "S006_C007": {
+        "0": "Zatoka Loch Moidart na zachodnim wybrze\u017cu Szkocji",
+        "139": "Zbli\u017caj\u0105c si\u0119 do zamku Tioram na zachodnim wybrze\u017cu Szkocji",
+        "181": "Zamek Tioram na zachodnim wybrze\u017cu Szkocji",
+        "214": "Podr\u00f3\u017c nad zachodnim wybrze\u017cem Szkocji"
+    },
+    "S009_C007": {
+        "0": "Podr\u00f3\u017c nad wysp\u0105 Skye w\u00a0Szkocji",
+        "135": "Formacja skalna Old Man of Storr na wyspie Skye w\u00a0Szkocji",
+        "173": "Podr\u00f3\u017c nad wysp\u0105 Skye w\u00a0Szkocji"
+    },
+    "TH_803_A001_8": {
+        "0": "Fale bij\u0105ce w\u00a0brzeg na Tahiti"
+    },
+    "TH_804_A001_8": {
+        "0": "Fale bij\u0105ce w\u00a0brzeg na Tahiti"
+    },
+    "U009_C004": {
+        "0": "Rafowe rekiny szare u\u00a0wybrze\u017cy Polinezji Francuskiej"
+    },
+    "Y002_C013226": {
+        "0": "Nad Parkiem Narodowym Yosemite (USA)"
+    },
+    "Y002_C013_0226": {
+        "210": "Nad Parkiem Narodowym Yosemite (USA)",
+        "70": "Zbli\u017caj\u0105c si\u0119 do Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
+        "87": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y003_C009": {
+        "0": "Nad Parkiem Narodowym Yosemite (USA)",
+        "130": "Szczyt Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)",
+        "221": "Mijaj\u0105c szczyt Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)",
+        "244": "Podr\u00f3\u017c nad Parkiem Narodowym Yosemite (USA)",
+        "93": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku szczytu Merced\u00a0Peak w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Mijaj\u0105c Half\u00a0Dome i\u00a0zbli\u017caj\u0105c si\u0119 do wodospadu Nevada w\u00a0Parku Narodowym Yosemite",
+        "146": "Half\u00a0Dome oraz wodospad Nevada w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y005_C003228SC": {
+        "0": "Nad Parkiem Narodowym Yosemite (USA)"
+    },
+    "Y005_C003_0228SC": {
+        "155": "Nad Parkiem Narodowym Yosemite  z\u00a0wodospadem Nevada w\u00a0oddali",
+        "255": "Wodospady Nevada oraz Illilouette w\u00a0Parku Narodowym Yosemite (USA)",
+        "285": "Wodospady Nevada, Vernal oraz Illilouette w\u00a0Parku Narodowym Yosemite (USA)",
+        "40": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku szczytu Half\u00a0Dome  w\u00a0Parku Narodowym Yosemite (USA)",
+        "60": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y009_C015304I": {
+        "0": "Przelot nad \u0142\u0105kami Tuolumne w\u00a0Parku Narodowym Yosemite (USA)"
+    },
+    "Y011_C001": {
+        "0": "Podr\u00f3\u017cuj\u0105c w kierunku\u00a0wodospadu Bridalveil oraz\u00a0El Capitan w Parku\u00a0Narodowym Yosemite",
+        "120": "Podr\u00f3\u017c na wsch\u00f3d w\u00a0kierunku Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
+        "390": "Half\u00a0Dome w\u00a0Parku Narodowym Yosemite (USA)",
+        "44": "Podr\u00f3\u017cuj\u0105c na wsch\u00f3d w\u00a0kierunku El Capitan w\u00a0Parku Narodowym Yosemite (USA)",
+        "470": "Podr\u00f3\u017cuj\u0105c przez Half\u00a0Dome w\u00a0dolinie Yosemite (USA)",
+        "585": "Podr\u00f3\u017cuj\u0105c na wsch\u00f3d w\u00a0dolinie Yosemite (USA)",
+        "87": "Mijaj\u0105c El\u00a0Capitan, Park Narodowy Yosemite (USA)"
+    },
+    "Y011_C008": {
+        "0": "Podr\u00f3\u017cuj\u0105c w\u00a0kierunku Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
+        "124": "Przelatuj\u0105c przez Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
+        "215": "Przelatuj\u0105c nad Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)",
+        "396": "Przelot w\u00a0kierunku \u0142\u0105k Tuolumne w\u00a0Parku Narodowym Yosemite (USA)",
+        "75": "Przelatuj\u0105c nad Matthes\u00a0Crest w\u00a0Parku Narodowym Yosemite (USA)"
     }
 }

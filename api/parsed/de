@@ -1,642 +1,642 @@
 {
-    "S004_C019": {
-        "0": "\u00dcber Cuillin Hills auf der Insel Skye, Schottland"
-    },
-    "A351_C001_1213SK": {
-        "360": "Nach S\u00fcdost-Kasachstan aus Richtung Kirgisistan",
-        "100": "In Richtung Nordosten \u00fcber die Arabische\u00a0Halbinsel",
-        "165": "\u00dcber die Arabische\u00a0Halbinsel in Ann\u00e4herung an Iran",
-        "190": "Ann\u00e4herung an die K\u00fcste von Iran mit Zagros-Gebirge im Hintergrund",
-        "240": "\u00dcber die Dascht-e\u00a0Lut-W\u00fcste in Iran",
-        "322": "Das Pamir-Alai-Gebirge und das Ferghanatal in Zentralasien",
-        "400": "In Richtung Norden \u00fcber Kasachstan",
-        "0": "In Richtung Nordosten \u00fcber das \u00c4thiopische Hochgebirge",
-        "210": "\u00dcber das Zagros-Gebirge in Iran",
-        "305": "Der Amudarja-Fluss und das Pamir-Alai-Gebirge in Zentralasien",
-        "130": "\u00dcber die Arabische\u00a0Halbinsel in Richtung Iran",
-        "265": "In Richtung Turkmenistan und der Karakum-W\u00fcste",
-        "45": "\u00dcber das Rote\u00a0Meer zur Arabischen\u00a0Halbinsel",
-        "450": "\u00dcber das Altai-Gebirge in Richtung Mongolei"
-    },
-    "GMT314_139M_170NC": {
-        "55": "\u00dcber Mexiko in Richtung S\u00fcdwesten der USA",
-        "300": "In Richtung Nordatlantik mit Nordlichtern \u00fcber Labrador, Kanada",
-        "235": "Nordlichter \u00fcber Nord-Ontario, Kanada",
-        "125": "\u00dcber die Great\u00a0Plains der USA",
-        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Baja\u00a0California",
-        "75": "\u00dcber den S\u00fcdwesten der USA",
-        "210": "Nordlichter \u00fcber West-Ontario, Kanada",
-        "45": "\u00dcber Baja\u00a0California in Blickrichtung Norden zu den USA",
-        "200": "\u00dcber die Gro\u00dfen\u00a0Seen in Ann\u00e4herung an Ontario, Kanada",
-        "250": "Nordlichter \u00fcber Nord-Quebec, Kanada",
-        "110": "\u00dcber die Rocky\u00a0Mountains in Richtung Denver",
-        "185": "Ann\u00e4herung an die Gro\u00dfen\u00a0Seen mit Ontario, Kanada im Hintergrund"
-    },
-    "GMT329_117NC_401C_1037": {
-        "0": "\u00dcber den Nordatlantik in Ann\u00e4herung an Irland und Gro\u00dfbritannien",
-        "65": "\u00dcber Nordwesteuropa in Richtung Russland",
-        "45": "\u00dcber Gro\u00dfbritannien in Richtung europ\u00e4isches Festland",
-        "195": "\u00dcber Russland in Richtung Zentralasien",
-        "165": "\u00dcber Osteuropa in Blickrichtung Moskau",
-        "15": "Irland und Gro\u00dfbritannien",
-        "105": "\u00dcber Zentraleuropa in Richtung Russland",
-        "185": "\u00dcber Westrussland an Moskau vorbei",
-        "150": "\u00dcber Osteuropa mit Moskau im Hintergrund"
-    },
-    "A105_C002_021206_002": {
-        "150": "\u00dcber die Karibik in Richtung Kuba",
-        "70": "Die S\u00fcdwestk\u00fcste von Zentralamerika in Richtung Karibik",
-        "240": "\u00dcber Kuba mit Florida und den Bahamas im Hintergrund",
-        "300": "\u00dcber Florida und den Bahamas in Richtung Sargassosee",
-        "100": "\u00dcberqueren von Zentralamerika in Richtung Karibik",
-        "350": "\u00dcber die Sargassosee in Richtung Atlantischer\u00a0Ozean"
-    },
-    "A108_C001_0215V8": {
-        "190": "Die Turks- und Caicosinseln im Atlantischen\u00a0Ozean",
-        "50": "\u00dcber Zentralamerika mit S\u00fcdamerika im Hintergrund",
-        "170": "\u00dcber die Bahamas in Blickrichtung Haiti und Dominikanische\u00a0Republik",
-        "125": "\u00dcberqueren von Kuba in Blickrichtung Haiti und Dominikanische\u00a0Republik",
-        "35": "Die Pazifikk\u00fcsten von Nicaragua, Costa\u00a0Rica und Panama",
-        "110": "Vorbei am wolkenbedeckten Jamaika in der Karibik",
-        "65": "Die Miskitok\u00fcste von Nicaragua",
-        "85": "\u00dcber die Karibik in Richtung Kuba"
-    },
-    "A103_C002_0205DG": {
-        "180": "\u00dcber Afghanistan und Pakistan in Richtung Karakoram-Gebirge",
-        "45": "Der S\u00fcdosten der Arabischen\u00a0Halbinsel",
-        "145": "Die Makran-K\u00fcste von Iran und Pakistan",
-        "115": "Der Golf\u00a0von\u00a0Oman in Ann\u00e4herung an die K\u00fcste\u00a0von\u00a0Makran",
-        "280": "Die Taklamakan-W\u00fcste in Westchina",
-        "235": "\u00dcber das Karakoram-Gebirge in Richtung China",
-        "315": "Das Tian\u00a0Shan-Gebirge in Zentralasien",
-        "160": "\u00dcber Iran in Richtung Afghanistan und Pakistan"
-    },
-    "L007_C007": {
-        "149": "\u00dcber South London",
-        "104": "\u00dcberqueren der Themse und vorbei am London\u00a0Eye",
-        "299": "\u00dcberqueren der Themse in London",
-        "49": "\u00dcber St.\u00a0James\u2019s\u00a0Park in Richtung Themse, London",
-        "0": "\u00dcber das Gel\u00e4nde des Buckingham\u00a0Palace, London",
-        "279": "Vorbei an The\u00a0Shard in South\u00a0London",
-        "24": "\u00dcber dem Buckingham\u00a0Palace in London",
-        "324": "\u00dcberqueren der Themse bei der Tower\u00a0Bridge in London"
-    },
-    "GMT308_139K_142NC": {
-        "240": "In Richtung S\u00fcdosten \u00fcber die Bahamas",
-        "120": "\u00dcber den S\u00fcdosten der USA in Richtung Florida",
-        "300": "\u00dcber die Dominikanische\u00a0Republik und Haiti in Ann\u00e4herung an die Karibik",
-        "90": "In Richtung S\u00fcdosten \u00fcber den Mittleren\u00a0Westen der USA",
-        "220": "\u00dcber Florida in Richtung Bahamas",
-        "315": "\u00dcber die Karibik nach S\u00fcden in Richtung Venezuela",
-        "0": "In Richtung S\u00fcdosten \u00fcber die Great\u00a0Plains der USA",
-        "285": "\u00dcber die Bahamas in Ann\u00e4herung an die Dominikanische\u00a0Republik und Haiti"
-    },
-    "Y011_C008": {
-        "124": "Flug zwischen den Gipfeln des Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
-        "75": "Flug \u00fcber den Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
-        "0": "In Richtung Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
-        "215": "Flug \u00fcber den Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
-        "396": "In Richtung Tuolumne\u00a0Meadows im Yosemite-Nationalpark, USA"
-    },
-    "A013_C004": {
-        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero",
-        "360": "Entlang der Market\u00a0Street durch San\u00a0Francisco",
-        "90": "\u00dcber die Embarcadero auf die Market\u00a0Street herabblickend in San\u00a0Francisco",
-        "150": "Entlang der Market\u00a0Street durch die Innenstadt von San\u00a0Francisco"
-    },
-    "GMT307_136NC_134K_8277": {
-        "280": "\u00dcber den Osten der USA in Richtung New\u00a0York",
-        "190": "\u00dcber New\u00a0Orleans und die Golfk\u00fcste der USA",
-        "320": "\u00dcber den Osten der USA in Ann\u00e4herung an New\u00a0York\u00a0City",
-        "105": "\u00dcber Mexiko-Stadt in Richtung Golf\u00a0von\u00a0Mexiko",
-        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Mexiko",
-        "122": "Flug \u00fcber den Golf\u00a0von\u00a0Mexiko in Richtung USA",
-        "180": "An Houston vorbei in Ann\u00e4herung an New\u00a0Orleans in den USA",
-        "215": "In Richtung des S\u00fcdostens der USA"
-    },
-    "A114_C001305OT": {
-        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung USA"
-    },
-    "A050_C004_1027V8": {
-        "240": "In Richtung S\u00fcdosten \u00fcber das Rote\u00a0Meer",
-        "205": "Der durch die Sahara flie\u00dfende Nil in \u00c4gypten",
-        "50": "Entlang der italienischen\u00a0Halbinsel und der Adria Richtung S\u00fcden",
-        "220": "Die Arabische\u00a0W\u00fcste mit angrenzendem Nil und dem Golf\u00a0von\u00a0Sues",
-        "20": "In Richtung S\u00fcdosten \u00fcber die Alpen und das Po-Delta",
-        "185": "Mittelmeer und Nil-Delta",
-        "160": "In Richtung S\u00fcdosten \u00fcber das Mittelmeer",
-        "100": "Griechenland mit angrenzendem Ionischen\u00a0Meer und \u00c4g\u00e4is",
-        "0": "\u00dcber Westeuropa mit Gro\u00dfbritannien und Irland im Hintergrund"
-    },
-    "GMT026_363A_103NC_E1027": {
-        "180": "\u00dcber S\u00fcdkorea in Richtung Japan",
-        "260": "\u00dcber den Pazifischen\u00a0Ozean s\u00fcd\u00f6stlich von Japan",
-        "195": "\u00dcber Japan in Blickrichtung Pazifischer\u00a0Ozean",
-        "22": "In Richtung Innere Mongolei",
-        "0": "In Richtung S\u00fcdosten \u00fcber Sibirien und die Mongolei",
-        "32": "\u00dcber die Mongolei in Richtung China",
-        "150": "Die Koreanische\u00a0Halbinsel mit Japan im Hintergrund",
-        "60": "\u00dcber Nordchina in Richtung Koreanische\u00a0Halbinsel",
-        "110": "\u00dcber China in Richtung Koreanische\u00a0Halbinsel"
-    },
-    "LA_A006_C004": {
-        "0": "Hollywood\u00a0Sign in Los\u00a0Angeles",
-        "250": "\u00dcber die Hollywood\u00a0Hills nach Burbank, Kalifornien"
-    },
-    "I005_C008": {
-        "324": "\u00dcber dem M\u00fdrdalsj\u00f6kull-Gletscher in Island",
-        "225": "M\u00fdrdalsj\u00f6kull-Gletscher in Island",
-        "0": "In Richtung M\u00fdrdalsj\u00f6kull-Gletscher in Island",
-        "150": "Ann\u00e4herung an den M\u00fdrdalsj\u00f6kull-Gletscher in Island"
-    },
-    "GMT329_1_113NC_396B_1105": {
-        "40": "\u00dcber die Balkanhalbinsel am Schwarzen\u00a0Meer vorbei",
-        "25": "\u00dcber die Balkanhalbinsel in Richtung Zentralasien",
-        "75": "\u00dcber S\u00fcdwest-Russland an Kasachstan vorbei",
-        "15": "\u00dcber S\u00fcditalien mit der Balkanhalbinsel im Hintergrund",
-        "5": "\u00dcber das Mittelmeer in Blickrichtung Sizilien und Italienische\u00a0Halbinsel",
-        "0": "\u00dcber Tunesien in Richtung Italien",
-        "55": "\u00dcber die Ukraine mit Russland im Hintergrund"
-    },
-    "A009_C007": {
-        "0": "Ostpazifische Delfine in den Gew\u00e4ssern vor Costa\u00a0Rica"
-    },
-    "A009_C001_10181A": {
-        "195": "Die K\u00fcste von Tunesien und das Mittelmeer",
-        "110": "\u00dcber das Ahaggar-Gebirge in der Sahara, Nordafrika",
-        "245": "\u00dcber Italien in Richtung Balkanhalbinsel",
-        "310": "Die Karpaten und das Schwarze\u00a0Meer",
-        "210": "\u00dcber die K\u00fcste von Tunesien in Richtung Italien",
-        "0": "\u00dcber Westafrika in Richtung Sahara",
-        "155": "\u00dcber den \u00d6stlichen\u00a0Gro\u00dfen\u00a0Erg in Nordafrika Richtung Mittelmeer",
-        "30": "\u00dcberqueren der Sahara in Nordafrika",
-        "285": "\u00dcber die Balkanhalbinsel in Richtung Karpaten",
-        "230": "Ann\u00e4herung an Italien am Mittelmeer"
-    },
-    "I001_C014": {
-        "0": "Entlang des J\u00f6kulgilskv\u00edsl in der N\u00e4he von Landmannalaugar, Island"
-    },
-    "N006_C003": {
-        "40": "Ann\u00e4herung an Lower\u00a0Manhattan in New\u00a0York",
-        "140": "\u00dcber Lower\u00a0Manhattan in New\u00a0York in Richtung Midtown",
-        "0": "Ann\u00e4herung an Lower\u00a0Manhattan in New\u00a0York"
-    },
-    "S006_C007": {
-        "0": "Loch Moidart an der Westk\u00fcste von Schottland",
-        "214": "\u00dcber der Westk\u00fcste von Schottland",
-        "139": "Ann\u00e4herung an Castle Tioram an der Westk\u00fcste von Schottland",
-        "181": "Castle Tioram an der Westk\u00fcste von Schottland"
-    },
-    "Y005_C003_0228SC": {
-        "40": "In Richtung des Half\u00a0Dome im Yosemite-Nationalpark, USA",
-        "155": "\u00dcber dem Yosemite-Nationalpark mit dem Nevada\u00a0Fall im Hintergrund",
-        "255": "Nevada\u00a0Fall und Illilouette\u00a0Fall im Yosemite-Nationalpark, USA",
-        "285": "Nevada\u00a0Fall, Vernal\u00a0Fall und Illilouette\u00a0Fall im Yosemite-Nationalpark, USA",
-        "60": "Half\u00a0Dome im Yosemite-Nationalpark, USA"
-    },
-    "Y011_C001": {
-        "0": "In Richtung des\u00a0Bridalveil Fall und El Capitan im Yosemite-Nationalpark",
-        "44": "Ostw\u00e4rts in Richtung El\u00a0Capitan im Yosemite-Nationalpark, USA",
-        "87": "Entlang des El\u00a0Capitan, Yosemite-Nationalpark, USA",
-        "585": "Ostw\u00e4rts \u00fcber das Yosemite\u00a0Valley, USA",
-        "470": "Vorbei am Half\u00a0Dome im Yosemite\u00a0Valley, USA",
-        "390": "Half\u00a0Dome im Yosemite-Nationalpark, USA",
-        "120": "Ostw\u00e4rts in Richtung Half\u00a0Dome im Yosemite-Nationalpark, USA"
-    },
-    "GMT060_117NC_363D": {
-        "220": "\u00dcber dem Northern\u00a0Territory, Australien in Richtung Neuguinea",
-        "0": "\u00dcber den Indischen\u00a0Ozean in Richtung Perth, Australien",
-        "335": "\u00dcber die Arafurasee in Richtung Neuguinea",
-        "50": "In Richtung Nordosten \u00fcber Westaustralien",
-        "170": "\u00dcber Westaustralien in Ann\u00e4herung an das Northern\u00a0Territory"
-    },
-    "S003_C020": {
-        "338": "Leuchtturm Neist Point, Insel Skye, Schottland",
-        "0": "Entlang der K\u00fcste der Insel Skye, Schottland",
-        "372": "Insel Skye, Schottland"
-    },
-    "N008_C009": {
-        "246": "\u00dcber Midtown\u00a0Manhattan in New\u00a0York",
-        "0": "\u00dcber den Central\u00a0Park in Richtung Midtown\u00a0Manhattan in New\u00a0York"
-    },
-    "U009_C004": {
-        "0": "Graue Riffhaie vor Franz\u00f6sisch-Polynesien"
-    },
-    "A014_C023": {
-        "0": "Ein Schwarm von Stachelmakrelen an der K\u00fcste von Borneo"
-    },
-    "DB_D002_C003": {
-        "210": "\u00dcber die Innenstadt von Dubai in den Vereinigten\u00a0Arabischen\u00a0Emiraten",
-        "0": "Ann\u00e4herung an die Innenstadt von Dubai in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
-    },
-    "CH_C007_C011": {
-        "0": "Durch den Nationalpark Wulingyuan in China"
-    },
-    "HK_H004_C008": {
-        "0": "\u00dcber Victoria\u00a0Harbour mit Blickrichtung Hong\u00a0Kong\u00a0Island"
-    },
-    "A008_C007": {
-        "150": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Presidio, San\u00a0Francisco",
-        "0": "\u00dcber die Marin\u00a0Headlands in Blickrichtung Golden\u00a0Gate\u00a0Bridge"
-    },
-    "A012_C014": {
-        "208": "Entlang der Market\u00a0Street durch San\u00a0Francisco",
-        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero"
-    },
-    "N013_C004": {
-        "0": "Entlang der 7th Avenue in Richtung Times\u00a0Square, New\u00a0York",
-        "40": "\u00dcber den Times\u00a0Square in New\u00a0York",
-        "120": "Entlang der 7th Avenue in Midtown\u00a0Manhattan, New\u00a0York"
-    },
-    "A114_C001_0305OT": {
-        "65": "Ann\u00e4herung an die Mojave-W\u00fcste in S\u00fcdkalifornien mit Mexiko im Hintergrund",
-        "95": "Der Golf\u00a0von\u00a0Kalifornien mit angrenzender Sonora-W\u00fcste und der Baja\u00a0California-Halbinsel",
-        "280": "Der Pazifische\u00a0Ozean vor der K\u00fcste von Mexiko",
-        "225": "In Blickrichtung S\u00fcden zum Pazifischen\u00a0Ozean \u00fcber die Sierra\u00a0Madre del Sur in Mexiko",
-        "50": "\u00dcber S\u00fcdkalifornien in Richtung Mexiko",
-        "290": "Der Pazifische\u00a0Ozean vor der K\u00fcste von Mexiko und Guatemala",
-        "20": "In Richtung S\u00fcden entlang der kalifornischen K\u00fcste",
-        "185": "\u00dcber das Sierra\u00a0Madre Occidental-Gebirge in Richtung mexikanische Westk\u00fcste",
-        "130": "Das Sierra\u00a0Madre Occidental-Gebirge an der mexikanischen Westk\u00fcste"
-    },
-    "P007_C027": {
-        "0": "\u00dcber dem Nationalpark Torres del Paine in Chile"
-    },
-    "I004_C014": {
-        "0": "\u00dcber Landmannalaugar in Island"
-    },
-    "DB_D008_C010": {
-        "0": "Entlang der Sheikh\u00a0Zayed\u00a0Road in Dubai, Vereinigte\u00a0Arabische\u00a0Emirate"
-    },
-    "H012_C009": {
-        "0": "Flug \u00fcber die K\u00fcste von Kohala auf der Insel\u00a0Hawaii"
-    },
-    "Y004_C015227PD": {
-        "0": "Half\u00a0Dome im Yosemite-Nationalpark, USA"
-    },
-    "HK_H004_C013": {
-        "150": "\u00dcber der Stadtmitte von Hong\u00a0Kong",
-        "0": "\u00dcber Wan\u00a0Chai zum Central\u00a0District von Hong\u00a0Kong",
-        "270": "\u00dcber Hong\u00a0Kong\u00a0Island"
-    },
-    "L012_C002": {
-        "92": "S\u00fcdlich der Themse in Richtung London\u00a0Eye",
-        "60": "Vorbei an The\u00a0Shard in South\u00a0London",
-        "20": "\u00dcberqueren der Themse in London",
-        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
-        "200": "\u00dcberqueren der Themse in Richtung Westminster, London",
-        "270": "\u00dcber Westminster, London"
-    },
-    "A018_C014": {
-        "40": "Ann\u00e4herung an die Innenstadt von San\u00a0Francisco mit Sutro\u00a0Tower im Hintergrund",
-        "0": "Ann\u00e4herung an die Innenstadt von San\u00a0Francisco mit Sutro\u00a0Tower im Hintergrund",
-        "10": "Die Transamerica\u00a0Pyramid in der Innenstadt von San\u00a0Francisco"
-    },
-    "A083_C002_1130KZ": {
-        "15": "\u00dcbergang von Tag zu Nacht \u00fcber Iran",
-        "0": "Die Spiegelung der Sonne entlang der K\u00fcste von Iran",
-        "60": "\u00dcbergang von Tag zu Nacht \u00fcber Zentralasien"
-    },
-    "GMT306_139NC_139J_3066": {
-        "155": "Zwischen Salt\u00a0Lake\u00a0City und Denver in den USA",
-        "110": "\u00dcber Las\u00a0Vegas in Richtung Salt\u00a0Lake\u00a0City in den USA",
-        "170": "\u00dcber die Rocky\u00a0Mountains in den USA",
-        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung kalifornische K\u00fcste",
-        "120": "\u00dcber den Westen der USA in Ann\u00e4herung an Salt\u00a0Lake\u00a0City",
-        "70": "\u00dcber die kalifornische K\u00fcste in Richtung Inland",
-        "95": "\u00dcber Los\u00a0Angeles in Ann\u00e4herung an Las\u00a0Vegas in den USA",
-        "85": "\u00dcber Los\u00a0Angeles an der Westk\u00fcste der USA"
-    },
-    "A015_C018": {
-        "80": "\u00dcberqueren der Bay\u00a0Bridge in Richtung der Innenstadt von San\u00a0Francisco",
-        "0": "Ann\u00e4herung an die Bay\u00a0Bridge und die Innenstadt von San\u00a0Francisco",
-        "116": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Innenstadt"
-    },
-    "A006_C008": {
-        "0": "Goldene Kuhnasenrochen vor der K\u00fcste Mexikos"
-    },
-    "DB_D011_C010": {
-        "280": "Vorbei an Burj\u00a0Khalifa in Downtown\u00a0Dubai, Vereinigte\u00a0Arabische\u00a0Emirate",
-        "330": "\u00dcber die Innenstadt von\u00a0Dubai zur K\u00fcste",
-        "0": "Ann\u00e4herung an Burj\u00a0Khalifa in Downtown\u00a0Dubai, Vereinigte\u00a0Arabische\u00a0Emirate"
-    },
-    "GMT312_162NC_139M_1041": {
-        "100": "Mittelmeer-K\u00fcste von Tunesien und Libyen",
-        "70": "\u00dcber den \u00d6stlichen\u00a0Gro\u00dfen\u00a0Erg in Richtung Mittelmeer",
-        "180": "\u00dcber die Balkanhalbinsel in Ann\u00e4herung an das Schwarze\u00a0Meer",
-        "210": "\u00dcber das Schwarze\u00a0Meer in Richtung Ukraine",
-        "165": "\u00dcber die Balkanhalbinsel in Richtung Schwarzes\u00a0Meer",
-        "140": "\u00dcber S\u00fcditalien in Ann\u00e4herung an die Balkanhalbinsel mit der T\u00fcrkei im Hintergrund",
-        "230": "\u00dcber die Ukraine in Richtung Russland",
-        "0": "In Richtung Nordosten \u00fcber die Sahara bei Nacht",
-        "120": "\u00dcber das Mittelmeer in Richtung Italien"
-    },
-    "S009_C007": {
-        "0": "\u00dcber der Insel Skye, Schottland",
-        "173": "\u00dcber der Insel Skye, Schottland",
-        "135": "Old Man of Storr auf der Insel Skye, Schottland"
-    },
-    "A013_C012": {
-        "0": "Ann\u00e4herung an die Golden\u00a0Gate\u00a0Bridge von San\u00a0Francisco aus",
-        "60": "Entlang der Golden\u00a0Gate\u00a0Bridge in Richtung Marin\u00a0Headlands",
-        "140": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge",
-        "230": "Vorbei am n\u00f6rdlichen Pylonen der Golden\u00a0Gate\u00a0Bridge",
-        "260": "\u00dcber die San\u00a0Francisco\u00a0Bay entlang der Golden\u00a0Gate\u00a0Bridge"
-    },
     "A001_C001_120530": {
-        "180": "\u00dcber Westeuropa mit dem Nordatlantischen\u00a0Ozean im Hintergrund",
         "0": "\u00dcber den Nordatlantischen\u00a0Ozean in Richtung Portugal",
         "115": "\u00dcber Portugal und Spanien",
-        "150": "Von der Iberischen\u00a0Halbinsel \u00fcber den Golf\u00a0von\u00a0Biskaya und Frankreich"
+        "150": "Von der Iberischen\u00a0Halbinsel \u00fcber den Golf\u00a0von\u00a0Biskaya und Frankreich",
+        "180": "\u00dcber Westeuropa mit dem Nordatlantischen\u00a0Ozean im Hintergrund"
     },
-    "H007_C003": {
-        "0": "Flug \u00fcber Laup\u0101hoehoe\u00a0Nui im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii"
-    },
-    "G009_C014106B9": {
-        "0": "Durch den Grand\u00a0Canyon in den USA"
+    "A001_C004_1207W5": {
+        "0": "Kanarische\u00a0Inseln, Atlantischer\u00a0Ozean und K\u00fcste von Afrika",
+        "105": "\u00dcber Marokko in Ann\u00e4herung an das Mittelmeer",
+        "125": "Mittelmeer und S\u00fcdspanien",
+        "145": "In Richtung Nordosten \u00fcber die Costa\u00a0Blanca in Spanien",
+        "165": "In Richtung Nordosten \u00fcber die Balearen in Spanien",
+        "185": "\u00dcber das westliche Mittelmeer mit den Alpen im Hintergrund",
+        "220": "\u00dcber die Alpen nach Nordosten",
+        "45": "Entlang der K\u00fcste von Marokko nach Nordosten",
+        "75": "\u00dcber das Atlas-Gebirge in Marokko"
     },
     "A001_C007": {
         "0": "Goldene Quallen in den Gew\u00e4ssern von Palau",
         "282": "Goldene Quallen umringen eine Mondqualle",
         "348": "Goldene Quallen in den Gew\u00e4ssern von Palau"
     },
-    "L004_C011": {
-        "310": "Entlang der Themse vorbei am London\u00a0Eye",
-        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
-        "325": "Vorbei an den Houses of Parliament an der Themse in London",
-        "130": "Entlang der Themse Richtung London\u00a0Eye",
-        "210": "Ann\u00e4herung an das London\u00a0Eye \u00fcber die Themse",
-        "20": "Entlang der Themse in London"
+    "A002_C009": {
+        "0": "Goldene Quallen in den Gew\u00e4ssern von Palau"
     },
-    "C004_C003": {
-        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
+    "A003_C014": {
+        "0": "\u00dcber Ohrenquallen vor der K\u00fcste Alaskas, USA"
     },
-    "N008_C003": {
-        "0": "Ann\u00e4herung an Lower\u00a0Manhattan von New\u00a0York\u00a0Harbor",
-        "110": "Entlang Lower\u00a0Manhattan zum One\u00a0World\u00a0Trade\u00a0Center",
-        "210": "\u00dcber Lower\u00a0Manhattan in New\u00a0York in Richtung Midtown",
-        "180": "Vorbei am One\u00a0World\u00a0Trade\u00a0Center in Richtung Midtown\u00a0Manhattan"
-    },
-    "A001_C004_1207W5": {
-        "125": "Mittelmeer und S\u00fcdspanien",
-        "165": "In Richtung Nordosten \u00fcber die Balearen in Spanien",
-        "105": "\u00dcber Marokko in Ann\u00e4herung an das Mittelmeer",
-        "75": "\u00dcber das Atlas-Gebirge in Marokko",
-        "220": "\u00dcber die Alpen nach Nordosten",
-        "145": "In Richtung Nordosten \u00fcber die Costa\u00a0Blanca in Spanien",
-        "185": "\u00dcber das westliche Mittelmeer mit den Alpen im Hintergrund",
-        "0": "Kanarische\u00a0Inseln, Atlantischer\u00a0Ozean und K\u00fcste von Afrika",
-        "45": "Entlang der K\u00fcste von Marokko nach Nordosten"
-    },
-    "H004_C007": {
-        "0": "\u00dcber dem Pu\u2018u\u00a0O\u00a0\u2018Umi-Naturpark auf der Insel\u00a0Hawaii"
-    },
-    "LA_A011_C003": {
-        "0": "Vorbei an der Innenstadt von Los\u00a0Angeles"
-    },
-    "A103_C002205DG": {
-        "0": "\u00dcber das Horn\u00a0von\u00a0Afrika in Richtung Golf\u00a0von\u00a0Aden"
-    },
-    "CH_C002_C005": {
-        "0": "\u00dcber die Longji-Reisterrassen in der Provinz\u00a0Guangxi, China"
-    },
-    "A012_C004": {
-        "150": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Presidio, San\u00a0Francisco",
-        "0": "\u00dcber die Marin\u00a0Headlands in Blickrichtung Golden\u00a0Gate\u00a0Bridge"
-    },
-    "A015_C014": {
-        "210": "Entlang der Market\u00a0Street durch die Innenstadt von San\u00a0Francisco",
-        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero"
-    },
-    "S005_C015": {
-        "252": "Ann\u00e4herung an das Hebridenmeer, Schottland",
-        "0": "\u00dcber Loch Moidart an der Westk\u00fcste von Schottland"
-    },
-    "A105_C003_0212CT": {
-        "110": "Ann\u00e4herung an den Sonnenaufgang \u00fcber Neuseeland",
-        "70": "\u00dcbergang von Nacht zu Tag \u00fcber Neuseeland",
-        "170": "Von Neuseeland aus in Richtung Nordosten \u00fcber den Pazifischen\u00a0Ozean"
-    },
-    "GMT329_2_113NC_396B_1105": {
-        "30": "\u00dcber Ostchina in Richtung Schanghai",
-        "45": "Ann\u00e4herung an Schanghai in Richtung Ostchinesisches\u00a0Meer",
-        "10": "\u00dcber Zentralchina in Richtung Schanghai",
-        "50": "\u00dcber Schanghai in Richtung Ostchinesisches\u00a0Meer",
-        "0": "\u00dcber Zentralasien in Richtung chinesische K\u00fcste"
-    },
-    "G008_C015106MB": {
-        "0": "Flug \u00fcber den Burnt\u00a0Canyon im Grand\u00a0Canyon, USA"
-    },
-    "G010_C026107KE": {
-        "0": "Entlang des Colorado im Grand\u00a0Canyon, USA"
+    "A004_C003": {
+        "0": "Korallenriff in der N\u00e4he von Palau"
     },
     "A004_C012": {
         "0": "Ohrenquallen vor der K\u00fcste Alaskas, USA",
         "100": "Die Innenstadt von San\u00a0Francisco mit Coit\u00a0Tower im Vordergrund"
     },
-    "HK_H004_C010": {
-        "330": "\u00dcber Victoria\u00a0Harbour zur Kowloon-Halbinsel",
-        "0": "Flug \u00fcber den Victoria\u00a0Peak in Hongkong",
-        "150": "Flug \u00fcber Hongkong in Richtung Victoria\u00a0Harbour"
+    "A006_C003": {
+        "0": "San\u00a0Francisco\u00a0Bay und die Golden\u00a0Gate\u00a0Bridge",
+        "140": "\u00dcber den n\u00f6rdlichen Pylonen der Golden\u00a0Gate\u00a0Bridge in Richtung San\u00a0Francisco",
+        "191": "\u00dcber die San\u00a0Francisco\u00a0Bay"
     },
-    "I003_C004": {
-        "0": "Flug \u00fcber den Langisj\u00f3r in Island"
-    },
-    "I003_C011": {
-        "0": "Entlang des J\u00f6kulgilskv\u00edsl in Landmannalaugar, Island",
-        "308": "\u00dcber dem isl\u00e4ndischen Hochland"
-    },
-    "LA_A008_C004": {
-        "430": "\u00dcber Santa\u00a0Monica State\u00a0Beach bei Los\u00a0Angeles",
-        "0": "\u00dcber Santa\u00a0Monica State\u00a0Beach bei Los\u00a0Angeles",
-        "365": "\u00dcber den Santa\u00a0Monica\u00a0Pier bei Los\u00a0Angeles"
-    },
-    "H005_C012": {
-        "0": "Das Waimanu\u00a0Valley im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii"
-    },
-    "Y003_C009": {
-        "130": "Merced\u00a0Peak im Yosemite-Nationalpark, USA",
-        "0": "\u00dcber dem Yosemite-Nationalpark, USA",
-        "221": "Entlang des Merced\u00a0Peak im Yosemite-Nationalpark, USA",
-        "93": "In Richtung des Merced\u00a0Peak im Yosemite-Nationalpark, USA",
-        "244": "\u00dcber dem Yosemite-Nationalpark, USA"
-    },
-    "Y009_C015304I": {
-        "0": "\u00dcber den Tuolumne\u00a0Meadows im Yosemite-Nationalpark, USA"
-    },
-    "L010_C006": {
-        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
-        "78": "Entlang der Themse in London",
-        "258": "\u00dcberqueren der Themse in London",
-        "178": "S\u00fcdlich der Themse in London"
-    },
-    "H004_C009": {
-        "0": "\u00dcber dem Pu\u2018u\u00a0O\u00a0\u2018Umi-Naturpark auf der Insel\u00a0Hawaii"
+    "A006_C008": {
+        "0": "Goldene Kuhnasenrochen vor der K\u00fcste Mexikos"
     },
     "A007_C017": {
-        "196": "Die Innenstadt von San\u00a0Francisco",
-        "150": "Vorbei am Coit\u00a0Tower in Richtung Innenstadt von San\u00a0Francisco und Bay\u00a0Bridge",
         "0": "\u00dcber Fisherman\u2019s\u00a0Wharf in Richtung Innenstadt von San\u00a0Francisco",
+        "150": "Vorbei am Coit\u00a0Tower in Richtung Innenstadt von San\u00a0Francisco und Bay\u00a0Bridge",
+        "196": "Die Innenstadt von San\u00a0Francisco",
         "80": "Ann\u00e4herung an den Coit\u00a0Tower mit der Innenstadt von San\u00a0Francisco und der Bay\u00a0Bridge im Hintergrund"
     },
-    "P006_C002_11106T": {
-        "0": "\u00dcber dem\u00a0Lago Nordenskj\u00f6ld im Nationalpark Torres del Paine, Chile"
+    "A008_C007": {
+        "0": "\u00dcber die Marin\u00a0Headlands in Blickrichtung Golden\u00a0Gate\u00a0Bridge",
+        "150": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Presidio, San\u00a0Francisco"
+    },
+    "A008_C010": {
+        "0": "Korallenriff im Roten Meer vor \u00c4gypten"
+    },
+    "A009_C001_10181A": {
+        "0": "\u00dcber Westafrika in Richtung Sahara",
+        "110": "\u00dcber das Ahaggar-Gebirge in der Sahara, Nordafrika",
+        "155": "\u00dcber den \u00d6stlichen\u00a0Gro\u00dfen\u00a0Erg in Nordafrika Richtung Mittelmeer",
+        "195": "Die K\u00fcste von Tunesien und das Mittelmeer",
+        "210": "\u00dcber die K\u00fcste von Tunesien in Richtung Italien",
+        "230": "Ann\u00e4herung an Italien am Mittelmeer",
+        "245": "\u00dcber Italien in Richtung Balkanhalbinsel",
+        "285": "\u00dcber die Balkanhalbinsel in Richtung Karpaten",
+        "30": "\u00dcberqueren der Sahara in Nordafrika",
+        "310": "Die Karpaten und das Schwarze\u00a0Meer"
+    },
+    "A009_C007": {
+        "0": "Ostpazifische Delfine in den Gew\u00e4ssern vor Costa\u00a0Rica"
+    },
+    "A010_C002": {
+        "0": "Treiben durch einen Algenwald in der N\u00e4he der Kap-Halbinsel, S\u00fcdafrika"
     },
     "A010_C007": {
         "0": "Goldene Quallen in den Gew\u00e4ssern von Palau"
     },
+    "A012_C004": {
+        "0": "\u00dcber die Marin\u00a0Headlands in Blickrichtung Golden\u00a0Gate\u00a0Bridge",
+        "150": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Presidio, San\u00a0Francisco"
+    },
+    "A012_C014": {
+        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero",
+        "208": "Entlang der Market\u00a0Street durch San\u00a0Francisco"
+    },
+    "A012_C031": {
+        "0": "Knotige Walzenseesterne am Meeresboden in der N\u00e4he von Borneo"
+    },
+    "A013_C004": {
+        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero",
+        "150": "Entlang der Market\u00a0Street durch die Innenstadt von San\u00a0Francisco",
+        "360": "Entlang der Market\u00a0Street durch San\u00a0Francisco",
+        "90": "\u00dcber die Embarcadero auf die Market\u00a0Street herabblickend in San\u00a0Francisco"
+    },
+    "A013_C005": {
+        "0": "Flug entlang des Presidio in San\u00a0Francisco in Richtung Golden\u00a0Gate\u00a0Bridge",
+        "190": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Marin\u00a0Headlands"
+    },
+    "A013_C012": {
+        "0": "Ann\u00e4herung an die Golden\u00a0Gate\u00a0Bridge von San\u00a0Francisco aus",
+        "140": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge",
+        "230": "Vorbei am n\u00f6rdlichen Pylonen der Golden\u00a0Gate\u00a0Bridge",
+        "260": "\u00dcber die San\u00a0Francisco\u00a0Bay entlang der Golden\u00a0Gate\u00a0Bridge",
+        "60": "Entlang der Golden\u00a0Gate\u00a0Bridge in Richtung Marin\u00a0Headlands"
+    },
+    "A014_C008": {
+        "0": "B\u00fcffelkopf-Papageifische \u00fcber den Korallenriffen von Borneo"
+    },
+    "A014_C023": {
+        "0": "Ein Schwarm von Stachelmakrelen an der K\u00fcste von Borneo"
+    },
+    "A015_C014": {
+        "0": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Embarcadero",
+        "210": "Entlang der Market\u00a0Street durch die Innenstadt von San\u00a0Francisco"
+    },
+    "A015_C018": {
+        "0": "Ann\u00e4herung an die Bay\u00a0Bridge und die Innenstadt von San\u00a0Francisco",
+        "116": "\u00dcber die San\u00a0Francisco\u00a0Bay in Richtung Innenstadt",
+        "80": "\u00dcberqueren der Bay\u00a0Bridge in Richtung der Innenstadt von San\u00a0Francisco"
+    },
     "A016_C002": {
         "0": "In einem Tangwald vor der K\u00fcste Kaliforniens, USA"
+    },
+    "A016_C009": {
+        "0": "S\u00fcdafrikanische Seeb\u00e4ren vor der K\u00fcste der Kap-Halbinsel, S\u00fcdafrika"
+    },
+    "A018_C014": {
+        "0": "Ann\u00e4herung an die Innenstadt von San\u00a0Francisco mit Sutro\u00a0Tower im Hintergrund",
+        "10": "Die Transamerica\u00a0Pyramid in der Innenstadt von San\u00a0Francisco",
+        "40": "Ann\u00e4herung an die Innenstadt von San\u00a0Francisco mit Sutro\u00a0Tower im Hintergrund"
+    },
+    "A018_C029": {
+        "0": "Ein Schwarm von Chevron\u00a0Barrakudas in Gew\u00e4ssern in der N\u00e4he von Borneo"
+    },
+    "A050_C004_1027V8": {
+        "0": "\u00dcber Westeuropa mit Gro\u00dfbritannien und Irland im Hintergrund",
+        "100": "Griechenland mit angrenzendem Ionischen\u00a0Meer und \u00c4g\u00e4is",
+        "160": "In Richtung S\u00fcdosten \u00fcber das Mittelmeer",
+        "185": "Mittelmeer und Nil-Delta",
+        "20": "In Richtung S\u00fcdosten \u00fcber die Alpen und das Po-Delta",
+        "205": "Der durch die Sahara flie\u00dfende Nil in \u00c4gypten",
+        "220": "Die Arabische\u00a0W\u00fcste mit angrenzendem Nil und dem Golf\u00a0von\u00a0Sues",
+        "240": "In Richtung S\u00fcdosten \u00fcber das Rote\u00a0Meer",
+        "50": "Entlang der italienischen\u00a0Halbinsel und der Adria Richtung S\u00fcden"
+    },
+    "A083_C002_1130KZ": {
+        "0": "Die Spiegelung der Sonne entlang der K\u00fcste von Iran",
+        "15": "\u00dcbergang von Tag zu Nacht \u00fcber Iran",
+        "60": "\u00dcbergang von Tag zu Nacht \u00fcber Zentralasien"
+    },
+    "A103_C002205DG": {
+        "0": "\u00dcber das Horn\u00a0von\u00a0Afrika in Richtung Golf\u00a0von\u00a0Aden"
+    },
+    "A103_C002_0205DG": {
+        "115": "Der Golf\u00a0von\u00a0Oman in Ann\u00e4herung an die K\u00fcste\u00a0von\u00a0Makran",
+        "145": "Die Makran-K\u00fcste von Iran und Pakistan",
+        "160": "\u00dcber Iran in Richtung Afghanistan und Pakistan",
+        "180": "\u00dcber Afghanistan und Pakistan in Richtung Karakoram-Gebirge",
+        "235": "\u00dcber das Karakoram-Gebirge in Richtung China",
+        "280": "Die Taklamakan-W\u00fcste in Westchina",
+        "315": "Das Tian\u00a0Shan-Gebirge in Zentralasien",
+        "45": "Der S\u00fcdosten der Arabischen\u00a0Halbinsel"
     },
     "A105_C0022120602": {
         "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Zentralamerika"
     },
-    "A013_C005": {
-        "190": "\u00dcberqueren der Golden\u00a0Gate\u00a0Bridge in Richtung Marin\u00a0Headlands",
-        "0": "Flug entlang des Presidio in San\u00a0Francisco in Richtung Golden\u00a0Gate\u00a0Bridge"
-    },
-    "Y002_C013_0226": {
-        "87": "Half\u00a0Dome im Yosemite-Nationalpark, USA",
-        "210": "\u00dcber dem Yosemite-Nationalpark in den USA",
-        "70": "Ann\u00e4herung an den Half\u00a0Dome im Yosemite-Nationalpark, USA"
-    },
-    "LW_L001_C006": {
-        "0": "Flug \u00fcber die Liwa\u2013Oase in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    "A105_C002_021206_002": {
+        "100": "\u00dcberqueren von Zentralamerika in Richtung Karibik",
+        "150": "\u00dcber die Karibik in Richtung Kuba",
+        "240": "\u00dcber Kuba mit Florida und den Bahamas im Hintergrund",
+        "300": "\u00dcber Florida und den Bahamas in Richtung Sargassosee",
+        "350": "\u00dcber die Sargassosee in Richtung Atlantischer\u00a0Ozean",
+        "70": "Die S\u00fcdwestk\u00fcste von Zentralamerika in Richtung Karibik"
     },
     "A105_C003212CT": {
         "0": "\u00dcbergang von Nacht zu Tag \u00fcber dem S\u00fcdpazifik"
     },
-    "N003_C006": {
-        "50": "\u00dcber Midtown\u00a0Manhattan in Richtung Innenstadt auf das Empire\u00a0State Building zu",
-        "160": "Ann\u00e4herung an das Empire\u00a0State\u00a0Building in New\u00a0York",
-        "205": "Vorbei am Empire\u00a0State\u00a0Building in Richtung Lower\u00a0Manhattan",
-        "0": "\u00dcber die Upper\u00a0East\u00a0Side und den Central\u00a0Park in New\u00a0York"
+    "A105_C003_0212CT": {
+        "110": "Ann\u00e4herung an den Sonnenaufgang \u00fcber Neuseeland",
+        "170": "Von Neuseeland aus in Richtung Nordosten \u00fcber den Pazifischen\u00a0Ozean",
+        "70": "\u00dcbergang von Nacht zu Tag \u00fcber Neuseeland"
     },
-    "A006_C003": {
-        "191": "\u00dcber die San\u00a0Francisco\u00a0Bay",
-        "140": "\u00dcber den n\u00f6rdlichen Pylonen der Golden\u00a0Gate\u00a0Bridge in Richtung San\u00a0Francisco",
-        "0": "San\u00a0Francisco\u00a0Bay und die Golden\u00a0Gate\u00a0Bridge"
+    "A108_C001215V8": {
+        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Zentralamerika"
     },
-    "A004_C003": {
-        "0": "Korallenriff in der N\u00e4he von Palau"
+    "A108_C001_0215V8": {
+        "110": "Vorbei am wolkenbedeckten Jamaika in der Karibik",
+        "125": "\u00dcberqueren von Kuba in Blickrichtung Haiti und Dominikanische\u00a0Republik",
+        "170": "\u00dcber die Bahamas in Blickrichtung Haiti und Dominikanische\u00a0Republik",
+        "190": "Die Turks- und Caicosinseln im Atlantischen\u00a0Ozean",
+        "35": "Die Pazifikk\u00fcsten von Nicaragua, Costa\u00a0Rica und Panama",
+        "50": "\u00dcber Zentralamerika mit S\u00fcdamerika im Hintergrund",
+        "65": "Die Miskitok\u00fcste von Nicaragua",
+        "85": "\u00dcber die Karibik in Richtung Kuba"
     },
-    "A012_C031": {
-        "0": "Knotige Walzenseesterne am Meeresboden in der N\u00e4he von Borneo"
+    "A114_C001305OT": {
+        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung USA"
+    },
+    "A114_C001_0305OT": {
+        "130": "Das Sierra\u00a0Madre Occidental-Gebirge an der mexikanischen Westk\u00fcste",
+        "185": "\u00dcber das Sierra\u00a0Madre Occidental-Gebirge in Richtung mexikanische Westk\u00fcste",
+        "20": "In Richtung S\u00fcden entlang der kalifornischen K\u00fcste",
+        "225": "In Blickrichtung S\u00fcden zum Pazifischen\u00a0Ozean \u00fcber die Sierra\u00a0Madre del Sur in Mexiko",
+        "280": "Der Pazifische\u00a0Ozean vor der K\u00fcste von Mexiko",
+        "290": "Der Pazifische\u00a0Ozean vor der K\u00fcste von Mexiko und Guatemala",
+        "50": "\u00dcber S\u00fcdkalifornien in Richtung Mexiko",
+        "65": "Ann\u00e4herung an die Mojave-W\u00fcste in S\u00fcdkalifornien mit Mexiko im Hintergrund",
+        "95": "Der Golf\u00a0von\u00a0Kalifornien mit angrenzender Sonora-W\u00fcste und der Baja\u00a0California-Halbinsel"
+    },
+    "A351_C001_1213SK": {
+        "0": "In Richtung Nordosten \u00fcber das \u00c4thiopische Hochgebirge",
+        "100": "In Richtung Nordosten \u00fcber die Arabische\u00a0Halbinsel",
+        "130": "\u00dcber die Arabische\u00a0Halbinsel in Richtung Iran",
+        "165": "\u00dcber die Arabische\u00a0Halbinsel in Ann\u00e4herung an Iran",
+        "190": "Ann\u00e4herung an die K\u00fcste von Iran mit Zagros-Gebirge im Hintergrund",
+        "210": "\u00dcber das Zagros-Gebirge in Iran",
+        "240": "\u00dcber die Dascht-e\u00a0Lut-W\u00fcste in Iran",
+        "265": "In Richtung Turkmenistan und der Karakum-W\u00fcste",
+        "305": "Der Amudarja-Fluss und das Pamir-Alai-Gebirge in Zentralasien",
+        "322": "Das Pamir-Alai-Gebirge und das Ferghanatal in Zentralasien",
+        "360": "Nach S\u00fcdost-Kasachstan aus Richtung Kirgisistan",
+        "400": "In Richtung Norden \u00fcber Kasachstan",
+        "45": "\u00dcber das Rote\u00a0Meer zur Arabischen\u00a0Halbinsel",
+        "450": "\u00dcber das Altai-Gebirge in Richtung Mongolei"
+    },
+    "B002_C011": {
+        "0": "Gew\u00f6hnliche Delfine vor der K\u00fcste Kaliforniens, USA"
+    },
+    "C001_C005": {
+        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
+    },
+    "C003_C003": {
+        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
+    },
+    "C004_C003": {
+        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
+    },
+    "CH_C002_C005": {
+        "0": "\u00dcber die Longji-Reisterrassen in der Provinz\u00a0Guangxi, China"
+    },
+    "CH_C007_C004": {
+        "0": "Erkundung des Nationalparks Wulingyuan in China"
+    },
+    "CH_C007_C011": {
+        "0": "Durch den Nationalpark Wulingyuan in China"
+    },
+    "D004_L014": {
+        "0": "Ein Buckelwal vor Franz\u00f6sisch-Polynesien"
+    },
+    "DB_D001_C001": {
+        "0": "Flug \u00fcber Dubai\u00a0Marina in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    },
+    "DB_D001_C005": {
+        "0": "Flug entlang Dubai\u00a0Marina in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    },
+    "DB_D002_C003": {
+        "0": "Ann\u00e4herung an die Innenstadt von Dubai in den Vereinigten\u00a0Arabischen\u00a0Emiraten",
+        "210": "\u00dcber die Innenstadt von Dubai in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    },
+    "DB_D008_C010": {
+        "0": "Entlang der Sheikh\u00a0Zayed\u00a0Road in Dubai, Vereinigte\u00a0Arabische\u00a0Emirate"
+    },
+    "DB_D011_C010": {
+        "0": "Ann\u00e4herung an Burj\u00a0Khalifa in Downtown\u00a0Dubai, Vereinigte\u00a0Arabische\u00a0Emirate",
+        "280": "Vorbei an Burj\u00a0Khalifa in Downtown\u00a0Dubai, Vereinigte\u00a0Arabische\u00a0Emirate",
+        "330": "\u00dcber die Innenstadt von\u00a0Dubai zur K\u00fcste"
+    },
+    "G007_C004": {
+        "0": "Entlang des Colorado durch den Grand\u00a0Canyon in den USA"
+    },
+    "G008_C015106MB": {
+        "0": "Flug \u00fcber den Burnt\u00a0Canyon im Grand\u00a0Canyon, USA"
+    },
+    "G009_C00310678": {
+        "0": "\u00dcber dem Grand\u00a0Canyon in den USA"
+    },
+    "G009_C014106B9": {
+        "0": "Durch den Grand\u00a0Canyon in den USA"
+    },
+    "G010_C026107KE": {
+        "0": "Entlang des Colorado im Grand\u00a0Canyon, USA"
+    },
+    "GL_G002_C002": {
+        "0": "Am Ilulissat-Eisfjord vor der K\u00fcste Gr\u00f6nlands"
+    },
+    "GL_G004_C010": {
+        "0": "Entlang der Halbinsel Nuussuaq in Gr\u00f6nland"
+    },
+    "GL_G010_C006": {
+        "0": "Am Ilulissat-Eisfjord vor der K\u00fcste Gr\u00f6nlands"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "In Richtung S\u00fcdosten \u00fcber Sibirien und die Mongolei",
+        "110": "\u00dcber China in Richtung Koreanische\u00a0Halbinsel",
+        "150": "Die Koreanische\u00a0Halbinsel mit Japan im Hintergrund",
+        "180": "\u00dcber S\u00fcdkorea in Richtung Japan",
+        "195": "\u00dcber Japan in Blickrichtung Pazifischer\u00a0Ozean",
+        "22": "In Richtung Innere Mongolei",
+        "260": "\u00dcber den Pazifischen\u00a0Ozean s\u00fcd\u00f6stlich von Japan",
+        "32": "\u00dcber die Mongolei in Richtung China",
+        "60": "\u00dcber Nordchina in Richtung Koreanische\u00a0Halbinsel"
+    },
+    "GMT060_117NC_363D": {
+        "0": "\u00dcber den Indischen\u00a0Ozean in Richtung Perth, Australien",
+        "170": "\u00dcber Westaustralien in Ann\u00e4herung an das Northern\u00a0Territory",
+        "220": "\u00dcber dem Northern\u00a0Territory, Australien in Richtung Neuguinea",
+        "335": "\u00dcber die Arafurasee in Richtung Neuguinea",
+        "50": "In Richtung Nordosten \u00fcber Westaustralien"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "S\u00fcdlichter \u00fcber der Antarktis"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung kalifornische K\u00fcste",
+        "110": "\u00dcber Las\u00a0Vegas in Richtung Salt\u00a0Lake\u00a0City in den USA",
+        "120": "\u00dcber den Westen der USA in Ann\u00e4herung an Salt\u00a0Lake\u00a0City",
+        "155": "Zwischen Salt\u00a0Lake\u00a0City und Denver in den USA",
+        "170": "\u00dcber die Rocky\u00a0Mountains in den USA",
+        "70": "\u00dcber die kalifornische K\u00fcste in Richtung Inland",
+        "85": "\u00dcber Los\u00a0Angeles an der Westk\u00fcste der USA",
+        "95": "\u00dcber Los\u00a0Angeles in Ann\u00e4herung an Las\u00a0Vegas in den USA"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Mexiko",
+        "105": "\u00dcber Mexiko-Stadt in Richtung Golf\u00a0von\u00a0Mexiko",
+        "122": "Flug \u00fcber den Golf\u00a0von\u00a0Mexiko in Richtung USA",
+        "180": "An Houston vorbei in Ann\u00e4herung an New\u00a0Orleans in den USA",
+        "190": "\u00dcber New\u00a0Orleans und die Golfk\u00fcste der USA",
+        "215": "In Richtung des S\u00fcdostens der USA",
+        "280": "\u00dcber den Osten der USA in Richtung New\u00a0York",
+        "320": "\u00dcber den Osten der USA in Ann\u00e4herung an New\u00a0York\u00a0City"
+    },
+    "GMT308_139K_142NC": {
+        "0": "In Richtung S\u00fcdosten \u00fcber die Great\u00a0Plains der USA",
+        "120": "\u00dcber den S\u00fcdosten der USA in Richtung Florida",
+        "220": "\u00dcber Florida in Richtung Bahamas",
+        "240": "In Richtung S\u00fcdosten \u00fcber die Bahamas",
+        "285": "\u00dcber die Bahamas in Ann\u00e4herung an die Dominikanische\u00a0Republik und Haiti",
+        "300": "\u00dcber die Dominikanische\u00a0Republik und Haiti in Ann\u00e4herung an die Karibik",
+        "315": "\u00dcber die Karibik nach S\u00fcden in Richtung Venezuela",
+        "90": "In Richtung S\u00fcdosten \u00fcber den Mittleren\u00a0Westen der USA"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "In Richtung Nordosten \u00fcber die Sahara bei Nacht",
+        "100": "Mittelmeer-K\u00fcste von Tunesien und Libyen",
+        "120": "\u00dcber das Mittelmeer in Richtung Italien",
+        "140": "\u00dcber S\u00fcditalien in Ann\u00e4herung an die Balkanhalbinsel mit der T\u00fcrkei im Hintergrund",
+        "165": "\u00dcber die Balkanhalbinsel in Richtung Schwarzes\u00a0Meer",
+        "180": "\u00dcber die Balkanhalbinsel in Ann\u00e4herung an das Schwarze\u00a0Meer",
+        "210": "\u00dcber das Schwarze\u00a0Meer in Richtung Ukraine",
+        "230": "\u00dcber die Ukraine in Richtung Russland",
+        "70": "\u00dcber den \u00d6stlichen\u00a0Gro\u00dfen\u00a0Erg in Richtung Mittelmeer"
+    },
+    "GMT314_139M_170NC": {
+        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Baja\u00a0California",
+        "110": "\u00dcber die Rocky\u00a0Mountains in Richtung Denver",
+        "125": "\u00dcber die Great\u00a0Plains der USA",
+        "185": "Ann\u00e4herung an die Gro\u00dfen\u00a0Seen mit Ontario, Kanada im Hintergrund",
+        "200": "\u00dcber die Gro\u00dfen\u00a0Seen in Ann\u00e4herung an Ontario, Kanada",
+        "210": "Nordlichter \u00fcber West-Ontario, Kanada",
+        "235": "Nordlichter \u00fcber Nord-Ontario, Kanada",
+        "250": "Nordlichter \u00fcber Nord-Quebec, Kanada",
+        "300": "In Richtung Nordatlantik mit Nordlichtern \u00fcber Labrador, Kanada",
+        "45": "\u00dcber Baja\u00a0California in Blickrichtung Norden zu den USA",
+        "55": "\u00dcber Mexiko in Richtung S\u00fcdwesten der USA",
+        "75": "\u00dcber den S\u00fcdwesten der USA"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "\u00dcber den Nordatlantik in Ann\u00e4herung an Irland und Gro\u00dfbritannien",
+        "105": "\u00dcber Zentraleuropa in Richtung Russland",
+        "15": "Irland und Gro\u00dfbritannien",
+        "150": "\u00dcber Osteuropa mit Moskau im Hintergrund",
+        "165": "\u00dcber Osteuropa in Blickrichtung Moskau",
+        "185": "\u00dcber Westrussland an Moskau vorbei",
+        "195": "\u00dcber Russland in Richtung Zentralasien",
+        "45": "\u00dcber Gro\u00dfbritannien in Richtung europ\u00e4isches Festland",
+        "65": "\u00dcber Nordwesteuropa in Richtung Russland"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "\u00dcber Tunesien in Richtung Italien",
+        "15": "\u00dcber S\u00fcditalien mit der Balkanhalbinsel im Hintergrund",
+        "25": "\u00dcber die Balkanhalbinsel in Richtung Zentralasien",
+        "40": "\u00dcber die Balkanhalbinsel am Schwarzen\u00a0Meer vorbei",
+        "5": "\u00dcber das Mittelmeer in Blickrichtung Sizilien und Italienische\u00a0Halbinsel",
+        "55": "\u00dcber die Ukraine mit Russland im Hintergrund",
+        "75": "\u00dcber S\u00fcdwest-Russland an Kasachstan vorbei"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "\u00dcber Zentralasien in Richtung chinesische K\u00fcste",
+        "10": "\u00dcber Zentralchina in Richtung Schanghai",
+        "30": "\u00dcber Ostchina in Richtung Schanghai",
+        "45": "Ann\u00e4herung an Schanghai in Richtung Ostchinesisches\u00a0Meer",
+        "50": "\u00dcber Schanghai in Richtung Ostchinesisches\u00a0Meer"
+    },
+    "H004_C007": {
+        "0": "\u00dcber dem Pu\u2018u\u00a0O\u00a0\u2018Umi-Naturpark auf der Insel\u00a0Hawaii"
+    },
+    "H004_C009": {
+        "0": "\u00dcber dem Pu\u2018u\u00a0O\u00a0\u2018Umi-Naturpark auf der Insel\u00a0Hawaii"
+    },
+    "H005_C012": {
+        "0": "Das Waimanu\u00a0Valley im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii"
+    },
+    "H007_C003": {
+        "0": "Flug \u00fcber Laup\u0101hoehoe\u00a0Nui im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii"
     },
     "H010_C006": {
         "0": "Ann\u00e4herung an Honopue\u00a0Valley im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii",
         "300": "Das Honopue\u00a0Valley im Kohala\u00a0Forest\u00a0Reserve auf der Insel\u00a0Hawaii"
     },
-    "G009_C00310678": {
-        "0": "\u00dcber dem Grand\u00a0Canyon in den USA"
-    },
-    "C003_C003": {
-        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
-    },
-    "DB_D001_C005": {
-        "0": "Flug entlang Dubai\u00a0Marina in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
-    },
-    "Y004_C015_0227PD": {
-        "146": "Half\u00a0Dome und Nevada\u00a0Fall im Yosemite-Nationalpark, USA",
-        "124": "Am Half\u00a0Dome vorbei in Ann\u00e4herung an Nevada\u00a0Fall im Yosemite-Nationalpark"
-    },
-    "Y005_C003228SC": {
-        "0": "\u00dcber dem Yosemite-Nationalpark in den USA"
-    },
-    "B002_C011": {
-        "0": "Gew\u00f6hnliche Delfine vor der K\u00fcste Kaliforniens, USA"
-    },
-    "A003_C014": {
-        "0": "\u00dcber Ohrenquallen vor der K\u00fcste Alaskas, USA"
-    },
-    "TH_804_A001_8": {
-        "0": "Brechende Wellen an der K\u00fcste von Tahiti"
-    },
-    "A002_C009": {
-        "0": "Goldene Quallen in den Gew\u00e4ssern von Palau"
-    },
-    "GL_G010_C006": {
-        "0": "Am Ilulissat-Eisfjord vor der K\u00fcste Gr\u00f6nlands"
-    },
-    "GMT110_112NC_364D_1054": {
-        "0": "S\u00fcdlichter \u00fcber der Antarktis"
-    },
-    "P005_C002_1109E1": {
-        "0": "Entlang des Lago\u00a0Nordenskj\u00f6ld im Nationalpark Torres del Paine, Chile"
-    },
-    "LW_L001_C003": {
-        "0": "Flug \u00fcber die Liwa\u2013Oase in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
-    },
-    "GL_G004_C010": {
-        "0": "Entlang der Halbinsel Nuussuaq in Gr\u00f6nland"
-    },
-    "P001_C005_11059D": {
-        "0": "Entlang der Cuernos del Paine im Nationalpark Torres del Paine,\u00a0Chile"
-    },
-    "A108_C001215V8": {
-        "0": "\u00dcber den Pazifischen\u00a0Ozean in Richtung Zentralamerika"
-    },
-    "I003_C015": {
-        "0": "Durch das J\u00f6kulgil-Tal in Landmannalaugar, Island"
-    },
-    "A018_C029": {
-        "0": "Ein Schwarm von Chevron\u00a0Barrakudas in Gew\u00e4ssern in der N\u00e4he von Borneo"
-    },
-    "LA_A009_C009": {
-        "0": "Griffith\u00a0Observatory und die Hollywood\u00a0Hills in Los\u00a0Angeles"
-    },
-    "A014_C008": {
-        "0": "B\u00fcffelkopf-Papageifische \u00fcber den Korallenriffen von Borneo"
-    },
-    "DB_D001_C001": {
-        "0": "Flug \u00fcber Dubai\u00a0Marina in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
-    },
-    "TH_803_A001_8": {
-        "0": "Brechende Wellen an der K\u00fcste von Tahiti"
-    },
-    "D004_L014": {
-        "0": "Ein Buckelwal vor Franz\u00f6sisch-Polynesien"
-    },
-    "LA_A006_C008": {
-        "0": "Flug \u00fcber den internationalen Flughafen von Los\u00a0Angeles"
-    },
-    "G007_C004": {
-        "0": "Entlang des Colorado durch den Grand\u00a0Canyon in den USA"
-    },
-    "GL_G002_C002": {
-        "0": "Am Ilulissat-Eisfjord vor der K\u00fcste Gr\u00f6nlands"
-    },
-    "I003_C005": {
-        "0": "Flug \u00fcber den Langisj\u00f3r und die F\u00f6grufj\u00f6ll-Bergkette in Island"
-    },
-    "A008_C010": {
-        "0": "Korallenriff im Roten Meer vor \u00c4gypten"
-    },
-    "LA_A005_C009": {
-        "0": "Entlang der Interstate 110 N durch Los\u00a0Angeles"
-    },
-    "CH_C007_C004": {
-        "0": "Erkundung des Nationalparks Wulingyuan in China"
+    "H012_C009": {
+        "0": "Flug \u00fcber die K\u00fcste von Kohala auf der Insel\u00a0Hawaii"
     },
     "HK_B005_C011": {
         "0": "\u00dcber Victoria\u00a0Harbour Richtung Central\u00a0District von Hong\u00a0Kong"
     },
+    "HK_H004_C001": {
+        "0": "\u00dcber Victoria\u00a0Harbour Richtung Central\u00a0District von Hong\u00a0Kong"
+    },
+    "HK_H004_C008": {
+        "0": "\u00dcber Victoria\u00a0Harbour mit Blickrichtung Hong\u00a0Kong\u00a0Island"
+    },
+    "HK_H004_C010": {
+        "0": "Flug \u00fcber den Victoria\u00a0Peak in Hongkong",
+        "150": "Flug \u00fcber Hongkong in Richtung Victoria\u00a0Harbour",
+        "330": "\u00dcber Victoria\u00a0Harbour zur Kowloon-Halbinsel"
+    },
+    "HK_H004_C013": {
+        "0": "\u00dcber Wan\u00a0Chai zum Central\u00a0District von Hong\u00a0Kong",
+        "150": "\u00dcber der Stadtmitte von Hong\u00a0Kong",
+        "270": "\u00dcber Hong\u00a0Kong\u00a0Island"
+    },
+    "I001_C014": {
+        "0": "Entlang des J\u00f6kulgilskv\u00edsl in der N\u00e4he von Landmannalaugar, Island"
+    },
+    "I003_C004": {
+        "0": "Flug \u00fcber den Langisj\u00f3r in Island"
+    },
+    "I003_C005": {
+        "0": "Flug \u00fcber den Langisj\u00f3r und die F\u00f6grufj\u00f6ll-Bergkette in Island"
+    },
     "I003_C008": {
         "0": "Entlang des Tungna\u00e1 im isl\u00e4ndischen Hochland"
     },
-    "A010_C002": {
-        "0": "Treiben durch einen Algenwald in der N\u00e4he der Kap-Halbinsel, S\u00fcdafrika"
+    "I003_C011": {
+        "0": "Entlang des J\u00f6kulgilskv\u00edsl in Landmannalaugar, Island",
+        "308": "\u00dcber dem isl\u00e4ndischen Hochland"
     },
-    "A016_C009": {
-        "0": "S\u00fcdafrikanische Seeb\u00e4ren vor der K\u00fcste der Kap-Halbinsel, S\u00fcdafrika"
+    "I003_C015": {
+        "0": "Durch das J\u00f6kulgil-Tal in Landmannalaugar, Island"
+    },
+    "I004_C014": {
+        "0": "\u00dcber Landmannalaugar in Island"
+    },
+    "I005_C008": {
+        "0": "In Richtung M\u00fdrdalsj\u00f6kull-Gletscher in Island",
+        "150": "Ann\u00e4herung an den M\u00fdrdalsj\u00f6kull-Gletscher in Island",
+        "225": "M\u00fdrdalsj\u00f6kull-Gletscher in Island",
+        "324": "\u00dcber dem M\u00fdrdalsj\u00f6kull-Gletscher in Island"
+    },
+    "L004_C011": {
+        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
+        "130": "Entlang der Themse Richtung London\u00a0Eye",
+        "20": "Entlang der Themse in London",
+        "210": "Ann\u00e4herung an das London\u00a0Eye \u00fcber die Themse",
+        "310": "Entlang der Themse vorbei am London\u00a0Eye",
+        "325": "Vorbei an den Houses of Parliament an der Themse in London"
+    },
+    "L007_C007": {
+        "0": "\u00dcber das Gel\u00e4nde des Buckingham\u00a0Palace, London",
+        "104": "\u00dcberqueren der Themse und vorbei am London\u00a0Eye",
+        "149": "\u00dcber South London",
+        "24": "\u00dcber dem Buckingham\u00a0Palace in London",
+        "279": "Vorbei an The\u00a0Shard in South\u00a0London",
+        "299": "\u00dcberqueren der Themse in London",
+        "324": "\u00dcberqueren der Themse bei der Tower\u00a0Bridge in London",
+        "49": "\u00dcber St.\u00a0James\u2019s\u00a0Park in Richtung Themse, London"
+    },
+    "L010_C006": {
+        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
+        "178": "S\u00fcdlich der Themse in London",
+        "258": "\u00dcberqueren der Themse in London",
+        "78": "Entlang der Themse in London"
+    },
+    "L012_C002": {
+        "0": "Ann\u00e4herung an die Tower\u00a0Bridge \u00fcber die Themse, London",
+        "20": "\u00dcberqueren der Themse in London",
+        "200": "\u00dcberqueren der Themse in Richtung Westminster, London",
+        "270": "\u00dcber Westminster, London",
+        "60": "Vorbei an The\u00a0Shard in South\u00a0London",
+        "92": "S\u00fcdlich der Themse in Richtung London\u00a0Eye"
+    },
+    "LA_A005_C009": {
+        "0": "Entlang der Interstate 110 N durch Los\u00a0Angeles"
+    },
+    "LA_A006_C004": {
+        "0": "Hollywood\u00a0Sign in Los\u00a0Angeles",
+        "250": "\u00dcber die Hollywood\u00a0Hills nach Burbank, Kalifornien"
+    },
+    "LA_A006_C008": {
+        "0": "Flug \u00fcber den internationalen Flughafen von Los\u00a0Angeles"
+    },
+    "LA_A008_C004": {
+        "0": "\u00dcber Santa\u00a0Monica State\u00a0Beach bei Los\u00a0Angeles",
+        "365": "\u00dcber den Santa\u00a0Monica\u00a0Pier bei Los\u00a0Angeles",
+        "430": "\u00dcber Santa\u00a0Monica State\u00a0Beach bei Los\u00a0Angeles"
+    },
+    "LA_A009_C009": {
+        "0": "Griffith\u00a0Observatory und die Hollywood\u00a0Hills in Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Vorbei an der Innenstadt von Los\u00a0Angeles"
+    },
+    "LW_L001_C003": {
+        "0": "Flug \u00fcber die Liwa\u2013Oase in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    },
+    "LW_L001_C006": {
+        "0": "Flug \u00fcber die Liwa\u2013Oase in den Vereinigten\u00a0Arabischen\u00a0Emiraten"
+    },
+    "N003_C006": {
+        "0": "\u00dcber die Upper\u00a0East\u00a0Side und den Central\u00a0Park in New\u00a0York",
+        "160": "Ann\u00e4herung an das Empire\u00a0State\u00a0Building in New\u00a0York",
+        "205": "Vorbei am Empire\u00a0State\u00a0Building in Richtung Lower\u00a0Manhattan",
+        "50": "\u00dcber Midtown\u00a0Manhattan in Richtung Innenstadt auf das Empire\u00a0State Building zu"
+    },
+    "N006_C003": {
+        "0": "Ann\u00e4herung an Lower\u00a0Manhattan in New\u00a0York",
+        "140": "\u00dcber Lower\u00a0Manhattan in New\u00a0York in Richtung Midtown",
+        "40": "Ann\u00e4herung an Lower\u00a0Manhattan in New\u00a0York"
+    },
+    "N008_C003": {
+        "0": "Ann\u00e4herung an Lower\u00a0Manhattan von New\u00a0York\u00a0Harbor",
+        "110": "Entlang Lower\u00a0Manhattan zum One\u00a0World\u00a0Trade\u00a0Center",
+        "180": "Vorbei am One\u00a0World\u00a0Trade\u00a0Center in Richtung Midtown\u00a0Manhattan",
+        "210": "\u00dcber Lower\u00a0Manhattan in New\u00a0York in Richtung Midtown"
+    },
+    "N008_C009": {
+        "0": "\u00dcber den Central\u00a0Park in Richtung Midtown\u00a0Manhattan in New\u00a0York",
+        "246": "\u00dcber Midtown\u00a0Manhattan in New\u00a0York"
+    },
+    "N013_C004": {
+        "0": "Entlang der 7th Avenue in Richtung Times\u00a0Square, New\u00a0York",
+        "120": "Entlang der 7th Avenue in Midtown\u00a0Manhattan, New\u00a0York",
+        "40": "\u00dcber den Times\u00a0Square in New\u00a0York"
+    },
+    "P001_C005_11059D": {
+        "0": "Entlang der Cuernos del Paine im Nationalpark Torres del Paine,\u00a0Chile"
+    },
+    "P005_C002_1109E1": {
+        "0": "Entlang des Lago\u00a0Nordenskj\u00f6ld im Nationalpark Torres del Paine, Chile"
+    },
+    "P006_C002_11106T": {
+        "0": "\u00dcber dem\u00a0Lago Nordenskj\u00f6ld im Nationalpark Torres del Paine, Chile"
+    },
+    "P007_C027": {
+        "0": "\u00dcber dem Nationalpark Torres del Paine in Chile"
+    },
+    "S003_C020": {
+        "0": "Entlang der K\u00fcste der Insel Skye, Schottland",
+        "338": "Leuchtturm Neist Point, Insel Skye, Schottland",
+        "372": "Insel Skye, Schottland"
+    },
+    "S004_C019": {
+        "0": "\u00dcber Cuillin Hills auf der Insel Skye, Schottland"
+    },
+    "S005_C015": {
+        "0": "\u00dcber Loch Moidart an der Westk\u00fcste von Schottland",
+        "252": "Ann\u00e4herung an das Hebridenmeer, Schottland"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart an der Westk\u00fcste von Schottland",
+        "139": "Ann\u00e4herung an Castle Tioram an der Westk\u00fcste von Schottland",
+        "181": "Castle Tioram an der Westk\u00fcste von Schottland",
+        "214": "\u00dcber der Westk\u00fcste von Schottland"
+    },
+    "S009_C007": {
+        "0": "\u00dcber der Insel Skye, Schottland",
+        "135": "Old Man of Storr auf der Insel Skye, Schottland",
+        "173": "\u00dcber der Insel Skye, Schottland"
+    },
+    "TH_803_A001_8": {
+        "0": "Brechende Wellen an der K\u00fcste von Tahiti"
+    },
+    "TH_804_A001_8": {
+        "0": "Brechende Wellen an der K\u00fcste von Tahiti"
+    },
+    "U009_C004": {
+        "0": "Graue Riffhaie vor Franz\u00f6sisch-Polynesien"
     },
     "Y002_C013226": {
         "0": "\u00dcber dem Yosemite-Nationalpark in den USA"
     },
-    "C001_C005": {
-        "0": "Der Mutianyu-Abschnitt der Gro\u00dfen\u00a0Mauer im Huairou-Bezirk, China"
+    "Y002_C013_0226": {
+        "210": "\u00dcber dem Yosemite-Nationalpark in den USA",
+        "70": "Ann\u00e4herung an den Half\u00a0Dome im Yosemite-Nationalpark, USA",
+        "87": "Half\u00a0Dome im Yosemite-Nationalpark, USA"
     },
-    "HK_H004_C001": {
-        "0": "\u00dcber Victoria\u00a0Harbour Richtung Central\u00a0District von Hong\u00a0Kong"
+    "Y003_C009": {
+        "0": "\u00dcber dem Yosemite-Nationalpark, USA",
+        "130": "Merced\u00a0Peak im Yosemite-Nationalpark, USA",
+        "221": "Entlang des Merced\u00a0Peak im Yosemite-Nationalpark, USA",
+        "244": "\u00dcber dem Yosemite-Nationalpark, USA",
+        "93": "In Richtung des Merced\u00a0Peak im Yosemite-Nationalpark, USA"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome im Yosemite-Nationalpark, USA"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Am Half\u00a0Dome vorbei in Ann\u00e4herung an Nevada\u00a0Fall im Yosemite-Nationalpark",
+        "146": "Half\u00a0Dome und Nevada\u00a0Fall im Yosemite-Nationalpark, USA"
+    },
+    "Y005_C003228SC": {
+        "0": "\u00dcber dem Yosemite-Nationalpark in den USA"
+    },
+    "Y005_C003_0228SC": {
+        "155": "\u00dcber dem Yosemite-Nationalpark mit dem Nevada\u00a0Fall im Hintergrund",
+        "255": "Nevada\u00a0Fall und Illilouette\u00a0Fall im Yosemite-Nationalpark, USA",
+        "285": "Nevada\u00a0Fall, Vernal\u00a0Fall und Illilouette\u00a0Fall im Yosemite-Nationalpark, USA",
+        "40": "In Richtung des Half\u00a0Dome im Yosemite-Nationalpark, USA",
+        "60": "Half\u00a0Dome im Yosemite-Nationalpark, USA"
+    },
+    "Y009_C015304I": {
+        "0": "\u00dcber den Tuolumne\u00a0Meadows im Yosemite-Nationalpark, USA"
+    },
+    "Y011_C001": {
+        "0": "In Richtung des\u00a0Bridalveil Fall und El Capitan im Yosemite-Nationalpark",
+        "120": "Ostw\u00e4rts in Richtung Half\u00a0Dome im Yosemite-Nationalpark, USA",
+        "390": "Half\u00a0Dome im Yosemite-Nationalpark, USA",
+        "44": "Ostw\u00e4rts in Richtung El\u00a0Capitan im Yosemite-Nationalpark, USA",
+        "470": "Vorbei am Half\u00a0Dome im Yosemite\u00a0Valley, USA",
+        "585": "Ostw\u00e4rts \u00fcber das Yosemite\u00a0Valley, USA",
+        "87": "Entlang des El\u00a0Capitan, Yosemite-Nationalpark, USA"
+    },
+    "Y011_C008": {
+        "0": "In Richtung Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
+        "124": "Flug zwischen den Gipfeln des Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
+        "215": "Flug \u00fcber den Matthes\u00a0Crest im Yosemite-Nationalpark, USA",
+        "396": "In Richtung Tuolumne\u00a0Meadows im Yosemite-Nationalpark, USA",
+        "75": "Flug \u00fcber den Matthes\u00a0Crest im Yosemite-Nationalpark, USA"
     }
 }
