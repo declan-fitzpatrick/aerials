@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Kan\u00e1rsk\u00e9\u00a0ostrovy, Atlantsk\u00fd\u00a0oce\u00e1n a\u00a0pob\u0159e\u017e\u00ed Afriky",
+        "45": "Let pod\u00e9l pob\u0159e\u017e\u00ed Maroka na severov\u00fdchod",
+        "75": "P\u0159elet nad poho\u0159\u00edm\u00a0Atlas v\u00a0Maroku",
         "105": "P\u0159\u00edlet p\u0159es Maroko ke St\u0159edozemn\u00edmu\u00a0mo\u0159i",
         "125": "St\u0159edozemn\u00ed\u00a0mo\u0159e a\u00a0ji\u017en\u00ed \u0160pan\u011blsko",
         "145": "Cesta na severov\u00fdchod p\u0159es \u0161pan\u011blsk\u00e9 pob\u0159e\u017e\u00ed Costa\u00a0Blanca",
         "165": "Cesta na severov\u00fdchod p\u0159es \u0161pan\u011blsk\u00e9 Bale\u00e1rsk\u00e9\u00a0ostrovy",
         "185": "P\u0159es z\u00e1padn\u00ed St\u0159edozemn\u00ed\u00a0mo\u0159e s\u00a0Alpami v\u00a0pozad\u00ed",
-        "220": "Let p\u0159es Alpy na severov\u00fdchod",
-        "45": "Let pod\u00e9l pob\u0159e\u017e\u00ed Maroka na severov\u00fdchod",
-        "75": "P\u0159elet nad poho\u0159\u00edm\u00a0Atlas v\u00a0Maroku"
+        "220": "Let p\u0159es Alpy na severov\u00fdchod"
     },
     "A001_C007": {
         "0": "Zlat\u00e9 med\u00fazy Chrysaora fuscescens v\u00a0jeze\u0159e Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "P\u0159es Fisherman's\u00a0Wharf sm\u011brem na centrum San\u00a0Franciska",
+        "80": "P\u0159\u00edlet ke Coit\u00a0Tower s\u00a0centrem San\u00a0Franciska a\u00a0Bay\u00a0Bridge v\u00a0pozad\u00ed",
         "150": "Kolem Coit\u00a0Tower sm\u011brem na centrum San\u00a0Franciska a\u00a0Bay\u00a0Bridge",
-        "196": "Centrum San Franciska",
-        "80": "P\u0159\u00edlet ke Coit\u00a0Tower s\u00a0centrem San\u00a0Franciska a\u00a0Bay\u00a0Bridge v\u00a0pozad\u00ed"
+        "196": "Centrum San Franciska"
     },
     "A008_C007": {
         "0": "P\u0159es Marin\u00a0Headlands s\u00a0v\u00fdhledem na Golden\u00a0Gate Bridge",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Let p\u0159es z\u00e1padn\u00ed Afriku sm\u011brem na Saharu",
+        "30": "Nap\u0159\u00ed\u010d Saharou v\u00a0Severn\u00ed Africe",
         "110": "P\u0159elet nad poho\u0159\u00edm Atlas na Saha\u0159e v\u00a0Severn\u00ed Africe",
         "155": "Let p\u0159es Velk\u00fd\u00a0v\u00fdchodn\u00ed\u00a0erg v\u00a0Severn\u00ed Africe sm\u011brem na St\u0159edozemn\u00ed\u00a0mo\u0159e",
         "195": "Pob\u0159e\u017e\u00ed Tuniska a\u00a0St\u0159edozemn\u00ed\u00a0mo\u0159e",
@@ -64,7 +65,6 @@
         "230": "P\u0159\u00edlet k\u00a0It\u00e1lii ve St\u0159edozemn\u00edm\u00a0mo\u0159i",
         "245": "Cesta p\u0159es It\u00e1lii sm\u011brem na Balk\u00e1nsk\u00fd\u00a0poloostrov",
         "285": "P\u0159es Balk\u00e1nsk\u00fd\u00a0poloostrov sm\u011brem na Karpaty",
-        "30": "Nap\u0159\u00ed\u010d Saharou v\u00a0Severn\u00ed Africe",
         "310": "Karpaty a\u00a0\u010cern\u00e9\u00a0mo\u0159e"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Let p\u0159es San\u00a0Francisco Bay sm\u011brem na Embarcadero",
+        "90": "P\u0159es Embarcadero s\u00a0v\u00fdhledem na Market\u00a0Street v\u00a0San\u00a0Francisku",
         "150": "Centrem San\u00a0Franciska po Market\u00a0Street",
-        "360": "San\u00a0Franciskem po Market\u00a0Street",
-        "90": "P\u0159es Embarcadero s\u00a0v\u00fdhledem na Market\u00a0Street v\u00a0San\u00a0Francisku"
+        "360": "San\u00a0Franciskem po Market\u00a0Street"
     },
     "A013_C005": {
         "0": "Let pod\u00e9l parku Presidio of San\u00a0Francisco sm\u011brem na Golden\u00a0Gate Bridge",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "P\u0159\u00edlet ke Golden\u00a0Gate Bridge ve sm\u011bru od San\u00a0Franciska",
+        "60": "Pod\u00e9l mostu Golden\u00a0Gate Bridge sm\u011brem na Marin\u00a0Headlands",
         "140": "Nap\u0159\u00ed\u010d p\u0159es Golden\u00a0Gate Bridge",
         "230": "Kolem severn\u00ed\u00a0v\u011b\u017ee mostu Golden\u00a0Gate Bridge",
-        "260": "Cesta p\u0159es San\u00a0Francisco Bay pod\u00e9l Golden\u00a0Gate Bridge",
-        "60": "Pod\u00e9l mostu Golden\u00a0Gate Bridge sm\u011brem na Marin\u00a0Headlands"
+        "260": "Cesta p\u0159es San\u00a0Francisco Bay pod\u00e9l Golden\u00a0Gate Bridge"
     },
     "A014_C008": {
         "0": "Ploskozubec vysoko\u010del\u00fd nad kor\u00e1lov\u00fdmi \u00fatesy u\u00a0Bornea"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "P\u0159\u00edlet k\u00a0Bay\u00a0Bridge a\u00a0centru San\u00a0Franciska",
-        "116": "P\u0159es San\u00a0Francisco Bay sm\u011brem do centra",
-        "80": "Nap\u0159\u00ed\u010d p\u0159es Bay\u00a0Bridge sm\u011brem na centrum San\u00a0Franciska"
+        "80": "Nap\u0159\u00ed\u010d p\u0159es Bay\u00a0Bridge sm\u011brem na centrum San\u00a0Franciska",
+        "116": "P\u0159es San\u00a0Francisco Bay sm\u011brem do centra"
     },
     "A016_C002": {
         "0": "Proplouv\u00e1n\u00ed chaluhov\u00fdm lesem u\u00a0pob\u0159e\u017e\u00ed Kalifornie ve Spojen\u00fdch st\u00e1tech"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Cesta p\u0159es z\u00e1padn\u00ed\u00a0Evropu s\u00a0Velkou\u00a0Brit\u00e1ni\u00ed a\u00a0Irskem v\u00a0d\u00e1lce",
+        "20": "Let p\u0159es Alpy a\u00a0P\u00e1dskou n\u00ed\u017einu na jihov\u00fdchod",
+        "50": "Let p\u0159es Pyrenejsk\u00fd\u00a0poloostrov a\u00a0Jadersk\u00e9\u00a0mo\u0159e",
         "100": "\u0158ecko lemovan\u00e9 J\u00f3nsk\u00fdm a\u00a0Egejsk\u00fdm mo\u0159em",
         "160": "Cesta p\u0159es St\u0159edozemn\u00ed\u00a0mo\u0159e na jihov\u00fdchod",
         "185": "St\u0159edozemn\u00ed\u00a0mo\u0159e a\u00a0delta\u00a0Nilu",
-        "20": "Let p\u0159es Alpy a\u00a0P\u00e1dskou n\u00ed\u017einu na jihov\u00fdchod",
         "205": "\u0158eka\u00a0Nil tekouc\u00ed p\u0159es Saharu v\u00a0Egypt\u011b",
         "220": "Arabsk\u00e1 pou\u0161\u0165 lemovan\u00e1 \u0159ekou\u00a0Nil a\u00a0Suezsk\u00fdm z\u00e1livem",
-        "240": "Let p\u0159es Rud\u00e9\u00a0mo\u0159e na jihov\u00fdchod",
-        "50": "Let p\u0159es Pyrenejsk\u00fd\u00a0poloostrov a\u00a0Jadersk\u00e9\u00a0mo\u0159e"
+        "240": "Let p\u0159es Rud\u00e9\u00a0mo\u0159e na jihov\u00fdchod"
     },
     "A083_C002_1130KZ": {
         "0": "Odraz slunce u\u00a0pob\u0159e\u017e\u00ed \u00cdr\u00e1nu",
@@ -153,63 +153,64 @@
         "0": "Cesta p\u0159es Africk\u00fd roh sm\u011brem na Adensk\u00fd z\u00e1liv"
     },
     "A103_C002_0205DG": {
+        "45": "Jihov\u00fdchod Arabsk\u00e9ho\u00a0poloostrova",
         "115": "P\u0159\u00edlet p\u0159es Om\u00e1nsk\u00fd z\u00e1liv k\u00a0pob\u0159e\u017e\u00ed\u00a0Makr\u00e1nu",
         "145": "Pob\u0159e\u017e\u00ed\u00a0Makr\u00e1nu v\u00a0\u00cdr\u00e1nu a\u00a0P\u00e1kist\u00e1nu",
         "160": "Let p\u0159es \u00cdr\u00e1n sm\u011brem na Afgh\u00e1nist\u00e1n a\u00a0P\u00e1kist\u00e1n",
         "180": "Let p\u0159es Afgh\u00e1nist\u00e1n a\u00a0P\u00e1kist\u00e1n sm\u011brem na poho\u0159\u00ed\u00a0Kar\u00e1k\u00f3ram",
         "235": "Cesta p\u0159es poho\u0159\u00ed\u00a0Kar\u00e1k\u00f3ram sm\u011brem na \u010c\u00ednu",
         "280": "Pou\u0161\u0165\u00a0Taklamakan v\u00a0z\u00e1padn\u00ed \u010c\u00edn\u011b",
-        "315": "Poho\u0159\u00ed \u0164an\u2011\u0161an ve St\u0159edn\u00ed Asii",
-        "45": "Jihov\u00fdchod Arabsk\u00e9ho\u00a0poloostrova"
+        "315": "Poho\u0159\u00ed \u0164an\u2011\u0161an ve St\u0159edn\u00ed Asii"
     },
     "A105_C0022120602": {
         "0": "Let p\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem na St\u0159edn\u00ed\u00a0Ameriku"
     },
     "A105_C002_021206_002": {
+        "70": "P\u0159es jihoz\u00e1padn\u00ed pob\u0159e\u017e\u00ed St\u0159edn\u00ed\u00a0Ameriky sm\u011brem na Karibsk\u00e9\u00a0mo\u0159e",
         "100": "Nap\u0159\u00ed\u010d St\u0159edn\u00ed\u00a0Amerikou sm\u011brem ke Karibsk\u00e9mu\u00a0mo\u0159i",
         "150": "Let p\u0159es Karibsk\u00e9\u00a0mo\u0159e sm\u011brem na Kubu",
         "240": "P\u0159es Kubu s\u00a0Floridou a\u00a0Bahamami v\u00a0pozad\u00ed",
         "300": "Cesta p\u0159es Floridu a\u00a0Bahamy sm\u011brem na Sargasov\u00e9\u00a0mo\u0159e",
-        "350": "P\u0159\u00edlet p\u0159es Sargasov\u00e9\u00a0mo\u0159e k\u00a0Atlantsk\u00e9mu\u00a0oce\u00e1nu",
-        "70": "P\u0159es jihoz\u00e1padn\u00ed pob\u0159e\u017e\u00ed St\u0159edn\u00ed\u00a0Ameriky sm\u011brem na Karibsk\u00e9\u00a0mo\u0159e"
+        "350": "P\u0159\u00edlet p\u0159es Sargasov\u00e9\u00a0mo\u0159e k\u00a0Atlantsk\u00e9mu\u00a0oce\u00e1nu"
     },
     "A105_C003212CT": {
         "0": "Pr\u016flet z\u00a0noci do dne nad Ji\u017en\u00edm\u00a0Tich\u00fdm\u00a0oce\u00e1nem"
     },
     "A105_C003_0212CT": {
+        "70": "Pr\u016flet z\u00a0noci do dne nad Nov\u00fdm\u00a0Z\u00e9landem",
         "110": "Bl\u00ed\u017e\u00edc\u00ed se v\u00fdchod slunce nad Nov\u00fdm\u00a0Z\u00e9landem",
-        "170": "Odlet z\u00a0Nov\u00e9ho\u00a0Z\u00e9landu sm\u011brem na severov\u00fdchod p\u0159es Tich\u00fd\u00a0oce\u00e1n",
-        "70": "Pr\u016flet z\u00a0noci do dne nad Nov\u00fdm\u00a0Z\u00e9landem"
+        "170": "Odlet z\u00a0Nov\u00e9ho\u00a0Z\u00e9landu sm\u011brem na severov\u00fdchod p\u0159es Tich\u00fd\u00a0oce\u00e1n"
     },
     "A108_C001215V8": {
         "0": "Cesta p\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem na St\u0159edn\u00ed\u00a0Ameriku"
     },
     "A108_C001_0215V8": {
-        "110": "Kolem obla\u010dnost\u00ed zahalen\u00e9 Jamajky v\u00a0Karibsk\u00e9m\u00a0mo\u0159i",
-        "125": "Nap\u0159\u00ed\u010d Kubou s\u00a0v\u00fdhledem na Haiti a\u00a0Dominik\u00e1nskou\u00a0republiku",
-        "170": "Cesta p\u0159es Bahamy s\u00a0v\u00fdhledem na Haiti a\u00a0Dominik\u00e1nskou\u00a0republiku",
-        "190": "Ostrovy Turks a\u00a0Caicos v\u00a0Atlantsk\u00e9m\u00a0oce\u00e1nu",
         "35": "Pacifick\u00e9 pob\u0159e\u017e\u00ed Nikaraguy, Kostariky a\u00a0Panamy",
         "50": "P\u0159elet nad St\u0159edn\u00ed\u00a0Amerikou s\u00a0Ji\u017en\u00ed\u00a0Amerikou v\u00a0d\u00e1lce",
         "65": "Pob\u0159e\u017e\u00ed Moskyt\u016f v\u00a0Nikaragui",
-        "85": "Cesta p\u0159es Karibsk\u00e9\u00a0mo\u0159e sm\u011brem na Kubu"
+        "85": "Cesta p\u0159es Karibsk\u00e9\u00a0mo\u0159e sm\u011brem na Kubu",
+        "110": "Kolem obla\u010dnost\u00ed zahalen\u00e9 Jamajky v\u00a0Karibsk\u00e9m\u00a0mo\u0159i",
+        "125": "Nap\u0159\u00ed\u010d Kubou s\u00a0v\u00fdhledem na Haiti a\u00a0Dominik\u00e1nskou\u00a0republiku",
+        "170": "Cesta p\u0159es Bahamy s\u00a0v\u00fdhledem na Haiti a\u00a0Dominik\u00e1nskou\u00a0republiku",
+        "190": "Ostrovy Turks a\u00a0Caicos v\u00a0Atlantsk\u00e9m\u00a0oce\u00e1nu"
     },
     "A114_C001305OT": {
         "0": "P\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem na Spojen\u00e9\u00a0st\u00e1ty"
     },
     "A114_C001_0305OT": {
-        "130": "Poho\u0159\u00ed Sierra\u00a0Madre Occidental na z\u00e1padn\u00edm pob\u0159e\u017e\u00ed Mexika",
-        "185": "Let p\u0159es poho\u0159\u00ed Sierra\u00a0Madre Occidental sm\u011brem k\u00a0z\u00e1padn\u00edmu pob\u0159e\u017e\u00ed Mexika",
         "20": "Cesta na jih pod\u00e9l pob\u0159e\u017e\u00ed Kalifornie",
-        "225": "V\u00fdhled na jih na Tich\u00fd\u00a0oce\u00e1n p\u0159es Sierra\u00a0Madre del Sur v\u00a0Mexiku",
-        "280": "Tich\u00fd\u00a0oce\u00e1n u\u00a0pob\u0159e\u017e\u00ed Mexika",
-        "290": "Tich\u00fd\u00a0oce\u00e1n u\u00a0pob\u0159e\u017e\u00ed Mexika a\u00a0Guatemaly",
         "50": "Let p\u0159es ji\u017en\u00ed Kalifornii sm\u011brem na Mexiko",
         "65": "P\u0159\u00edlet k\u00a0Mohavsk\u00e9\u00a0pou\u0161ti v\u00a0ji\u017en\u00ed Kalifornii s\u00a0Mexikem v\u00a0pozad\u00ed",
-        "95": "Kalifornsk\u00fd z\u00e1liv lemovan\u00fd Sonorskou\u00a0pou\u0161t\u00ed a\u00a0Kalifornsk\u00fdm poloostrovem"
+        "95": "Kalifornsk\u00fd z\u00e1liv lemovan\u00fd Sonorskou\u00a0pou\u0161t\u00ed a\u00a0Kalifornsk\u00fdm poloostrovem",
+        "130": "Poho\u0159\u00ed Sierra\u00a0Madre Occidental na z\u00e1padn\u00edm pob\u0159e\u017e\u00ed Mexika",
+        "185": "Let p\u0159es poho\u0159\u00ed Sierra\u00a0Madre Occidental sm\u011brem k\u00a0z\u00e1padn\u00edmu pob\u0159e\u017e\u00ed Mexika",
+        "225": "V\u00fdhled na jih na Tich\u00fd\u00a0oce\u00e1n p\u0159es Sierra\u00a0Madre del Sur v\u00a0Mexiku",
+        "280": "Tich\u00fd\u00a0oce\u00e1n u\u00a0pob\u0159e\u017e\u00ed Mexika",
+        "290": "Tich\u00fd\u00a0oce\u00e1n u\u00a0pob\u0159e\u017e\u00ed Mexika a\u00a0Guatemaly"
     },
     "A351_C001_1213SK": {
         "0": "Cesta na severov\u00fdchod p\u0159es Etiopskou vyso\u010dinu",
+        "45": "Cesta p\u0159es Rud\u00e9\u00a0mo\u0159e na Arabsk\u00fd\u00a0poloostrov",
         "100": "Let p\u0159es Arabsk\u00fd\u00a0poloostrov sm\u011brem na severov\u00fdchod",
         "130": "Let p\u0159es Arabsk\u00fd\u00a0poloostrov sm\u011brem na \u00cdr\u00e1n",
         "165": "P\u0159\u00edlet p\u0159es Arabsk\u00fd\u00a0poloostrov k\u00a0\u00cdr\u00e1nu",
@@ -221,7 +222,6 @@
         "322": "Poho\u0159\u00ed Pam\u00edro\u2011Alaj a\u00a0Fergansk\u00e1\u00a0kotlina ve St\u0159edn\u00ed Asii",
         "360": "Let z\u00a0Kyrgyzst\u00e1nu sm\u011brem na jihov\u00fdchodn\u00ed Kazachst\u00e1n",
         "400": "Cesta na sever p\u0159es Kazachst\u00e1n",
-        "45": "Cesta p\u0159es Rud\u00e9\u00a0mo\u0159e na Arabsk\u00fd\u00a0poloostrov",
         "450": "Let p\u0159es Altaj do Mongolska"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Let p\u0159es Sibi\u0159 a\u00a0Mongolsko na jihov\u00fdchod",
+        "22": "Let sm\u011brem na Vnit\u0159n\u00ed Mongolsko",
+        "32": "Cesta p\u0159es Mongolsko sm\u011brem na \u010c\u00ednu",
+        "60": "Let p\u0159es severn\u00ed \u010c\u00ednu sm\u011brem na Korejsk\u00fd\u00a0poloostrov",
         "110": "P\u0159es \u010c\u00ednu sm\u011brem na Korejsk\u00fd\u00a0poloostrov",
         "150": "Korejsk\u00fd\u00a0poloostrov s\u00a0Japonskem v\u00a0d\u00e1lce",
         "180": "Cesta p\u0159es Ji\u017en\u00ed Koreu sm\u011brem na Japonsko",
         "195": "P\u0159es Japonsko s\u00a0v\u00fdhledem na Tich\u00fd\u00a0oce\u00e1n",
-        "22": "Let sm\u011brem na Vnit\u0159n\u00ed Mongolsko",
-        "260": "P\u0159es Tich\u00fd\u00a0oce\u00e1n jihov\u00fdchodn\u011b od Japonska",
-        "32": "Cesta p\u0159es Mongolsko sm\u011brem na \u010c\u00ednu",
-        "60": "Let p\u0159es severn\u00ed \u010c\u00ednu sm\u011brem na Korejsk\u00fd\u00a0poloostrov"
+        "260": "P\u0159es Tich\u00fd\u00a0oce\u00e1n jihov\u00fdchodn\u011b od Japonska"
     },
     "GMT060_117NC_363D": {
         "0": "P\u0159es Indick\u00fd\u00a0oce\u00e1n sm\u011brem na Perth v\u00a0Austr\u00e1lii",
+        "50": "Cesta na severov\u00fdchod p\u0159es Z\u00e1padn\u00ed Austr\u00e1lii",
         "170": "P\u0159\u00edlet p\u0159es Z\u00e1padn\u00ed\u00a0Austr\u00e1lii k\u00a0Severn\u00edmu\u00a0teritoriu",
         "220": "Let p\u0159es Severn\u00ed\u00a0teritorium Austr\u00e1lie sm\u011brem na Novou\u00a0Guineu",
-        "335": "Cesta p\u0159es Arafursk\u00e9\u00a0mo\u0159e sm\u011brem na Novou\u00a0Guineu",
-        "50": "Cesta na severov\u00fdchod p\u0159es Z\u00e1padn\u00ed Austr\u00e1lii"
+        "335": "Cesta p\u0159es Arafursk\u00e9\u00a0mo\u0159e sm\u011brem na Novou\u00a0Guineu"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Pol\u00e1rn\u00ed\u00a0z\u00e1\u0159e nad Antarktidou"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Let p\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem k\u00a0pob\u0159e\u017e\u00ed Kalifornie",
+        "70": "Cesta p\u0159es pob\u0159e\u017e\u00ed Kalifornie sm\u011brem do vnitrozem\u00ed",
+        "85": "P\u0159elet nad Los\u00a0Angeles na z\u00e1padn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch\u00a0st\u00e1t\u016f",
+        "95": "P\u0159\u00edlet p\u0159es Los\u00a0Angeles k\u00a0Las\u00a0Vegas ve Spojen\u00fdch\u00a0st\u00e1tech",
         "110": "P\u0159es Las\u00a0Vegas sm\u011brem na Salt\u00a0Lake\u00a0City ve Spojen\u00fdch\u00a0st\u00e1tech",
         "120": "P\u0159\u00edlet p\u0159es z\u00e1padn\u00ed Spojen\u00e9\u00a0st\u00e1ty k\u00a0Salt\u00a0Lake\u00a0City",
         "155": "Pr\u016flet mezi Salt\u00a0Lake\u00a0City a\u00a0Denverem ve Spojen\u00fdch\u00a0st\u00e1tech",
-        "170": "Let p\u0159es Skalnat\u00e9\u00a0hory ve Spojen\u00fdch\u00a0st\u00e1tech",
-        "70": "Cesta p\u0159es pob\u0159e\u017e\u00ed Kalifornie sm\u011brem do vnitrozem\u00ed",
-        "85": "P\u0159elet nad Los\u00a0Angeles na z\u00e1padn\u00edm pob\u0159e\u017e\u00ed Spojen\u00fdch\u00a0st\u00e1t\u016f",
-        "95": "P\u0159\u00edlet p\u0159es Los\u00a0Angeles k\u00a0Las\u00a0Vegas ve Spojen\u00fdch\u00a0st\u00e1tech"
+        "170": "Let p\u0159es Skalnat\u00e9\u00a0hory ve Spojen\u00fdch\u00a0st\u00e1tech"
     },
     "GMT307_136NC_134K_8277": {
         "0": "P\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem na Mexiko",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Let p\u0159es Velk\u00e9\u00a0planiny Spojen\u00fdch\u00a0st\u00e1t\u016f na jihov\u00fdchod",
+        "90": "Let p\u0159es st\u0159edoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f na jihov\u00fdchod",
         "120": "P\u0159es jihov\u00fdchod Spojen\u00fdch\u00a0st\u00e1t\u016f sm\u011brem na Floridu",
         "220": "Cesta p\u0159es Floridu sm\u011brem na Bahamy",
         "240": "Let p\u0159es Bahamy na jihov\u00fdchod",
         "285": "P\u0159\u00edlet p\u0159es Bahamy k\u00a0Dominik\u00e1nsk\u00e9\u00a0republice a\u00a0Haiti",
         "300": "P\u0159\u00edlet p\u0159es Dominik\u00e1nskou\u00a0republiku a\u00a0Haiti ke Karibsk\u00e9mu\u00a0mo\u0159i",
-        "315": "P\u0159es Karibsk\u00e9\u00a0mo\u0159e sm\u011brem na Venezuelu",
-        "90": "Let p\u0159es st\u0159edoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f na jihov\u00fdchod"
+        "315": "P\u0159es Karibsk\u00e9\u00a0mo\u0159e sm\u011brem na Venezuelu"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Cesta na severov\u00fdchod p\u0159es no\u010dn\u00ed Saharu",
+        "70": "P\u0159es Velk\u00fd\u00a0v\u00fdchodn\u00ed\u00a0erg sm\u011brem na St\u0159edozemn\u00ed\u00a0mo\u0159e",
         "100": "St\u0159edozemn\u00ed pob\u0159e\u017e\u00ed Tuniska a\u00a0Lybie",
         "120": "Let p\u0159es St\u0159edozemn\u00ed mo\u0159e sm\u011brem na It\u00e1lii",
         "140": "P\u0159\u00edlet p\u0159es ji\u017en\u00ed It\u00e1lii k\u00a0Balk\u00e1nsk\u00e9mu\u00a0poloostrovu s\u00a0Tureckem v\u00a0d\u00e1lce",
         "165": "Let p\u0159es Balk\u00e1nsk\u00fd poloostrov sm\u011brem na \u010cern\u00e9\u00a0mo\u0159e",
         "180": "P\u0159\u00edlet p\u0159es Balk\u00e1nsk\u00fd poloostrov k\u00a0\u010cern\u00e9mu\u00a0mo\u0159i",
         "210": "Cesta p\u0159es \u010cern\u00e9\u00a0mo\u0159e sm\u011brem na Ukrajinu",
-        "230": "Cesta p\u0159es Ukrajinu sm\u011brem na Rusko",
-        "70": "P\u0159es Velk\u00fd\u00a0v\u00fdchodn\u00ed\u00a0erg sm\u011brem na St\u0159edozemn\u00ed\u00a0mo\u0159e"
+        "230": "Cesta p\u0159es Ukrajinu sm\u011brem na Rusko"
     },
     "GMT314_139M_170NC": {
         "0": "Let p\u0159es Tich\u00fd\u00a0oce\u00e1n sm\u011brem na Baja\u00a0California",
+        "45": "Nap\u0159\u00ed\u010d Baja\u00a0California s\u00a0v\u00fdhledem na sever ke Spojen\u00fdm\u00a0st\u00e1t\u016fm",
+        "55": "P\u0159es Mexiko sm\u011brem na jihoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f",
+        "75": "Let p\u0159es jihoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f",
         "110": "P\u0159\u00edlet p\u0159es Skalnat\u00e9\u00a0hory k\u00a0Denveru",
         "125": "Cesta p\u0159es Velk\u00e9\u00a0planiny Spojen\u00fdch\u00a0st\u00e1t\u016f",
         "185": "P\u0159\u00edlet k\u00a0Velk\u00fdm\u00a0jezer\u016fm s\u00a0kanadsk\u00fdm Ontariem v\u00a0pozad\u00ed",
@@ -361,28 +364,25 @@
         "210": "Pol\u00e1rn\u00ed\u00a0z\u00e1\u0159e nad z\u00e1padn\u00edm Ontariem v\u00a0Kanad\u011b",
         "235": "Pol\u00e1rn\u00ed\u00a0z\u00e1\u0159e nad severn\u00edm Ontariem v\u00a0Kanad\u011b",
         "250": "Pol\u00e1rn\u00ed\u00a0z\u00e1\u0159e nad severn\u00edm Qu\u00e9becem v\u00a0Kanad\u011b",
-        "300": "Let sm\u011brem na severn\u00ed Atlantik s\u00a0pol\u00e1rn\u00ed\u00a0z\u00e1\u0159\u00ed nad Labradorem v\u00a0Kanad\u011b",
-        "45": "Nap\u0159\u00ed\u010d Baja\u00a0California s\u00a0v\u00fdhledem na sever ke Spojen\u00fdm\u00a0st\u00e1t\u016fm",
-        "55": "P\u0159es Mexiko sm\u011brem na jihoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f",
-        "75": "Let p\u0159es jihoz\u00e1pad Spojen\u00fdch\u00a0st\u00e1t\u016f"
+        "300": "Let sm\u011brem na severn\u00ed Atlantik s\u00a0pol\u00e1rn\u00ed\u00a0z\u00e1\u0159\u00ed nad Labradorem v\u00a0Kanad\u011b"
     },
     "GMT329_117NC_401C_1037": {
         "0": "P\u0159\u00edlet p\u0159es severn\u00ed\u00a0Atlantik k\u00a0Irsku a\u00a0Velk\u00e9 Brit\u00e1nii",
-        "105": "P\u0159es st\u0159edn\u00ed Evropu sm\u011brem na Rusko",
         "15": "Irsko a\u00a0Velk\u00e1\u00a0Brit\u00e1nie",
+        "45": "Cesta p\u0159es Velkou\u00a0Brit\u00e1nii sm\u011brem na kontinent\u00e1ln\u00ed Evropu",
+        "65": "P\u0159es severoz\u00e1padn\u00ed Evropu sm\u011brem na Rusko",
+        "105": "P\u0159es st\u0159edn\u00ed Evropu sm\u011brem na Rusko",
         "150": "P\u0159es v\u00fdchodn\u00ed Evropu s\u00a0Moskvou v\u00a0d\u00e1lce",
         "165": "Nap\u0159\u00ed\u010d v\u00fdchodn\u00ed Evropou s\u00a0v\u00fdhledem na Moskvu",
         "185": "P\u0159es z\u00e1padn\u00ed Rusko kolem Moskvy",
-        "195": "Cesta p\u0159es Rusko sm\u011brem na St\u0159edn\u00ed Asii",
-        "45": "Cesta p\u0159es Velkou\u00a0Brit\u00e1nii sm\u011brem na kontinent\u00e1ln\u00ed Evropu",
-        "65": "P\u0159es severoz\u00e1padn\u00ed Evropu sm\u011brem na Rusko"
+        "195": "Cesta p\u0159es Rusko sm\u011brem na St\u0159edn\u00ed Asii"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "P\u0159es Tunisko sm\u011brem na It\u00e1lii",
+        "5": "Nap\u0159\u00ed\u010d St\u0159edozemn\u00edm\u00a0mo\u0159em s\u00a0v\u00fdhledem na Sic\u00edlii a\u00a0Apeninsk\u00fd\u00a0poloostrov",
         "15": "P\u0159es ji\u017en\u00ed It\u00e1lii s\u00a0Balk\u00e1nsk\u00fdm\u00a0poloostrovem v\u00a0pozad\u00ed",
         "25": "Let p\u0159es Balk\u00e1nsk\u00fd\u00a0poloostrov sm\u011brem na St\u0159edn\u00ed Asii",
         "40": "P\u0159es Balk\u00e1nsk\u00fd\u00a0poloostrov pod\u00e9l \u010cern\u00e9ho\u00a0mo\u0159e",
-        "5": "Nap\u0159\u00ed\u010d St\u0159edozemn\u00edm\u00a0mo\u0159em s\u00a0v\u00fdhledem na Sic\u00edlii a\u00a0Apeninsk\u00fd\u00a0poloostrov",
         "55": "P\u0159es Ukrajinu s\u00a0Ruskem v\u00a0pozad\u00ed",
         "75": "P\u0159es jihoz\u00e1pad Ruska pod\u00e9l Kazachst\u00e1nu"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "P\u0159\u00edlet k\u00a0mostu Tower\u00a0Bridge na \u0159ece\u00a0Tem\u017ei v\u00a0Lond\u00fdn\u011b",
-        "130": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee sm\u011brem k\u00a0Lond\u00fdnsk\u00e9mu\u00a0oku",
         "20": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee v\u00a0Lond\u00fdn\u011b",
+        "130": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee sm\u011brem k\u00a0Lond\u00fdnsk\u00e9mu\u00a0oku",
         "210": "P\u0159\u00edlet k\u00a0Lond\u00fdnsk\u00e9mu\u00a0oku na \u0159ece\u00a0Tem\u017ei",
         "310": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee kolem Lond\u00fdnsk\u00e9ho\u00a0oka",
         "325": "Kolem Westminstersk\u00e9ho pal\u00e1ce na \u0159ece\u00a0Tem\u017ei v\u00a0Lond\u00fdn\u011b"
     },
     "L007_C007": {
         "0": "P\u0159elet nad pozemky Buckinghamsk\u00e9ho\u00a0pal\u00e1ce v\u00a0Lond\u00fdn\u011b",
+        "24": "P\u0159es Buckinghamsk\u00fd\u00a0pal\u00e1c v\u00a0Lond\u00fdn\u011b",
+        "49": "P\u0159es St.\u00a0James's Park sm\u011brem k\u00a0lond\u00fdnsk\u00e9 Tem\u017ei",
         "104": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei a\u00a0nad Lond\u00fdnsk\u00fdm\u00a0okem",
         "149": "P\u0159elet nad ji\u017en\u00edm Lond\u00fdnem",
-        "24": "P\u0159es Buckinghamsk\u00fd\u00a0pal\u00e1c v\u00a0Lond\u00fdn\u011b",
         "279": "Kolem mrakodrapu The\u00a0Shard na jihu Lond\u00fdna",
         "299": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei v\u00a0Lond\u00fdn\u011b",
-        "324": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei u\u00a0mostu Tower\u00a0Bridge v\u00a0Lond\u00fdn\u011b",
-        "49": "P\u0159es St.\u00a0James's Park sm\u011brem k\u00a0lond\u00fdnsk\u00e9 Tem\u017ei"
+        "324": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei u\u00a0mostu Tower\u00a0Bridge v\u00a0Lond\u00fdn\u011b"
     },
     "L010_C006": {
         "0": "P\u0159\u00edlet k\u00a0mostu Tower\u00a0Bridge na \u0159ece\u00a0Tem\u017ei v\u00a0Lond\u00fdn\u011b",
+        "78": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee v\u00a0Lond\u00fdn\u011b",
         "178": "Ji\u017en\u011b od \u0159eky\u00a0Tem\u017ee v\u00a0Lond\u00fdn\u011b",
-        "258": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei v\u00a0Lond\u00fdn\u011b",
-        "78": "Pod\u00e9l \u0159eky\u00a0Tem\u017ee v\u00a0Lond\u00fdn\u011b"
+        "258": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei v\u00a0Lond\u00fdn\u011b"
     },
     "L012_C002": {
         "0": "P\u0159\u00edlet k\u00a0mostu Tower\u00a0Bridge na \u0159ece\u00a0Tem\u017ei v\u00a0Lond\u00fdn\u011b",
         "20": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei v\u00a0Lond\u00fdn\u011b",
-        "200": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei sm\u011brem na lond\u00fdnsk\u00fd Westminster",
-        "270": "P\u0159es lond\u00fdnsk\u00fd Westminster",
         "60": "Kolem mrakodrapu The\u00a0Shard na jihu Lond\u00fdna",
-        "92": "Ji\u017en\u011b od Tem\u017ee sm\u011brem k\u00a0Lond\u00fdnsk\u00e9mu\u00a0oku"
+        "92": "Ji\u017en\u011b od Tem\u017ee sm\u011brem k\u00a0Lond\u00fdnsk\u00e9mu\u00a0oku",
+        "200": "Nap\u0159\u00ed\u010d p\u0159es Tem\u017ei sm\u011brem na lond\u00fdnsk\u00fd Westminster",
+        "270": "P\u0159es lond\u00fdnsk\u00fd Westminster"
     },
     "LA_A005_C009": {
         "0": "Na server p\u0159es Los\u00a0Angeles po Interstate\u00a0110"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "P\u0159es Upper East Side a\u00a0Central\u00a0Park v\u00a0New\u00a0Yorku",
+        "50": "P\u0159es st\u0159edn\u00ed\u00a0Manhattan sm\u011brem do centra k\u00a0Empire\u00a0State Building",
         "160": "P\u0159\u00edlet k\u00a0Empire\u00a0State Building v\u00a0New Yorku",
-        "205": "Kolem Empire\u00a0State Building sm\u011brem na doln\u00ed Manhattan",
-        "50": "P\u0159es st\u0159edn\u00ed\u00a0Manhattan sm\u011brem do centra k\u00a0Empire\u00a0State Building"
+        "205": "Kolem Empire\u00a0State Building sm\u011brem na doln\u00ed Manhattan"
     },
     "N006_C003": {
         "0": "P\u0159\u00edlet k\u00a0doln\u00edmu\u00a0Manhattanu v\u00a0New\u00a0Yorku",
-        "140": "Let p\u0159es doln\u00ed\u00a0Manhattan v\u00a0New\u00a0Yorku sm\u011brem na st\u0159edn\u00ed\u00a0Manhattan",
-        "40": "P\u0159es doln\u00ed\u00a0Manhattan v\u00a0New\u00a0Yorku"
+        "40": "P\u0159es doln\u00ed\u00a0Manhattan v\u00a0New\u00a0Yorku",
+        "140": "Let p\u0159es doln\u00ed\u00a0Manhattan v\u00a0New\u00a0Yorku sm\u011brem na st\u0159edn\u00ed\u00a0Manhattan"
     },
     "N008_C003": {
         "0": "P\u0159\u00edlet k\u00a0doln\u00edmu\u00a0Manhattanu od newyorsk\u00e9ho p\u0159\u00edstavu",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "7. avenue sm\u011brem na Times\u00a0Square, New\u00a0York",
-        "120": "7. avenue na st\u0159edn\u00edm\u00a0Manhattanu, New\u00a0York",
-        "40": "P\u0159es Times\u00a0Square v\u00a0New\u00a0Yorku"
+        "40": "P\u0159es Times\u00a0Square v\u00a0New\u00a0Yorku",
+        "120": "7. avenue na st\u0159edn\u00edm\u00a0Manhattanu, New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Let pod\u00e9l masivu Cuernos del Paine v\u00a0chilsk\u00e9m n\u00e1rodn\u00edm parku Torres del Paine"
@@ -592,16 +592,16 @@
         "0": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park ve Spojen\u00fdch\u00a0st\u00e1tech"
     },
     "Y002_C013_0226": {
-        "210": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park ve Spojen\u00fdch\u00a0st\u00e1tech",
         "70": "P\u0159\u00edlet ke skaln\u00edmu \u00fatvaru Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "87": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
+        "87": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
+        "210": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park ve Spojen\u00fdch\u00a0st\u00e1tech"
     },
     "Y003_C009": {
         "0": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park, Spojen\u00e9\u00a0st\u00e1ty",
+        "93": "Cesta k\u00a0vrcholu Merced Peak v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "130": "Vrchol Merced Peak v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "221": "Kolem vrcholu Merced Peak v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "244": "Cesta p\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park, Spojen\u00e9\u00a0st\u00e1ty",
-        "93": "Cesta k\u00a0vrcholu Merced Peak v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
+        "244": "Cesta p\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park, Spojen\u00e9\u00a0st\u00e1ty"
     },
     "Y004_C015227PD": {
         "0": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
@@ -614,29 +614,29 @@
         "0": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park ve Spojen\u00fdch\u00a0st\u00e1tech"
     },
     "Y005_C003_0228SC": {
+        "40": "Cesta ke skaln\u00edmu \u00fatvaru Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
+        "60": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "155": "P\u0159es Yosemitsk\u00fd n\u00e1rodn\u00ed park s\u00a0vodop\u00e1dem Nevada v\u00a0d\u00e1lce",
         "255": "Vodop\u00e1dy Nevada a\u00a0Illilouette v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "285": "Vodop\u00e1dy Nevada, Vernal a\u00a0Illilouette v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "40": "Cesta ke skaln\u00edmu \u00fatvaru Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "60": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
+        "285": "Vodop\u00e1dy Nevada, Vernal a\u00a0Illilouette v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
     },
     "Y009_C015304I": {
         "0": "P\u0159elet nad oblast\u00ed Tuolumne Meadows v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
     },
     "Y011_C001": {
         "0": "Cesta k\u00a0vodop\u00e1du\u00a0Bridalveil a\u00a0skaln\u00edmu masivu El Capitan v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku",
+        "44": "Cesta na v\u00fdchod ke skaln\u00edmu masivu El Capitan v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
+        "87": "Kolem skaln\u00edho masivu El Capitan, Yosemitsk\u00fd n\u00e1rodn\u00ed park, Spojen\u00e9\u00a0st\u00e1ty",
         "120": "Cesta na v\u00fdchod ke skaln\u00edmu \u00fatvaru Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "390": "Skaln\u00ed \u00fatvar Half Dome v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "44": "Cesta na v\u00fdchod ke skaln\u00edmu masivu El Capitan v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "470": "Cesta kolem skaln\u00edho \u00fatvaru Half Dome v\u00a0Yosemitsk\u00e9m \u00fadol\u00ed, Spojen\u00e9\u00a0st\u00e1ty",
-        "585": "Cesta na v\u00fdchod p\u0159es Yosemitsk\u00e9 \u00fadol\u00ed, Spojen\u00e9\u00a0st\u00e1ty",
-        "87": "Kolem skaln\u00edho masivu El Capitan, Yosemitsk\u00fd n\u00e1rodn\u00ed park, Spojen\u00e9\u00a0st\u00e1ty"
+        "585": "Cesta na v\u00fdchod p\u0159es Yosemitsk\u00e9 \u00fadol\u00ed, Spojen\u00e9\u00a0st\u00e1ty"
     },
     "Y011_C008": {
         "0": "Cesta ke skaln\u00edmu masivu Matthes Crest v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
+        "75": "P\u0159elet nad skaln\u00edm masivem Matthes Crest v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "124": "Pr\u016flet skaln\u00edm masivem Matthes Crest v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
         "215": "P\u0159elet nad skaln\u00edm masivem Matthes Crest v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "396": "P\u0159ibli\u017eov\u00e1n\u00ed k\u00a0oblasti Tuolumne Meadows v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty",
-        "75": "P\u0159elet nad skaln\u00edm masivem Matthes Crest v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
+        "396": "P\u0159ibli\u017eov\u00e1n\u00ed k\u00a0oblasti Tuolumne Meadows v\u00a0Yosemitsk\u00e9m n\u00e1rodn\u00edm parku, Spojen\u00e9\u00a0st\u00e1ty"
     }
 }

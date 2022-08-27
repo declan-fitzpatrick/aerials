@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Las islas\u00a0Canarias, el oc\u00e9ano\u00a0Atl\u00e1ntico y la costa de \u00c1frica",
+        "45": "Trayecto hacia noreste por la costa de Marruecos",
+        "75": "Recorrido sobrevolando la cordillera\u00a0del\u00a0Atlas\u00a0en Marruecos",
         "105": "Traves\u00eda sobre Marruecos acerc\u00e1ndose al mar\u00a0Mediterr\u00e1neo",
         "125": "El mar\u00a0Mediterr\u00e1neo y el sur de Espa\u00f1a",
         "145": "Trayecto hacia el noreste sobre la Costa\u00a0Blanca de Espa\u00f1a",
         "165": "Trayecto hacia el noreste sobre las islas\u00a0Baleares de Espa\u00f1a",
         "185": "Traves\u00eda por el poniente del mar\u00a0Mediterr\u00e1neo con los Alpes al fondo",
-        "220": "Trayecto sobre el noreste de los Alpes",
-        "45": "Trayecto hacia noreste por la costa de Marruecos",
-        "75": "Recorrido sobrevolando la cordillera\u00a0del\u00a0Atlas\u00a0en Marruecos"
+        "220": "Trayecto sobre el noreste de los Alpes"
     },
     "A001_C007": {
         "0": "Medusas doradas en las aguas de Palaos",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Traves\u00eda sobre el barrio del Fisherman\u2019s\u00a0Wharf hacia el centro de San\u00a0Francisco",
+        "80": "En direcci\u00f3n a la Torre\u00a0Coit con el centro de San\u00a0Francisco y el Puente\u00a0de\u00a0la\u00a0Bah\u00eda al fondo",
         "150": "Paso por la Torre\u00a0Coit hacia el centro de San\u00a0Francisco y el Puente\u00a0de\u00a0la\u00a0Bah\u00eda",
-        "196": "El centro de San Francisco",
-        "80": "En direcci\u00f3n a la Torre\u00a0Coit con el centro de San\u00a0Francisco y el Puente\u00a0de\u00a0la\u00a0Bah\u00eda al fondo"
+        "196": "El centro de San Francisco"
     },
     "A008_C007": {
         "0": "Traves\u00eda sobre las colinas Marin\u00a0Headlands rumbo al puente Golden\u00a0Gate",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Traves\u00eda sobre el oeste de Africa rumbo al Sahara",
+        "30": "Traves\u00eda por el Sahara en el norte\u00a0de\u00a0\u00c1frica",
         "110": "Recorrido sobrevolando el macizo\u00a0de\u00a0Hoggar en el Sahara, \u00c1frica del Norte",
         "155": "Traves\u00eda sobre el Gran\u00a0Erg\u00a0Oriental en el norte\u00a0de\u00a0\u00c1frica rumbo al mar\u00a0Mediterr\u00e1neo",
         "195": "La costa de T\u00fanez y el mar\u00a0Mediterr\u00e1neo",
@@ -64,7 +65,6 @@
         "230": "En direcci\u00f3n a Italia por el mar\u00a0Mediterr\u00e1neo",
         "245": "Traves\u00eda sobre Italia en direcci\u00f3n a la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes",
         "285": "Traves\u00eda sobre la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes rumbo a los montes\u00a0C\u00e1rpatos",
-        "30": "Traves\u00eda por el Sahara en el norte\u00a0de\u00a0\u00c1frica",
         "310": "Los montes\u00a0C\u00e1rpatos y el \u00a0Negro"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Traves\u00eda sobre la bah\u00eda de San\u00a0Francisco hacia el\u00a0Embarcadero",
+        "90": "Traves\u00eda sobre el\u00a0Embarcadero en Market\u00a0Street en San\u00a0Francisco",
         "150": "Recorrido sobre Market\u00a0Street por el centro de San\u00a0Francisco",
-        "360": "Recorrido sobre Market\u00a0Street en San\u00a0Francisco",
-        "90": "Traves\u00eda sobre el\u00a0Embarcadero en Market\u00a0Street en San\u00a0Francisco"
+        "360": "Recorrido sobre Market\u00a0Street en San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Trayecto sobre el barrio del Presidio\u00a0de San\u00a0Francisco hacia el puente Golden\u00a0Gate",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "En direcci\u00f3n al puente Golden\u00a0Gate desde San\u00a0Francisco",
+        "60": "Costado del puente Golden\u00a0Gate hacia las colinas Marin\u00a0Headlands",
         "140": "Traves\u00eda sobre el puente Golden\u00a0Gate",
         "230": "Paso por la torre\u00a0norte del puente Golden\u00a0Gate",
-        "260": "Traves\u00eda sobre la bah\u00eda de San\u00a0Francisco a un costado del puente Golden\u00a0Gate",
-        "60": "Costado del puente Golden\u00a0Gate hacia las colinas Marin\u00a0Headlands"
+        "260": "Traves\u00eda sobre la bah\u00eda de San\u00a0Francisco a un costado del puente Golden\u00a0Gate"
     },
     "A014_C008": {
         "0": "Loro\u00a0cototo verde sobre arrecifes de  coral cerca de Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "En direcci\u00f3n al Puente\u00a0de\u00a0la\u00a0Bah\u00eda y centro de San\u00a0Francisco",
-        "116": "Traves\u00eda sobre la bah\u00eda de San\u00a0Francisco hacia el centro de la ciudad",
-        "80": "Traves\u00eda sobre el Puente\u00a0de\u00a0la\u00a0Bah\u00eda hacia el centro de San\u00a0Francisco"
+        "80": "Traves\u00eda sobre el Puente\u00a0de\u00a0la\u00a0Bah\u00eda hacia el centro de San\u00a0Francisco",
+        "116": "Traves\u00eda sobre la bah\u00eda de San\u00a0Francisco hacia el centro de la ciudad"
     },
     "A016_C002": {
         "0": "Trayecto a trav\u00e9s de un bosque de algas en la costa de California, Estados\u00a0Unidos"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Trayecto sobre Europa\u00a0Occidental con Gran Breta\u00f1a e Irlanda a la distancia",
+        "20": "Rumbo a el sureste de los Alpes y el valle del r\u00edo\u00a0Po",
+        "50": "Vuelo por el sur de la pen\u00ednsula\u00a0italiana y el mar\u00a0Adri\u00e1tico",
         "100": "Grecia flanqueada por los mares J\u00f3nico y Egeo",
         "160": "Trayecto al sureste sobre el mar\u00a0Mediterr\u00e1neo",
         "185": "El mar\u00a0Mediterr\u00e1neo y el delta\u00a0del\u00a0\u00a0Nilo",
-        "20": "Rumbo a el sureste de los Alpes y el valle del r\u00edo\u00a0Po",
         "205": "El r\u00edo\u00a0Nilo fluyendo por el Sahara en Egipto",
         "220": "El Desierto\u00a0Ar\u00e1bigo flanqueado por el r\u00edo\u00a0Nilo y el golfo\u00a0de\u00a0Suez",
-        "240": "Rumbo al sureste del mar\u00a0Rojo",
-        "50": "Vuelo por el sur de la pen\u00ednsula\u00a0italiana y el mar\u00a0Adri\u00e1tico"
+        "240": "Rumbo al sureste del mar\u00a0Rojo"
     },
     "A083_C002_1130KZ": {
         "0": "El reflejo del sol a lo largo de la costa de Ir\u00e1n",
@@ -153,63 +153,64 @@
         "0": "Traves\u00eda sobre el Cuerno\u00a0de\u00a0\u00c1frica en direcci\u00f3n al Golfo\u00a0de\u00a0Ad\u00e9n"
     },
     "A103_C002_0205DG": {
+        "45": "El sureste de Arabia",
         "115": "El golfo de Om\u00e1n acerc\u00e1ndose a la costa\u00a0de\u00a0Makr\u00e1n",
         "145": "La costa\u00a0de\u00a0Makr\u00e1n en Ir\u00e1n y Pakist\u00e1n",
         "160": "Traves\u00eda sobre Ir\u00e1n rumbo a Afganist\u00e1n y Pakist\u00e1n",
         "180": "Traves\u00eda sobre Afganist\u00e1n y Pakist\u00e1n hacia la cordillera\u00a0del\u00a0Karak\u00f3rum",
         "235": "Traves\u00eda sobre la cordillera del Karak\u00f3rum en direcci\u00f3n hacia China",
         "280": "El desierto\u00a0de\u00a0Taklamak\u00e1n en el oeste de China",
-        "315": "Las monta\u00f1as\u00a0Tian en Asia\u00a0Central",
-        "45": "El sureste de Arabia"
+        "315": "Las monta\u00f1as\u00a0Tian en Asia\u00a0Central"
     },
     "A105_C0022120602": {
         "0": "Traves\u00eda por el oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a Centroam\u00e9rica"
     },
     "A105_C002_021206_002": {
+        "70": "La costa suroeste de Centroam\u00e9rica en direcci\u00f3n al mar\u00a0Caribe",
         "100": "Traves\u00eda por Centroam\u00e9rica hacia el mar\u00a0Caribe",
         "150": "Traves\u00eda hacia el sur del mar\u00a0Caribe rumbo a Cuba",
         "240": "Traves\u00eda sobre Cuba con Florida y las Bahamas al fondo",
         "300": "Traves\u00eda sobre Florida y las\u00a0Bahamas en direcci\u00f3n al mar\u00a0de\u00a0los\u00a0Sargazos",
-        "350": "Traves\u00eda sobre el mar\u00a0de\u00a0los\u00a0Sargazos desembocando en el oc\u00e9ano\u00a0Atl\u00e1ntico",
-        "70": "La costa suroeste de Centroam\u00e9rica en direcci\u00f3n al mar\u00a0Caribe"
+        "350": "Traves\u00eda sobre el mar\u00a0de\u00a0los\u00a0Sargazos desembocando en el oc\u00e9ano\u00a0Atl\u00e1ntico"
     },
     "A105_C003212CT": {
         "0": "Traves\u00eda sobre el oc\u00e9ano\u00a0Pac\u00edfico\u00a0Sur durante el alba"
     },
     "A105_C003_0212CT": {
+        "70": "Traves\u00eda sobre Nueva\u00a0Zelanda durante el alba",
         "110": "Vista del amanecer sobre Nueva\u00a0Zelanda",
-        "170": "Rumbo al oc\u00e9ano\u00a0Pac\u00edfico por el noreste de Nueva\u00a0Zelanda",
-        "70": "Traves\u00eda sobre Nueva\u00a0Zelanda durante el alba"
+        "170": "Rumbo al oc\u00e9ano\u00a0Pac\u00edfico por el noreste de Nueva\u00a0Zelanda"
     },
     "A108_C001215V8": {
         "0": "Trayecto sobre el oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a Centroam\u00e9rica"
     },
     "A108_C001_0215V8": {
-        "110": "Traves\u00eda sobre una nublada Jamaica en el mar\u00a0Caribe",
-        "125": "Traves\u00eda sobre Cuba rumbo a Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
-        "170": "Trayecto sobre las Bahamas rumbo a Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
-        "190": "Las islas\u00a0Turcas\u00a0y\u00a0Caicos en el oc\u00e9ano\u00a0Atl\u00e1ntico",
         "35": "Las costas de Nicaragua, Costa\u00a0Rica y Panam\u00e1 por el extremo del Pac\u00edfico",
         "50": "Recorrido sobrevolando Centroam\u00e9rica con Sudam\u00e9rica a la distancia",
         "65": "Costa de Mosquitos en Nicaragua",
-        "85": "Traves\u00eda hacia el sur del mar\u00a0Caribe en direcci\u00f3n a Cuba"
+        "85": "Traves\u00eda hacia el sur del mar\u00a0Caribe en direcci\u00f3n a Cuba",
+        "110": "Traves\u00eda sobre una nublada Jamaica en el mar\u00a0Caribe",
+        "125": "Traves\u00eda sobre Cuba rumbo a Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
+        "170": "Trayecto sobre las Bahamas rumbo a Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
+        "190": "Las islas\u00a0Turcas\u00a0y\u00a0Caicos en el oc\u00e9ano\u00a0Atl\u00e1ntico"
     },
     "A114_C001305OT": {
         "0": "Traves\u00eda por el oc\u00e9ano\u00a0Pac\u00edfico rumbo a Estados\u00a0Unidos"
     },
     "A114_C001_0305OT": {
-        "130": "La Sierra\u00a0Madre\u00a0Occidental en la costa occidental de M\u00e9xico",
-        "185": "Traves\u00eda sobre la cordillera de la Sierra\u00a0Madre\u00a0Occidental rumbo a la costa poniente de M\u00e9xico",
         "20": "Trayecto al sur por la costa de California",
-        "225": "Vista sobre el oc\u00e9ano\u00a0Pac\u00edfico sobre la cordillera de la Sierra\u00a0Madre\u00a0del\u00a0Sur en M\u00e9xico",
-        "280": "El oc\u00e9ano\u00a0Pac\u00edfico a lo largo de las costas de M\u00e9xico",
-        "290": "El oc\u00e9ano\u00a0Pac\u00edfico a lo largo de las costas de M\u00e9xico y Guatemala",
         "50": "Traves\u00eda sobre el sur de California rumbo a M\u00e9xico",
         "65": "En direcci\u00f3n al desierto\u00a0de\u00a0Mojave en el sur de California con M\u00e9xico al fondo",
-        "95": "El golfo\u00a0de\u00a0California flanqueado por el desierto\u00a0de\u00a0Sonora y la pen\u00ednsula de Baja\u00a0California"
+        "95": "El golfo\u00a0de\u00a0California flanqueado por el desierto\u00a0de\u00a0Sonora y la pen\u00ednsula de Baja\u00a0California",
+        "130": "La Sierra\u00a0Madre\u00a0Occidental en la costa occidental de M\u00e9xico",
+        "185": "Traves\u00eda sobre la cordillera de la Sierra\u00a0Madre\u00a0Occidental rumbo a la costa poniente de M\u00e9xico",
+        "225": "Vista sobre el oc\u00e9ano\u00a0Pac\u00edfico sobre la cordillera de la Sierra\u00a0Madre\u00a0del\u00a0Sur en M\u00e9xico",
+        "280": "El oc\u00e9ano\u00a0Pac\u00edfico a lo largo de las costas de M\u00e9xico",
+        "290": "El oc\u00e9ano\u00a0Pac\u00edfico a lo largo de las costas de M\u00e9xico y Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "Trayecto hacia el noreste sobre el macizo Et\u00edope",
+        "45": "Trayecto sobre el mar\u00a0Rojo al interior de Arabia",
         "100": "Rumbo a Arabia por el noreste",
         "130": "Traves\u00eda sobre Arabia rumbo a Ir\u00e1n",
         "165": "Traves\u00eda sobre Arabia acerc\u00e1ndose a Ir\u00e1n",
@@ -221,7 +222,6 @@
         "322": "La cordillera\u00a0del\u00a0Pamir y el valle\u00a0de\u00a0Fergan\u00e1 en Asia\u00a0Central",
         "360": "Rumbo al sureste de Kazajist\u00e1n desde Kirguist\u00e1n",
         "400": "Trayecto hacia el norte sobre Kazajist\u00e1n",
-        "45": "Trayecto sobre el mar\u00a0Rojo al interior de Arabia",
         "450": "Traves\u00eda sobre el\u00a0macizo\u00a0de\u00a0Alt\u00e1i rumbo a Mongolia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Trayecto hacia el sureste sobre Siberia y Mongolia",
+        "22": "Rumbo al interior de Mongolia",
+        "32": "Traves\u00eda sobre Mongolia en direcci\u00f3n a China",
+        "60": "Traves\u00eda sobre el norte de China rumbo a la pen\u00ednsula\u00a0de\u00a0Corea",
         "110": "Traves\u00eda sobre China hacia la pen\u00ednsula\u00a0de\u00a0Corea",
         "150": "La pen\u00ednsula\u00a0de\u00a0Corea con Jap\u00f3n a la distancia",
         "180": "Traves\u00eda sobre Corea\u00a0del\u00a0Sur en direcci\u00f3n a Jap\u00f3n",
         "195": "Traves\u00eda sobre Jap\u00f3n rumbo al oc\u00e9ano\u00a0Pac\u00edfico",
-        "22": "Rumbo al interior de Mongolia",
-        "260": "Traves\u00eda sobre el oc\u00e9ano\u00a0Pac\u00edfico al sureste de Jap\u00f3n",
-        "32": "Traves\u00eda sobre Mongolia en direcci\u00f3n a China",
-        "60": "Traves\u00eda sobre el norte de China rumbo a la pen\u00ednsula\u00a0de\u00a0Corea"
+        "260": "Traves\u00eda sobre el oc\u00e9ano\u00a0Pac\u00edfico al sureste de Jap\u00f3n"
     },
     "GMT060_117NC_363D": {
         "0": "Traves\u00eda sobre el oc\u00e9ano\u00a0\u00cdndico rumbo a Perth, Australia",
+        "50": "Trayecto hacia el noreste a trav\u00e9s de Australia\u00a0Occidental",
         "170": "Traves\u00eda sobre Australia\u00a0Occidental acerc\u00e1ndose al Territorio\u00a0del\u00a0Norte",
         "220": "Traves\u00eda sobre el Territorio\u00a0del\u00a0Norte, Australia, rumbo a Nueva\u00a0Guinea",
-        "335": "Traves\u00eda sobre el mar\u00a0de\u00a0Arafura en direcci\u00f3n a Nueva\u00a0Guinea",
-        "50": "Trayecto hacia el noreste a trav\u00e9s de Australia\u00a0Occidental"
+        "335": "Traves\u00eda sobre el mar\u00a0de\u00a0Arafura en direcci\u00f3n a Nueva\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "La aurora\u00a0austral sobre la Ant\u00e1rtica"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Traves\u00eda por el oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a la costa de California",
+        "70": "Traves\u00eda sobre la costa de California rumbo tierra adentro",
+        "85": "Recorrido sobrevolando Los\u00a0\u00c1ngeles por la costa oeste de Estados\u00a0Unidos",
+        "95": "Traves\u00eda sobre Los\u00a0Angeles acerc\u00e1ndose a Las\u00a0Vegas en Estados\u00a0Unidos",
         "110": "Traves\u00eda sobre Las\u00a0Vegas rumbo a Salt\u00a0Lake\u00a0City en Estados\u00a0Unidos",
         "120": "Traves\u00eda por el poniente de Estados\u00a0Unidos acerc\u00e1ndose a Salt\u00a0Lake\u00a0City",
         "155": "Paso por Salt\u00a0Lake\u00a0City y Denver en Estados\u00a0Unidos",
-        "170": "Traves\u00eda sobre las monta\u00f1as\u00a0Rocallosas en Estados\u00a0Unidos",
-        "70": "Traves\u00eda sobre la costa de California rumbo tierra adentro",
-        "85": "Recorrido sobrevolando Los\u00a0\u00c1ngeles por la costa oeste de Estados\u00a0Unidos",
-        "95": "Traves\u00eda sobre Los\u00a0Angeles acerc\u00e1ndose a Las\u00a0Vegas en Estados\u00a0Unidos"
+        "170": "Traves\u00eda sobre las monta\u00f1as\u00a0Rocallosas en Estados\u00a0Unidos"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Traves\u00eda por el oc\u00e9ano\u00a0Pac\u00edfico rumbo a M\u00e9xico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Rumbo al sureste de las Grandes\u00a0Llanuras de Estados\u00a0Unidos",
+        "90": "Rumbo al sureste del Medio\u00a0Oeste de Estados\u00a0Unidos",
         "120": "Traves\u00eda por el sureste de Estados\u00a0Unidos rumbo a Florida",
         "220": "Traves\u00eda sobre Florida en direcci\u00f3n a las Bahamas",
         "240": "Trayecto hacia el sureste sobre las Bahamas",
         "285": "Traves\u00eda sobre las Bahamas acerc\u00e1ndose a Rep\u00fablica\u00a0Dominicana y Hait\u00ed",
         "300": "Traves\u00eda sobre Rep\u00fablica\u00a0Dominicana y Hait\u00ed acerc\u00e1ndose al mar\u00a0Caribe",
-        "315": "Traves\u00eda hacia el sur del mar\u00a0Caribe rumbo a Venezuela",
-        "90": "Rumbo al sureste del Medio\u00a0Oeste de Estados\u00a0Unidos"
+        "315": "Traves\u00eda hacia el sur del mar\u00a0Caribe rumbo a Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Trayecto nocturno hacia el noreste sobre el Sahara",
+        "70": "Traves\u00eda sobre el Gran\u00a0Erg\u00a0Oriental rumbo al mar\u00a0Mediterr\u00e1neo",
         "100": "La costa del Mediterr\u00e1neo en T\u00fanez y Libia",
         "120": "Trayecto sobre el mar\u00a0Mediterr\u00e1neo hacia Italia",
         "140": "Traves\u00eda sobre el sur de Italia rumbo a la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes con Turqu\u00eda a la distancia",
         "165": "Traves\u00eda sobre la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes rumbo al mar\u00a0Negro",
         "180": "Traves\u00eda sobre la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes acerc\u00e1ndose al mar\u00a0Negro",
         "210": "Trayecto sobre el mar\u00a0Negro rumbo a Ucrania",
-        "230": "Trayecto sobre Ucrania rumbo a Rusia",
-        "70": "Traves\u00eda sobre el Gran\u00a0Erg\u00a0Oriental rumbo al mar\u00a0Mediterr\u00e1neo"
+        "230": "Trayecto sobre Ucrania rumbo a Rusia"
     },
     "GMT314_139M_170NC": {
         "0": "Traves\u00eda por el oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a Baja\u00a0California",
+        "45": "Traves\u00eda sobre el norte de Baja\u00a0California rumbo a Estados\u00a0Unidos",
+        "55": "Traves\u00eda sobre M\u00e9xico rumbo al suroeste de Estados\u00a0Unidos",
+        "75": "Traves\u00eda sobre el suroeste de Estados\u00a0Unidos",
         "110": "Traves\u00eda sobre las monta\u00f1as\u00a0Rocallosas acerc\u00e1ndose a Denver",
         "125": "Trayecto sobre las Grandes\u00a0Llanuras de Estados\u00a0Unidos",
         "185": "En direcci\u00f3n a los Grandes\u00a0Lagos con Ontario, Canad\u00e1 al fondo",
@@ -361,28 +364,25 @@
         "210": "La aurora\u00a0boreal sobre el occidente de Ontario, Canad\u00e1",
         "235": "La aurora\u00a0boreal sobre el norte de Ontario, Canad\u00e1",
         "250": "La aurora\u00a0boreal sobre el norte de Quebec, Canad\u00e1",
-        "300": "La aurora\u00a0boreal sobre Labrador, Canad\u00e1, por el Atl\u00e1ntico\u00a0Norte",
-        "45": "Traves\u00eda sobre el norte de Baja\u00a0California rumbo a Estados\u00a0Unidos",
-        "55": "Traves\u00eda sobre M\u00e9xico rumbo al suroeste de Estados\u00a0Unidos",
-        "75": "Traves\u00eda sobre el suroeste de Estados\u00a0Unidos"
+        "300": "La aurora\u00a0boreal sobre Labrador, Canad\u00e1, por el Atl\u00e1ntico\u00a0Norte"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Traves\u00eda sobre el oc\u00e9ano\u00a0Atl\u00e1ntico\u00a0Norte rumbo a Gran Breta\u00f1a e Irlanda",
-        "105": "Traves\u00eda sobre Europa\u00a0Central hacia Rusia",
         "15": "Gran\u00a0Breta\u00f1a e Irlanda",
+        "45": "Traves\u00eda sobre Gran\u00a0Breta\u00f1a en direcci\u00f3n a Europa continental",
+        "65": "Traves\u00eda sobre el noroeste de Europa hacia Rusia",
+        "105": "Traves\u00eda sobre Europa\u00a0Central hacia Rusia",
         "150": "Traves\u00eda sobre Europa\u00a0Oriental con Mosc\u00fa a la distancia",
         "165": "Traves\u00eda sobre Europa\u00a0Oriental rumbo a Mosc\u00fa",
         "185": "Traves\u00eda sobre el occidente de Rusia pasando por Mosc\u00fa",
-        "195": "Traves\u00eda sobre Rusia en direcci\u00f3n a Asia\u00a0Central",
-        "45": "Traves\u00eda sobre Gran\u00a0Breta\u00f1a en direcci\u00f3n a Europa continental",
-        "65": "Traves\u00eda sobre el noroeste de Europa hacia Rusia"
+        "195": "Traves\u00eda sobre Rusia en direcci\u00f3n a Asia\u00a0Central"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Traves\u00eda sobre T\u00fanez en direcci\u00f3n a Italia",
+        "5": "Traves\u00eda sobre el mar\u00a0Mediterr\u00e1neo rumbo a Sicilia y la pen\u00ednsula\u00a0Apenina",
         "15": "Traves\u00eda sobre el sur de Italia con la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes al fondo",
         "25": "Traves\u00eda sobre la pen\u00ednsula de los Balcanes rumbo a Asia\u00a0Central",
         "40": "Traves\u00eda sobre la pen\u00ednsula de los\u00a0Balcanes pasando por el mar\u00a0Negro",
-        "5": "Traves\u00eda sobre el mar\u00a0Mediterr\u00e1neo rumbo a Sicilia y la pen\u00ednsula\u00a0Apenina",
         "55": "Traves\u00eda sobre Ucrania con Rusia al fondo",
         "75": "Traves\u00eda sobre Rusia pasando por Kazajist\u00e1n"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "En direcci\u00f3n al Puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
-        "130": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis hacia la rueda de la fortuna The\u00a0London\u00a0Eye",
         "20": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis en Londres",
+        "130": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis hacia la rueda de la fortuna The\u00a0London\u00a0Eye",
         "210": "En direcci\u00f3n a la rueda de la fortuna The\u00a0London\u00a0Eye sobre el r\u00edo\u00a0T\u00e1mesis",
         "310": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis dejando atr\u00e1s la rueda de la fortuna The\u00a0London\u00a0Eye",
         "325": "Paso por el Palacio\u00a0de\u00a0Westminster en el r\u00edo\u00a0T\u00e1mesis en Londres"
     },
     "L007_C007": {
         "0": "Traves\u00eda sobre los jardines del Palacio\u00a0de\u00a0Buckingham en Londres",
+        "24": "Traves\u00eda sobre el Palacio\u00a0de\u00a0Buckingham en Londres",
+        "49": "Traves\u00eda sobre St\u00a0James\u2019s\u00a0Park hacia el r\u00edo\u00a0T\u00e1mesis, Londres",
         "104": "Traves\u00eda cruzando el r\u00edo\u00a0T\u00e1mesis y pasando sobre la rueda de la fortuna The\u00a0London\u00a0Eye",
         "149": "Traves\u00eda sobre el sur\u00a0de\u00a0Londres",
-        "24": "Traves\u00eda sobre el Palacio\u00a0de\u00a0Buckingham en Londres",
         "279": "Paso por el rascacielos The\u00a0Shard en el sur\u00a0de\u00a0Londres",
         "299": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis en Londres",
-        "324": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis por el Puente\u00a0de\u00a0la\u00a0Torre en Londres",
-        "49": "Traves\u00eda sobre St\u00a0James\u2019s\u00a0Park hacia el r\u00edo\u00a0T\u00e1mesis, Londres"
+        "324": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis por el Puente\u00a0de\u00a0la\u00a0Torre en Londres"
     },
     "L010_C006": {
         "0": "En direcci\u00f3n al Puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
+        "78": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis en Londres",
         "178": "Sur del r\u00edo\u00a0T\u00e1mesis en Londres",
-        "258": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis en Londres",
-        "78": "Recorrido sobre el r\u00edo\u00a0T\u00e1mesis en Londres"
+        "258": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis en Londres"
     },
     "L012_C002": {
         "0": "En direcci\u00f3n al Puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
         "20": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis en Londres",
-        "200": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis hacia Westminster, Londres",
-        "270": "Traves\u00eda sobre Westminster, London",
         "60": "Paso por el rascacielos The\u00a0Shard en el sur\u00a0de\u00a0Londres",
-        "92": "Sur del r\u00edo\u00a0T\u00e1mesis hacia la rueda de la fortuna The\u00a0London\u00a0Eye"
+        "92": "Sur del r\u00edo\u00a0T\u00e1mesis hacia la rueda de la fortuna The\u00a0London\u00a0Eye",
+        "200": "Traves\u00eda por el r\u00edo\u00a0T\u00e1mesis hacia Westminster, Londres",
+        "270": "Traves\u00eda sobre Westminster, London"
     },
     "LA_A005_C009": {
         "0": "Recorrido por la Autopista Interestatal\u00a0110 en Los \u00c1ngeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Traves\u00eda sobre Upper\u00a0East\u00a0Side y Central\u00a0Park\u00a0en Nueva\u00a0York",
+        "50": "Traves\u00eda sobre el \u00e1rea central de Manhattan hacia el rascacielos Empire\u00a0State\u00a0Building",
         "160": "En direcci\u00f3n al rascacielos Empire\u00a0State\u00a0Building en Nueva\u00a0York",
-        "205": "Paso por el rascacielos Empire\u00a0State\u00a0Building hacia el \u00e1rea sur de Manhattan",
-        "50": "Traves\u00eda sobre el \u00e1rea central de Manhattan hacia el rascacielos Empire\u00a0State\u00a0Building"
+        "205": "Paso por el rascacielos Empire\u00a0State\u00a0Building hacia el \u00e1rea sur de Manhattan"
     },
     "N006_C003": {
         "0": "En direcci\u00f3n al \u00e1rea sur de Manhattan en Nueva\u00a0York",
-        "140": "Traves\u00eda sobre \u00e1rea sur de Manhattan en Nueva\u00a0York hacia el \u00e1rea central",
-        "40": "Traves\u00eda sobre \u00e1rea sur de Manhattan en Nueva\u00a0York"
+        "40": "Traves\u00eda sobre \u00e1rea sur de Manhattan en Nueva\u00a0York",
+        "140": "Traves\u00eda sobre \u00e1rea sur de Manhattan en Nueva\u00a0York hacia el \u00e1rea central"
     },
     "N008_C003": {
         "0": "En direcci\u00f3n al \u00e1rea sur de Manhattan desde la bah\u00eda de Nueva\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Trayecto por la S\u00e9ptima\u00a0Avenida hacia Times\u00a0Square, Nueva\u00a0York",
-        "120": "Trayecto por la S\u00e9ptima\u00a0Avenida en \u00e1rea central de Manhattan, Nueva\u00a0York",
-        "40": "Traves\u00eda sobre Times\u00a0Square en Nueva\u00a0York"
+        "40": "Traves\u00eda sobre Times\u00a0Square en Nueva\u00a0York",
+        "120": "Trayecto por la S\u00e9ptima\u00a0Avenida en \u00e1rea central de Manhattan, Nueva\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Trayecto por los Cuernos del Paine en el Parque Nacional Torres del Paine, Chile"
@@ -592,16 +592,16 @@
         "0": "Trayecto sobre el Parque\u00a0Nacional Yosemite en los Estados\u00a0Unidos"
     },
     "Y002_C013_0226": {
-        "210": "Trayecto sobre el Parque\u00a0Nacional Yosemite en los Estados\u00a0Unidos",
         "70": "En direcci\u00f3n al Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "87": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
+        "87": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
+        "210": "Trayecto sobre el Parque\u00a0Nacional Yosemite en los Estados\u00a0Unidos"
     },
     "Y003_C009": {
         "0": "Trayecto sobre el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
+        "93": "Traves\u00eda hacia el pico\u00a0Merced en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "130": "El pico\u00a0Merced en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "221": "Trayecto por el pico\u00a0Merced en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "244": "Trayecto sobre el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "93": "Traves\u00eda hacia el pico\u00a0Merced en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
+        "244": "Trayecto sobre el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
     },
     "Y004_C015227PD": {
         "0": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
@@ -614,29 +614,29 @@
         "0": "Trayecto sobre el Parque\u00a0Nacional Yosemite en los Estados\u00a0Unidos"
     },
     "Y005_C003_0228SC": {
+        "40": "Traves\u00eda hacia el Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
+        "60": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "155": "Trayecto sobre el Parque\u00a0Nacional Yosemite con la cascada Nevada a la distancia",
         "255": "Las cascadas Nevada e Illilouette en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "285": "Las cascadas Nevada, Vernal e Illilouette en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "40": "Traves\u00eda hacia el Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "60": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
+        "285": "Las cascadas Nevada, Vernal e Illilouette en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
     },
     "Y009_C015304I": {
         "0": "Trayecto sobre los Prados de Tuolumne en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
     },
     "Y011_C001": {
         "0": "Traves\u00eda hacia la\u00a0cascada Bridalveil y la monta\u00f1a El Capit\u00e1n\u00a0en el Parque\u00a0Nacional Yosemite",
+        "44": "Trayecto al este hacia la monta\u00f1a El\u00a0Capit\u00e1n en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
+        "87": "Trayecto por la monta\u00f1a El\u00a0Capit\u00e1n en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "120": "Trayecto al este hacia el Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "390": "El Half\u00a0Dome en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "44": "Trayecto al este hacia la monta\u00f1a El\u00a0Capit\u00e1n en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "470": "Trayecto por el Half\u00a0Dome en el valle de Yosemite, Estados\u00a0Unidos",
-        "585": "Trayecto hacia el este sobre el valle de Yosemite, Estados\u00a0Unidos",
-        "87": "Trayecto por la monta\u00f1a El\u00a0Capit\u00e1n en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
+        "585": "Trayecto hacia el este sobre el valle de Yosemite, Estados\u00a0Unidos"
     },
     "Y011_C008": {
         "0": "Traves\u00eda hacia la Cresta\u00a0de\u00a0Matthes en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
+        "75": "Vuelo sobre la Cresta\u00a0de\u00a0Matthes en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "124": "Vuelo por la Cresta\u00a0de\u00a0Matthes en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
         "215": "Vuelo sobre la Cresta\u00a0de\u00a0Matthes en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "396": "Trayecto hacia los Prados de Tuolumne en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos",
-        "75": "Vuelo sobre la Cresta\u00a0de\u00a0Matthes en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
+        "396": "Trayecto hacia los Prados de Tuolumne en el Parque\u00a0Nacional Yosemite, Estados\u00a0Unidos"
     }
 }

@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Les\u00a0Can\u00e0ries, l\u2019oce\u00e0\u00a0Atl\u00e0ntic i la costa d\u2019\u00c0frica",
+        "45": "Sobrevolant la costa\u00a0del\u00a0Marroc en direcci\u00f3 nord\u2011est",
+        "75": "Passant per les muntanyes\u00a0de\u00a0l\u2019Atles, al Marroc",
         "105": "Sobrevolant el Marroc en direcci\u00f3 al mar\u00a0Mediterrani",
         "125": "El mar\u00a0Mediterrani i el sud d\u2019Espanya",
         "145": "Passant per la Costa\u00a0Blanca en direcci\u00f3 nord\u2011est",
         "165": "Passant per les illes\u00a0Balears en direcci\u00f3 nord\u2011est",
         "185": "Sobrevolant el mar\u00a0Mediterrani occidental, amb els Alps al fons",
-        "220": "Sobrevolant els Alps en direcci\u00f3 nord\u2011est",
-        "45": "Sobrevolant la costa\u00a0del\u00a0Marroc en direcci\u00f3 nord\u2011est",
-        "75": "Passant per les muntanyes\u00a0de\u00a0l\u2019Atles, al Marroc"
+        "220": "Sobrevolant els Alps en direcci\u00f3 nord\u2011est"
     },
     "A001_C007": {
         "0": "Meduses daurades a les aig\u00fces de Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Sobre Fisherman\u2019s\u00a0Wharf cap al centre de San\u00a0Francisco",
+        "80": "Acostant-se a la torre\u00a0Coit amb el centre de San\u00a0Francisco i el pont Bay\u00a0Bridge al fons",
         "150": "Passant per la torre\u00a0Coit cap al centre de San\u00a0Francisco i el pont Bay\u00a0Bridge",
-        "196": "Centre de San\u00a0Francisco",
-        "80": "Acostant-se a la torre\u00a0Coit amb el centre de San\u00a0Francisco i el pont Bay\u00a0Bridge al fons"
+        "196": "Centre de San\u00a0Francisco"
     },
     "A008_C007": {
         "0": "Sobre Marin\u00a0Headlands mirant cap al pont\u00a0Golden\u00a0Gate",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Sobrevolant l\u2019\u00c0frica occidental en direcci\u00f3 al S\u00e0hara",
+        "30": "Creuant el S\u00e0hara, al nord d\u2019\u00c0frica",
         "110": "Passant pel mass\u00eds de l\u2019Ahaggar al S\u00e0hara, al nord d\u2019\u00c0frica",
         "155": "Sobrevolant el desert del Gran\u00a0Erg\u00a0Oriental, al nord d\u2019\u00c0frica, en direcci\u00f3 al mar\u00a0Mediterrani",
         "195": "La costa de Tun\u00edsia i el mar\u00a0Mediterrani",
@@ -64,7 +65,6 @@
         "230": "Acostant\u2011se a It\u00e0lia, al mar\u00a0Mediterrani",
         "245": "Sobrevolant It\u00e0lia en direcci\u00f3 a la pen\u00ednsula\u00a0Balc\u00e0nica",
         "285": "Sobrevolant la pen\u00ednsula\u00a0Balc\u00e0nica en direcci\u00f3 als Carpats",
-        "30": "Creuant el S\u00e0hara, al nord d\u2019\u00c0frica",
         "310": "Els\u00a0Carpats i el mar\u00a0Negre"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Sobre la badia\u00a0de\u00a0San\u00a0Francisco en direcci\u00f3 a l\u2019Embarcadero",
+        "90": "Sobre l\u2019Embarcadero mirant cap a Market\u00a0Street, a San\u00a0Francisco",
         "150": "Seguint Market\u00a0Street pel centre\u00a0de\u00a0San\u00a0Francisco",
-        "360": "Seguint Market\u00a0Street per San\u00a0Francisco",
-        "90": "Sobre l\u2019Embarcadero mirant cap a Market\u00a0Street, a San\u00a0Francisco"
+        "360": "Seguint Market\u00a0Street per San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Passant pel Presidi de San\u00a0Francisco cap al pont Golden\u00a0Gate",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "Acostant\u2011se al pont\u00a0Golden\u00a0Gate des de San\u00a0Francisco",
+        "60": "Al costat del pont\u00a0Golden\u00a0Gate, en direcci\u00f3 a Marin\u00a0Headlands",
         "140": "Creuant el pont\u00a0Golden\u00a0Gate",
         "230": "Passant per la torre\u00a0nord del pont Golden\u00a0Gate",
-        "260": "Sobre la badia de San\u00a0Francisco passant pel costat del pont Golden\u00a0Gate",
-        "60": "Al costat del pont\u00a0Golden\u00a0Gate, en direcci\u00f3 a Marin\u00a0Headlands"
+        "260": "Sobre la badia de San\u00a0Francisco passant pel costat del pont Golden\u00a0Gate"
     },
     "A014_C008": {
         "0": "Peixos lloro geperuts verds a sobre dels esculls de corall de Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "Acostant-se al pont Bay\u00a0Bridge i al centre de San\u00a0Francisco",
-        "116": "Sobre la badia\u00a0de\u00a0San\u00a0Francisco en direcci\u00f3 al centre",
-        "80": "Creuant el pont Bay\u00a0Bridge en direcci\u00f3 al centre de San\u00a0Francisco"
+        "80": "Creuant el pont Bay\u00a0Bridge en direcci\u00f3 al centre de San\u00a0Francisco",
+        "116": "Sobre la badia\u00a0de\u00a0San\u00a0Francisco en direcci\u00f3 al centre"
     },
     "A016_C002": {
         "0": "Travessant un bosc de varec a la costa de Calif\u00f2rnia, als Estats Units"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Viatjant per l\u2019oest\u00a0d\u2019Europa, amb Gran\u00a0Bretanya i Irlanda a la llunyania",
+        "20": "Anant cap al sud-est passant pels Alps i la vall del riu\u00a0Po",
+        "50": "Baixant per la pen\u00ednsula\u00a0italiana i el mar\u00a0Adri\u00e0tic",
         "100": "Gr\u00e8cia flanquejada pels mars J\u00f2nic i Egeu",
         "160": "Passant pel mar\u00a0Mediterrani en direcci\u00f3 sud-est",
         "185": "El mar\u00a0Mediterrani i el delta\u00a0del\u00a0Nil",
-        "20": "Anant cap al sud-est passant pels Alps i la vall del riu\u00a0Po",
         "205": "El riu\u00a0Nil travessant el S\u00e0hara, a Egipte",
         "220": "El desert\u00a0oriental\u00a0d\u2019Egipte flanquejat pel riu\u00a0Nil i el golf\u00a0de\u00a0Suez",
-        "240": "Anant cap al sud\u2011est passant pel mar\u00a0Roig",
-        "50": "Baixant per la pen\u00ednsula\u00a0italiana i el mar\u00a0Adri\u00e0tic"
+        "240": "Anant cap al sud\u2011est passant pel mar\u00a0Roig"
     },
     "A083_C002_1130KZ": {
         "0": "El reflex del sol a la costa d\u2019Iran",
@@ -153,63 +153,64 @@
         "0": "Sobrevolant la Banya\u00a0d\u2019\u00c0frica en direcci\u00f3 al golf\u00a0d\u2019Aden"
     },
     "A103_C002_0205DG": {
+        "45": "El sud\u2011est de la pen\u00ednsula\u00a0Ar\u00e0biga",
         "115": "Apropant\u2011se a la costa\u00a0de\u00a0Makran des del golf\u00a0d\u2019Oman",
         "145": "La costa\u00a0de\u00a0Makran de l\u2019Iran i el Pakistan",
         "160": "Sobrevolant l\u2019Iran en direcci\u00f3 a l\u2019Afganistan i el Pakistan",
         "180": "Sobrevolant l\u2019Afganistan i el Pakistan en direcci\u00f3 a les muntanyes\u00a0del\u00a0Karakorum",
         "235": "Sobrevolant les muntanyes\u00a0del\u00a0Karakorum en direcci\u00f3 a la Xina",
         "280": "El desert de Takla\u00a0Makan, a l\u2019oest de la Xina",
-        "315": "Les muntanyes de Tian\u00a0Shan, a l\u2019\u00c0sia\u00a0central",
-        "45": "El sud\u2011est de la pen\u00ednsula\u00a0Ar\u00e0biga"
+        "315": "Les muntanyes de Tian\u00a0Shan, a l\u2019\u00c0sia\u00a0central"
     },
     "A105_C0022120602": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 a l\u2019Am\u00e8rica\u00a0Central"
     },
     "A105_C002_021206_002": {
+        "70": "Passant per la costa sud\u2011occidental de l\u2019\u00c0merica\u00a0Central en direcci\u00f3 al mar\u00a0Carib",
         "100": "Creuant l\u2019Am\u00e8rica\u00a0Central en direcci\u00f3 al mar\u00a0Carib",
         "150": "Sobrevolant el mar\u00a0Carib en direcci\u00f3 a Cuba",
         "240": "Sobrevolant Cuba, amb Florida i les Bahames al fons",
         "300": "Sobrevolant Florida i les Bahames en direcci\u00f3 al mar\u00a0dels\u00a0Sargassos",
-        "350": "Sobrevolant el mar\u00a0dels\u00a0Sargassos, endinsant\u2011se a l\u2019oce\u00e0\u00a0Atl\u00e0ntic",
-        "70": "Passant per la costa sud\u2011occidental de l\u2019\u00c0merica\u00a0Central en direcci\u00f3 al mar\u00a0Carib"
+        "350": "Sobrevolant el mar\u00a0dels\u00a0Sargassos, endinsant\u2011se a l\u2019oce\u00e0\u00a0Atl\u00e0ntic"
     },
     "A105_C003212CT": {
         "0": "Creuant el Pac\u00edfic\u00a0Sud de la nit al dia"
     },
     "A105_C003_0212CT": {
+        "70": "Creuant Nova\u00a0Zelanda de la nit al dia",
         "110": "Acostant\u2011se a la sortida del sol, a Nova\u00a0Zelanda",
-        "170": "Sortint de Nova\u00a0Zelanda en direcci\u00f3 al nord\u2011est, passant per l\u2019oce\u00e0\u00a0Pac\u00edfic",
-        "70": "Creuant Nova\u00a0Zelanda de la nit al dia"
+        "170": "Sortint de Nova\u00a0Zelanda en direcci\u00f3 al nord\u2011est, passant per l\u2019oce\u00e0\u00a0Pac\u00edfic"
     },
     "A108_C001215V8": {
         "0": "Passant per l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 a l\u2019Am\u00e8rica\u00a0Central"
     },
     "A108_C001_0215V8": {
-        "110": "Passant per una Jamaica coberta de n\u00favols, al mar\u00a0Carib",
-        "125": "Creuant Cuba, mirant cap a Hait\u00ed i la Rep\u00fablica\u00a0Dominicana",
-        "170": "Sobrevolant les Bahames, mirant cap a Hait\u00ed i la Rep\u00fablica\u00a0Dominicana",
-        "190": "Les illes Turks i Caicos, a l\u2019oce\u00e0\u00a0Atl\u00e0ntic",
         "35": "Les costes pac\u00edfiques de Nicaragua, Costa\u00a0Rica i Panam\u00e0",
         "50": "Passant per l\u2019Am\u00e8rica\u00a0Central, amb Sud\u2011Am\u00e8rica a la llunyania",
         "65": "La costa\u00a0de\u00a0Los\u00a0Mosquitos de Nicaragua",
-        "85": "Sobrevolant el mar\u00a0Carib en direcci\u00f3 a Cuba"
+        "85": "Sobrevolant el mar\u00a0Carib en direcci\u00f3 a Cuba",
+        "110": "Passant per una Jamaica coberta de n\u00favols, al mar\u00a0Carib",
+        "125": "Creuant Cuba, mirant cap a Hait\u00ed i la Rep\u00fablica\u00a0Dominicana",
+        "170": "Sobrevolant les Bahames, mirant cap a Hait\u00ed i la Rep\u00fablica\u00a0Dominicana",
+        "190": "Les illes Turks i Caicos, a l\u2019oce\u00e0\u00a0Atl\u00e0ntic"
     },
     "A114_C001305OT": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 als Estats\u00a0Units"
     },
     "A114_C001_0305OT": {
-        "130": "Les muntanyes de la Sierra\u00a0Madre Occidental, a la costa oest de M\u00e8xic",
-        "185": "Sobrevolant les muntanyes de la Sierra\u00a0Madre Occidental en direcci\u00f3 a la costa oest de M\u00e8xic",
         "20": "Passant per la costa de Calif\u00f2rnia en direcci\u00f3 sud",
-        "225": "Mirant cap al sud en direcci\u00f3 a l\u2019oce\u00e0\u00a0Pac\u00edfic, a la Sierra\u00a0Madre del Sur, a M\u00e8xic",
-        "280": "L\u2019oce\u00e0\u00a0Pac\u00edfic a prop de la costa de M\u00e8xic",
-        "290": "L\u2019oce\u00e0\u00a0Pac\u00edfic a prop de la costa de M\u00e8xic i Guatemala",
         "50": "Sobrevolant el sud de Calif\u00f2rnia en direcci\u00f3 a M\u00e8xic",
         "65": "Acostant\u2011se al desert\u00a0de\u00a0Mojave, al sud de Calif\u00f2rnia, amb M\u00e8xic al fons",
-        "95": "El golf\u00a0de\u00a0Calif\u00f2rnia flanquejat pel desert\u00a0de\u00a0Sonora i la pen\u00ednsula de la Baixa\u00a0Calif\u00f2rnia"
+        "95": "El golf\u00a0de\u00a0Calif\u00f2rnia flanquejat pel desert\u00a0de\u00a0Sonora i la pen\u00ednsula de la Baixa\u00a0Calif\u00f2rnia",
+        "130": "Les muntanyes de la Sierra\u00a0Madre Occidental, a la costa oest de M\u00e8xic",
+        "185": "Sobrevolant les muntanyes de la Sierra\u00a0Madre Occidental en direcci\u00f3 a la costa oest de M\u00e8xic",
+        "225": "Mirant cap al sud en direcci\u00f3 a l\u2019oce\u00e0\u00a0Pac\u00edfic, a la Sierra\u00a0Madre del Sur, a M\u00e8xic",
+        "280": "L\u2019oce\u00e0\u00a0Pac\u00edfic a prop de la costa de M\u00e8xic",
+        "290": "L\u2019oce\u00e0\u00a0Pac\u00edfic a prop de la costa de M\u00e8xic i Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "Passant per l\u2019altipl\u00e0 d\u2019Eti\u00f2pia en direcci\u00f3 nord\u2011est",
+        "45": "Passant pel mar\u00a0Roig en direcci\u00f3 a la pen\u00ednsula\u00a0Ar\u00e0biga",
         "100": "Anant cap al nord\u2011est de la pen\u00ednsula\u00a0Ar\u00e0biga",
         "130": "Sobrevolant la pen\u00ednsula\u00a0Ar\u00e0biga en direcci\u00f3 a l\u2019Iran",
         "165": "Sobrevolant la pen\u00ednsula\u00a0Ar\u00e0biga en direcci\u00f3 a l\u2019Iran",
@@ -221,7 +222,6 @@
         "322": "Les muntanyes\u00a0de\u00a0Pamir\u2011Alay i la vall\u00a0de\u00a0Fergana, a l\u2019\u00c0sia\u00a0central",
         "360": "Anant cap al sud\u2011est del Kazakhstan des del Kirguizistan",
         "400": "Passant pel Kazakhstan en direcci\u00f3 nord",
-        "45": "Passant pel mar\u00a0Roig en direcci\u00f3 a la pen\u00ednsula\u00a0Ar\u00e0biga",
         "450": "Sobrevolant les muntanyes\u00a0d\u2019Altai en direcci\u00f3 a Mong\u00f2lia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Sobrevolant Sib\u00e8ria i Mong\u00f2lia en direcci\u00f3 sud\u2011est",
+        "22": "Anant cap a la Mong\u00f2lia\u00a0Interior",
+        "32": "Sobrevolant Mong\u00f2lia en direcci\u00f3 a la Xina",
+        "60": "Sobrevolant el nord de la Xina en direcci\u00f3 a la pen\u00ednsula\u00a0de\u00a0Corea",
         "110": "Sobrevolant la Xina en direcci\u00f3 a la pen\u00ednsula\u00a0de\u00a0Corea",
         "150": "La pen\u00ednsula\u00a0de\u00a0Corea amb el Jap\u00f3 a la llunyania",
         "180": "Sobrevolant Corea\u00a0del\u00a0Sud en direcci\u00f3 al Jap\u00f3",
         "195": "Sobrevolant el Jap\u00f3, mirant cap a l\u2019oce\u00e0\u00a0Pac\u00edfic",
-        "22": "Anant cap a la Mong\u00f2lia\u00a0Interior",
-        "260": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic al sud\u2011est del Jap\u00f3",
-        "32": "Sobrevolant Mong\u00f2lia en direcci\u00f3 a la Xina",
-        "60": "Sobrevolant el nord de la Xina en direcci\u00f3 a la pen\u00ednsula\u00a0de\u00a0Corea"
+        "260": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic al sud\u2011est del Jap\u00f3"
     },
     "GMT060_117NC_363D": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0\u00cdndic en direcci\u00f3 a Perth, Austr\u00e0lia",
+        "50": "Passant per Austr\u00e0lia\u00a0Occidental en direcci\u00f3 nord\u2011est",
         "170": "Sobrevolant Austr\u00e0lia\u00a0Occidental en direcci\u00f3 al Territori\u00a0del\u00a0Nord",
         "220": "Sobrevolant el Territori\u00a0del\u00a0Nord, a Austr\u00e0lia, en direcci\u00f3 a Nova\u00a0Guinea",
-        "335": "Sobrevolant el mar\u00a0d\u2019Arafura en direcci\u00f3 a Nova\u00a0Guinea",
-        "50": "Passant per Austr\u00e0lia\u00a0Occidental en direcci\u00f3 nord\u2011est"
+        "335": "Sobrevolant el mar\u00a0d\u2019Arafura en direcci\u00f3 a Nova\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "L\u2019aurora\u00a0austral, a l\u2019Ant\u00e0rtida"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 a la costa\u00a0de\u00a0Calif\u00f2rnia",
+        "70": "Sobrevolant la costa de Calif\u00f2rnia en direcci\u00f3 a l\u2019interior",
+        "85": "Passant per Los\u00a0Angeles, a la costa oest dels Estats\u00a0Units",
+        "95": "Sobrevolant Los\u00a0Angeles en direcci\u00f3 a Las\u00a0Vegas, als Estats\u00a0Units",
         "110": "Sobrevolant Las\u00a0Vegas en direcci\u00f3 a Salt\u00a0Lake\u00a0City, als Estats\u00a0Units",
         "120": "Sobrevolant l\u2019oest dels Estats\u00a0Units en direcci\u00f3 a Salt\u00a0Lake\u00a0City",
         "155": "Passant entre Salt\u00a0Lake\u00a0City i Denver, als Estats Units",
-        "170": "Sobrevolant les muntanyes\u00a0Rocalloses, als Estats\u00a0Units",
-        "70": "Sobrevolant la costa de Calif\u00f2rnia en direcci\u00f3 a l\u2019interior",
-        "85": "Passant per Los\u00a0Angeles, a la costa oest dels Estats\u00a0Units",
-        "95": "Sobrevolant Los\u00a0Angeles en direcci\u00f3 a Las\u00a0Vegas, als Estats\u00a0Units"
+        "170": "Sobrevolant les muntanyes\u00a0Rocalloses, als Estats\u00a0Units"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 a M\u00e8xic",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Anant cap al sud\u2011est passant per les Grans\u00a0Planes dels Estats\u00a0Units",
+        "90": "Anant cap al sud\u2011est passant per l\u2019Oest\u00a0Mitj\u00e0 dels Estats\u00a0Units",
         "120": "Sobrevolant el sud\u2011est dels Estats\u00a0Units en direcci\u00f3 a Florida",
         "220": "Sobrevolant Florida en direcci\u00f3 a les Bahames",
         "240": "Sobrevolant les Bahames en direcci\u00f3 sud\u2011est",
         "285": "Sobrevolant les Bahames en direcci\u00f3 a la Rep\u00fablica\u00a0Dominicana i Hait\u00ed",
         "300": "Sobrevolant la Rep\u00fablica\u00a0Dominicana i Hait\u00ed en direcci\u00f3 al mar\u00a0Carib",
-        "315": "Sobrevolant el mar\u00a0Carib en direcci\u00f3 sud, cap a Vene\u00e7uela",
-        "90": "Anant cap al sud\u2011est passant per l\u2019Oest\u00a0Mitj\u00e0 dels Estats\u00a0Units"
+        "315": "Sobrevolant el mar\u00a0Carib en direcci\u00f3 sud, cap a Vene\u00e7uela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Passant pel S\u00e0hara de nit en direcci\u00f3 nord\u2011est",
+        "70": "Sobrevolant el desert del Gran\u00a0Erg\u00a0Oriental en direcci\u00f3 al mar\u00a0Mediterrani",
         "100": "La costa mediterr\u00e0nia de Tun\u00edsia i L\u00edbia",
         "120": "Sobrevolant el mar\u00a0Mediterrani en direcci\u00f3 a It\u00e0lia",
         "140": "Sobrevolant el sud d\u2019It\u00e0lia en direcci\u00f3 a la pen\u00ednsula\u00a0Balc\u00e0nica, amb Turquia a la llunyania",
         "165": "Sobrevolant la pen\u00ednsula\u00a0Balc\u00e0nica en direcci\u00f3 al mar\u00a0Negre",
         "180": "Sobrevolant la pen\u00ednsula\u00a0Balc\u00e0nica en direcci\u00f3 al mar\u00a0Negre",
         "210": "Passant pel mar\u00a0Negre en direcci\u00f3 a Ucra\u00efna",
-        "230": "Passant per Ucra\u00efna en direcci\u00f3 a R\u00fassia",
-        "70": "Sobrevolant el desert del Gran\u00a0Erg\u00a0Oriental en direcci\u00f3 al mar\u00a0Mediterrani"
+        "230": "Passant per Ucra\u00efna en direcci\u00f3 a R\u00fassia"
     },
     "GMT314_139M_170NC": {
         "0": "Sobrevolant l\u2019oce\u00e0\u00a0Pac\u00edfic en direcci\u00f3 a la Baixa\u00a0Calif\u00f2rnia",
+        "45": "Sobrevolant la Baixa\u00a0Calif\u00f2rnia, mirant cap al nord en direcci\u00f3 als Estats\u00a0Units",
+        "55": "Sobrevolant M\u00e8xic en direcci\u00f3 al sud\u2011oest dels Estats\u00a0Units",
+        "75": "Sobrevolant el sud\u2011oest dels Estats\u00a0Units",
         "110": "Sobrevolant les muntanyes\u00a0Rocalloses en direcci\u00f3 a Denver",
         "125": "Passant per les Grans\u00a0Planes dels Estats\u00a0Units",
         "185": "Acostant\u2011se als Grans\u00a0Llacs, amb la prov\u00edncia canadenca d\u2019Ontario al fons",
@@ -361,28 +364,25 @@
         "210": "L\u2019aurora\u00a0boreal a l\u2019oest d\u2019Ontario, al Canad\u00e0",
         "235": "L\u2019aurora\u00a0boreal al nord d\u2019Ontario, al Canad\u00e0",
         "250": "L\u2019aurora\u00a0boreal al nord del Quebec, al Canad\u00e0",
-        "300": "Anant cap a l\u2019Atl\u00e0ntic\u00a0Nord, amb l\u2019aurora\u00a0boreal sobre Labrador, al Canad\u00e0",
-        "45": "Sobrevolant la Baixa\u00a0Calif\u00f2rnia, mirant cap al nord en direcci\u00f3 als Estats\u00a0Units",
-        "55": "Sobrevolant M\u00e8xic en direcci\u00f3 al sud\u2011oest dels Estats\u00a0Units",
-        "75": "Sobrevolant el sud\u2011oest dels Estats\u00a0Units"
+        "300": "Anant cap a l\u2019Atl\u00e0ntic\u00a0Nord, amb l\u2019aurora\u00a0boreal sobre Labrador, al Canad\u00e0"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Sobrevolant l\u2019Atl\u00e0ntic\u00a0Nord en direcci\u00f3 a Irlanda i Gran\u00a0Bretanya",
-        "105": "Sobrevolant el centre d\u2019Europa en direcci\u00f3 a R\u00fassia",
         "15": "Irlanda i Gran\u00a0Bretanya",
+        "45": "Sobrevolant la Gran\u00a0Bretanya en direcci\u00f3 a l\u2019Europa continental",
+        "65": "Sobrevolant el nord\u2011oest d\u2019Europa en direcci\u00f3 a R\u00fassia",
+        "105": "Sobrevolant el centre d\u2019Europa en direcci\u00f3 a R\u00fassia",
         "150": "Sobrevolant l\u2019est d\u2019Europa, amb Moscou a la llunyania",
         "165": "Sobrevolant l\u2019est d\u2019Europa, mirant cap a Moscou",
         "185": "Sobrevolant l\u2019oest de R\u00fassia, passant per Moscou",
-        "195": "Sobrevolant R\u00fassia en direcci\u00f3 a l\u2019\u00c0sia\u00a0central",
-        "45": "Sobrevolant la Gran\u00a0Bretanya en direcci\u00f3 a l\u2019Europa continental",
-        "65": "Sobrevolant el nord\u2011oest d\u2019Europa en direcci\u00f3 a R\u00fassia"
+        "195": "Sobrevolant R\u00fassia en direcci\u00f3 a l\u2019\u00c0sia\u00a0central"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Sobrevolant Tun\u00edsia en direcci\u00f3 a It\u00e0lia",
+        "5": "Sobrevolant el mar\u00a0Mediterrani, mirant cap a Sic\u00edlia i la pen\u00ednsula\u00a0italiana",
         "15": "Sobrevolant el sud d\u2019It\u00e0lia, amb la pen\u00ednsula\u00a0Balc\u00e0nica al fons",
         "25": "Sobrevolant la pen\u00ednsula\u00a0Balc\u00e0nica en direcci\u00f3 a l\u2019\u00c0sia\u00a0central",
         "40": "Sobrevolant la pen\u00ednsula\u00a0Balc\u00e0nica, passant pel mar\u00a0Negre",
-        "5": "Sobrevolant el mar\u00a0Mediterrani, mirant cap a Sic\u00edlia i la pen\u00ednsula\u00a0italiana",
         "55": "Sobrevolant Ucra\u00efna, amb R\u00fassia al fons",
         "75": "Sobrevolant el sud\u2011oest de R\u00fassia, passant pel Kazakhstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "Acostant-se al pont\u00a0de\u00a0la\u00a0Torre sobre el riu\u00a0T\u00e0mesi, a Londres",
-        "130": "Seguint el riu\u00a0T\u00e0mesi cap al London\u00a0Eye",
         "20": "Seguint el riu\u00a0T\u00e0mesi a Londres",
+        "130": "Seguint el riu\u00a0T\u00e0mesi cap al London\u00a0Eye",
         "210": "Acostant-se al London\u00a0Eye sobre el riu\u00a0T\u00e0mesi",
         "310": "Seguint el riu\u00a0T\u00e0mesi m\u00e9s enll\u00e0 del London\u00a0Eye",
         "325": "Passant pel Parlament\u00a0del\u00a0Regne\u00a0Unit sobre el riu\u00a0T\u00e0mesi, a Londres"
     },
     "L007_C007": {
         "0": "Passant pels terrenys del palau\u00a0de\u00a0Buckingham, Londres",
+        "24": "Sobre el palau\u00a0de\u00a0Buckingham, a Londres",
+        "49": "Sobre St\u00a0James\u2019s Park cap al riu\u00a0T\u00e0mesi, a Londres",
         "104": "Creuant el riu\u00a0T\u00e0mesi i passant pel London\u00a0Eye",
         "149": "Passant per sobre del sud de Londres",
-        "24": "Sobre el palau\u00a0de\u00a0Buckingham, a Londres",
         "279": "Passant per The\u00a0Shard al sud\u00a0de\u00a0Londres",
         "299": "Creuant el riu\u00a0T\u00e0mesi a Londres",
-        "324": "Creuant el riu\u00a0T\u00e0mesi al pont\u00a0de\u00a0la\u00a0Torre, a Londres",
-        "49": "Sobre St\u00a0James\u2019s Park cap al riu\u00a0T\u00e0mesi, a Londres"
+        "324": "Creuant el riu\u00a0T\u00e0mesi al pont\u00a0de\u00a0la\u00a0Torre, a Londres"
     },
     "L010_C006": {
         "0": "Acostant-se al pont\u00a0de\u00a0la\u00a0Torre sobre el riu\u00a0T\u00e0mesi, a Londres",
+        "78": "Seguint el riu\u00a0T\u00e0mesi a Londres",
         "178": "Al sud del riu\u00a0T\u00e0mesi a Londres",
-        "258": "Creuant el riu\u00a0T\u00e0mesi a Londres",
-        "78": "Seguint el riu\u00a0T\u00e0mesi a Londres"
+        "258": "Creuant el riu\u00a0T\u00e0mesi a Londres"
     },
     "L012_C002": {
         "0": "Acostant-se al pont\u00a0de\u00a0la\u00a0Torre sobre el riu\u00a0T\u00e0mesi, a Londres",
         "20": "Creuant el riu\u00a0T\u00e0mesi a Londres",
-        "200": "Creuant el riu\u00a0T\u00e0mesi cap a Westminster, a Londres",
-        "270": "Sobrevolant Westminster, Londres",
         "60": "Passant per The\u00a0Shard al sud\u00a0de\u00a0Londres",
-        "92": "Al sud del riu\u00a0T\u00e0mesi a Londres, en direcci\u00f3 al London\u00a0Eye"
+        "92": "Al sud del riu\u00a0T\u00e0mesi a Londres, en direcci\u00f3 al London\u00a0Eye",
+        "200": "Creuant el riu\u00a0T\u00e0mesi cap a Westminster, a Londres",
+        "270": "Sobrevolant Westminster, Londres"
     },
     "LA_A005_C009": {
         "0": "Seguint la Interestatal\u00a0110 direcci\u00f3 nord per Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Sobre l\u2019Upper\u00a0East\u00a0Side i Central\u00a0Park, a Nova\u00a0York",
+        "50": "Sobre la zona de Midtown\u00a0Manhattan en direcci\u00f3 al centre cap a l\u2019Empire\u00a0State Building",
         "160": "Acostant-se a l\u2019Empire\u00a0State\u00a0Building, a Nova\u00a0York",
-        "205": "Passant per l\u2019Empire\u00a0State\u00a0Building en direcci\u00f3 a la zona de Lower\u00a0Manhattan",
-        "50": "Sobre la zona de Midtown\u00a0Manhattan en direcci\u00f3 al centre cap a l\u2019Empire\u00a0State Building"
+        "205": "Passant per l\u2019Empire\u00a0State\u00a0Building en direcci\u00f3 a la zona de Lower\u00a0Manhattan"
     },
     "N006_C003": {
         "0": "Acostant-se a la zona de Lower\u00a0Manhattan, a Nova\u00a0York",
-        "140": "Sobre la zona de Lower\u00a0Manhattan a Nova\u00a0York, en direcci\u00f3 a la zona de Midtown",
-        "40": "Sobre la zona de Lower\u00a0Manhattan a Nova\u00a0York"
+        "40": "Sobre la zona de Lower\u00a0Manhattan a Nova\u00a0York",
+        "140": "Sobre la zona de Lower\u00a0Manhattan a Nova\u00a0York, en direcci\u00f3 a la zona de Midtown"
     },
     "N008_C003": {
         "0": "Acostant-se a la zona de Lower\u00a0Manhattan des del port\u00a0de\u00a0Nova\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Baixant per la Setena\u00a0Avinguda cap a Times\u00a0Square, a Nova\u00a0York",
-        "120": "Baixant per la Setena\u00a0Avinguda a la zona de Midtown\u00a0Manhattan, a Nova\u00a0York",
-        "40": "Sobre Times\u00a0Square, a Nova\u00a0York"
+        "40": "Sobre Times\u00a0Square, a Nova\u00a0York",
+        "120": "Baixant per la Setena\u00a0Avinguda a la zona de Midtown\u00a0Manhattan, a Nova\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Avan\u00e7ant pels Cuernos del Paine al Parc\u00a0Nacional Torres del Paine, a Xile"
@@ -592,16 +592,16 @@
         "0": "Sobrevolant el Parc\u00a0Nacional de Yosemite als Estats\u00a0Units"
     },
     "Y002_C013_0226": {
-        "210": "Sobrevolant el Parc\u00a0Nacional de Yosemite als Estats\u00a0Units",
         "70": "Apropant\u2011se al Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "87": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
+        "87": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
+        "210": "Sobrevolant el Parc\u00a0Nacional de Yosemite als Estats\u00a0Units"
     },
     "Y003_C009": {
         "0": "Sobrevolant el Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
+        "93": "Viatjant cap al Merced\u00a0Peak al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "130": "El Merced\u00a0Peak al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "221": "Passant pel Merced\u00a0Peak al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "244": "Passant pel Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "93": "Viatjant cap al Merced\u00a0Peak al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
+        "244": "Passant pel Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
     },
     "Y004_C015227PD": {
         "0": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
@@ -614,29 +614,29 @@
         "0": "Sobrevolant el Parc\u00a0Nacional de Yosemite als Estats\u00a0Units"
     },
     "Y005_C003_0228SC": {
+        "40": "Viatjant cap al Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
+        "60": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "155": "Sobrevolant el Parc\u00a0Nacional de Yosemite amb la cascada Nevada a la llunyania",
         "255": "Cascades de Nevada i Illilouette al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "285": "Cascades de Nevada, Vernal i Illilouette al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "40": "Viatjant cap al Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "60": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
+        "285": "Cascades de Nevada, Vernal i Illilouette al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
     },
     "Y009_C015304I": {
         "0": "Passant per les prades de Tuolumne al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
     },
     "Y011_C001": {
         "0": "Viatjant cap a la cascada Bridalveil i El\u00a0Capitan al Parc\u00a0Nacional de Yosemite",
+        "44": "Viatjant cap a l\u2019est en direcci\u00f3 a El\u00a0Capitan al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
+        "87": "Passant per El\u00a0Capitan, al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "120": "Viatjant cap a l\u2019est en direcci\u00f3 al Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "390": "El Half\u00a0Dome al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "44": "Viatjant cap a l\u2019est en direcci\u00f3 a El\u00a0Capitan al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "470": "Passant pel Half\u00a0Dome a la Vall de Yosemite, als Estats\u00a0Units",
-        "585": "Viatjant cap a l\u2019est per la Vall de Yosemite, als Estats\u00a0Units",
-        "87": "Passant per El\u00a0Capitan, al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
+        "585": "Viatjant cap a l\u2019est per la Vall de Yosemite, als Estats\u00a0Units"
     },
     "Y011_C008": {
         "0": "Viatjant cap al Matthes\u00a0Crest al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
+        "75": "Sobrevolant el Matthes\u00a0Crest al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "124": "Volant pel Matthes\u00a0Crest al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
         "215": "Sobrevolant el Matthes\u00a0Crest al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "396": "Apropant\u2011se a les prades de Tuolumne al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units",
-        "75": "Sobrevolant el Matthes\u00a0Crest al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
+        "396": "Apropant\u2011se a les prades de Tuolumne al Parc\u00a0Nacional de Yosemite, als Estats\u00a0Units"
     }
 }

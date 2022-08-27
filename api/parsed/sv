@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Kanarie\u00f6arna, Atlanten och Afrikas kust",
+        "45": "F\u00e4rdas nordost l\u00e4ngs Marockos kust",
+        "75": "F\u00e4rdas \u00f6ver Atlasbergen i Marocko",
         "105": "\u00d6ver Marocko p\u00e5 v\u00e4g mot Medelhavet",
         "125": "Medelhavet och s\u00f6dra Spanien",
         "145": "Reser nordost \u00f6ver Costa\u00a0Blanca i Spanien",
         "165": "Reser nordost \u00f6ver Balearerna i Spanien",
         "185": "\u00d6ver v\u00e4stra Medelhavet med Alperna i fj\u00e4rran",
-        "220": "F\u00e4rdas nordost \u00f6ver Alperna",
-        "45": "F\u00e4rdas nordost l\u00e4ngs Marockos kust",
-        "75": "F\u00e4rdas \u00f6ver Atlasbergen i Marocko"
+        "220": "F\u00e4rdas nordost \u00f6ver Alperna"
     },
     "A001_C007": {
         "0": "Gyllene\u00a0maneter i Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Ovanf\u00f6r Fisherman\u2019s\u00a0Wharf p\u00e5 v\u00e4g mot centrala San\u00a0Francisco",
+        "80": "P\u00e5 v\u00e4g mot Coit\u00a0Tower med centrala San\u00a0Francisco och Bay\u00a0Bridge i bakgrunden",
         "150": "Passerar Coit\u00a0Tower p\u00e5 v\u00e4g mot centrala San\u00a0Francisco och Bay\u00a0Bridge",
-        "196": "Centrala San\u00a0Francisco",
-        "80": "P\u00e5 v\u00e4g mot Coit\u00a0Tower med centrala San\u00a0Francisco och Bay\u00a0Bridge i bakgrunden"
+        "196": "Centrala San\u00a0Francisco"
     },
     "A008_C007": {
         "0": "Ovanf\u00f6r Marin\u00a0Headlands med vy mot Golden\u00a0Gate\u2011bron",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "\u00d6ver V\u00e4stafrika p\u00e5 f\u00e4rd mot Sahara",
+        "30": "Korsar Sahara i Nordafrika",
         "110": "F\u00e4rdas \u00f6ver Ahaggarbergen i Sahara i Nordafrika",
         "155": "\u00d6ver Grand\u00a0Erg\u00a0Oriental i Nordafrika p\u00e5 f\u00e4rd mot Medelhavet",
         "195": "Tunisiens kust och Medelhavet",
@@ -64,7 +65,6 @@
         "230": "P\u00e5 v\u00e4g mot Italien i Medelhavet",
         "245": "\u00d6ver Italien p\u00e5 v\u00e4g mot Balkanhalv\u00f6n",
         "285": "\u00d6ver Balkanhalv\u00f6n p\u00e5 v\u00e4g mot Karpaterna",
-        "30": "Korsar Sahara i Nordafrika",
         "310": "Karpaterna och Svarta\u00a0havet"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Ovanf\u00f6r San\u00a0Francisco\u2011bukten p\u00e5 v\u00e4g mot Embarcadero",
+        "90": "Ovanf\u00f6r Embarcadero med vy l\u00e4ngs Market\u00a0Street i San\u00a0Francisco",
         "150": "F\u00f6ljer Market\u00a0Street genom centrala San\u00a0Francisco",
-        "360": "F\u00f6ljer Market\u00a0Street genom centrala San\u00a0Francisco",
-        "90": "Ovanf\u00f6r Embarcadero med vy l\u00e4ngs Market\u00a0Street i San\u00a0Francisco"
+        "360": "F\u00f6ljer Market\u00a0Street genom centrala San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "P\u00e5 v\u00e4g l\u00e4ngs Presidio i San\u00a0Francisco i riktning mot Golden\u00a0Gate\u2011bron",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "P\u00e5 v\u00e4g mot Golden\u00a0Gate\u2011bron fr\u00e5n San\u00a0Francisco",
+        "60": "L\u00e4ngs Golden\u00a0Gate\u2011bron p\u00e5 v\u00e4g mot Marin\u00a0Headlands",
         "140": "Korsar \u00f6ver Golden\u00a0Gate\u2011bron",
         "230": "Passerar det norra tornet p\u00e5 Golden\u00a0Gate\u2011bron",
-        "260": "Ovanf\u00f6r San\u00a0Franciscobukten l\u00e4ngs med Golden\u00a0Gate\u2011bron",
-        "60": "L\u00e4ngs Golden\u00a0Gate\u2011bron p\u00e5 v\u00e4g mot Marin\u00a0Headlands"
+        "260": "Ovanf\u00f6r San\u00a0Franciscobukten l\u00e4ngs med Golden\u00a0Gate\u2011bron"
     },
     "A014_C008": {
         "0": "Kn\u00f6lhuvade\u00a0papegojfiskar \u00f6ver korallreven utanf\u00f6r Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "P\u00e5 v\u00e4g mot Bay\u00a0Bridge och centrala San\u00a0Francisco",
-        "116": "Ovanf\u00f6r San\u00a0Franciscobukten i riktning mot centrala stan",
-        "80": "Korsar ovanf\u00f6r Bay\u00a0Bridge p\u00e5 v\u00e4g mot centrala San\u00a0Francisco"
+        "80": "Korsar ovanf\u00f6r Bay\u00a0Bridge p\u00e5 v\u00e4g mot centrala San\u00a0Francisco",
+        "116": "Ovanf\u00f6r San\u00a0Franciscobukten i riktning mot centrala stan"
     },
     "A016_C002": {
         "0": "P\u00e5 v\u00e4g genom en kelpskog utanf\u00f6r den kaliforniska kusten i USA"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Reser \u00f6ver V\u00e4steuropa med Storbritannien och Irland p\u00e5 l\u00e5ngt avst\u00e5nd",
+        "20": "P\u00e5 v\u00e4g sydost \u00f6ver Alperna och Poflodens dal",
+        "50": "F\u00e4rdas nedf\u00f6r Italienska\u00a0halv\u00f6n och Adriatiska\u00a0havet",
         "100": "Grekland omgivet av Joniska och Egeiska havet",
         "160": "Reser sydost \u00f6ver Medelhavet",
         "185": "Medelhavet och Nildeltat",
-        "20": "P\u00e5 v\u00e4g sydost \u00f6ver Alperna och Poflodens dal",
         "205": "Nilen flyter genom Sahara i Egypten",
         "220": "\u00d6stra delen av Sahara omgiven av Nilen och Suezviken",
-        "240": "P\u00e5 v\u00e4g sydost \u00f6ver R\u00f6da\u00a0havet",
-        "50": "F\u00e4rdas nedf\u00f6r Italienska\u00a0halv\u00f6n och Adriatiska\u00a0havet"
+        "240": "P\u00e5 v\u00e4g sydost \u00f6ver R\u00f6da\u00a0havet"
     },
     "A083_C002_1130KZ": {
         "0": "Solen speglas l\u00e4ngs Irans kust",
@@ -153,63 +153,64 @@
         "0": "\u00d6ver Afrikas\u00a0horn p\u00e5 f\u00e4rd mot Adenviken"
     },
     "A103_C002_0205DG": {
+        "45": "Syd\u00f6stra Arabiska\u00a0halv\u00f6n",
         "115": "Omanbukten p\u00e5 v\u00e4g mot Makrankusten",
         "145": "Makrankusten i Iran och Pakistan",
         "160": "\u00d6ver Iran p\u00e5 v\u00e4g mot Afghanistan och Pakistan",
         "180": "\u00d6ver Afghanistan och Pakistan p\u00e5 v\u00e4g mot bergskedjan Karakoram",
         "235": "\u00d6ver bergskedjan Karakoram p\u00e5 f\u00e4rd in i Kina",
         "280": "Taklamakan\u00f6knen i v\u00e4stra Kina",
-        "315": "Tianshanbergen i Centralasien",
-        "45": "Syd\u00f6stra Arabiska\u00a0halv\u00f6n"
+        "315": "Tianshanbergen i Centralasien"
     },
     "A105_C0022120602": {
         "0": "\u00d6ver Stilla\u00a0havet p\u00e5 v\u00e4g mot Centralamerika"
     },
     "A105_C002_021206_002": {
+        "70": "Centralamerikas sydv\u00e4stra kust p\u00e5 v\u00e4g mot Karibiska\u00a0havet",
         "100": "Korsar Centralamerika mot Karibiska\u00a0havet",
         "150": "\u00d6ver Karibiska\u00a0havet p\u00e5 v\u00e4g mot Kuba",
         "240": "\u00d6ver Kuba med Florida och Bahamas i fj\u00e4rran",
         "300": "\u00d6ver Florida och Bahamas p\u00e5 v\u00e4g mot Sargassohavet",
-        "350": "\u00d6ver Sargassohavet p\u00e5 f\u00e4rd ut i Atlanten",
-        "70": "Centralamerikas sydv\u00e4stra kust p\u00e5 v\u00e4g mot Karibiska\u00a0havet"
+        "350": "\u00d6ver Sargassohavet p\u00e5 f\u00e4rd ut i Atlanten"
     },
     "A105_C003212CT": {
         "0": "Natt \u00f6verg\u00e5r i dag \u00f6ver s\u00f6dra\u00a0Stilla\u00a0havet"
     },
     "A105_C003_0212CT": {
+        "70": "Natt \u00f6verg\u00e5r i dag \u00f6ver Nya\u00a0Zeeland",
         "110": "P\u00e5 v\u00e4g mot soluppg\u00e5ng \u00f6ver Nya\u00a0Zeeland",
-        "170": "L\u00e4mnar Nya\u00a0Zeeland och reser nordost \u00f6ver Stilla\u00a0havet",
-        "70": "Natt \u00f6verg\u00e5r i dag \u00f6ver Nya\u00a0Zeeland"
+        "170": "L\u00e4mnar Nya\u00a0Zeeland och reser nordost \u00f6ver Stilla\u00a0havet"
     },
     "A108_C001215V8": {
         "0": "Reser \u00f6ver Stilla\u00a0havet mot Centralamerika"
     },
     "A108_C001_0215V8": {
-        "110": "Reser f\u00f6rbi ett molnh\u00f6ljt Jamaica i Karibiska\u00a0havet",
-        "125": "Korsar Kuba med vy mot Haiti och Dominikanska\u00a0republiken",
-        "170": "Reser \u00f6ver Bahamas med vy mot Haiti och Dominikanska\u00a0republiken",
-        "190": "Turks-\u00a0och\u00a0Caicos\u00f6arna i Atlanten",
         "35": "Stillahavskusterna i Nicaragua, Costa\u00a0Rica och Panama",
         "50": "F\u00e4rdas \u00f6ver Centralamerika med Sydamerika p\u00e5 l\u00e5ngt avst\u00e5nd",
         "65": "Mosquitokusten i Nicaragua",
-        "85": "\u00d6ver Karibiska\u00a0havet p\u00e5 v\u00e4g mot Kuba"
+        "85": "\u00d6ver Karibiska\u00a0havet p\u00e5 v\u00e4g mot Kuba",
+        "110": "Reser f\u00f6rbi ett molnh\u00f6ljt Jamaica i Karibiska\u00a0havet",
+        "125": "Korsar Kuba med vy mot Haiti och Dominikanska\u00a0republiken",
+        "170": "Reser \u00f6ver Bahamas med vy mot Haiti och Dominikanska\u00a0republiken",
+        "190": "Turks-\u00a0och\u00a0Caicos\u00f6arna i Atlanten"
     },
     "A114_C001305OT": {
         "0": "\u00d6ver Stilla\u00a0havet p\u00e5 v\u00e4g mot USA"
     },
     "A114_C001_0305OT": {
-        "130": "Bergskedjan Sierra\u00a0Madre\u00a0Occidental p\u00e5 Mexikos v\u00e4stkust",
-        "185": "\u00d6ver bergskedjan Sierra\u00a0Madre\u00a0Occidental p\u00e5 v\u00e4g mot Mexikos v\u00e4stkust",
         "20": "Reser s\u00f6derut l\u00e4ngs Kaliforniens kust",
-        "225": "Blickar s\u00f6derut mot Stilla\u00a0havet \u00f6ver Sierra\u00a0Madre del Sur i Mexiko",
-        "280": "Stilla\u00a0havet utanf\u00f6r Mexikos kust",
-        "290": "Stilla\u00a0havet utanf\u00f6r Mexikos och Guatemalas kust",
         "50": "\u00d6ver s\u00f6dra Kalifornien p\u00e5 v\u00e4g mot Mexiko",
         "65": "P\u00e5 v\u00e4g mot Mojave\u00f6knen i s\u00f6dra Kalifornien med Mexiko i fj\u00e4rran",
-        "95": "Californiaviken omgiven av Sonora\u00f6knen och halv\u00f6n Baja\u00a0California"
+        "95": "Californiaviken omgiven av Sonora\u00f6knen och halv\u00f6n Baja\u00a0California",
+        "130": "Bergskedjan Sierra\u00a0Madre\u00a0Occidental p\u00e5 Mexikos v\u00e4stkust",
+        "185": "\u00d6ver bergskedjan Sierra\u00a0Madre\u00a0Occidental p\u00e5 v\u00e4g mot Mexikos v\u00e4stkust",
+        "225": "Blickar s\u00f6derut mot Stilla\u00a0havet \u00f6ver Sierra\u00a0Madre del Sur i Mexiko",
+        "280": "Stilla\u00a0havet utanf\u00f6r Mexikos kust",
+        "290": "Stilla\u00a0havet utanf\u00f6r Mexikos och Guatemalas kust"
     },
     "A351_C001_1213SK": {
         "0": "Reser nordost \u00f6ver det etiopiska h\u00f6glandet",
+        "45": "Reser \u00f6ver R\u00f6da\u00a0havet in mot Arabiska\u00a0halv\u00f6n",
         "100": "P\u00e5 v\u00e4g nordost \u00f6ver Arabiska\u00a0halv\u00f6n",
         "130": "\u00d6ver Arabiska\u00a0halv\u00f6n p\u00e5 v\u00e4g mot Iran",
         "165": "\u00d6ver Arabiska\u00a0halv\u00f6n p\u00e5 v\u00e4g in i Iran",
@@ -221,7 +222,6 @@
         "322": "Bergen Pamiro-Alaj och Ferganadalen i Centralasien",
         "360": "P\u00e5 v\u00e4g in i syd\u00f6stra Kazakstan fr\u00e5n Kirgizistan",
         "400": "Reser norrut \u00f6ver Kazakstan",
-        "45": "Reser \u00f6ver R\u00f6da\u00a0havet in mot Arabiska\u00a0halv\u00f6n",
         "450": "\u00d6ver Altajbergen p\u00e5 v\u00e4g in i Mongoliet"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "F\u00e4rdas sydost \u00f6ver Sibirien och Mongoliet",
+        "22": "P\u00e5 v\u00e4g mot Inre\u00a0Mongoliet",
+        "32": "\u00d6ver Mongoliet p\u00e5 v\u00e4g mot Kina",
+        "60": "\u00d6ver norra Kina i riktning mot Koreahalv\u00f6n",
         "110": "\u00d6ver Kina p\u00e5 v\u00e4g mot Koreahalv\u00f6n",
         "150": "Koreahalv\u00f6n med Japan p\u00e5 l\u00e5ngt avst\u00e5nd",
         "180": "\u00d6ver Sydkorea p\u00e5 v\u00e4g mot Japan",
         "195": "\u00d6ver Japan med vy mot Stilla\u00a0havet",
-        "22": "P\u00e5 v\u00e4g mot Inre\u00a0Mongoliet",
-        "260": "\u00d6ver Stilla\u00a0havet sydost om Japan",
-        "32": "\u00d6ver Mongoliet p\u00e5 v\u00e4g mot Kina",
-        "60": "\u00d6ver norra Kina i riktning mot Koreahalv\u00f6n"
+        "260": "\u00d6ver Stilla\u00a0havet sydost om Japan"
     },
     "GMT060_117NC_363D": {
         "0": "\u00d6ver Indiska\u00a0oceanen p\u00e5 v\u00e4g mot Perth i Australien",
+        "50": "Reser nordost \u00f6ver V\u00e4staustralien",
         "170": "\u00d6ver V\u00e4staustralien p\u00e5 v\u00e4g mot Nordterritoriet",
         "220": "\u00d6ver Nordterritoriet i Australien p\u00e5 v\u00e4g mot Nya\u00a0Guinea",
-        "335": "\u00d6ver Arafurasj\u00f6n p\u00e5 resa mot Nya\u00a0Guinea",
-        "50": "Reser nordost \u00f6ver V\u00e4staustralien"
+        "335": "\u00d6ver Arafurasj\u00f6n p\u00e5 resa mot Nya\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Polarsken \u00f6ver Antarktis"
     },
     "GMT306_139NC_139J_3066": {
         "0": "\u00d6ver Stilla\u00a0havet p\u00e5 v\u00e4g mot Kaliforniens kust",
+        "70": "\u00d6ver Kaliforniens kust p\u00e5 v\u00e4g in i landet",
+        "85": "Reser \u00f6ver Los\u00a0Angeles p\u00e5 USA:s v\u00e4stkust",
+        "95": "\u00d6ver Los\u00a0Angeles p\u00e5 v\u00e4g mot Las\u00a0Vegas i USA",
         "110": "\u00d6ver Las\u00a0Vegas i riktning mot Salt\u00a0Lake\u00a0City i USA",
         "120": "\u00d6ver v\u00e4stra USA p\u00e5 v\u00e4g mot Salt\u00a0Lake\u00a0City",
         "155": "F\u00e4rdas mellan Salt\u00a0Lake\u00a0City och Denver i USA",
-        "170": "\u00d6ver Klippiga\u00a0bergen i USA",
-        "70": "\u00d6ver Kaliforniens kust p\u00e5 v\u00e4g in i landet",
-        "85": "Reser \u00f6ver Los\u00a0Angeles p\u00e5 USA:s v\u00e4stkust",
-        "95": "\u00d6ver Los\u00a0Angeles p\u00e5 v\u00e4g mot Las\u00a0Vegas i USA"
+        "170": "\u00d6ver Klippiga\u00a0bergen i USA"
     },
     "GMT307_136NC_134K_8277": {
         "0": "\u00d6ver Stilla\u00a0havet p\u00e5 v\u00e4g mot Mexiko",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "P\u00e5 v\u00e4g sydost \u00f6ver Great\u00a0Plains i USA",
+        "90": "P\u00e5 v\u00e4g sydost \u00f6ver Mellanv\u00e4stern i USA",
         "120": "\u00d6ver syd\u00f6stra USA p\u00e5 v\u00e4g mot Florida",
         "220": "\u00d6ver Florida p\u00e5 v\u00e4g mot Bahamas",
         "240": "F\u00e4rdas sydost \u00f6ver Bahamas",
         "285": "\u00d6ver Bahamas p\u00e5 v\u00e4g mot Dominikanska\u00a0republiken och Haiti",
         "300": "\u00d6ver Dominikanska\u00a0republiken och Haiti vid Karibiska\u00a0havet",
-        "315": "\u00d6ver Karibiska\u00a0havet p\u00e5 v\u00e4g s\u00f6derut mot Venezuela",
-        "90": "P\u00e5 v\u00e4g sydost \u00f6ver Mellanv\u00e4stern i USA"
+        "315": "\u00d6ver Karibiska\u00a0havet p\u00e5 v\u00e4g s\u00f6derut mot Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Reser nordost \u00f6ver Sahara p\u00e5 natten",
+        "70": "\u00d6ver Grand\u00a0Erg\u00a0Oriental p\u00e5 v\u00e4g mot Medelhavet",
         "100": "Medelhavskusten i Tunisien och Libyen",
         "120": "F\u00e4rdas \u00f6ver Medelhavet mot Italien",
         "140": "\u00d6ver s\u00f6dra Italien mot Balkanhalv\u00f6n med Turkiet p\u00e5 l\u00e5ngt avst\u00e5nd",
         "165": "\u00d6ver Balkanhalv\u00f6n p\u00e5 v\u00e4g mot Svarta\u00a0havet",
         "180": "\u00d6ver Balkanhalv\u00f6n p\u00e5 v\u00e4g till Svarta\u00a0havet",
         "210": "Reser \u00f6ver Svarta\u00a0havet p\u00e5 v\u00e4g mot Ukraina",
-        "230": "Reser \u00f6ver Ukraina mot Ryssland",
-        "70": "\u00d6ver Grand\u00a0Erg\u00a0Oriental p\u00e5 v\u00e4g mot Medelhavet"
+        "230": "Reser \u00f6ver Ukraina mot Ryssland"
     },
     "GMT314_139M_170NC": {
         "0": "\u00d6ver Stilla\u00a0havet p\u00e5 v\u00e4g mot Baja\u00a0California",
+        "45": "\u00d6ver Baja\u00a0California och tittar norrut mot USA",
+        "55": "\u00d6ver Mexiko p\u00e5 v\u00e4g mot sydv\u00e4stra USA",
+        "75": "\u00d6ver sydv\u00e4stra USA",
         "110": "\u00d6ver Klippiga\u00a0bergen p\u00e5 v\u00e4g mot Denver",
         "125": "Reser \u00f6ver Great\u00a0Plains i USA",
         "185": "P\u00e5 v\u00e4g mot Stora\u00a0Sj\u00f6arna med Ontario, Kanada i fj\u00e4rran",
@@ -361,28 +364,25 @@
         "210": "Polarsken \u00f6ver v\u00e4stra Ontario i Kanada",
         "235": "Polarsken \u00f6ver norra Ontario i Kanada",
         "250": "Polarsken \u00f6ver norra Qu\u00e9bec i Kanada",
-        "300": "P\u00e5 v\u00e4g mot Nordatlanten med polarsken \u00f6ver Labrador, Kanada",
-        "45": "\u00d6ver Baja\u00a0California och tittar norrut mot USA",
-        "55": "\u00d6ver Mexiko p\u00e5 v\u00e4g mot sydv\u00e4stra USA",
-        "75": "\u00d6ver sydv\u00e4stra USA"
+        "300": "P\u00e5 v\u00e4g mot Nordatlanten med polarsken \u00f6ver Labrador, Kanada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "\u00d6ver Nordatlanten p\u00e5 v\u00e4g mot Irland och Storbritannien",
-        "105": "\u00d6ver Centraleuropa p\u00e5 v\u00e4g mot Ryssland",
         "15": "Irland och Storbritannien",
+        "45": "\u00d6ver Storbritannien p\u00e5 v\u00e4g mot fastlandet i Europa",
+        "65": "\u00d6ver nordv\u00e4stra Europa p\u00e5 v\u00e4g mot Ryssland",
+        "105": "\u00d6ver Centraleuropa p\u00e5 v\u00e4g mot Ryssland",
         "150": "\u00d6ver \u00d6steuropa med Moskva p\u00e5 l\u00e5ngt avst\u00e5nd",
         "165": "\u00d6ver \u00d6steuropa med vy mot Moskva",
         "185": "\u00d6ver v\u00e4stra Ryssland, passerar \u00f6ver Moskva",
-        "195": "\u00d6ver Ryssland p\u00e5 resa mot Centralasien",
-        "45": "\u00d6ver Storbritannien p\u00e5 v\u00e4g mot fastlandet i Europa",
-        "65": "\u00d6ver nordv\u00e4stra Europa p\u00e5 v\u00e4g mot Ryssland"
+        "195": "\u00d6ver Ryssland p\u00e5 resa mot Centralasien"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "\u00d6ver Tunisien p\u00e5 v\u00e4g mot Italien",
+        "5": "\u00d6ver Medelhavet med vy mot Sicilien och Italienska\u00a0halv\u00f6n",
         "15": "\u00d6ver s\u00f6dra Italien med Balkanhalv\u00f6n i fj\u00e4rran",
         "25": "\u00d6ver Balkanhalv\u00f6n p\u00e5 v\u00e4g mot Centralasien",
         "40": "\u00d6ver Balkanhalv\u00f6n och passerar Svarta\u00a0havet",
-        "5": "\u00d6ver Medelhavet med vy mot Sicilien och Italienska\u00a0halv\u00f6n",
         "55": "\u00d6ver Ukraina med Ryssland i fj\u00e4rran",
         "75": "\u00d6ver sydv\u00e4stra Ryssland p\u00e5 v\u00e4g \u00f6ver Kazakstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "P\u00e5 v\u00e4g mot Tower\u00a0Bridge p\u00e5 Themsen i London",
-        "130": "F\u00f6ljer Themsen mot London\u00a0Eye",
         "20": "F\u00f6ljer Themsen i London",
+        "130": "F\u00f6ljer Themsen mot London\u00a0Eye",
         "210": "P\u00e5 v\u00e4g mot London\u00a0Eye p\u00e5 Themsen",
         "310": "F\u00f6ljer Themsen f\u00f6rbi London\u00a0Eye",
         "325": "Passerar Westminsterpalatset p\u00e5 floden Themsen i London"
     },
     "L007_C007": {
         "0": "Passerar ovanf\u00f6r Buckingham\u00a0Palace i London",
+        "24": "Ovanf\u00f6r Buckingham\u00a0Palace i London",
+        "49": "Ovanf\u00f6r St\u00a0James\u2019s Park p\u00e5 v\u00e4g mot Themsen i London",
         "104": "Korsar Themsen och passerar ovanf\u00f6r London\u00a0Eye",
         "149": "Passerar ovanf\u00f6r s\u00f6dra London",
-        "24": "Ovanf\u00f6r Buckingham\u00a0Palace i London",
         "279": "Passerar The\u00a0Shard i s\u00f6dra London",
         "299": "Korsar Themsen i London",
-        "324": "Korsar Themsen vid Tower\u00a0Bridge i London",
-        "49": "Ovanf\u00f6r St\u00a0James\u2019s Park p\u00e5 v\u00e4g mot Themsen i London"
+        "324": "Korsar Themsen vid Tower\u00a0Bridge i London"
     },
     "L010_C006": {
         "0": "P\u00e5 v\u00e4g mot Tower\u00a0Bridge p\u00e5 Themsen i London",
+        "78": "F\u00f6ljer Themsen i London",
         "178": "S\u00f6der om Themsen i London",
-        "258": "Korsar Themsen i London",
-        "78": "F\u00f6ljer Themsen i London"
+        "258": "Korsar Themsen i London"
     },
     "L012_C002": {
         "0": "P\u00e5 v\u00e4g mot Tower\u00a0Bridge p\u00e5 Themsen i London",
         "20": "Korsar Themsen i London",
-        "200": "Korsar Themsen p\u00e5 v\u00e4g mot Westminster i London",
-        "270": "Ovanf\u00f6r Westminster i London",
         "60": "Passerar The\u00a0Shard i s\u00f6dra London",
-        "92": "S\u00f6der om Themsen med riktning mot London\u00a0Eye"
+        "92": "S\u00f6der om Themsen med riktning mot London\u00a0Eye",
+        "200": "Korsar Themsen p\u00e5 v\u00e4g mot Westminster i London",
+        "270": "Ovanf\u00f6r Westminster i London"
     },
     "LA_A005_C009": {
         "0": "F\u00f6ljer Interstate\u00a0110 norrut genom Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Ovanf\u00f6r Upper East Side och Central\u00a0Park i New\u00a0York",
+        "50": "Ovanf\u00f6r Midtown\u00a0Manhattan p\u00e5 v\u00e4g mot Empire\u00a0State\u00a0Building",
         "160": "P\u00e5 v\u00e4g mot Empire\u00a0State Building i New\u00a0York",
-        "205": "Passerar Empire\u00a0State Building p\u00e5 v\u00e4g mot Lower\u00a0Manhattan",
-        "50": "Ovanf\u00f6r Midtown\u00a0Manhattan p\u00e5 v\u00e4g mot Empire\u00a0State\u00a0Building"
+        "205": "Passerar Empire\u00a0State Building p\u00e5 v\u00e4g mot Lower\u00a0Manhattan"
     },
     "N006_C003": {
         "0": "P\u00e5 v\u00e4g mot Lower\u00a0Manhattan i New\u00a0York",
-        "140": "Ovanf\u00f6r Lower\u00a0Manhattan i New\u00a0York p\u00e5 v\u00e4g mot Midtown",
-        "40": "Ovanf\u00f6r Lower\u00a0Manhattan i New\u00a0York"
+        "40": "Ovanf\u00f6r Lower\u00a0Manhattan i New\u00a0York",
+        "140": "Ovanf\u00f6r Lower\u00a0Manhattan i New\u00a0York p\u00e5 v\u00e4g mot Midtown"
     },
     "N008_C003": {
         "0": "P\u00e5 v\u00e4g mot Lower\u00a0Manhattan fr\u00e5n New\u00a0York Harbor",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "P\u00e5 v\u00e4g nedf\u00f6r 7:e avenyn i riktning mot Times\u00a0Square i New\u00a0York",
-        "120": "P\u00e5 v\u00e4g nedf\u00f6r 7:e avenyn i Midtown\u00a0Manhattan i New\u00a0York",
-        "40": "Ovanf\u00f6r Times\u00a0Square i New\u00a0York"
+        "40": "Ovanf\u00f6r Times\u00a0Square i New\u00a0York",
+        "120": "P\u00e5 v\u00e4g nedf\u00f6r 7:e avenyn i Midtown\u00a0Manhattan i New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Reser l\u00e4ngs Cuernos del Paine i nationalparken Torres del Paine i Chile"
@@ -592,16 +592,16 @@
         "0": "\u00d6ver nationalparken Yosemite i USA"
     },
     "Y002_C013_0226": {
-        "210": "\u00d6ver nationalparken Yosemite i USA",
         "70": "P\u00e5 v\u00e4g mot Half\u00a0Dome i nationalparken Yosemite i USA",
-        "87": "Half\u00a0Dome i nationalparken Yosemite i USA"
+        "87": "Half\u00a0Dome i nationalparken Yosemite i USA",
+        "210": "\u00d6ver nationalparken Yosemite i USA"
     },
     "Y003_C009": {
         "0": "\u00d6ver nationalparken Yosemite i USA",
+        "93": "Reser mot Merced\u00a0Peak i nationalparken Yosemite i USA",
         "130": "Merced\u00a0Peak i nationalparken Yosemite i USA",
         "221": "Passerar Merced\u00a0Peak i nationalparken Yosemite i USA",
-        "244": "Reser \u00f6ver nationalparken Yosemite i USA",
-        "93": "Reser mot Merced\u00a0Peak i nationalparken Yosemite i USA"
+        "244": "Reser \u00f6ver nationalparken Yosemite i USA"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome i nationalparken Yosemite i USA"
@@ -614,29 +614,29 @@
         "0": "\u00d6ver nationalparken Yosemite i USA"
     },
     "Y005_C003_0228SC": {
+        "40": "Reser mot Half\u00a0Dome i nationalparken Yosemite i USA",
+        "60": "Half\u00a0Dome i nationalparken Yosemite i USA",
         "155": "\u00d6ver nationalparken Yosemite med Nevadafallet p\u00e5 avst\u00e5nd",
         "255": "Nevada- och Illilouettefallen i  nationalparken Yosemite i USA",
-        "285": "Nevada-, Vernal- och Illilouettefallen i nationalparken Yosemite i USA",
-        "40": "Reser mot Half\u00a0Dome i nationalparken Yosemite i USA",
-        "60": "Half\u00a0Dome i nationalparken Yosemite i USA"
+        "285": "Nevada-, Vernal- och Illilouettefallen i nationalparken Yosemite i USA"
     },
     "Y009_C015304I": {
         "0": "Passerar \u00f6ver Tuolumne\u00a0Meadows i nationalparken Yosemite i USA"
     },
     "Y011_C001": {
         "0": "Reser mot Bridalveilfallet\u00a0och El\u00a0Capitan i nationalparken Yosemite",
+        "44": "Reser \u00f6sterut mot El Capitan i  nationalparken Yosemite i USA",
+        "87": "Passerar El\u00a0Capitan i nationalparken Yosemite i USA",
         "120": "Reser \u00f6sterut mot Half\u00a0Dome i  nationalparken Yosemite i USA",
         "390": "Half\u00a0Dome i nationalparken Yosemite i USA",
-        "44": "Reser \u00f6sterut mot El Capitan i  nationalparken Yosemite i USA",
         "470": "Reser f\u00f6rbi Half\u00a0Dome i Yosemite\u00a0Valley i USA",
-        "585": "Reser \u00f6sterut \u00f6ver Yosemite\u00a0Valley i USA",
-        "87": "Passerar El\u00a0Capitan i nationalparken Yosemite i USA"
+        "585": "Reser \u00f6sterut \u00f6ver Yosemite\u00a0Valley i USA"
     },
     "Y011_C008": {
         "0": "Reser mot Matthes\u00a0Crest i nationalparken Yosemite i USA",
+        "75": "Flyger \u00f6ver Matthes\u00a0Crest i nationalparken Yosemite i USA",
         "124": "Flyger genom Matthes\u00a0Crest i nationalparken Yosemite i USA",
         "215": "Flyger \u00f6ver Matthes\u00a0Crest i nationalparken Yosemite i USA",
-        "396": "Reser mot Tuolumne\u00a0Meadows i nationalparken Yosemite i USA",
-        "75": "Flyger \u00f6ver Matthes\u00a0Crest i nationalparken Yosemite i USA"
+        "396": "Reser mot Tuolumne\u00a0Meadows i nationalparken Yosemite i USA"
     }
 }

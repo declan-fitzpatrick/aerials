@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Qu\u1ea7n\u00a0\u0111\u1ea3o\u00a0Canary, \u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng v\u00e0 b\u1edd bi\u1ec3n Ch\u00e2u\u00a0Phi",
+        "45": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc d\u1ecdc theo b\u1edd bi\u1ec3n Ma R\u1ed1c",
+        "75": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Atlas \u1edf Ma\u00a0R\u1ed1c",
         "105": "\u0110i qua Ma R\u1ed1c tr\u00ean \u0111\u01b0\u1eddng t\u1edbi \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
         "125": "\u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i v\u00e0 ph\u00eda nam T\u00e2y\u00a0Ban\u00a0Nha",
         "145": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Costa\u00a0Blanca c\u1ee7a T\u00e2y\u00a0Ban\u00a0Nha",
         "165": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Qu\u1ea7n\u00a0\u0111\u1ea3o\u00a0Balearic c\u1ee7a T\u00e2y\u00a0Ban\u00a0Nha",
         "185": "\u0110i qua ph\u00eda t\u00e2y \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i v\u1edbi d\u00e3y n\u0169i Alps \u1edf ph\u00eda xa",
-        "220": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua d\u00e3y Alps",
-        "45": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc d\u1ecdc theo b\u1edd bi\u1ec3n Ma R\u1ed1c",
-        "75": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Atlas \u1edf Ma\u00a0R\u1ed1c"
+        "220": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua d\u00e3y Alps"
     },
     "A001_C007": {
         "0": "Con s\u1ee9a\u00a0v\u00e0ng d\u01b0\u1edbi bi\u1ec3n Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "\u0110i qua Fisherman\u2019s\u00a0Wharf h\u01b0\u1edbng \u0111\u1ebfn trung t\u00e2m San\u00a0Francisco",
+        "80": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Th\u00e1p\u00a0Coit v\u1edbi trung t\u00e2m San\u00a0Francisco v\u00e0 Bay\u00a0Bridge \u1edf n\u1ec1n sau",
         "150": "\u0110i qua Th\u00e1p\u00a0Coit t\u1edbi trung t\u00e2m San\u00a0Francisco v\u00e0 Bay\u00a0Bridge",
-        "196": "Trung t\u00e2m San Francisco",
-        "80": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Th\u00e1p\u00a0Coit v\u1edbi trung t\u00e2m San\u00a0Francisco v\u00e0 Bay\u00a0Bridge \u1edf n\u1ec1n sau"
+        "196": "Trung t\u00e2m San Francisco"
     },
     "A008_C007": {
         "0": "\u0110i qua Marin\u00a0Headlands nh\u00ecn v\u1ec1 ph\u00eda C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "\u0110i qua ph\u00eda t\u00e2y Ch\u00e2u Phi di chuy\u1ec3n v\u1ec1 ph\u00eda Sahara",
+        "30": "\u0110i qua Sahara \u1edf B\u1eafc Phi",
         "110": "\u0110i qua D\u00e3y n\u0169i Ahaggar \u1edf Sahara, B\u1eafc Phi",
         "155": "\u0110i qua Grand\u00a0Erg\u00a0Oriental \u1edf B\u1eafc Phi h\u01b0\u1edbng \u0111\u1ebfn \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
         "195": "B\u1edd bi\u1ec3n Tunisia v\u00e0 \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
@@ -64,7 +65,6 @@
         "230": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Italy trong \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
         "245": "\u0110i qua Italy di chuy\u1ec3n v\u1ec1 ph\u00eda B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan",
         "285": "\u0110i qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan h\u01b0\u1edbng \u0111\u1ebfn D\u00e3y\u00a0n\u00fai\u00a0Caprathian",
-        "30": "\u0110i qua Sahara \u1edf B\u1eafc Phi",
         "310": "D\u00e3y\u00a0n\u00fai\u00a0Carpathian v\u00e0 Bi\u1ec3n\u00a0\u0110en"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "\u0110i qua V\u1ecbnh San\u00a0Francisco di chuy\u1ec3n v\u1ec1 ph\u00eda Embarcadero",
+        "90": "\u0110i qua Embarcadero nh\u00ecn xu\u1ed1ng \u0110\u01b0\u1eddng\u00a0Market \u1edf San\u00a0Francisco",
         "150": "\u0110i d\u1ecdc theo \u0110\u01b0\u1eddng\u00a0Market qua trung t\u00e2m San\u00a0Francisco",
-        "360": "\u0110i d\u1ecdc theo \u0110\u01b0\u1eddng\u00a0Market qua San\u00a0Francisco",
-        "90": "\u0110i qua Embarcadero nh\u00ecn xu\u1ed1ng \u0110\u01b0\u1eddng\u00a0Market \u1edf San\u00a0Francisco"
+        "360": "\u0110i d\u1ecdc theo \u0110\u01b0\u1eddng\u00a0Market qua San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Di chuy\u1ec3n d\u1ecdc theo Ph\u00e1o \u0111\u00e0i San\u00a0Francisco h\u01b0\u1edbng \u0111\u1ebfn C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng t\u1eeb San\u00a0Francisco",
+        "60": "\u0110i d\u1ecdc theo C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng h\u01b0\u1edbng \u0111\u1ebfn Marin\u00a0Headlands",
         "140": "B\u0103ng qua C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng",
         "230": "\u0110i qua Th\u00e1p\u00a0ph\u00eda\u00a0B\u1eafc c\u1ee7a C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng",
-        "260": "\u0110i qua V\u1ecbnh San\u00a0Francisco, di chuy\u1ec3n d\u1ecdc theo C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng",
-        "60": "\u0110i d\u1ecdc theo C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng h\u01b0\u1edbng \u0111\u1ebfn Marin\u00a0Headlands"
+        "260": "\u0110i qua V\u1ecbnh San\u00a0Francisco, di chuy\u1ec3n d\u1ecdc theo C\u1ea7u C\u1ed5ng\u00a0v\u00e0ng"
     },
     "A014_C008": {
         "0": "C\u00e1\u00a0v\u1eb9t\u00a0\u0111\u1ea7u\u00a0b\u01b0\u1edbu ph\u00eda tr\u00ean r\u1eb7ng san h\u00f4 ngo\u00e0i Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Bay\u00a0Bridge v\u00e0 trung t\u00e2m San\u00a0Francisco",
-        "116": "\u0110i qua V\u1ecbnh San\u00a0Francisco h\u01b0\u1edbng \u0111\u1ebfn khu trung t\u00e2m",
-        "80": "B\u0103ng qua Bay\u00a0Bridge h\u01b0\u1edbng \u0111\u1ebfn trung t\u00e2m San\u00a0Francisco"
+        "80": "B\u0103ng qua Bay\u00a0Bridge h\u01b0\u1edbng \u0111\u1ebfn trung t\u00e2m San\u00a0Francisco",
+        "116": "\u0110i qua V\u1ecbnh San\u00a0Francisco h\u01b0\u1edbng \u0111\u1ebfn khu trung t\u00e2m"
     },
     "A016_C002": {
         "0": "Di chuy\u1ec3n qua m\u1ed9t r\u1eebng t\u1ea3o b\u1eb9 ngo\u00e0i b\u1edd bi\u1ec3n California, Hoa K\u1ef3"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Di chuy\u1ec3n qua T\u00e2y\u00a0\u00c2u v\u1edbi Anh v\u00e0 Ireland \u1edf ph\u00eda xa",
+        "20": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua d\u00e3y Alps v\u00e0 Thung l\u0169ng S\u00f4ng\u00a0Po",
+        "50": "Di chuy\u1ec3n xu\u1ed1ng B\u00e1n\u00a0\u0111\u1ea3o\u00a0Italy v\u00e0 Bi\u1ec3n\u00a0Adriatic",
         "100": "Hy L\u1ea1p n\u1eb1m b\u00ean Ionia v\u00e0 Bi\u1ec3n Aegea",
         "160": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng nam qua \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
         "185": "\u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i v\u00e0 \u0110\u1ed3ng\u00a0b\u1eb1ng\u00a0s\u00f4ng\u00a0Nile",
-        "20": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua d\u00e3y Alps v\u00e0 Thung l\u0169ng S\u00f4ng\u00a0Po",
         "205": "S\u00f4ng\u00a0Nile ch\u1ea3y qua Sahara c\u1ee7a Ai\u00a0C\u1eadp",
         "220": "Sa m\u1ea1c \u0110\u00f4ng n\u1eb1m b\u00ean S\u00f4ng\u00a0Nile v\u00e0 V\u1ecbnh Suez",
-        "240": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua Bi\u1ec3n\u00a0\u0110\u1ecf",
-        "50": "Di chuy\u1ec3n xu\u1ed1ng B\u00e1n\u00a0\u0111\u1ea3o\u00a0Italy v\u00e0 Bi\u1ec3n\u00a0Adriatic"
+        "240": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua Bi\u1ec3n\u00a0\u0110\u1ecf"
     },
     "A083_C002_1130KZ": {
         "0": "\u00c1nh m\u1eb7t tr\u1eddi ph\u1ea3n chi\u1ebfu d\u1ecdc theo b\u1edd bi\u1ec3n Iran",
@@ -153,63 +153,64 @@
         "0": "\u0110i qua Horn of Africa di chuy\u1ec3n v\u1ec1 ph\u00eda V\u1ecbnh Aden"
     },
     "A103_C002_0205DG": {
+        "45": "Ph\u00eda \u0111\u00f4ng nam B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp",
         "115": "V\u1ecbnh Oman tr\u00ean \u0111\u01b0\u1eddng t\u1edbi B\u1edd\u00a0bi\u1ec3n\u00a0Makran",
         "145": "B\u1edd\u00a0bi\u1ec3n\u00a0Makran c\u1ee7a Iran v\u00e0 Pakistan",
         "160": "\u0110i qua Iran di chuy\u1ec3n v\u1ec1 ph\u00eda Afghanistan v\u00e0 Pakistan",
         "180": "\u0110i qua Afghanistan v\u00e0 Pakistan di chuy\u1ec3n v\u1ec1 ph\u00eda Karakoram\u00a0Range",
         "235": "\u0110i qua Karakoram\u00a0Range di chuy\u1ec3n v\u00e0o Trung Qu\u1ed1c",
         "280": "Sa\u00a0m\u1ea1c\u00a0Takla\u00a0Makan \u1edf ph\u00eda t\u00e2y Trung\u00a0Qu\u1ed1c",
-        "315": "D\u00e3y n\u00fai Tian\u00a0Shan \u1edf Trung \u00c1",
-        "45": "Ph\u00eda \u0111\u00f4ng nam B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp"
+        "315": "D\u00e3y n\u00fai Tian\u00a0Shan \u1edf Trung \u00c1"
     },
     "A105_C0022120602": {
         "0": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng di chuy\u1ec3n v\u1ec1 ph\u00eda Trung\u00a0M\u1ef9"
     },
     "A105_C002_021206_002": {
+        "70": "B\u1edd bi\u1ec3n t\u00e2y nam Trung\u00a0M\u1ef9 h\u01b0\u1edbng \u0111\u1ebfn Bi\u1ec3n\u00a0Caribe",
         "100": "\u0110i qua Trung\u00a0M\u1ef9 h\u01b0\u1edbng \u0111\u1ebfn Bi\u1ec3n\u00a0Caribe",
         "150": "\u0110i qua Bi\u1ec3n\u00a0Caribe di chuy\u1ec3n v\u1ec1 ph\u00eda Cuba",
         "240": "\u0110i qua Cuba v\u1edbi Florida v\u00e0 Bahamas \u1edf ph\u00eda xa",
         "300": "\u0110i qua Florida v\u00e0 Bahamas di chuy\u1ec3n v\u1ec1 ph\u00eda Bi\u1ec3n\u00a0Sargasso",
-        "350": "\u0110i qua Bi\u1ec3n\u00a0Sargasso ti\u1ebfn v\u00e0o \u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng",
-        "70": "B\u1edd bi\u1ec3n t\u00e2y nam Trung\u00a0M\u1ef9 h\u01b0\u1edbng \u0111\u1ebfn Bi\u1ec3n\u00a0Caribe"
+        "350": "\u0110i qua Bi\u1ec3n\u00a0Sargasso ti\u1ebfn v\u00e0o \u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng"
     },
     "A105_C003212CT": {
         "0": "\u0110i t\u1eeb \u0111\u00eam sang ng\u00e0y qua Nam\u00a0Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng"
     },
     "A105_C003_0212CT": {
+        "70": "\u0110i t\u1eeb \u0111\u00eam sang ng\u00e0y qua New\u00a0Zealand",
         "110": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi n\u01a1i m\u1eb7t tr\u1eddi m\u1ecdc qua New\u00a0Zealand",
-        "170": "R\u1eddi kh\u1ecfi New\u00a0Zealand \u0111i theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng",
-        "70": "\u0110i t\u1eeb \u0111\u00eam sang ng\u00e0y qua New\u00a0Zealand"
+        "170": "R\u1eddi kh\u1ecfi New\u00a0Zealand \u0111i theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng"
     },
     "A108_C001215V8": {
         "0": "Di chuy\u1ec3n qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng v\u1ec1 ph\u00eda Trung\u00a0M\u1ef9"
     },
     "A108_C001_0215V8": {
-        "110": "\u0110i qua Jamaica b\u1ecb m\u00e2y che ph\u1ee7 \u1edf Bi\u1ec3n\u00a0Caribe",
-        "125": "V\u01b0\u1ee3t qua Cuba nh\u00ecn v\u1ec1 ph\u00eda Haiti v\u00e0 C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica",
-        "170": "Di chuy\u1ec3n qua Bahamas nh\u00ecn v\u1ec1 ph\u00eda Haiti v\u00e0 C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica",
-        "190": "Qu\u1ea7n \u0111\u1ea3o Turks v\u00e0 Caicos \u1edf \u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng",
         "35": "B\u1edd bi\u1ec3n Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng thu\u1ed9c Nicaragua, Costa\u00a0Rica v\u00e0 Panama",
         "50": "\u0110i qua Trung\u00a0M\u1ef9 v\u1edbi Nam\u00a0M\u1ef9 \u1edf ph\u00eda xa",
         "65": "B\u1edd bi\u1ec3n Mosquito c\u1ee7a Nicaragua",
-        "85": "\u0110i qua Bi\u1ec3n\u00a0Caribe h\u01b0\u1edbng v\u1ec1 ph\u00eda Cuba"
+        "85": "\u0110i qua Bi\u1ec3n\u00a0Caribe h\u01b0\u1edbng v\u1ec1 ph\u00eda Cuba",
+        "110": "\u0110i qua Jamaica b\u1ecb m\u00e2y che ph\u1ee7 \u1edf Bi\u1ec3n\u00a0Caribe",
+        "125": "V\u01b0\u1ee3t qua Cuba nh\u00ecn v\u1ec1 ph\u00eda Haiti v\u00e0 C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica",
+        "170": "Di chuy\u1ec3n qua Bahamas nh\u00ecn v\u1ec1 ph\u00eda Haiti v\u00e0 C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica",
+        "190": "Qu\u1ea7n \u0111\u1ea3o Turks v\u00e0 Caicos \u1edf \u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng"
     },
     "A114_C001305OT": {
         "0": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng h\u01b0\u1edbng \u0111\u1ebfn M\u1ef9"
     },
     "A114_C001_0305OT": {
-        "130": "D\u00e3y n\u00fai Sierra\u00a0Madre Occidental tr\u00ean b\u1edd bi\u1ec3n ph\u00eda t\u00e2y Mexico",
-        "185": "\u0110i qua d\u00e3y n\u00fai Sierra\u00a0Madre Occidental di chuy\u1ec3n v\u1ec1 ph\u00eda b\u1edd bi\u1ec3n ph\u00eda t\u00e2y Mexico",
         "20": "Di chuy\u1ec3n theo h\u01b0\u1edbng nam xu\u1ed1ng b\u1edd bi\u1ec3n California",
-        "225": "\u0110i v\u1ec1 ph\u00eda nam \u0111\u1ebfn Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng qua Sierra\u00a0Madre del Sur \u1edf Mexico",
-        "280": "Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ngo\u00e0i b\u1edd bi\u1ec3n Mexico",
-        "290": "Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ngo\u00e0i b\u1edd bi\u1ec3n Mexico v\u00e0 Guatemala",
         "50": "\u0110i qua ph\u00eda nam California di chuy\u1ec3n v\u1ec1 ph\u00eda Mexico",
         "65": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Sa\u00a0m\u1ea1c\u00a0Mojave \u1edf ph\u00eda nam California v\u1edbi Mexico \u1edf ph\u00eda xa",
-        "95": "V\u1ecbnh California n\u1eb1m b\u00ean Sa\u00a0m\u1ea1c\u00a0Sonoran v\u00e0 B\u00e1n \u0111\u1ea3o Baja\u00a0California"
+        "95": "V\u1ecbnh California n\u1eb1m b\u00ean Sa\u00a0m\u1ea1c\u00a0Sonoran v\u00e0 B\u00e1n \u0111\u1ea3o Baja\u00a0California",
+        "130": "D\u00e3y n\u00fai Sierra\u00a0Madre Occidental tr\u00ean b\u1edd bi\u1ec3n ph\u00eda t\u00e2y Mexico",
+        "185": "\u0110i qua d\u00e3y n\u00fai Sierra\u00a0Madre Occidental di chuy\u1ec3n v\u1ec1 ph\u00eda b\u1edd bi\u1ec3n ph\u00eda t\u00e2y Mexico",
+        "225": "\u0110i v\u1ec1 ph\u00eda nam \u0111\u1ebfn Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng qua Sierra\u00a0Madre del Sur \u1edf Mexico",
+        "280": "Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ngo\u00e0i b\u1edd bi\u1ec3n Mexico",
+        "290": "Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ngo\u00e0i b\u1edd bi\u1ec3n Mexico v\u00e0 Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Cao nguy\u00ean Ethiopia",
+        "45": "Di chuy\u1ec3n qua Bi\u1ec3n\u00a0\u0110en v\u00e0o B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp",
         "100": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp",
         "130": "\u0110i qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp di chuy\u1ec3n v\u1ec1 ph\u00eda Iran",
         "165": "\u0110i qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Iran",
@@ -221,7 +222,6 @@
         "322": "D\u00e3y n\u00fai Pamir-Alay v\u00e0 Thung\u00a0l\u0169ng\u00a0Fergana \u1edf Trung \u00c1",
         "360": "H\u01b0\u1edbng \u0111\u1ebfn ph\u00eda \u0111\u00f4ng nam Kazakhstan t\u1eeb Kyrgyzstan",
         "400": "Di chuy\u1ec3n theo h\u01b0\u1edbng b\u1eafc qua Kazakhstan",
-        "45": "Di chuy\u1ec3n qua Bi\u1ec3n\u00a0\u0110en v\u00e0o B\u00e1n\u00a0\u0111\u1ea3o\u00a0\u1ea2\u00a0R\u1eadp",
         "450": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Altai di chuy\u1ec3n v\u00e0o M\u00f4ng C\u1ed5"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng nam qua Siberia v\u00e0 M\u00f4ng C\u1ed5",
+        "22": "H\u01b0\u1edbng \u0111\u1ebfn khu v\u1ef1c N\u1ed9i M\u00f4ng",
+        "32": "\u0110i qua M\u00f4ng C\u1ed5 di chuy\u1ec3n v\u1ec1 ph\u00eda Trung Qu\u1ed1c",
+        "60": "\u0110i qua ph\u00eda b\u1eafc Trung\u00a0Qu\u1ed1c di chuy\u1ec3n v\u1ec1 ph\u00eda B\u00e1n\u00a0\u0111\u1ea3o\u00a0Tri\u1ec1u\u00a0Ti\u00ean",
         "110": "\u0110i qua Trung\u00a0Qu\u1ed1c h\u01b0\u1edbng \u0111\u1ebfn B\u00e1n\u00a0\u0111\u1ea3o\u00a0Tri\u1ec1u\u00a0Ti\u00ean",
         "150": "B\u00e1n\u00a0\u0111\u1ea3o\u00a0Tri\u1ec1u\u00a0Ti\u00ean v\u1edbi Nh\u1eadt B\u1ea3n \u1edf ph\u00eda xa",
         "180": "\u0110i qua H\u00e0n Qu\u1ed1c di chuy\u1ec3n v\u1ec1 ph\u00eda Nh\u1eadt B\u1ea3n",
         "195": "\u0110i qua Nh\u1eadt\u00a0B\u1ea3n nh\u00ecn v\u1ec1 ph\u00eda Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng",
-        "22": "H\u01b0\u1edbng \u0111\u1ebfn khu v\u1ef1c N\u1ed9i M\u00f4ng",
-        "260": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ph\u00eda \u0111\u00f4ng nam Nh\u1eadt\u00a0B\u1ea3n",
-        "32": "\u0110i qua M\u00f4ng C\u1ed5 di chuy\u1ec3n v\u1ec1 ph\u00eda Trung Qu\u1ed1c",
-        "60": "\u0110i qua ph\u00eda b\u1eafc Trung\u00a0Qu\u1ed1c di chuy\u1ec3n v\u1ec1 ph\u00eda B\u00e1n\u00a0\u0111\u1ea3o\u00a0Tri\u1ec1u\u00a0Ti\u00ean"
+        "260": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng ph\u00eda \u0111\u00f4ng nam Nh\u1eadt\u00a0B\u1ea3n"
     },
     "GMT060_117NC_363D": {
         "0": "\u0110i qua \u1ea4n\u00a0\u0110\u1ed9\u00a0D\u01b0\u01a1ng h\u01b0\u1edbng \u0111\u1ebfn Perth, Australia",
+        "50": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Western Australia",
         "170": "\u0110i qua Western\u00a0Australia tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Northern\u00a0Territory",
         "220": "\u0110i qua Northern\u00a0Territory, Australia di chuy\u1ec3n v\u1ec1 ph\u00eda New\u00a0Guinea",
-        "335": "\u0110i qua Bi\u1ec3n\u00a0Arafura di chuy\u1ec3n v\u1ec1 ph\u00eda New\u00a0Guinea",
-        "50": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Western Australia"
+        "335": "\u0110i qua Bi\u1ec3n\u00a0Arafura di chuy\u1ec3n v\u1ec1 ph\u00eda New\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Nam\u00a0c\u1ef1c\u00a0quang tr\u00ean Ch\u00e2u Nam C\u1ef1c"
     },
     "GMT306_139NC_139J_3066": {
         "0": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng di chuy\u1ec3n v\u1ec1 ph\u00eda b\u1edd bi\u1ec3n California",
+        "70": "\u0110i qua b\u1edd bi\u1ec3n California di chuy\u1ec3n v\u00e0o n\u1ed9i \u0111\u1ecba",
+        "85": "\u0110i qua Los\u00a0Angeles tr\u00ean b\u1edd bi\u1ec3n ph\u00eda t\u00e2y c\u1ee7a M\u1ef9",
+        "95": "\u0110i qua Los\u00a0Angeles tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn Las\u00a0Vegas \u1edf M\u1ef9",
         "110": "\u0110i qua Las\u00a0Vegas h\u01b0\u1edbng \u0111\u1ebfn Salt\u00a0Lake\u00a0City \u1edf M\u1ef9",
         "120": "\u0110i qua ph\u00eda t\u00e2y n\u01b0\u1edbc M\u1ef9 tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Salt\u00a0Lake\u00a0City",
         "155": "\u0110i qua gi\u1eefa Salt\u00a0Lake\u00a0City v\u00e0 Denver \u1edf M\u1ef9",
-        "170": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Rocky \u1edf M\u1ef9",
-        "70": "\u0110i qua b\u1edd bi\u1ec3n California di chuy\u1ec3n v\u00e0o n\u1ed9i \u0111\u1ecba",
-        "85": "\u0110i qua Los\u00a0Angeles tr\u00ean b\u1edd bi\u1ec3n ph\u00eda t\u00e2y c\u1ee7a M\u1ef9",
-        "95": "\u0110i qua Los\u00a0Angeles tr\u00ean \u0111\u01b0\u1eddng \u0111\u1ebfn Las\u00a0Vegas \u1edf M\u1ef9"
+        "170": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Rocky \u1edf M\u1ef9"
     },
     "GMT307_136NC_134K_8277": {
         "0": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng h\u01b0\u1edbng \u0111\u1ebfn Mexico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua Great\u00a0Plains c\u1ee7a M\u1ef9",
+        "90": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua v\u00f9ng Trung\u00a0T\u00e2y n\u01b0\u1edbc M\u1ef9",
         "120": "\u0110i qua ph\u00eda \u0111\u00f4ng nam n\u01b0\u1edbc M\u1ef9 h\u01b0\u1edbng \u0111\u1ebfn Florida",
         "220": "\u0110i qua Florida di chuy\u1ec3n v\u1ec1 ph\u00eda Bahamas",
         "240": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng nam qua Bahamas",
         "285": "\u0110i qua Bahamas tr\u00ean \u0111\u01b0\u1eddng t\u1edbi C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica v\u00e0 Haiti",
         "300": "\u0110i qua C\u1ed9ng\u00a0h\u00f2a\u00a0Dominica v\u00e0 Haiti tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Bi\u1ec3n\u00a0Caribe",
-        "315": "\u0110i qua Bi\u1ec3n\u00a0Caribe \u0111i theo h\u01b0\u1edbng nam v\u1ec1 ph\u00eda Venezuela",
-        "90": "\u0110i theo h\u01b0\u1edbng \u0111\u00f4ng nam qua v\u00f9ng Trung\u00a0T\u00e2y n\u01b0\u1edbc M\u1ef9"
+        "315": "\u0110i qua Bi\u1ec3n\u00a0Caribe \u0111i theo h\u01b0\u1edbng nam v\u1ec1 ph\u00eda Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng b\u1eafc qua Sahara v\u00e0o ban \u0111\u00eam",
+        "70": "\u0110i qua Grand\u00a0Erg\u00a0Oriental h\u01b0\u1edbng \u0111\u1ebfn \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i",
         "100": "B\u1edd bi\u1ec3n \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i c\u1ee7a Tunisia v\u00e0 Libya",
         "120": "Di chuy\u1ec3n qua Bi\u1ec3n \u0110\u1ecba Trung H\u1ea3i h\u01b0\u1edbng \u0111\u1ebfn Italy",
         "140": "\u0110i qua ph\u00eda nam Italy tr\u00ean \u0111\u01b0\u1eddng t\u1edbi B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan v\u1edbi Th\u1ed5\u00a0Nh\u0129\u00a0K\u1ef3 \u1edf ph\u00eda xa",
         "165": "\u0110i qua B\u00e1n \u0111\u1ea3o Balkan di chuy\u1ec3n v\u1ec1 ph\u00eda Bi\u1ec3n\u00a0\u0110en",
         "180": "\u0110i qua B\u00e1n \u0111\u1ea3o Balkan tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Bi\u1ec3n\u00a0\u0110en",
         "210": "Di chuy\u1ec3n qua Bi\u1ec3n\u00a0\u0110en v\u1ec1 ph\u00eda Ukraina",
-        "230": "Di chuy\u1ec3n qua Ukraina v\u1ec1 ph\u00eda Nga",
-        "70": "\u0110i qua Grand\u00a0Erg\u00a0Oriental h\u01b0\u1edbng \u0111\u1ebfn \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i"
+        "230": "Di chuy\u1ec3n qua Ukraina v\u1ec1 ph\u00eda Nga"
     },
     "GMT314_139M_170NC": {
         "0": "\u0110i qua Th\u00e1i\u00a0B\u00ecnh\u00a0D\u01b0\u01a1ng di chuy\u1ec3n v\u1ec1 ph\u00eda Baja\u00a0California",
+        "45": "\u0110i qua Baja\u00a0California h\u01b0\u1edbng v\u1ec1 ph\u00eda b\u1eafc \u0111\u1ebfn M\u1ef9",
+        "55": "\u0110i qua Mexico h\u01b0\u1edbng \u0111\u1ebfn ph\u00eda t\u00e2y nam n\u01b0\u1edbc M\u1ef9",
+        "75": "\u0110i qua ph\u00eda t\u00e2y nam n\u01b0\u1edbc M\u1ef9",
         "110": "\u0110i qua D\u00e3y\u00a0n\u00fai\u00a0Rocky tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Denver",
         "125": "Di chuy\u1ec3n qua Great\u00a0Plains c\u1ee7a M\u1ef9",
         "185": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Great\u00a0Lakes v\u1edbi Ontario, Canada \u1edf ph\u00eda xa",
@@ -361,28 +364,25 @@
         "210": "B\u1eafc\u00a0c\u1ef1c\u00a0quang \u1edf ph\u00eda t\u00e2y Ontario, Canada",
         "235": "B\u1eafc\u00a0c\u1ef1c\u00a0quang \u1edf ph\u00eda b\u1eafc Ontario, Canada",
         "250": "B\u1eafc\u00a0c\u1ef1c\u00a0quang \u1edf ph\u00eda b\u1eafc Quebec, Canada",
-        "300": "H\u01b0\u1edbng \u0111\u1ebfn B\u1eafc \u0110\u1ea1i T\u00e2y D\u01b0\u01a1ng v\u1edbi B\u1eafc\u00a0c\u1ef1c\u00a0quang ph\u00eda tr\u00ean Labrador, Canada",
-        "45": "\u0110i qua Baja\u00a0California h\u01b0\u1edbng v\u1ec1 ph\u00eda b\u1eafc \u0111\u1ebfn M\u1ef9",
-        "55": "\u0110i qua Mexico h\u01b0\u1edbng \u0111\u1ebfn ph\u00eda t\u00e2y nam n\u01b0\u1edbc M\u1ef9",
-        "75": "\u0110i qua ph\u00eda t\u00e2y nam n\u01b0\u1edbc M\u1ef9"
+        "300": "H\u01b0\u1edbng \u0111\u1ebfn B\u1eafc \u0110\u1ea1i T\u00e2y D\u01b0\u01a1ng v\u1edbi B\u1eafc\u00a0c\u1ef1c\u00a0quang ph\u00eda tr\u00ean Labrador, Canada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "\u0110i qua B\u1eafc\u00a0\u0110\u1ea1i\u00a0T\u00e2y\u00a0D\u01b0\u01a1ng tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Ireland v\u00e0 Anh",
-        "105": "\u0110i qua trung t\u00e2m Ch\u00e2u \u00c2u h\u01b0\u1edbng \u0111\u1ebfn Nga",
         "15": "Ireland v\u00e0 Anh",
+        "45": "\u0110i qua n\u01b0\u1edbc Anh di chuy\u1ec3n v\u1ec1 ph\u00eda l\u1ee5c \u0111\u1ecba Ch\u00e2u \u00c2u",
+        "65": "\u0110i qua ph\u00eda t\u00e2y b\u1eafc Ch\u00e2u \u00c2u h\u01b0\u1edbng \u0111\u1ebfn Nga",
+        "105": "\u0110i qua trung t\u00e2m Ch\u00e2u \u00c2u h\u01b0\u1edbng \u0111\u1ebfn Nga",
         "150": "\u0110i qua ph\u00eda \u0111\u00f4ng Ch\u00e2u \u00c2u v\u1edbi Moscow \u1edf ph\u00eda xa",
         "165": "\u0110i qua ph\u00eda \u0111\u00f4ng Ch\u00e2u \u00c2u nh\u00ecn v\u1ec1 ph\u00eda Moscow",
         "185": "\u0110i qua ph\u00eda t\u00e2y n\u01b0\u1edbc Nga v\u01b0\u1ee3t qua Moscow",
-        "195": "\u0110i qua Nga di chuy\u1ec3n v\u1ec1 ph\u00eda Trung \u00c1",
-        "45": "\u0110i qua n\u01b0\u1edbc Anh di chuy\u1ec3n v\u1ec1 ph\u00eda l\u1ee5c \u0111\u1ecba Ch\u00e2u \u00c2u",
-        "65": "\u0110i qua ph\u00eda t\u00e2y b\u1eafc Ch\u00e2u \u00c2u h\u01b0\u1edbng \u0111\u1ebfn Nga"
+        "195": "\u0110i qua Nga di chuy\u1ec3n v\u1ec1 ph\u00eda Trung \u00c1"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "\u0110i qua Tunisia h\u01b0\u1edbng \u0111\u1ebfn Italy",
+        "5": "\u0110i qua \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i nh\u00ecn v\u1ec1 ph\u00eda Sicily v\u00e0 B\u00e1n\u00a0\u0111\u1ea3o\u00a0Italy",
         "15": "\u0110i qua ph\u00eda nam Italy v\u1edbi B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan \u1edf ph\u00eda xa",
         "25": "\u0110i qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan di chuy\u1ec3n v\u1ec1 ph\u00eda Trung \u00c1",
         "40": "\u0110i qua B\u00e1n\u00a0\u0111\u1ea3o\u00a0Balkan qua Bi\u1ec3n\u00a0\u0110en",
-        "5": "\u0110i qua \u0110\u1ecba\u00a0Trung\u00a0H\u1ea3i nh\u00ecn v\u1ec1 ph\u00eda Sicily v\u00e0 B\u00e1n\u00a0\u0111\u1ea3o\u00a0Italy",
         "55": "\u0110i qua Ukraina v\u1edbi Nga \u1edf ph\u00eda xa",
         "75": "\u0110i qua ph\u00eda t\u00e2y nam n\u01b0\u1edbc Nga qua Kazakhstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Tower\u00a0Bridge tr\u00ean S\u00f4ng\u00a0Thames, London",
-        "130": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames \u0111\u1ebfn London\u00a0Eye",
         "20": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames \u1edf London",
+        "130": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames \u0111\u1ebfn London\u00a0Eye",
         "210": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi London\u00a0Eye tr\u00ean S\u00f4ng\u00a0Thames",
         "310": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames v\u01b0\u1ee3t qua London\u00a0Eye",
         "325": "\u0110i qua T\u00f2a nh\u00e0 Qu\u1ed1c h\u1ed9i tr\u00ean S\u00f4ng\u00a0Thames \u1edf London"
     },
     "L007_C007": {
         "0": "\u0110i qua khu \u0111\u1ea5t c\u1ee7a Cung\u00a0\u0111i\u1ec7n\u00a0Buckingham, London",
+        "24": "\u0110i qua Cung\u00a0\u0111i\u1ec7n\u00a0Buckingham \u1edf London",
+        "49": "\u0110i qua C\u00f4ng vi\u00ean St\u00a0James h\u01b0\u1edbng \u0111\u1ebfn S\u00f4ng\u00a0Thames, London",
         "104": "B\u0103ng qua S\u00f4ng\u00a0Thames v\u00e0 \u0111i qua London\u00a0Eye",
         "149": "\u0110i qua ph\u00eda Nam London",
-        "24": "\u0110i qua Cung\u00a0\u0111i\u1ec7n\u00a0Buckingham \u1edf London",
         "279": "\u0110i qua t\u00f2a nh\u00e0 The\u00a0Shard \u1edf ph\u00eda Nam London",
         "299": "B\u0103ng qua S\u00f4ng\u00a0Thames \u1edf London",
-        "324": "B\u0103ng qua S\u00f4ng\u00a0Thames t\u1ea1i Tower\u00a0Bridge \u1edf London",
-        "49": "\u0110i qua C\u00f4ng vi\u00ean St\u00a0James h\u01b0\u1edbng \u0111\u1ebfn S\u00f4ng\u00a0Thames, London"
+        "324": "B\u0103ng qua S\u00f4ng\u00a0Thames t\u1ea1i Tower\u00a0Bridge \u1edf London"
     },
     "L010_C006": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Tower\u00a0Bridge tr\u00ean S\u00f4ng\u00a0Thames, London",
+        "78": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames \u1edf London",
         "178": "Ph\u00eda Nam S\u00f4ng\u00a0Thames \u1edf London",
-        "258": "B\u0103ng qua S\u00f4ng\u00a0Thames \u1edf London",
-        "78": "\u0110i d\u1ecdc theo S\u00f4ng\u00a0Thames \u1edf London"
+        "258": "B\u0103ng qua S\u00f4ng\u00a0Thames \u1edf London"
     },
     "L012_C002": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Tower\u00a0Bridge tr\u00ean S\u00f4ng\u00a0Thames, London",
         "20": "B\u0103ng qua S\u00f4ng\u00a0Thames \u1edf London",
-        "200": "B\u0103ng qua S\u00f4ng\u00a0Thames h\u01b0\u1edbng \u0111\u1ebfn Westminster, London",
-        "270": "\u0110i qua Westminster, London",
         "60": "\u0110i qua t\u00f2a nh\u00e0 The\u00a0Shard \u1edf ph\u00eda Nam London",
-        "92": "Ph\u00eda Nam S\u00f4ng\u00a0Thames h\u01b0\u1edbng \u0111\u1ebfn London\u00a0Eye"
+        "92": "Ph\u00eda Nam S\u00f4ng\u00a0Thames h\u01b0\u1edbng \u0111\u1ebfn London\u00a0Eye",
+        "200": "B\u0103ng qua S\u00f4ng\u00a0Thames h\u01b0\u1edbng \u0111\u1ebfn Westminster, London",
+        "270": "\u0110i qua Westminster, London"
     },
     "LA_A005_C009": {
         "0": "\u0110i d\u1ecdc theo Xa l\u1ed9 li\u00ean bang 110 b\u1eafc qua Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "\u0110i qua Upper East Side v\u00e0 Central\u00a0Park \u1edf New\u00a0York",
+        "50": "\u0110i qua Trung\u00a0t\u00e2m\u00a0Manhattan h\u01b0\u1edbng \u0111\u1ebfn T\u00f2a nh\u00e0 Empire\u00a0State",
         "160": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi T\u00f2a nh\u00e0 Empire\u00a0State \u1edf New York",
-        "205": "\u0110i qua T\u00f2a nh\u00e0 Empire\u00a0State di chuy\u1ec3n v\u1ec1 ph\u00eda H\u1ea1 Manhattan",
-        "50": "\u0110i qua Trung\u00a0t\u00e2m\u00a0Manhattan h\u01b0\u1edbng \u0111\u1ebfn T\u00f2a nh\u00e0 Empire\u00a0State"
+        "205": "\u0110i qua T\u00f2a nh\u00e0 Empire\u00a0State di chuy\u1ec3n v\u1ec1 ph\u00eda H\u1ea1 Manhattan"
     },
     "N006_C003": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi H\u1ea1\u00a0Manhattan \u1edf New\u00a0York",
-        "140": "\u0110i qua H\u1ea1\u00a0Manhattan \u1edf New\u00a0York di chuy\u1ec3n v\u1ec1 ph\u00eda Trung t\u00e2m",
-        "40": "\u0110i qua H\u1ea1\u00a0Manhattan \u1edf New\u00a0York"
+        "40": "\u0110i qua H\u1ea1\u00a0Manhattan \u1edf New\u00a0York",
+        "140": "\u0110i qua H\u1ea1\u00a0Manhattan \u1edf New\u00a0York di chuy\u1ec3n v\u1ec1 ph\u00eda Trung t\u00e2m"
     },
     "N008_C003": {
         "0": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi H\u1ea1\u00a0Manhattan t\u1eeb C\u1ea3ng New\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "\u0110i xu\u1ed1ng \u0110\u1ea1i l\u1ed9 s\u1ed1 7 h\u01b0\u1edbng \u0111\u1ebfn Qu\u1ea3ng\u00a0tr\u01b0\u1eddng\u00a0Th\u1eddi\u00a0\u0111\u1ea1i, New\u00a0York",
-        "120": "\u0110i xu\u1ed1ng \u0110\u1ea1i l\u1ed9 s\u1ed1 7 \u1edf Trung\u00a0t\u00e2m\u00a0Manhattan, New\u00a0York",
-        "40": "\u0110i qua Qu\u1ea3ng\u00a0tr\u01b0\u1eddng\u00a0Th\u1eddi\u00a0\u0111\u1ea1i \u1edf New\u00a0York"
+        "40": "\u0110i qua Qu\u1ea3ng\u00a0tr\u01b0\u1eddng\u00a0Th\u1eddi\u00a0\u0111\u1ea1i \u1edf New\u00a0York",
+        "120": "\u0110i xu\u1ed1ng \u0110\u1ea1i l\u1ed9 s\u1ed1 7 \u1edf Trung\u00a0t\u00e2m\u00a0Manhattan, New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Di chuy\u1ec3n d\u1ecdc theo Cuernos del Paine t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Torres del Paine, Chile"
@@ -592,16 +592,16 @@
         "0": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite t\u1ea1i M\u1ef9"
     },
     "Y002_C013_0226": {
-        "210": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite t\u1ea1i M\u1ef9",
         "70": "Tr\u00ean \u0111\u01b0\u1eddng t\u1edbi Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "87": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
+        "87": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
+        "210": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite t\u1ea1i M\u1ef9"
     },
     "Y003_C009": {
         "0": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
+        "93": "Di chuy\u1ec3n v\u1ec1 ph\u00eda \u0110\u1ec9nh\u00a0Merced t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "130": "\u0110\u1ec9nh\u00a0Merced t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "221": "\u0110i qua \u0110\u1ec9nh\u00a0Merced t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "244": "Di chuy\u1ec3n ph\u00eda tr\u00ean C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "93": "Di chuy\u1ec3n v\u1ec1 ph\u00eda \u0110\u1ec9nh\u00a0Merced t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
+        "244": "Di chuy\u1ec3n ph\u00eda tr\u00ean C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
@@ -614,29 +614,29 @@
         "0": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite t\u1ea1i M\u1ef9"
     },
     "Y005_C003_0228SC": {
+        "40": "Di chuy\u1ec3n v\u1ec1 ph\u00eda Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
+        "60": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "155": "\u0110i qua C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite v\u1edbi Th\u00e1c\u00a0Nevada \u1edf ph\u00eda xa",
         "255": "Th\u00e1c Nevada v\u00e0 Illilouette t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "285": "Th\u00e1c Nevada, Vernal v\u00e0 Illilouette t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "40": "Di chuy\u1ec3n v\u1ec1 ph\u00eda Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "60": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
+        "285": "Th\u00e1c Nevada, Vernal v\u00e0 Illilouette t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
     },
     "Y009_C015304I": {
         "0": "\u0110i qua ph\u00eda tr\u00ean \u0110\u1ed3ng\u00a0c\u1ecf\u00a0Tuolumne t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
     },
     "Y011_C001": {
         "0": "Di chuy\u1ec3n v\u1ec1 ph\u00eda Th\u00e1c\u00a0Bridalveil v\u00e0 El\u00a0Capitan t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite",
+        "44": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng v\u1ec1 ph\u00eda El Capitan t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
+        "87": "\u0110i qua El\u00a0Capitan, C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "120": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng v\u1ec1 ph\u00eda Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "390": "Half\u00a0Dome t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "44": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng v\u1ec1 ph\u00eda El Capitan t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "470": "Di chuy\u1ec3n qua Half\u00a0Dome t\u1ea1i Thung\u00a0l\u0169ng Yosemite, M\u1ef9",
-        "585": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng qua Thung\u00a0l\u0169ng Yosemite, M\u1ef9",
-        "87": "\u0110i qua El\u00a0Capitan, C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
+        "585": "Di chuy\u1ec3n theo h\u01b0\u1edbng \u0111\u00f4ng qua Thung\u00a0l\u0169ng Yosemite, M\u1ef9"
     },
     "Y011_C008": {
         "0": "Di chuy\u1ec3n v\u1ec1 ph\u00eda Ng\u1ecdn\u00a0Matthes t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
+        "75": "Bay ph\u00eda tr\u00ean Ng\u1ecdn\u00a0Matthes t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "124": "Bay qua Ng\u1ecdn\u00a0Matthes t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
         "215": "Bay ph\u00eda tr\u00ean Ng\u1ecdn\u00a0Matthes t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "396": "Di chuy\u1ec3n v\u1ec1 ph\u00eda \u0110\u1ed3ng\u00a0c\u1ecf Tuolumne t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9",
-        "75": "Bay ph\u00eda tr\u00ean Ng\u1ecdn\u00a0Matthes t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
+        "396": "Di chuy\u1ec3n v\u1ec1 ph\u00eda \u0110\u1ed3ng\u00a0c\u1ecf Tuolumne t\u1ea1i C\u00f4ng vi\u00ean qu\u1ed1c gia Yosemite, M\u1ef9"
     }
 }

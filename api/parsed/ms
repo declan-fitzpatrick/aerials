@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Kepulauan\u00a0Canary, Lautan\u00a0Atlantik dan pinggir laut Afrika",
+        "45": "Bergerak ke arah timur laut sepanjang pinggir laut Maghribi",
+        "75": "Melintasi di atas Pergunungan\u00a0Atlas di Maghribi",
         "105": "Di atas Maghribi mendekati Laut\u00a0Mediterranean",
         "125": "Laut\u00a0Mediterranean\u00a0dan selatan Sepanyol",
         "145": "Mengembara ke arah timur laut di atas Costa\u00a0Blanca, Sepanyol",
         "165": "Mengembara ke arah timur laut di atas Kepulauan\u00a0Balearic, Sepanyol",
         "185": "Di atas barat Laut\u00a0Mediterranean dengan Alps di latar",
-        "220": "Bergerak ke arah timur laur di atas Alps",
-        "45": "Bergerak ke arah timur laut sepanjang pinggir laut Maghribi",
-        "75": "Melintasi di atas Pergunungan\u00a0Atlas di Maghribi"
+        "220": "Bergerak ke arah timur laur di atas Alps"
     },
     "A001_C007": {
         "0": "Ubur-ubur\u00a0Emas di dalam perairan Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Di atas Fisherman\u2019s\u00a0Wharf menuju ke arah pusat bandar San\u00a0Francisco",
+        "80": "Menghampiri Menara\u00a0Coit dengan pusat bandar San\u00a0Francisco dan Bay\u00a0Bridge di latar belakang",
         "150": "Melintasi Menara\u00a0Coit ke arah pusat bandar San\u00a0Francisco dan Bay\u00a0Bridge",
-        "196": "Pusat Bandar San Francisco",
-        "80": "Menghampiri Menara\u00a0Coit dengan pusat bandar San\u00a0Francisco dan Bay\u00a0Bridge di latar belakang"
+        "196": "Pusat Bandar San Francisco"
     },
     "A008_C007": {
         "0": "Di atas Marin\u00a0Headlands melihat ke arah Jambatan Golden\u00a0Gate",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Di atas barat Afrika bergerak ke arah Sahara",
+        "30": "Melintasi Sahara di Afrika Utara",
         "110": "Melintasi di atas Pergunungan Ahaggar di Sahara, Afrika Utara",
         "155": "Di atas Grand\u00a0Erg\u00a0Oriental di Afrika Utara bergerak ke arah Laut\u00a0Mediterranean",
         "195": "Pinggir laut Tunisia dan Laut\u00a0Mediterranean",
@@ -64,7 +65,6 @@
         "230": "Menghampiri Itali di Laut\u00a0Mediterranean",
         "245": "Di atas Itali mengembara ke arah Semenanjung\u00a0Balkan",
         "285": "Di atas Semenanjung\u00a0Balkan menuju ke arah Pergunungan\u00a0Carpathian",
-        "30": "Melintasi Sahara di Afrika Utara",
         "310": "Pergunungan\u00a0Carpathian dan Laut\u00a0Hitam"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Di atas Teluk San\u00a0Francisco bergerak ke arah Embarcadero",
+        "90": "Di atas Embarcadero melihat ke bawah ke Market\u00a0Street di San\u00a0Francisco",
         "150": "Mengikuti Market\u00a0Street melalui pusat bandar San\u00a0Francisco",
-        "360": "Mengikuti Market\u00a0Street melalui San\u00a0Francisco",
-        "90": "Di atas Embarcadero melihat ke bawah ke Market\u00a0Street di San\u00a0Francisco"
+        "360": "Mengikuti Market\u00a0Street melalui San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Bergerak di sepanjang Presidio San\u00a0Francisco ke arah Jambatan Golden\u00a0Gate",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "Menghampiri Jambatan Golden\u00a0Gate dari San\u00a0Francisco",
+        "60": "Di sepanjang Jambatan\u00a0Golden Gate menuju ke arah Marin\u00a0Headlands",
         "140": "Melintasi di atas Jambatan Golden\u00a0Gate",
         "230": "Melintasi Menara\u00a0Utara Jambatan Golden\u00a0Gate",
-        "260": "Di atas Teluk San\u00a0Francisco mengembara di sepanjang Jambatan Golden\u00a0Gate",
-        "60": "Di sepanjang Jambatan\u00a0Golden Gate menuju ke arah Marin\u00a0Headlands"
+        "260": "Di atas Teluk San\u00a0Francisco mengembara di sepanjang Jambatan Golden\u00a0Gate"
     },
     "A014_C008": {
         "0": "Bayan\u00a0Bonggol di atas lantai lautan berdekatan Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "Menghampiri Bay\u00a0Bridge dan pusat bandar San\u00a0Francisco",
-        "116": "Di atas Teluk San\u00a0Francisco menuju ke arah pusat bandar",
-        "80": "Melintasi di atas Bay\u00a0Bridge menuju ke arah pusat bandar San\u00a0Francisco"
+        "80": "Melintasi di atas Bay\u00a0Bridge menuju ke arah pusat bandar San\u00a0Francisco",
+        "116": "Di atas Teluk San\u00a0Francisco menuju ke arah pusat bandar"
     },
     "A016_C002": {
         "0": "Bergerak melalui hutan rumpai laut di pesisir laut California, Amerika\u00a0Syarikat"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Mengembara di atas Eropah\u00a0Barat dengan Great\u00a0Britain dan Ireland kelihatan dari jauh",
+        "20": "Menuju ke arah tenggara di atas Alps dan Lembah Sungai\u00a0Po",
+        "50": "Bergerak ke bawah Semenanjung\u00a0Itali dan Laut\u00a0Adriatik",
         "100": "Greece diapit oleh Laut Ionia dan Aegia",
         "160": "Mengembara ke arah tenggara di atas Laut\u00a0Mediterranean",
         "185": "Laut\u00a0Mediterranean dan Delta\u00a0Sungai\u00a0Nil",
-        "20": "Menuju ke arah tenggara di atas Alps dan Lembah Sungai\u00a0Po",
         "205": "Sungai\u00a0Nil mengalir menerusi Sahara di Mesir",
         "220": "Padang Pasir Timur diapit oleh Sungai\u00a0Nil dan Teluk Suez",
-        "240": "Menuju ke arah tenggara di atas Laut\u00a0Merah",
-        "50": "Bergerak ke bawah Semenanjung\u00a0Itali dan Laut\u00a0Adriatik"
+        "240": "Menuju ke arah tenggara di atas Laut\u00a0Merah"
     },
     "A083_C002_1130KZ": {
         "0": "Pantulan matahari sepanjang pinggir laut Iran",
@@ -153,63 +153,64 @@
         "0": "Di atas Tanduk Afrika mengembara ke arah Teluk Aden"
     },
     "A103_C002_0205DG": {
+        "45": "Tenggara Semenanjung\u00a0Arab",
         "115": "Teluk Oman menghampiri Pinggir\u00a0Laut\u00a0Makran",
         "145": "Pinggir\u00a0Laut\u00a0Makran di Iran dan Pakistan",
         "160": "Di atas Iran bergerak ke arah Afghanistan dan Pakistan",
         "180": "Di atas Afghanistan dan Pakistan bergerak ke arah Banjaran\u00a0Karakoram",
         "235": "Di atas Banjaran\u00a0Karakoram mengembara ke China",
         "280": "Padang\u00a0Pasir\u00a0Takla\u00a0Makan di barat China",
-        "315": "Pergunungan Tian\u00a0Shan di Asia Tengah",
-        "45": "Tenggara Semenanjung\u00a0Arab"
+        "315": "Pergunungan Tian\u00a0Shan di Asia Tengah"
     },
     "A105_C0022120602": {
         "0": "Di atas Lautan\u00a0Pasifik bergerak ke arah Amerika\u00a0Tengah"
     },
     "A105_C002_021206_002": {
+        "70": "Pinggir laut barat daya Amerika\u00a0Tengah menuju ke arah Laut\u00a0Caribbean",
         "100": "Melintasi Amerika\u00a0Tengah ke arah Laut\u00a0Caribbean",
         "150": "Di atas Laut\u00a0Caribbean bergerak ke arah Cuba",
         "240": "Di atas Cuba dengan Florida dan Bahamas di latar",
         "300": "Di atas Florida dan Bahamas mengembara ke arah Laut\u00a0Sargasso",
-        "350": "Di atas Laut\u00a0Sargasso menuju ke Lautan\u00a0Atlantik",
-        "70": "Pinggir laut barat daya Amerika\u00a0Tengah menuju ke arah Laut\u00a0Caribbean"
+        "350": "Di atas Laut\u00a0Sargasso menuju ke Lautan\u00a0Atlantik"
     },
     "A105_C003212CT": {
         "0": "Melintasi malam ke siang di atas Lautan\u00a0Pasifik\u00a0Selatan"
     },
     "A105_C003_0212CT": {
+        "70": "Melintasi malam ke siang di atas New\u00a0Zealand",
         "110": "Menghampiri matahari terbit di atas New\u00a0Zealand",
-        "170": "Meninggalkan New\u00a0Zealand menuju ke arah timur laut di atas Lautan\u00a0Pasifik",
-        "70": "Melintasi malam ke siang di atas New\u00a0Zealand"
+        "170": "Meninggalkan New\u00a0Zealand menuju ke arah timur laut di atas Lautan\u00a0Pasifik"
     },
     "A108_C001215V8": {
         "0": "Mengembara di atas Lautan\u00a0Pasifik ke arah Amerika\u00a0Tengah"
     },
     "A108_C001_0215V8": {
-        "110": "Melintasi Jamaica yang dilitupi awan di Laut\u00a0Caribbean",
-        "125": "Melintasi di atas Cuba melihat ke arah Haiti dan Republik\u00a0Dominika",
-        "170": "Mengembara di atas Bahamas melihat ke arah Haiti dan Republik\u00a0Dominika",
-        "190": "Kepulauan Turks dan Caicos di Lautan\u00a0Atlantik",
         "35": "Pinggir laut Pasifik di Nicaragua, Costa\u00a0Rica dan Panama",
         "50": "Melintasi di atas Amerika\u00a0Tengah dengan Amerika\u00a0Selatan kelihatan dari jauh",
         "65": "Pinggir Laut Mosquito di Nicaragua",
-        "85": "Di atas Laut\u00a0Caribbean mengembara ke arah Cuba"
+        "85": "Di atas Laut\u00a0Caribbean mengembara ke arah Cuba",
+        "110": "Melintasi Jamaica yang dilitupi awan di Laut\u00a0Caribbean",
+        "125": "Melintasi di atas Cuba melihat ke arah Haiti dan Republik\u00a0Dominika",
+        "170": "Mengembara di atas Bahamas melihat ke arah Haiti dan Republik\u00a0Dominika",
+        "190": "Kepulauan Turks dan Caicos di Lautan\u00a0Atlantik"
     },
     "A114_C001305OT": {
         "0": "Di atas Lautan\u00a0Pasifik menuju ke arah Amerika\u00a0Syarikat"
     },
     "A114_C001_0305OT": {
-        "130": "Pergunungan Sierra\u00a0Madre Occidental di pantai barat Mexico",
-        "185": "Di atas pergunungan Sierra\u00a0Madre Occidental bergerak ke arah pantai barat Mexico",
         "20": "Mengembara ke arah selatan sepanjang pinggir laut California",
-        "225": "Melihat ke arah selatan ke Lautan\u00a0Pasifik di atas Sierra\u00a0Madre del Sur di Mexico",
-        "280": "Lautan\u00a0Pasifik di pesisir laut Mexico",
-        "290": "Lautan\u00a0Pasifik di pesisir laut Mexico dan Guatemala",
         "50": "Di atas selatan California bergerak ke arah Mexico",
         "65": "Menghampiri Padang\u00a0Pasir\u00a0Mojave di selatan California dengan Mexico di latar",
-        "95": "Teluk California diapit oleh Padang\u00a0Pasir\u00a0Sonoran\u00a0dan Semenanjung Baja\u00a0California"
+        "95": "Teluk California diapit oleh Padang\u00a0Pasir\u00a0Sonoran\u00a0dan Semenanjung Baja\u00a0California",
+        "130": "Pergunungan Sierra\u00a0Madre Occidental di pantai barat Mexico",
+        "185": "Di atas pergunungan Sierra\u00a0Madre Occidental bergerak ke arah pantai barat Mexico",
+        "225": "Melihat ke arah selatan ke Lautan\u00a0Pasifik di atas Sierra\u00a0Madre del Sur di Mexico",
+        "280": "Lautan\u00a0Pasifik di pesisir laut Mexico",
+        "290": "Lautan\u00a0Pasifik di pesisir laut Mexico dan Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "Mengembara ke arah timur laut di atas Tanah Tinggi Ethiopia",
+        "45": "Mengembara di atas Laut\u00a0Merah ke Semenanjung\u00a0Arab",
         "100": "Menuju ke arah timur laut di atas Semenanjung\u00a0Arab",
         "130": "Di atas Semenanjung\u00a0Arab bergerak ke arah Iran",
         "165": "Di atas Semenanjung\u00a0Arab mendekati Iran",
@@ -221,7 +222,6 @@
         "322": "Pergunungan Pamir-Alay dan Lembah\u00a0Fergana di bahagian tengah Asia",
         "360": "Menuju ke tenggara Kazakhstan dari Kyrgyzstan",
         "400": "Mengembara ke arah utara di atas Kazakhstan",
-        "45": "Mengembara di atas Laut\u00a0Merah ke Semenanjung\u00a0Arab",
         "450": "Di atas Pergunungan\u00a0Altai bergerak ke Mongolia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Bergerak ke arah tenggara di atas Siberia dan Mongolia",
+        "22": "Menuju ke arah Pedalaman Mongolia",
+        "32": "Di atas Mongolia mengembara ke arah China",
+        "60": "Di atas utara China bergerak ke arah Semenanjung\u00a0Korea",
         "110": "Di atas China menuju ke arah Semenanjung\u00a0Korea",
         "150": "Semenanjung\u00a0Korea dengan Jepun kelihatan dari jauh",
         "180": "Di atas Korea Selatan mengembara ke arah Jepun",
         "195": "Di atas Jepun melihat ke arah Lautan\u00a0Pasifik",
-        "22": "Menuju ke arah Pedalaman Mongolia",
-        "260": "Di atas Lautan\u00a0Pasifik di tenggara Jepun",
-        "32": "Di atas Mongolia mengembara ke arah China",
-        "60": "Di atas utara China bergerak ke arah Semenanjung\u00a0Korea"
+        "260": "Di atas Lautan\u00a0Pasifik di tenggara Jepun"
     },
     "GMT060_117NC_363D": {
         "0": "Di atas Lautan\u00a0Hindi menuju ke arah Perth, Australia",
+        "50": "Mengembara ke arah timur laut merentas Barat Australia",
         "170": "Di atas Barat\u00a0Australia menghampiri Wilayah\u00a0Utara",
         "220": "Di atas Wilayah\u00a0Utara, Australia bergerak ke arah New\u00a0Guinea",
-        "335": "Di atas Laut\u00a0Arafura mengembara ke arah New\u00a0Guinea",
-        "50": "Mengembara ke arah timur laut merentas Barat Australia"
+        "335": "Di atas Laut\u00a0Arafura mengembara ke arah New\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Aurora\u00a0Australis di atas Antartika"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Di atas Lautan\u00a0Pasifik bergerak ke arah pinggir laut California",
+        "70": "Di atas pinggir laut California mengembara ke darat",
+        "85": "Melintasi di atas Los\u00a0Angeles di pantai barat Amerika\u00a0Syarikat",
+        "95": "Di atas Los\u00a0Angeles menghampiri Las\u00a0Vegas di Amerika\u00a0Syarikat",
         "110": "Di atas Las\u00a0Vegas menuju ke arah Salt\u00a0Lake\u00a0City di Amerika\u00a0Syarikat",
         "120": "Di atas barat Amerika\u00a0Syarikat menghampiri Salt\u00a0Lake\u00a0City",
         "155": "Melintasi di antara Salt\u00a0Lake\u00a0City dan Denver di Amerika\u00a0Syarikat",
-        "170": "Di atas Pergunungan\u00a0Rocky di Amerika\u00a0Syarikat",
-        "70": "Di atas pinggir laut California mengembara ke darat",
-        "85": "Melintasi di atas Los\u00a0Angeles di pantai barat Amerika\u00a0Syarikat",
-        "95": "Di atas Los\u00a0Angeles menghampiri Las\u00a0Vegas di Amerika\u00a0Syarikat"
+        "170": "Di atas Pergunungan\u00a0Rocky di Amerika\u00a0Syarikat"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Di atas Lautan\u00a0Pasifik menuju ke arah Mexico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Menuju ke arah tenggara di atas Great\u00a0Plains di Amerika\u00a0Syarikat",
+        "90": "Menuju ke arah tenggara di atas Midwest di Amerika\u00a0Syarikat",
         "120": "Di atas tenggara Amerika\u00a0Syarikat menuju ke arah Florida",
         "220": "Di atas Florida mengembara ke arah Bahamas",
         "240": "Bergerak ke arah tenggara di atas Bahamas",
         "285": "Di atas Bahamas mendekati Republik\u00a0Dominika dan Haiti",
         "300": "Di atas Republik\u00a0Dominika dan Haiti menghampiri Laut\u00a0Caribbean",
-        "315": "Di atas Laut\u00a0Caribbean menjuru selatan ke arah Venezuela",
-        "90": "Menuju ke arah tenggara di atas Midwest di Amerika\u00a0Syarikat"
+        "315": "Di atas Laut\u00a0Caribbean menjuru selatan ke arah Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Mengembara ke arah timur laut di atas Sahara pada waktu malam",
+        "70": "Di atas Grand\u00a0Erg\u00a0Oriental menuju ke arah Laut\u00a0Mediterranean",
         "100": "Pinggir laut Mediterranean di Tunisia dan Libya",
         "120": "Bergerak di atas Laut Mediterranean ke arah Itali",
         "140": "Di atas selatan Itali mendekat Semenanjung\u00a0Balkan dengan Turki kelihatan dari jauh",
         "165": "Di atas Semenanjung Balkan bergerak ke arah Laut\u00a0Hitam",
         "180": "Di atas Semenanjung Balkan mendekati Laut\u00a0Hitam",
         "210": "Mengembara di atas Laut\u00a0Hitam ke arah Ukraine",
-        "230": "Mengembara di atas Ukraine ke arah Rusia",
-        "70": "Di atas Grand\u00a0Erg\u00a0Oriental menuju ke arah Laut\u00a0Mediterranean"
+        "230": "Mengembara di atas Ukraine ke arah Rusia"
     },
     "GMT314_139M_170NC": {
         "0": "Di atas Lautan\u00a0Pasifik bergerak ke arah Baja\u00a0California",
+        "45": "Di atas Baja\u00a0California melihat ke arah Amerika\u00a0Syarikat",
+        "55": "Di atas Mexico menuju ke arah barat daya Amerika\u00a0Syarikat",
+        "75": "Di atas barat daya Amerika\u00a0Syarikat",
         "110": "Di atas Pergunungan\u00a0Rocky menghampiri Denver",
         "125": "Mengembara di atas Great\u00a0Plains di Amerika\u00a0Syarikat",
         "185": "Menghampiri Great\u00a0Lakes dengan Ontario, Kanada di latar",
@@ -361,28 +364,25 @@
         "210": "Aurora\u00a0Borealis di atas barat Ontario, Kanada",
         "235": "Aurora\u00a0Borealis di atas utara Ontario, Kanada",
         "250": "Aurora\u00a0Borealis di atas utara Quebec, Kanada",
-        "300": "Menuju ke arah Atlantik Utara dengan Aurora\u00a0Borealis di atas Labrador, Kanada",
-        "45": "Di atas Baja\u00a0California melihat ke arah Amerika\u00a0Syarikat",
-        "55": "Di atas Mexico menuju ke arah barat daya Amerika\u00a0Syarikat",
-        "75": "Di atas barat daya Amerika\u00a0Syarikat"
+        "300": "Menuju ke arah Atlantik Utara dengan Aurora\u00a0Borealis di atas Labrador, Kanada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Di atas Atlantik\u00a0Utara menghampiri Ireland dan Great\u00a0Britain",
-        "105": "Di atas bahagian tengah Eropah menuju ke arah Rusia",
         "15": "Ireland dan Great\u00a0Britain",
+        "45": "Di atas Great\u00a0Britain mengembara ke arah tanah besar Eropah",
+        "65": "Di atas barat laut Eropah menuju ke arah Rusia",
+        "105": "Di atas bahagian tengah Eropah menuju ke arah Rusia",
         "150": "Di atas timur Eropah dengan Moscow kelihatan dari jauh",
         "165": "Di atas timur Eropah melihat ke arah Moscow",
         "185": "Di atas barat Rusia melintasi Moscow",
-        "195": "Di atas Rusia mengembara ke arah bahagian tengah Asia",
-        "45": "Di atas Great\u00a0Britain mengembara ke arah tanah besar Eropah",
-        "65": "Di atas barat laut Eropah menuju ke arah Rusia"
+        "195": "Di atas Rusia mengembara ke arah bahagian tengah Asia"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Di atas Tunisia menuju ke arah Itali",
+        "5": "Di atas Laut\u00a0Mediterranean melihat ke arah Sicily dan Semenanjung\u00a0Itali",
         "15": "Di atas selatan Itali dengan Semenanjung\u00a0Balkan di latar",
         "25": "Di atas Semenanjung\u00a0Balkan bergerak ke arah bahagian tengah Asia",
         "40": "Di atas Semenanjung\u00a0Balkan melintasi Laut\u00a0Hitam",
-        "5": "Di atas Laut\u00a0Mediterranean melihat ke arah Sicily dan Semenanjung\u00a0Itali",
         "55": "Di atas Ukraine dengan Rusia di latar",
         "75": "Di atas barat daya Rusia melintasi Kazakhstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "Menghampiri Jambatan\u00a0Menara di Sungai\u00a0Thames, London",
-        "130": "Mengikuti Sungai\u00a0Thames ke arah London\u00a0Eye",
         "20": "Mengikuti Sungai\u00a0Thames di London",
+        "130": "Mengikuti Sungai\u00a0Thames ke arah London\u00a0Eye",
         "210": "Menghampiri London\u00a0Eye di Sungai\u00a0Thames",
         "310": "Mengikuti Sungai\u00a0Thames melintasi London\u00a0Eye",
         "325": "Melintasi Houses of Parliament di Sungai\u00a0Thames, London"
     },
     "L007_C007": {
         "0": "Melintasi di atas laman Istana\u00a0Buckingham, London",
+        "24": "Di atas Istana\u00a0Buckingham di London",
+        "49": "Di atas St\u00a0James\u2019s Park menuju ke arah Sungai\u00a0Thames, London",
         "104": "Melintasi Sungai\u00a0Thames dan di atas London\u00a0Eye",
         "149": "Melintasi di atas Selatan London",
-        "24": "Di atas Istana\u00a0Buckingham di London",
         "279": "Melintasi The\u00a0Shard di Selatan London",
         "299": "Melintasi Sungai\u00a0Thames di London",
-        "324": "Melintasi Sungai\u00a0Thames di Jambatan\u00a0Menara, London",
-        "49": "Di atas St\u00a0James\u2019s Park menuju ke arah Sungai\u00a0Thames, London"
+        "324": "Melintasi Sungai\u00a0Thames di Jambatan\u00a0Menara, London"
     },
     "L010_C006": {
         "0": "Menghampiri Jambatan\u00a0Menara di Sungai\u00a0Thames, London",
+        "78": "Mengikuti Sungai\u00a0Thames di London",
         "178": "Di selatan Sungai\u00a0Thames di London",
-        "258": "Melintasi Sungai\u00a0Thames di London",
-        "78": "Mengikuti Sungai\u00a0Thames di London"
+        "258": "Melintasi Sungai\u00a0Thames di London"
     },
     "L012_C002": {
         "0": "Menghampiri Jambatan\u00a0Menara di Sungai\u00a0Thames, London",
         "20": "Melintasi Sungai\u00a0Thames di London",
-        "200": "Melintasi Sungai\u00a0Thames ke arah Westminster, London",
-        "270": "Di atas Westminster, London",
         "60": "Melintasi The\u00a0Shard di Selatan London",
-        "92": "Di selatan Sungai\u00a0Thames menuju ke arah London\u00a0Eye"
+        "92": "Di selatan Sungai\u00a0Thames menuju ke arah London\u00a0Eye",
+        "200": "Melintasi Sungai\u00a0Thames ke arah Westminster, London",
+        "270": "Di atas Westminster, London"
     },
     "LA_A005_C009": {
         "0": "Mengikuti Lebuh Raya Antara Negeri 110 utara melalui Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Di atas Upper East Side dan Central\u00a0Park di New\u00a0York",
+        "50": "Di atas Midtown\u00a0Manhattan menuju pusat bandar ke arah Bangunan Empire\u00a0State",
         "160": "Menghampiri Bangunan Empire\u00a0State di New York",
-        "205": "Melintasi Bangunan Empire\u00a0State bergerak ke arah Lower Manhattan",
-        "50": "Di atas Midtown\u00a0Manhattan menuju pusat bandar ke arah Bangunan Empire\u00a0State"
+        "205": "Melintasi Bangunan Empire\u00a0State bergerak ke arah Lower Manhattan"
     },
     "N006_C003": {
         "0": "Menghampiri Lower\u00a0Manhattan di New\u00a0York",
-        "140": "Di atas Lower\u00a0Manhattan di New\u00a0York bergerak ke arah Midtown",
-        "40": "Di atas Lower\u00a0Manhattan di New\u00a0York"
+        "40": "Di atas Lower\u00a0Manhattan di New\u00a0York",
+        "140": "Di atas Lower\u00a0Manhattan di New\u00a0York bergerak ke arah Midtown"
     },
     "N008_C003": {
         "0": "Menghampiri Lower\u00a0Manhattan dari Pelabuhan New\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Menuju ke 7th Avenue ke arah Times\u00a0Square, New\u00a0York",
-        "120": "Menuju ke 7th Avenue di Midtown\u00a0Manhattan, New\u00a0York",
-        "40": "Di atas Times\u00a0Square di New\u00a0York"
+        "40": "Di atas Times\u00a0Square di New\u00a0York",
+        "120": "Menuju ke 7th Avenue di Midtown\u00a0Manhattan, New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Bergerak di sepanjang Cuernos del Paine di Taman\u00a0Negara Torres del Paine, Chile"
@@ -592,16 +592,16 @@
         "0": "Di atas Taman\u00a0Negara Yosemite di Amerika\u00a0Syarikat"
     },
     "Y002_C013_0226": {
-        "210": "Di atas Taman\u00a0Negara Yosemite di Amerika\u00a0Syarikat",
         "70": "Menghampiri Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "87": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
+        "87": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
+        "210": "Di atas Taman\u00a0Negara Yosemite di Amerika\u00a0Syarikat"
     },
     "Y003_C009": {
         "0": "Di atas Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
+        "93": "Mengembara ke arah Puncak\u00a0Merced di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "130": "Puncak\u00a0Merced di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "221": "Melintasi Puncak\u00a0Merced di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "244": "Mengembara di atas Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "93": "Mengembara ke arah Puncak\u00a0Merced di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
+        "244": "Mengembara di atas Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
@@ -614,29 +614,29 @@
         "0": "Di atas Taman\u00a0Negara Yosemite di Amerika\u00a0Syarikat"
     },
     "Y005_C003_0228SC": {
+        "40": "Mengembara ke arah Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
+        "60": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "155": "Di atas Taman\u00a0Negara Yosemite dengan Air\u00a0Terjun\u00a0Nevada di kejauhan",
         "255": "Air Terjun\u00a0Nevada dan Illilouette di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "285": "Air Terjun\u00a0Nevada, Vernal dan Illilouette di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "40": "Mengembara ke arah Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "60": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
+        "285": "Air Terjun\u00a0Nevada, Vernal dan Illilouette di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
     },
     "Y009_C015304I": {
         "0": "Melintasi di atas Tuolumne\u00a0Meadows di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
     },
     "Y011_C001": {
         "0": "Mengembara ke arah\u00a0Air Terjun Bridalveil dan El\u00a0Capitan di Taman\u00a0Negara Yosemite",
+        "44": "Mengembara ke timur ke arah El Capitan di Taman Negara Yosemite, Amerika\u00a0Syarikat",
+        "87": "Melintasi El\u00a0Capitan di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "120": "Mengembara ke timur ke arah Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "390": "Half\u00a0Dome di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "44": "Mengembara ke timur ke arah El Capitan di Taman Negara Yosemite, Amerika\u00a0Syarikat",
         "470": "Mengembara melepasi Half\u00a0Dome di Lembah\u00a0Yosemite, Amerika\u00a0Syarikat",
-        "585": "Mengembara ke timur di atas Lembah\u00a0Yosemite, Amerika\u00a0Syarikat",
-        "87": "Melintasi El\u00a0Capitan di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
+        "585": "Mengembara ke timur di atas Lembah\u00a0Yosemite, Amerika\u00a0Syarikat"
     },
     "Y011_C008": {
         "0": "Mengembara ke arah Matthes\u00a0Crest di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
+        "75": "Terbang melintasi Matthes\u00a0Crest di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "124": "Terbang melalui Matthes\u00a0Crest di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
         "215": "Terbang melintasi Matthes\u00a0Crest di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "396": "Bergerak ke arah Tuolumne\u00a0Meadows di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat",
-        "75": "Terbang melintasi Matthes\u00a0Crest di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
+        "396": "Bergerak ke arah Tuolumne\u00a0Meadows di Taman\u00a0Negara Yosemite, Amerika\u00a0Syarikat"
     }
 }

@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Islas\u00a0Canarias, oc\u00e9ano\u00a0Atl\u00e1ntico y costa de \u00c1frica",
+        "45": "Dirigi\u00e9ndose al noreste a lo largo de la costa de Marruecos",
+        "75": "Sobrevolando la cordillera\u00a0del\u00a0Atlas, en Marruecos",
         "105": "Vista a\u00e9rea de Marruecos llegando al mar\u00a0Mediterr\u00e1neo",
         "125": "El mar\u00a0Mediterr\u00e1neo y el sur de Espa\u00f1a",
         "145": "Dirigi\u00e9ndose al noreste por la Costa\u00a0Blanca, Espa\u00f1a",
         "165": "Dirigi\u00e9ndose al noreste por las Islas\u00a0Baleares, Espa\u00f1a",
         "185": "Vista a\u00e9rea del mar\u00a0Mediterr\u00e1neo occidental con los Alpes m\u00e1s all\u00e1",
-        "220": "Dirigi\u00e9ndose al noreste por encima de los Alpes",
-        "45": "Dirigi\u00e9ndose al noreste a lo largo de la costa de Marruecos",
-        "75": "Sobrevolando la cordillera\u00a0del\u00a0Atlas, en Marruecos"
+        "220": "Dirigi\u00e9ndose al noreste por encima de los Alpes"
     },
     "A001_C007": {
         "0": "Medusas\u00a0doradas en las aguas de Palaos",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Vista a\u00e9rea de Fisherman\u2019s\u00a0Wharf en direcci\u00f3n al centro de San\u00a0Francisco",
+        "80": "Llegando a la torre\u00a0Coit, con el centro de San\u00a0Francisco y el puente Bay\u00a0Bridge al fondo",
         "150": "Pasando junto a la torre\u00a0Coit, hacia el centro de San\u00a0Francisco y el puente Bay\u00a0Bridge",
-        "196": "Centro de San Francisco",
-        "80": "Llegando a la torre\u00a0Coit, con el centro de San\u00a0Francisco y el puente Bay\u00a0Bridge al fondo"
+        "196": "Centro de San Francisco"
     },
     "A008_C007": {
         "0": "Vista a\u00e9rea de Marin\u00a0Headlands mirando hacia el Golden\u00a0Gate",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Vista a\u00e9rea del \u00c1frica occidental, en direcci\u00f3n al S\u00e1hara",
+        "30": "Cruzando el S\u00e1hara, en el norte de \u00c1frica",
         "110": "Pasando por encima del macizo\u00a0del\u00a0Ahaggar en el S\u00e1hara, en el norte de \u00c1frica",
         "155": "Vista a\u00e9rea del Gran\u00a0Erg\u00a0Oriental en el norte de \u00c1frica en direcci\u00f3n al mar\u00a0Mediterr\u00e1neo",
         "195": "La costa de T\u00fanez y el mar\u00a0Mediterr\u00e1neo",
@@ -64,7 +65,6 @@
         "230": "Llegando a Italia en el mar\u00a0Mediterr\u00e1neo",
         "245": "Vista a\u00e9rea de Italia en direcci\u00f3n a la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes",
         "285": "Vista a\u00e9rea de la pen\u00ednsula de los Balcanes llegando a los C\u00e1rpatos",
-        "30": "Cruzando el S\u00e1hara, en el norte de \u00c1frica",
         "310": "Los C\u00e1rpatos y el mar\u00a0Negro"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Vista a\u00e9rea de la bah\u00eda de San\u00a0Francisco en direcci\u00f3n al Embarcadero",
+        "90": "Vista a\u00e9rea del Embarcadero mirando hacia abajo sobre la calle Market\u00a0Street, en San\u00a0Francisco",
         "150": "Siguiendo la calle Market\u00a0Street por el centro de San\u00a0Francisco",
-        "360": "Siguiendo la calle Market\u00a0Street por San\u00a0Francisco",
-        "90": "Vista a\u00e9rea del Embarcadero mirando hacia abajo sobre la calle Market\u00a0Street, en San\u00a0Francisco"
+        "360": "Siguiendo la calle Market\u00a0Street por San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Avanzando por el Presidio de San\u00a0Francisco hacia el Golden\u00a0Gate",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "Llegando al Golden\u00a0Gate desde San\u00a0Francisco",
+        "60": "Junto al Golden\u00a0Gate, hacia Marin\u00a0Headlands",
         "140": "Cruzando sobre el Golden\u00a0Gate",
         "230": "Pasando por la torre\u00a0norte del Golden\u00a0Gate",
-        "260": "Vista a\u00e9rea de la bah\u00eda de San\u00a0Francisco, pasando junto al Golden\u00a0Gate",
-        "60": "Junto al Golden\u00a0Gate, hacia Marin\u00a0Headlands"
+        "260": "Vista a\u00e9rea de la bah\u00eda de San\u00a0Francisco, pasando junto al Golden\u00a0Gate"
     },
     "A014_C008": {
         "0": "Peces loro cototo verde sobre los arrecifes de coral de Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "Llegando al puente Bay\u00a0Bridge y centro de San\u00a0Francisco",
-        "116": "Vista a\u00e9rea de la bah\u00eda de San\u00a0Francisco en direcci\u00f3n al centro de la ciudad",
-        "80": "Cruzando el puente Bay\u00a0Bridge en direcci\u00f3n al centro de San\u00a0Francisco"
+        "80": "Cruzando el puente Bay\u00a0Bridge en direcci\u00f3n al centro de San\u00a0Francisco",
+        "116": "Vista a\u00e9rea de la bah\u00eda de San\u00a0Francisco en direcci\u00f3n al centro de la ciudad"
     },
     "A016_C002": {
         "0": "Atravesando un bosque de algas en la costa de California, Estados\u00a0Unidos"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Sobrevolando Europa Occidental con Gran\u00a0Breta\u00f1a e Irlanda a lo lejos",
+        "20": "Dirigi\u00e9ndose al sudeste sobre los Alpes y el valle del r\u00edo\u00a0Po",
+        "50": "Bajando por la pen\u00ednsula\u00a0it\u00e1lica y el mar\u00a0Adri\u00e1tico",
         "100": "Grecia, flanqueada por el mar\u00a0J\u00f3nico y el mar\u00a0Egeo",
         "160": "Dirigi\u00e9ndose al sudeste sobre el mar\u00a0Mediterr\u00e1neo",
         "185": "El mar\u00a0Mediterr\u00e1neo y el delta\u00a0del\u00a0r\u00edo\u00a0Nilo",
-        "20": "Dirigi\u00e9ndose al sudeste sobre los Alpes y el valle del r\u00edo\u00a0Po",
         "205": "El r\u00edo\u00a0Nilo discurriendo por el Sahara en Egipto",
         "220": "El desierto ar\u00e1bigo flanqueado por el r\u00edo\u00a0Nilo y el golfo\u00a0de\u00a0Suez",
-        "240": "Dirigi\u00e9ndose al sudeste sobre el mar\u00a0Rojo",
-        "50": "Bajando por la pen\u00ednsula\u00a0it\u00e1lica y el mar\u00a0Adri\u00e1tico"
+        "240": "Dirigi\u00e9ndose al sudeste sobre el mar\u00a0Rojo"
     },
     "A083_C002_1130KZ": {
         "0": "El reflejo del sol a lo largo de la costa\u00a0de\u00a0Ir\u00e1n",
@@ -153,63 +153,64 @@
         "0": "Vista a\u00e9rea del Cuerno\u00a0de\u00a0\u00c1frica, en direcci\u00f3n al Golfo\u00a0de\u00a0Ad\u00e9n"
     },
     "A103_C002_0205DG": {
+        "45": "El sudeste de la pen\u00ednsula ar\u00e1biga",
         "115": "El golfo de Om\u00e1n llegando a la costa\u00a0de\u00a0Makr\u00e1n",
         "145": "La costa\u00a0de\u00a0Makr\u00e1n de Ir\u00e1n y Pakist\u00e1n",
         "160": "Vista a\u00e9rea de Ir\u00e1n, en direcci\u00f3n a Afganist\u00e1n y Pakist\u00e1n",
         "180": "Vista a\u00e9rea de Afganist\u00e1n y Pakist\u00e1n hacia la cordillera\u00a0del\u00a0Karak\u00f3rum",
         "235": "Vista de la cordillera\u00a0del\u00a0Karak\u00f3rum de camino a China",
         "280": "El desierto de Taklamak\u00e1n, en China occidental",
-        "315": "Las monta\u00f1as Tian\u00a0Shan en Asia central",
-        "45": "El sudeste de la pen\u00ednsula ar\u00e1biga"
+        "315": "Las monta\u00f1as Tian\u00a0Shan en Asia central"
     },
     "A105_C0022120602": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico de camino a Am\u00e9rica\u00a0Central"
     },
     "A105_C002_021206_002": {
+        "70": "La costa del sudoeste de Am\u00e9rica\u00a0Central, en direcci\u00f3n al mar\u00a0Caribe",
         "100": "Cruzando Am\u00e9rica\u00a0Central hacia el mar\u00a0Caribe",
         "150": "Vista a\u00e9rea del mar\u00a0Caribe en direcci\u00f3n a Cuba",
         "240": "Vista a\u00e9rea de Cuba, con Florida y las Bahamas m\u00e1s all\u00e1",
         "300": "Vista a\u00e9rea de Florida y las Bahamas en direcci\u00f3n al mar\u00a0de\u00a0los\u00a0Sargazos",
-        "350": "Vista a\u00e9rea del mar\u00a0de\u00a0los\u00a0Sargazos adentr\u00e1ndose en el oc\u00e9ano\u00a0Atl\u00e1ntico",
-        "70": "La costa del sudoeste de Am\u00e9rica\u00a0Central, en direcci\u00f3n al mar\u00a0Caribe"
+        "350": "Vista a\u00e9rea del mar\u00a0de\u00a0los\u00a0Sargazos adentr\u00e1ndose en el oc\u00e9ano\u00a0Atl\u00e1ntico"
     },
     "A105_C003212CT": {
         "0": "Cruzando sobre el oc\u00e9ano\u00a0Pac\u00edfico\u00a0Sur de la noche al d\u00eda"
     },
     "A105_C003_0212CT": {
+        "70": "Cruzando sobre Nueva\u00a0Zelanda de la noche al d\u00eda",
         "110": "Llegando a Nueva\u00a0Zelanda al amanecer",
-        "170": "Saliendo de Nueva\u00a0Zelanda hacia el noreste sobre el oc\u00e9ano\u00a0Pac\u00edfico",
-        "70": "Cruzando sobre Nueva\u00a0Zelanda de la noche al d\u00eda"
+        "170": "Saliendo de Nueva\u00a0Zelanda hacia el noreste sobre el oc\u00e9ano\u00a0Pac\u00edfico"
     },
     "A108_C001215V8": {
         "0": "Sobrevolando el oc\u00e9ano\u00a0Pac\u00edfico hacia Am\u00e9rica\u00a0Central"
     },
     "A108_C001_0215V8": {
-        "110": "Pasando por Jamaica, cubierta de nubes, en el mar\u00a0Caribe",
-        "125": "Cruzando sobre Cuba, mirando hacia Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
-        "170": "Sobrevolando las Bahamas, mirando hacia Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
-        "190": "Islas\u00a0Turcas\u00a0y\u00a0Caicos en el oc\u00e9ano\u00a0Atl\u00e1ntico",
         "35": "Costas del Pac\u00edfico de Nicaragua, Costa\u00a0Rica y Panam\u00e1",
         "50": "Sobrevolando Am\u00e9rica\u00a0Central, con Sudam\u00e9rica a lo lejos",
         "65": "La Costa\u00a0de\u00a0los\u00a0Mosquitos de Nicaragua",
-        "85": "Vista a\u00e9rea del mar\u00a0Caribe de camino a Cuba"
+        "85": "Vista a\u00e9rea del mar\u00a0Caribe de camino a Cuba",
+        "110": "Pasando por Jamaica, cubierta de nubes, en el mar\u00a0Caribe",
+        "125": "Cruzando sobre Cuba, mirando hacia Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
+        "170": "Sobrevolando las Bahamas, mirando hacia Hait\u00ed y la Rep\u00fablica\u00a0Dominicana",
+        "190": "Islas\u00a0Turcas\u00a0y\u00a0Caicos en el oc\u00e9ano\u00a0Atl\u00e1ntico"
     },
     "A114_C001305OT": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a Estados\u00a0Unidos"
     },
     "A114_C001_0305OT": {
-        "130": "La Sierra\u00a0Madre\u00a0Occidental en la costa oeste de M\u00e9xico",
-        "185": "Vista a\u00e9rea de la Sierra\u00a0Madre\u00a0Occidental en direcci\u00f3n a la costa oeste de M\u00e9xico",
         "20": "En direcci\u00f3n al sur, bajando por la costa de California",
-        "225": "Mirando al sur hacia el oc\u00e9ano\u00a0Pac\u00edfico sobre la Sierra\u00a0Madre\u00a0del\u00a0Sur en M\u00e9xico",
-        "280": "El oc\u00e9ano\u00a0Pac\u00edfico en la costa de M\u00e9xico",
-        "290": "El oc\u00e9ano\u00a0Pac\u00edfico en la costa de M\u00e9xico y Guatemala",
         "50": "Vista a\u00e9rea del sur de California, en direcci\u00f3n a M\u00e9xico",
         "65": "Llegando al desierto\u00a0de\u00a0Mojave en el sur de California, con M\u00e9xico m\u00e1s all\u00e1",
-        "95": "El golfo\u00a0de\u00a0California flanqueado por el desierto\u00a0de\u00a0Sonora y la pen\u00ednsula\u00a0de\u00a0Baja\u00a0California"
+        "95": "El golfo\u00a0de\u00a0California flanqueado por el desierto\u00a0de\u00a0Sonora y la pen\u00ednsula\u00a0de\u00a0Baja\u00a0California",
+        "130": "La Sierra\u00a0Madre\u00a0Occidental en la costa oeste de M\u00e9xico",
+        "185": "Vista a\u00e9rea de la Sierra\u00a0Madre\u00a0Occidental en direcci\u00f3n a la costa oeste de M\u00e9xico",
+        "225": "Mirando al sur hacia el oc\u00e9ano\u00a0Pac\u00edfico sobre la Sierra\u00a0Madre\u00a0del\u00a0Sur en M\u00e9xico",
+        "280": "El oc\u00e9ano\u00a0Pac\u00edfico en la costa de M\u00e9xico",
+        "290": "El oc\u00e9ano\u00a0Pac\u00edfico en la costa de M\u00e9xico y Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "En direcci\u00f3n al noreste, por encima del macizo\u00a0Et\u00edope",
+        "45": "Sobrevolando el mar\u00a0Rojo hacia la pen\u00ednsula\u00a0ar\u00e1biga",
         "100": "Dirigi\u00e9ndose al noreste sobre la pen\u00ednsula\u00a0ar\u00e1biga",
         "130": "Vista a\u00e9rea de la pen\u00ednsula\u00a0ar\u00e1biga en direcci\u00f3n a Ir\u00e1n",
         "165": "Vista a\u00e9rea de la pen\u00ednsula\u00a0ar\u00e1biga llegando a Ir\u00e1n",
@@ -221,7 +222,6 @@
         "322": "Las monta\u00f1as\u00a0Pamir-Alay y el valle de Fergan\u00e1 en Asia central",
         "360": "Entrando en el sudeste de Kazajist\u00e1n desde Kirguist\u00e1n",
         "400": "En direcci\u00f3n al norte, por encima de Kazajist\u00e1n",
-        "45": "Sobrevolando el mar\u00a0Rojo hacia la pen\u00ednsula\u00a0ar\u00e1biga",
         "450": "Vista a\u00e9rea del macizo\u00a0de\u00a0Alt\u00e1i entrando en Mongolia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Dirigi\u00e9ndose al sudeste por encima de Siberia y Mongolia",
+        "22": "En direcci\u00f3n a Mongolia\u00a0Interior",
+        "32": "Vista a\u00e9rea de Mongolia, en direcci\u00f3n a China",
+        "60": "Vista a\u00e9rea del norte de China en direcci\u00f3n a la pen\u00ednsula\u00a0de\u00a0Corea",
         "110": "Vista a\u00e9rea de China en direcci\u00f3n a la pen\u00ednsula\u00a0de\u00a0Corea",
         "150": "La pen\u00ednsula\u00a0de\u00a0Corea con Jap\u00f3n a lo lejos",
         "180": "Vista a\u00e9rea de Corea\u00a0del\u00a0Sur, en direcci\u00f3n a Jap\u00f3n",
         "195": "Vista a\u00e9rea de Jap\u00f3n en direcci\u00f3n al oc\u00e9ano\u00a0Pac\u00edfico",
-        "22": "En direcci\u00f3n a Mongolia\u00a0Interior",
-        "260": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico al sudeste de Jap\u00f3n",
-        "32": "Vista a\u00e9rea de Mongolia, en direcci\u00f3n a China",
-        "60": "Vista a\u00e9rea del norte de China en direcci\u00f3n a la pen\u00ednsula\u00a0de\u00a0Corea"
+        "260": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico al sudeste de Jap\u00f3n"
     },
     "GMT060_117NC_363D": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0\u00cdndico en direcci\u00f3n a Perth, Australia",
+        "50": "En direcci\u00f3n al noreste, atravesando Australia\u00a0Occidental",
         "170": "Vista a\u00e9rea de Australia\u00a0Occidental llegando al Territorio\u00a0del\u00a0Norte",
         "220": "Vista a\u00e9rea del Territorio del Norte, Australia, en direcci\u00f3n a Nueva\u00a0Guinea",
-        "335": "Vista a\u00e9rea del mar\u00a0de\u00a0Arafura en direcci\u00f3n a Nueva\u00a0Guinea",
-        "50": "En direcci\u00f3n al noreste, atravesando Australia\u00a0Occidental"
+        "335": "Vista a\u00e9rea del mar\u00a0de\u00a0Arafura en direcci\u00f3n a Nueva\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Aurora\u00a0austral sobre la Ant\u00e1rtida"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico de camino a la costa de California",
+        "70": "Vista a\u00e9rea de la costa\u00a0de\u00a0California, en direcci\u00f3n al interior",
+        "85": "Sobrevolando Los\u00a0\u00c1ngeles, en la costa\u00a0oeste de Estados\u00a0Unidos",
+        "95": "Vista a\u00e9rea de Los\u00a0Angeles llegando a Las\u00a0Vegas, en Estados\u00a0Unidos",
         "110": "Vista a\u00e9rea de Las\u00a0Vegas en direcci\u00f3n a Salt\u00a0Lake\u00a0City, en Estados\u00a0Unidos",
         "120": "Vista a\u00e9rea del oeste de Estados\u00a0Unidos llegando a Salt\u00a0Lake\u00a0City",
         "155": "Pasando entre Salt\u00a0Lake\u00a0City y Denver, en Estados\u00a0Unidos",
-        "170": "Vista a\u00e9rea de las Monta\u00f1as\u00a0Rocosas en Estados\u00a0Unidos",
-        "70": "Vista a\u00e9rea de la costa\u00a0de\u00a0California, en direcci\u00f3n al interior",
-        "85": "Sobrevolando Los\u00a0\u00c1ngeles, en la costa\u00a0oeste de Estados\u00a0Unidos",
-        "95": "Vista a\u00e9rea de Los\u00a0Angeles llegando a Las\u00a0Vegas, en Estados\u00a0Unidos"
+        "170": "Vista a\u00e9rea de las Monta\u00f1as\u00a0Rocosas en Estados\u00a0Unidos"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico en direcci\u00f3n a M\u00e9xico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Dirigi\u00e9ndose al sudeste sobre las Grandes\u00a0Llanuras de Estados\u00a0Unidos",
+        "90": "Dirigi\u00e9ndose al sudeste sobre el Medio\u00a0Oeste de Estados\u00a0Unidos",
         "120": "Vista a\u00e9rea del sudeste de Estados\u00a0Unidos en direcci\u00f3n a Florida",
         "220": "Vista a\u00e9rea de Florida, en direcci\u00f3n a las Bahamas",
         "240": "Dirigi\u00e9ndose al sudeste por encima de las Bahamas",
         "285": "Vista a\u00e9rea de las Bahamas llegando a la Rep\u00fablica Dominicana y Hait\u00ed",
         "300": "Vista a\u00e9rea de la Rep\u00fablica\u00a0Dominicana y Hait\u00ed llegando al mar\u00a0Caribe",
-        "315": "Vista a\u00e9rea del mar\u00a0Caribe en direcci\u00f3n al sur hacia Venezuela",
-        "90": "Dirigi\u00e9ndose al sudeste sobre el Medio\u00a0Oeste de Estados\u00a0Unidos"
+        "315": "Vista a\u00e9rea del mar\u00a0Caribe en direcci\u00f3n al sur hacia Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "En direcci\u00f3n al noreste por la noche, por encima del S\u00e1hara",
+        "70": "Vista a\u00e9rea del Gran\u00a0Erg\u00a0Oriental en direcci\u00f3n al mar\u00a0Mediterr\u00e1neo",
         "100": "La costa\u00a0mediterr\u00e1nea de T\u00fanez y Libia",
         "120": "Dirigi\u00e9ndose a Italia, por encima del mar\u00a0Mediterr\u00e1neo",
         "140": "Vista a\u00e9rea del sur de Italia llegando a la pen\u00ednsula de los Balcanes, con Turqu\u00eda a lo lejos",
         "165": "Vista a\u00e9rea de la pen\u00ednsula de los Balcanes llegando al mar\u00a0Negro",
         "180": "Vista a\u00e9rea de la pen\u00ednsula de los Balcanes llegando al mar\u00a0Negro",
         "210": "Sobrevolando el mar\u00a0Negro hacia Ucrania",
-        "230": "Pasando por encima de Ucrania, hacia Rusia",
-        "70": "Vista a\u00e9rea del Gran\u00a0Erg\u00a0Oriental en direcci\u00f3n al mar\u00a0Mediterr\u00e1neo"
+        "230": "Pasando por encima de Ucrania, hacia Rusia"
     },
     "GMT314_139M_170NC": {
         "0": "Vista a\u00e9rea del oc\u00e9ano\u00a0Pac\u00edfico de camino a Baja\u00a0California",
+        "45": "Vista a\u00e9rea de Baja\u00a0California mirando al norte hacia Estados\u00a0Unidos",
+        "55": "Vista a\u00e9rea de M\u00e9xico en direcci\u00f3n al sudoeste de Estados\u00a0Unidos",
+        "75": "Vista a\u00e9rea del sudoeste de Estados\u00a0Unidos",
         "110": "Vista a\u00e9rea de las Monta\u00f1as\u00a0Rocosas llegando a Denver",
         "125": "Sobrevolando las Grandes\u00a0Llanuras de Estados\u00a0Unidos",
         "185": "Llegando a los Grandes\u00a0Lagos, con Ontario, Canad\u00e1, m\u00e1s all\u00e1",
@@ -361,28 +364,25 @@
         "210": "La aurora\u00a0boreal sobre el oeste de Ontario, Canad\u00e1",
         "235": "La aurora\u00a0boreal sobre el norte de Ontario, Canad\u00e1",
         "250": "La aurora\u00a0boreal sobre el norte de Quebec, Canad\u00e1",
-        "300": "Dirigi\u00e9ndose hacia el Atl\u00e1ntico Norte con la aurora\u00a0boreal sobre Labrador, Canad\u00e1",
-        "45": "Vista a\u00e9rea de Baja\u00a0California mirando al norte hacia Estados\u00a0Unidos",
-        "55": "Vista a\u00e9rea de M\u00e9xico en direcci\u00f3n al sudoeste de Estados\u00a0Unidos",
-        "75": "Vista a\u00e9rea del sudoeste de Estados\u00a0Unidos"
+        "300": "Dirigi\u00e9ndose hacia el Atl\u00e1ntico Norte con la aurora\u00a0boreal sobre Labrador, Canad\u00e1"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Vista a\u00e9rea del Atl\u00e1ntico\u00a0Norte llegando a Irlanda y Gran Breta\u00f1a",
-        "105": "Vista a\u00e9rea de Europa central, dirigi\u00e9ndose a Rusia",
         "15": "Irlanda y Gran\u00a0Breta\u00f1a",
+        "45": "Vista a\u00e9rea de Gran\u00a0Breta\u00f1a en direcci\u00f3n hacia Europa continental",
+        "65": "Vista a\u00e9rea del noroeste de Europa, dirigi\u00e9ndose a Rusia",
+        "105": "Vista a\u00e9rea de Europa central, dirigi\u00e9ndose a Rusia",
         "150": "Vista a\u00e9rea de Europa del este, con Mosc\u00fa a lo lejos",
         "165": "Vista a\u00e9rea de Europa del este, mirando hacia Rusia",
         "185": "Vista a\u00e9rea del oeste de Rusia, pasando por Mosc\u00fa",
-        "195": "Vista a\u00e9rea de Rusia, en direcci\u00f3n a Asia\u00a0central",
-        "45": "Vista a\u00e9rea de Gran\u00a0Breta\u00f1a en direcci\u00f3n hacia Europa continental",
-        "65": "Vista a\u00e9rea del noroeste de Europa, dirigi\u00e9ndose a Rusia"
+        "195": "Vista a\u00e9rea de Rusia, en direcci\u00f3n a Asia\u00a0central"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Vista a\u00e9rea de T\u00fanez, en direcci\u00f3n a Italia",
+        "5": "Vista a\u00e9rea del mar\u00a0Mediterr\u00e1neo mirando hacia Sicilia y la pen\u00ednsula\u00a0it\u00e1lica",
         "15": "Vista a\u00e9rea del sur de Italia con la pen\u00ednsula\u00a0de\u00a0los\u00a0Balcanes m\u00e1s all\u00e1",
         "25": "Vista a\u00e9rea de la pen\u00ednsula de los Balcanes en direcci\u00f3n a Asia central",
         "40": "Vista a\u00e9rea de la pen\u00ednsula de los Balcanes pasando por el mar\u00a0Negro",
-        "5": "Vista a\u00e9rea del mar\u00a0Mediterr\u00e1neo mirando hacia Sicilia y la pen\u00ednsula\u00a0it\u00e1lica",
         "55": "Vista a\u00e9rea de Ucrania, con Rusia m\u00e1s all\u00e1",
         "75": "Vista a\u00e9rea del sudoeste de Rusia, pasando junto Kazajist\u00e1n"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "Llegando al puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
-        "130": "Siguiendo el r\u00edo\u00a0T\u00e1mesis en Londres hacia el London\u00a0Eye",
         "20": "Siguiendo el r\u00edo T\u00e1mesis en Londres",
+        "130": "Siguiendo el r\u00edo\u00a0T\u00e1mesis en Londres hacia el London\u00a0Eye",
         "210": "Llegando al London\u00a0Eye sobre el r\u00edo\u00a0T\u00e1mesis",
         "310": "Siguiendo el r\u00edo\u00a0T\u00e1mesis m\u00e1s all\u00e1 del London\u00a0Eye",
         "325": "Pasando por el palacio de Westminster sobre el r\u00edo\u00a0T\u00e1mesis, en Londres"
     },
     "L007_C007": {
         "0": "Sobrevolando los terrenos del Palacio\u00a0de\u00a0Buckingham, Londres",
+        "24": "Vista a\u00e9rea del Palacio\u00a0de\u00a0Buckingham de Londres",
+        "49": "Vista a\u00e9rea del parque de St.\u00a0James, dirigi\u00e9ndose al r\u00edo\u00a0T\u00e1mesis, Londres",
         "104": "Cruzando el r\u00edo\u00a0T\u00e1mesis pasando por el London\u00a0Eye",
         "149": "Sobrevolando el sur de Londres",
-        "24": "Vista a\u00e9rea del Palacio\u00a0de\u00a0Buckingham de Londres",
         "279": "Pasando por The\u00a0Shard en el sur de Londres",
         "299": "Cruzando el r\u00edo\u00a0T\u00e1mesis, en Londres",
-        "324": "Cruzando el r\u00edo\u00a0T\u00e1mesis a la altura del puente\u00a0de\u00a0la\u00a0Torre de Londres",
-        "49": "Vista a\u00e9rea del parque de St.\u00a0James, dirigi\u00e9ndose al r\u00edo\u00a0T\u00e1mesis, Londres"
+        "324": "Cruzando el r\u00edo\u00a0T\u00e1mesis a la altura del puente\u00a0de\u00a0la\u00a0Torre de Londres"
     },
     "L010_C006": {
         "0": "Llegando al puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
+        "78": "Siguiendo el r\u00edo T\u00e1mesis en Londres",
         "178": "Sur del r\u00edo\u00a0T\u00e1mesis en Londres",
-        "258": "Cruzando el r\u00edo\u00a0T\u00e1mesis, en Londres",
-        "78": "Siguiendo el r\u00edo T\u00e1mesis en Londres"
+        "258": "Cruzando el r\u00edo\u00a0T\u00e1mesis, en Londres"
     },
     "L012_C002": {
         "0": "Llegando al puente\u00a0de\u00a0la\u00a0Torre sobre el r\u00edo\u00a0T\u00e1mesis, Londres",
         "20": "Cruzando el r\u00edo\u00a0T\u00e1mesis, en Londres",
-        "200": "Cruzando el r\u00edo\u00a0T\u00e1mesis hacia Westminster, Londres",
-        "270": "Vista a\u00e9rea de Westminster, Londres",
         "60": "Pasando por The\u00a0Shard en el sur de Londres",
-        "92": "Sur del r\u00edo\u00a0T\u00e1mesis en direcci\u00f3n al London\u00a0Eye"
+        "92": "Sur del r\u00edo\u00a0T\u00e1mesis en direcci\u00f3n al London\u00a0Eye",
+        "200": "Cruzando el r\u00edo\u00a0T\u00e1mesis hacia Westminster, Londres",
+        "270": "Vista a\u00e9rea de Westminster, Londres"
     },
     "LA_A005_C009": {
         "0": "Siguiendo la interestatal\u00a0110 hacia el norte a su paso por Los\u00a0\u00c1ngeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Vista a\u00e9rea del Upper\u00a0East\u00a0Side y Central\u00a0Park, en Nueva\u00a0York",
+        "50": "Vista a\u00e9rea de Midtown\u00a0Manhattan, dirigi\u00e9ndose al centro hacia el Empire\u00a0State",
         "160": "Llegando al Empire\u00a0State, en Nueva York",
-        "205": "Sobrevolando el Empire\u00a0State en direcci\u00f3n a Lower\u00a0Manhattan",
-        "50": "Vista a\u00e9rea de Midtown\u00a0Manhattan, dirigi\u00e9ndose al centro hacia el Empire\u00a0State"
+        "205": "Sobrevolando el Empire\u00a0State en direcci\u00f3n a Lower\u00a0Manhattan"
     },
     "N006_C003": {
         "0": "Llegando a Lower\u00a0Manhattan en Nueva\u00a0York",
-        "140": "Vista a\u00e9rea de Lower\u00a0Manhattan en Nueva\u00a0York en direcci\u00f3n a Midtown",
-        "40": "Vista a\u00e9rea de Lower\u00a0Manhattan en Nueva\u00a0York"
+        "40": "Vista a\u00e9rea de Lower\u00a0Manhattan en Nueva\u00a0York",
+        "140": "Vista a\u00e9rea de Lower\u00a0Manhattan en Nueva\u00a0York en direcci\u00f3n a Midtown"
     },
     "N008_C003": {
         "0": "Llegando a Lower\u00a0Manhattan desde el puerto de Nueva\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Bajando por la 7.\u00aa\u00a0Avenida hacia Times\u00a0Square, Nueva\u00a0York",
-        "120": "Bajando por la 7.\u00aa\u00a0Avenida en Midtown\u00a0Manhattan, Nueva\u00a0York",
-        "40": "Vista a\u00e9rea de Times\u00a0Square en Nueva\u00a0York"
+        "40": "Vista a\u00e9rea de Times\u00a0Square en Nueva\u00a0York",
+        "120": "Bajando por la 7.\u00aa\u00a0Avenida en Midtown\u00a0Manhattan, Nueva\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Avanzando por los Cuernos del Paine en el Parque Nacional Torres del Paine, Chile"
@@ -592,16 +592,16 @@
         "0": "Sobrevolando el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y002_C013_0226": {
-        "210": "Sobrevolando el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "70": "Acerc\u00e1ndose al Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "87": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
+        "87": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
+        "210": "Sobrevolando el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y003_C009": {
         "0": "Sobrevolando el Parque Nacional de Yosemite, Estados\u00a0Unidos",
+        "93": "Viajando hacia el Pico\u00a0Merced en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "130": "Pico\u00a0Merced en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "221": "Pasando por el Pico\u00a0Merced en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "244": "Recorriendo el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "93": "Viajando hacia el Pico\u00a0Merced en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
+        "244": "Recorriendo el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
@@ -614,29 +614,29 @@
         "0": "Sobrevolando el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y005_C003_0228SC": {
+        "40": "Viajando hacia el Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
+        "60": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "155": "Sobrevolando el Parque Nacional de Yosemite con la cascada Nevada a lo lejos",
         "255": "Cascadas Nevada e Illilouette en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "285": "Cascadas Nevada, Vernal e Illilouette en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "40": "Viajando hacia el Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "60": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
+        "285": "Cascadas Nevada, Vernal e Illilouette en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y009_C015304I": {
         "0": "Pasando por Tuolumne\u00a0Meadows en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     },
     "Y011_C001": {
         "0": "Viajando hacia la cascada Bridalveil y El\u00a0Capit\u00e1n en el Parque Nacional de Yosemite",
+        "44": "Viajando hacia el este en direcci\u00f3n a El\u00a0Capit\u00e1n en el Parque Nacional de Yosemite, Estados Unidos",
+        "87": "Pasando por El\u00a0Capit\u00e1n, Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "120": "Viajando hacia el este en direcci\u00f3n al Half\u00a0Dome en el Parque Nacional de Yosemite, Estados Unidos",
         "390": "Half\u00a0Dome en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "44": "Viajando hacia el este en direcci\u00f3n a El\u00a0Capit\u00e1n en el Parque Nacional de Yosemite, Estados Unidos",
         "470": "Pasando por el Half\u00a0Dome en el valle de Yosemite, Estados\u00a0Unidos",
-        "585": "Viajando hacia el este sobre el valle de Yosemite, Estados\u00a0Unidos",
-        "87": "Pasando por El\u00a0Capit\u00e1n, Parque Nacional de Yosemite, Estados\u00a0Unidos"
+        "585": "Viajando hacia el este sobre el valle de Yosemite, Estados\u00a0Unidos"
     },
     "Y011_C008": {
         "0": "Viajando hacia Matthes\u00a0Crest en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
+        "75": "Sobrevolando Matthes\u00a0Crest en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "124": "Sobrevolando Matthes Crest en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
         "215": "Sobrevolando Matthes\u00a0Crest en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "396": "Avanzando hacia Tuolumne\u00a0Meadows en el Parque Nacional de Yosemite, Estados\u00a0Unidos",
-        "75": "Sobrevolando Matthes\u00a0Crest en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
+        "396": "Avanzando hacia Tuolumne\u00a0Meadows en el Parque Nacional de Yosemite, Estados\u00a0Unidos"
     }
 }

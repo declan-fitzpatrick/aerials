@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Kanari\u00f8yene, Atlanterhavet og kysten av Afrika",
+        "45": "P\u00e5 vei nord\u00f8stover langs kysten av Marokko",
+        "75": "Passerer over Atlasfjellene i Marokko",
         "105": "Over Marokko i retning Middelhavet",
         "125": "Middelhavet og det s\u00f8rlige Spania",
         "145": "P\u00e5 vei nord\u00f8st over Costa\u00a0Blanca i Spania",
         "165": "P\u00e5 vei nord\u00f8st over Balearene utenfor Spania",
         "185": "Over vestre deler av Middelhavet med Alpene i bakgrunnen",
-        "220": "P\u00e5 vei nord\u00f8st over Alpene",
-        "45": "P\u00e5 vei nord\u00f8stover langs kysten av Marokko",
-        "75": "Passerer over Atlasfjellene i Marokko"
+        "220": "P\u00e5 vei nord\u00f8st over Alpene"
     },
     "A001_C007": {
         "0": "Gylne\u00a0maneter i havet ved Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Over Fisherman\u2019s\u00a0Wharf med kurs mot San\u00a0Francisco sentrum",
+        "80": "P\u00e5 vei mot Coit\u00a0Tower med San\u00a0Francisco sentrum og Bay\u00a0Bridge i bakgrunnen",
         "150": "Passerer Coit\u00a0Tower med kurs mot San\u00a0Francisco og Bay\u00a0Bridge",
-        "196": "San\u00a0Francisco sentrum",
-        "80": "P\u00e5 vei mot Coit\u00a0Tower med San\u00a0Francisco sentrum og Bay\u00a0Bridge i bakgrunnen"
+        "196": "San\u00a0Francisco sentrum"
     },
     "A008_C007": {
         "0": "Over Marin\u00a0Headlands med utsikt over Golden\u00a0Gate Bridge",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Over det vestlige Afrika i retning Sahara-\u00f8rkenen",
+        "30": "Krysser Sahara-\u00f8rkenen i Nord-Afrika",
         "110": "Passerer Ahaggarfjellene i Sahara-\u00f8rkenen i Nord-Afrika",
         "155": "Over den store \u00f8stlige sand\u00f8rkenen i Nord\u2011Afrika i retning Middelhavet",
         "195": "Kysten av Tunisia og Middelhavet",
@@ -64,7 +65,6 @@
         "230": "Over Middelhavet i retning Italia",
         "245": "Over Italia med kurs mot Balkanhalv\u00f8ya",
         "285": "Over Balkanhalv\u00f8ya i retning Karpatene",
-        "30": "Krysser Sahara-\u00f8rkenen i Nord-Afrika",
         "310": "Karpatene og Svartehavet"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Over San Francisco-bukta med kurs mot Embarcadero",
+        "90": "Over Embarcadero med utsikt over Market\u00a0Street i San\u00a0Francisco",
         "150": "F\u00f8lger Market\u00a0Street gjennom San\u00a0Francisco sentrum",
-        "360": "F\u00f8lger Market\u00a0Street gjennom San\u00a0Francisco sentrum",
-        "90": "Over Embarcadero med utsikt over Market\u00a0Street i San\u00a0Francisco"
+        "360": "F\u00f8lger Market\u00a0Street gjennom San\u00a0Francisco sentrum"
     },
     "A013_C005": {
         "0": "Langsmed Presidio med kurs mot Golden\u00a0Gate Bridge i San\u00a0Francisco",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "P\u00e5 vei mot Golden\u00a0Gate Bridge fra San\u00a0Francisco",
+        "60": "Langsmed Golden\u00a0Gate Bridge med kurs mot Marin\u00a0Headlands",
         "140": "Krysser Golden\u00a0Gate Bridge",
         "230": "Passerer det nordlige t\u00e5rnet p\u00e5 Golden\u00a0Gate Bridge",
-        "260": "Over San\u00a0Francisco-bukta langsmed Golden\u00a0Gate Bridge",
-        "60": "Langsmed Golden\u00a0Gate Bridge med kurs mot Marin\u00a0Headlands"
+        "260": "Over San\u00a0Francisco-bukta langsmed Golden\u00a0Gate Bridge"
     },
     "A014_C008": {
         "0": "Pukkelhodepapeg\u00f8yefisk over korallrevet utenfor Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "P\u00e5 vei mot Bay\u00a0Bridge og San\u00a0Francisco sentrum",
-        "116": "Over San\u00a0Francisco-bukta med kurs mot sentrum",
-        "80": "Krysser over Bay\u00a0Bridge med kurs mot San\u00a0Francisco sentrum"
+        "80": "Krysser over Bay\u00a0Bridge med kurs mot San\u00a0Francisco sentrum",
+        "116": "Over San\u00a0Francisco-bukta med kurs mot sentrum"
     },
     "A016_C002": {
         "0": "P\u00e5 vei gjennom en tangskog utenfor kysten av California i USA"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "P\u00e5 vei over Vest-Europa med Storbritannia og Irland i det fjerne",
+        "20": "I s\u00f8r\u00f8stlig retning over Alpene og Podalen",
+        "50": "Med retning s\u00f8r over den\u00a0italienske halv\u00f8ya og Adriaterhavet",
         "100": "Hellas flankert av Det joniske hav og Egeerhavet",
         "160": "P\u00e5 vei s\u00f8r\u00f8st over Middelhavet",
         "185": "Middelhavet og Nilens delta",
-        "20": "I s\u00f8r\u00f8stlig retning over Alpene og Podalen",
         "205": "Nilen flyter gjennom Sahara-\u00f8rkenen i Egypt",
         "220": "\u00d8st\u00f8rkenen flankert av Nilen og Suezbukta",
-        "240": "I s\u00f8r\u00f8stlig retning over R\u00f8dehavet",
-        "50": "Med retning s\u00f8r over den\u00a0italienske halv\u00f8ya og Adriaterhavet"
+        "240": "I s\u00f8r\u00f8stlig retning over R\u00f8dehavet"
     },
     "A083_C002_1130KZ": {
         "0": "Speilbilde av solen langs kysten av Iran",
@@ -153,63 +153,64 @@
         "0": "Over Afrikas horn i retning Adenbukta"
     },
     "A103_C002_0205DG": {
+        "45": "S\u00f8r\u00f8stlige deler av den\u00a0arabiske halv\u00f8y",
         "115": "Omanbukta i retning Makran-kysten",
         "145": "Makran-kysten av Iran og Pakistan",
         "160": "Over Iran i retning Afghanistan og Pakistan",
         "180": "Over Afghanistan og Pakistan med kurs mot Karakorum-fjellkjeden",
         "235": "Over Karakorum-fjellkjeden p\u00e5 vei inn i Kina",
         "280": "Taklamakan-\u00f8rkenen i det vestlige Kina",
-        "315": "Tianfjellene i Sentral-Asia",
-        "45": "S\u00f8r\u00f8stlige deler av den\u00a0arabiske halv\u00f8y"
+        "315": "Tianfjellene i Sentral-Asia"
     },
     "A105_C0022120602": {
         "0": "Over Stillehavet i retning Mellom-Amerika"
     },
     "A105_C002_021206_002": {
+        "70": "Kysten s\u00f8rvest i Mellom-Amerika i retning Karibia",
         "100": "Krysser Mellom-Amerika i retning Karibia",
         "150": "Over Karibia i retning Cuba",
         "240": "Over Cuba med Florida og Bahamas i bakgrunnen",
         "300": "Over Florida og Bahamas med kurs mot Sargassohavet",
-        "350": "Over Sargassohavet p\u00e5 vei ut til Atlanterhavet",
-        "70": "Kysten s\u00f8rvest i Mellom-Amerika i retning Karibia"
+        "350": "Over Sargassohavet p\u00e5 vei ut til Atlanterhavet"
     },
     "A105_C003212CT": {
         "0": "G\u00e5r fra natt til dag over det s\u00f8rlige Stillehavet"
     },
     "A105_C003_0212CT": {
+        "70": "G\u00e5r fra natt til dag over New\u00a0Zealand",
         "110": "P\u00e5 vei inn i soloppgangen over New\u00a0Zealand",
-        "170": "Forbi New\u00a0Zealand p\u00e5 vei nord\u00f8st over Stillehavet",
-        "70": "G\u00e5r fra natt til dag over New\u00a0Zealand"
+        "170": "Forbi New\u00a0Zealand p\u00e5 vei nord\u00f8st over Stillehavet"
     },
     "A108_C001215V8": {
         "0": "P\u00e5 vei over Stillehavet mot Mellom-Amerika"
     },
     "A108_C001_0215V8": {
-        "110": "Passerer over et skydekket Jamaica i Karibia",
-        "125": "Krysser over Cuba mot Haiti og Den\u00a0dominikanske republikk",
-        "170": "P\u00e5 vei over Bahamas med fokus mot Haiti og Den\u00a0dominikanske republikk",
-        "190": "Turks- og Caicos\u00f8yene i Atlanterhavet",
         "35": "Stillehavskysten langs Nicaragua, Costa\u00a0Rica og Panama",
         "50": "Passerer over Mellom-Amerika med S\u00f8r-Amerika i det fjerne",
         "65": "Mosquitokysten av Nicaragua",
-        "85": "Over Karibia med kurs mot Cuba"
+        "85": "Over Karibia med kurs mot Cuba",
+        "110": "Passerer over et skydekket Jamaica i Karibia",
+        "125": "Krysser over Cuba mot Haiti og Den\u00a0dominikanske republikk",
+        "170": "P\u00e5 vei over Bahamas med fokus mot Haiti og Den\u00a0dominikanske republikk",
+        "190": "Turks- og Caicos\u00f8yene i Atlanterhavet"
     },
     "A114_C001305OT": {
         "0": "Over Stillehavet i retning USA"
     },
     "A114_C001_0305OT": {
-        "130": "Fjellkjeden Sierra\u00a0Madre Occidental p\u00e5 vestkysten av Mexico",
-        "185": "Over fjellkjeden Sierra\u00a0Madre Occidental i retning vestkysten av Mexico",
         "20": "P\u00e5 vei s\u00f8rover langs kysten av California",
-        "225": "Over Sierra\u00a0Madre del\u00a0Sur i Mexico med fokus s\u00f8rover mot Stillehavet",
-        "280": "Stillehavet utenfor kysten av Mexico",
-        "290": "Stillehavet utenfor kysten av Mexico og Guatemala",
         "50": "Over det s\u00f8rlige California i retning Mexico",
         "65": "P\u00e5 vei mot Mojave-\u00f8rkenen i det s\u00f8rlige California med Mexico i bakgrunnen",
-        "95": "Californiabukta flankert av Sonora\u00f8rkenen og halv\u00f8ya Baja\u00a0California"
+        "95": "Californiabukta flankert av Sonora\u00f8rkenen og halv\u00f8ya Baja\u00a0California",
+        "130": "Fjellkjeden Sierra\u00a0Madre Occidental p\u00e5 vestkysten av Mexico",
+        "185": "Over fjellkjeden Sierra\u00a0Madre Occidental i retning vestkysten av Mexico",
+        "225": "Over Sierra\u00a0Madre del\u00a0Sur i Mexico med fokus s\u00f8rover mot Stillehavet",
+        "280": "Stillehavet utenfor kysten av Mexico",
+        "290": "Stillehavet utenfor kysten av Mexico og Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "P\u00e5 vei nord\u00f8st over h\u00f8ylandet i Etiopia",
+        "45": "P\u00e5 vei over R\u00f8dehavet til den\u00a0arabiske halv\u00f8y",
         "100": "I nord\u00f8stlig retning over den\u00a0arabiske halv\u00f8y",
         "130": "Over Den\u00a0arabiske halv\u00f8y med kurs mot Iran",
         "165": "Over Den\u00a0arabiske halv\u00f8y i retning Iran",
@@ -221,7 +222,6 @@
         "322": "Alajfjellene og Ferganadalen i Sentral-Asia",
         "360": "P\u00e5 vei inn i s\u00f8rlige Kasakhstan fra Kirgisistan",
         "400": "P\u00e5 vei nord over Kazakhstan",
-        "45": "P\u00e5 vei over R\u00f8dehavet til den\u00a0arabiske halv\u00f8y",
         "450": "Over Altaj-fjellene p\u00e5 vei inn i Mongolia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "P\u00e5 vei s\u00f8r\u00f8st over Sibir og Mongolia",
+        "22": "I retning indre Mongolia",
+        "32": "Over Mongolia med kurs mot Kina",
+        "60": "Over det nordlige Kina i retning Koreahalv\u00f8ya",
         "110": "Over Kina i retning Koreahalv\u00f8ya",
         "150": "Koreahalv\u00f8ya med Japan i det fjerne",
         "180": "Over S\u00f8r-Korea med kurs mot Japan",
         "195": "Over Japan med fokus mot Stillehavet",
-        "22": "I retning indre Mongolia",
-        "260": "Over Stillehavet s\u00f8r\u00f8st for Japan",
-        "32": "Over Mongolia med kurs mot Kina",
-        "60": "Over det nordlige Kina i retning Koreahalv\u00f8ya"
+        "260": "Over Stillehavet s\u00f8r\u00f8st for Japan"
     },
     "GMT060_117NC_363D": {
         "0": "Over Det\u00a0indiske hav i retning Perth i Australia",
+        "50": "P\u00e5 vei nord\u00f8st over Vest-Australia",
         "170": "Over Vest\u2011Australia i retning Nordterritoriet",
         "220": "Over Nordterritoriet i Australia i retning Ny\u2011Guinea",
-        "335": "Over Arafurasj\u00f8en med kurs mot Ny\u2011Guinea",
-        "50": "P\u00e5 vei nord\u00f8st over Vest-Australia"
+        "335": "Over Arafurasj\u00f8en med kurs mot Ny\u2011Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "S\u00f8rlys over Antarktis"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Over Stillehavet i retning kysten av California",
+        "70": "Over kysten av California med kurs mot land",
+        "85": "Passerer over Los\u00a0Angeles p\u00e5 vestkysten av USA",
+        "95": "Over Los\u00a0Angeles i retning Las\u00a0Vegas i USA",
         "110": "Over Las\u00a0Vegas med retning mot Salt\u00a0Lake\u00a0City i USA",
         "120": "Over vestlige deler av USA i retning Salt\u00a0Lake\u00a0City",
         "155": "Passerer mellom Salt\u00a0Lake\u00a0City og Denver i USA",
-        "170": "Over Rocky\u00a0Mountains i USA",
-        "70": "Over kysten av California med kurs mot land",
-        "85": "Passerer over Los\u00a0Angeles p\u00e5 vestkysten av USA",
-        "95": "Over Los\u00a0Angeles i retning Las\u00a0Vegas i USA"
+        "170": "Over Rocky\u00a0Mountains i USA"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Over Stillehavet i retning Mexico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "I s\u00f8r\u00f8stlig retning over Great\u00a0Plains i USA",
+        "90": "I s\u00f8r\u00f8stlig retning over midtvesten i USA",
         "120": "Over det s\u00f8r\u00f8stlige USA i retning Florida",
         "220": "Over Florida med kurs mot Bahamas",
         "240": "P\u00e5 vei s\u00f8r\u00f8st over Bahamas",
         "285": "Over Bahamas i retning Den\u00a0dominikanske republikk og Haiti",
         "300": "Over Den\u00a0dominikanske republikk og Haiti i retning Karibia",
-        "315": "Over Karibia p\u00e5 vei s\u00f8rover mot Venezuela",
-        "90": "I s\u00f8r\u00f8stlig retning over midtvesten i USA"
+        "315": "Over Karibia p\u00e5 vei s\u00f8rover mot Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "P\u00e5 vei nord\u00f8st over Sahara-\u00f8rkenen om natten",
+        "70": "Over den store \u00f8stlige sand\u00f8rkenen i retning Middelhavet",
         "100": "Middelhavskysten av Tunisia og Libya",
         "120": "P\u00e5 vei over Middelhavet mot Italia",
         "140": "Over s\u00f8rlige deler av Italia i retning Balkanhalv\u00f8ya med Tyrkia i det fjerne",
         "165": "Over Balkanhalv\u00f8ya med kurs mot Svartehavet",
         "180": "Over Balkanhalv\u00f8ya i retning Svartehavet",
         "210": "P\u00e5 vei over Svartehavet mot Ukraina",
-        "230": "P\u00e5 vei over Ukraina mot Russland",
-        "70": "Over den store \u00f8stlige sand\u00f8rkenen i retning Middelhavet"
+        "230": "P\u00e5 vei over Ukraina mot Russland"
     },
     "GMT314_139M_170NC": {
         "0": "Over Stillehavet i retning Baja\u00a0California",
+        "45": "Over Baja\u00a0California med fokus nordover mot USA",
+        "55": "Over Mexico i retning mot det s\u00f8rvestlige USA",
+        "75": "Over det s\u00f8rvestlige USA",
         "110": "Over Rocky\u00a0Mountains i retning Denver",
         "125": "P\u00e5 vei over Great\u00a0Plains i USA",
         "185": "P\u00e5 vei mot Great\u00a0Lakes med Ontario i Canada i bakgrunnen",
@@ -361,28 +364,25 @@
         "210": "Nordlys over vestlige deler av Ontario i Canada",
         "235": "Nordlys over nordlige deler av Ontario i Canada",
         "250": "Nordlys over nordlige deler av Quebec i Canada",
-        "300": "I retning Nordatlanteren med nordlys over Labrador i Canada",
-        "45": "Over Baja\u00a0California med fokus nordover mot USA",
-        "55": "Over Mexico i retning mot det s\u00f8rvestlige USA",
-        "75": "Over det s\u00f8rvestlige USA"
+        "300": "I retning Nordatlanteren med nordlys over Labrador i Canada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Over Nordatlanteren i retning Irland og Storbritannia",
-        "105": "Over Sentral-Europa i retning Russland",
         "15": "Irland og Storbritannia",
+        "45": "Over Storbritannia med kurs mot det europeiske fastlandet",
+        "65": "Over Nordvest-Europa i retning Russland",
+        "105": "Over Sentral-Europa i retning Russland",
         "150": "Over \u00d8st-Europa med Moskva i det fjerne",
         "165": "Over \u00d8st-Europa med fokus mot Moskva",
         "185": "Over Vest-Russland p\u00e5 vei forbi Moskva",
-        "195": "Over Russland med kurs mot Sentral-Asia",
-        "45": "Over Storbritannia med kurs mot det europeiske fastlandet",
-        "65": "Over Nordvest-Europa i retning Russland"
+        "195": "Over Russland med kurs mot Sentral-Asia"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Over Tunisia i retning Italia",
+        "5": "Over Middelhavet med fokus mot Sicilia og den\u00a0italienske halv\u00f8ya",
         "15": "Over s\u00f8rlige deler av Italia med Balkanhalv\u00f8ya i bakgrunnen",
         "25": "Over Balkanhalv\u00f8ya med kurs mot Sentral-Asia",
         "40": "Over Balkanhalv\u00f8ya p\u00e5 vei forbi Svartehavet",
-        "5": "Over Middelhavet med fokus mot Sicilia og den\u00a0italienske halv\u00f8ya",
         "55": "Over Ukraina med Russland i det fjerne",
         "75": "Over S\u00f8rvest-Russland p\u00e5 vei forbi Kasakhstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "P\u00e5 vei mot Tower\u00a0Bridge ved Themsen i London",
-        "130": "F\u00f8lger Themsen mot London\u00a0Eye",
         "20": "F\u00f8lger Themsen i London",
+        "130": "F\u00f8lger Themsen mot London\u00a0Eye",
         "210": "P\u00e5 vei mot London\u00a0Eye ved Themsen",
         "310": "F\u00f8lger Themsen forbi London\u00a0Eye",
         "325": "Passerer parlamentsbygningene ved themsen i London"
     },
     "L007_C007": {
         "0": "Passerer over Buckingham\u00a0Palace i London",
+        "24": "Over Buckingham\u00a0Palace i London",
+        "49": "Over St\u00a0James\u2019s Park med kurs mot Themsen i London",
         "104": "Krysser Themsen og passerer over London\u00a0Eye",
         "149": "Passerer over S\u00f8r-London",
-        "24": "Over Buckingham\u00a0Palace i London",
         "279": "Passerer The\u00a0Shard i S\u00f8r-London",
         "299": "Krysser Themsen i London",
-        "324": "Krysser Themsen ved Tower\u00a0Bridge i London",
-        "49": "Over St\u00a0James\u2019s Park med kurs mot Themsen i London"
+        "324": "Krysser Themsen ved Tower\u00a0Bridge i London"
     },
     "L010_C006": {
         "0": "P\u00e5 vei mot Tower\u00a0Bridge ved Themsen i London",
+        "78": "F\u00f8lger Themsen i London",
         "178": "S\u00f8r for Themsen i London",
-        "258": "Krysser Themsen i London",
-        "78": "F\u00f8lger Themsen i London"
+        "258": "Krysser Themsen i London"
     },
     "L012_C002": {
         "0": "P\u00e5 vei mot Tower\u00a0Bridge ved Themsen i London",
         "20": "Krysser Themsen i London",
-        "200": "Krysser Themsen med kurs mot Westminster i London",
-        "270": "Over Westminster i London",
         "60": "Passerer The\u00a0Shard i S\u00f8r-London",
-        "92": "S\u00f8r for Themsen med kurs mot London\u00a0Eye"
+        "92": "S\u00f8r for Themsen med kurs mot London\u00a0Eye",
+        "200": "Krysser Themsen med kurs mot Westminster i London",
+        "270": "Over Westminster i London"
     },
     "LA_A005_C009": {
         "0": "F\u00f8lger Interstate 110 nordover gjennom Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Over Upper East Side og Central\u00a0Park i New\u00a0York",
+        "50": "Over Midtown p\u00e5 Manhattan i retning sentrum og Empire\u00a0State Building",
         "160": "P\u00e5 vei mot Empire\u00a0State Building i New\u00a0York",
-        "205": "Passerer Empire\u00a0State Building med kurs mot nedre del av Manhattan",
-        "50": "Over Midtown p\u00e5 Manhattan i retning sentrum og Empire\u00a0State Building"
+        "205": "Passerer Empire\u00a0State Building med kurs mot nedre del av Manhattan"
     },
     "N006_C003": {
         "0": "P\u00e5 vei mot nedre del av Manhattan fra New\u00a0York-bukta",
-        "140": "Over nedre del av Manhattan i New\u00a0York med kurs mot Midtown",
-        "40": "Over nedre del av Manhattan i New\u00a0York"
+        "40": "Over nedre del av Manhattan i New\u00a0York",
+        "140": "Over nedre del av Manhattan i New\u00a0York med kurs mot Midtown"
     },
     "N008_C003": {
         "0": "P\u00e5 vei mot nedre del av Manhattan fra New\u00a0York-bukta",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "P\u00e5 vei ned 7th\u00a0Avenue med kurs mot Times\u00a0Square i New\u00a0York",
-        "120": "P\u00e5 vei ned 7th\u00a0Avenue i Midtown p\u00e5 Manhattan i New\u00a0York",
-        "40": "Over Times\u00a0Square i New\u00a0York"
+        "40": "Over Times\u00a0Square i New\u00a0York",
+        "120": "P\u00e5 vei ned 7th\u00a0Avenue i Midtown p\u00e5 Manhattan i New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Langsmed Cuernos del Paine i Torres del Paine nasjonalpark i\u00a0Chile"
@@ -592,16 +592,16 @@
         "0": "Over Yosemite nasjonalpark i USA"
     },
     "Y002_C013_0226": {
-        "210": "Over Yosemite nasjonalpark i USA",
         "70": "P\u00e5 vei mot Half\u00a0Dome i Yosemite nasjonalpark i USA",
-        "87": "Half\u00a0Dome i Yosemite nasjonalpark i USA"
+        "87": "Half\u00a0Dome i Yosemite nasjonalpark i USA",
+        "210": "Over Yosemite nasjonalpark i USA"
     },
     "Y003_C009": {
         "0": "Over Yosemite nasjonalpark i USA",
+        "93": "P\u00e5 vei mot Merced\u00a0Peak i Yosemite nasjonalpark i USA",
         "130": "Merced\u00a0Peak i Yosemite nasjonalpark i USA",
         "221": "Passerer Merced\u00a0Peak i Yosemite nasjonalpark i USA",
-        "244": "P\u00e5 vei over Yosemite nasjonalpark i USA",
-        "93": "P\u00e5 vei mot Merced\u00a0Peak i Yosemite nasjonalpark i USA"
+        "244": "P\u00e5 vei over Yosemite nasjonalpark i USA"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome i Yosemite nasjonalpark i USA"
@@ -614,29 +614,29 @@
         "0": "Over Yosemite nasjonalpark i USA"
     },
     "Y005_C003_0228SC": {
+        "40": "P\u00e5 vei mot Half\u00a0Dome i Yosemite nasjonalpark i USA",
+        "60": "Half\u00a0Dome i Yosemite nasjonalpark i USA",
         "155": "Over Yosemite nasjonalpark med Nevada\u00a0Fall i det fjerne",
         "255": "Nevada og Illilouette\u00a0Falls i Yosemite nasjonalpark i USA",
-        "285": "Nevada, Vernal og Illilouette\u00a0Falls i Yosemite nasjonalpark i USA",
-        "40": "P\u00e5 vei mot Half\u00a0Dome i Yosemite nasjonalpark i USA",
-        "60": "Half\u00a0Dome i Yosemite nasjonalpark i USA"
+        "285": "Nevada, Vernal og Illilouette\u00a0Falls i Yosemite nasjonalpark i USA"
     },
     "Y009_C015304I": {
         "0": "Passerer Tuolumne\u00a0Meadows i Yosemite nasjonalpark i USA"
     },
     "Y011_C001": {
         "0": "P\u00e5 vei mot\u00a0Bridalveil Fall og El Capitan i Yosemite\u00a0nasjonalpark",
+        "44": "P\u00e5 vei \u00f8stover mot El\u00a0Capitan i Yosemite nasjonalpark i USA",
+        "87": "Passerer El\u00a0Capitan i Yosemite nasjonalpark i USA",
         "120": "P\u00e5 vei \u00f8stover mot Half\u00a0Dome i Yosemite nasjonalpark i USA",
         "390": "Half\u00a0Dome i Yosemite nasjonalpark i USA",
-        "44": "P\u00e5 vei \u00f8stover mot El\u00a0Capitan i Yosemite nasjonalpark i USA",
         "470": "P\u00e5 vei forbi Half\u00a0Dome i Yosemite-dalen i USA",
-        "585": "P\u00e5 vei \u00f8stover over Yosemite-dalen i USA",
-        "87": "Passerer El\u00a0Capitan i Yosemite nasjonalpark i USA"
+        "585": "P\u00e5 vei \u00f8stover over Yosemite-dalen i USA"
     },
     "Y011_C008": {
         "0": "P\u00e5 vei mot Matthes\u00a0Crest i Yosemite nasjonalpark i USA",
+        "75": "Over Matthes\u00a0Crest i Yosemite nasjonalpark i USA",
         "124": "Gjennom Matthes\u00a0Crest i Yosemite nasjonalpark i USA",
         "215": "Over Matthes\u00a0Crest i Yosemite nasjonalpark i USA",
-        "396": "P\u00e5 vei mot Tuolumne\u00a0Meadows i Yosemite nasjonalpark i USA",
-        "75": "Over Matthes\u00a0Crest i Yosemite nasjonalpark i USA"
+        "396": "P\u00e5 vei mot Tuolumne\u00a0Meadows i Yosemite nasjonalpark i USA"
     }
 }

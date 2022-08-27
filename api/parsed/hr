@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "Kanarski\u00a0otoci, Atlantski\u00a0ocean i obala Afrike",
+        "45": "Kretanje sjeveroisto\u010dno du\u017e obale Maroka",
+        "75": "Prelazak preko lanaca\u00a0Atlas u Maroku",
         "105": "Iznad Maroka pribli\u017eavaju\u0107i se Sredozemnom\u00a0moru",
         "125": "Sredozemno\u00a0more i ju\u017ena \u0160panjolska",
         "145": "Putovanje prema sjeveroistoku preko \u0161panjolske Costa\u00a0Blance",
         "165": "Putovanje prema sjeveroistoku preko \u0161panjolskih Balearskih\u00a0otoka",
         "185": "Iznad zapadnog Sredozemnog\u00a0mora s Alpama u daljini",
-        "220": "Kretanje sjeveroisto\u010dno iznad Alpa",
-        "45": "Kretanje sjeveroisto\u010dno du\u017e obale Maroka",
-        "75": "Prelazak preko lanaca\u00a0Atlas u Maroku"
+        "220": "Kretanje sjeveroisto\u010dno iznad Alpa"
     },
     "A001_C007": {
         "0": "Zlatne meduze u vodama Palaua",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Iznad \u010detvrti Fisherman\u2019s\u00a0Wharf, u smjeru centra San\u00a0Francisca",
+        "80": "U smjeru Coit\u00a0Towera, iza kojeg se vide centar San\u00a0Francisca i most Bay\u00a0Bridge",
         "150": "Prolazak kraj tornja Coit\u00a0Tower, u smjeru centra San\u00a0Francisca i mosta Bay\u00a0Bridge",
-        "196": "Centar San Francisca",
-        "80": "U smjeru Coit\u00a0Towera, iza kojeg se vide centar San\u00a0Francisca i most Bay\u00a0Bridge"
+        "196": "Centar San Francisca"
     },
     "A008_C007": {
         "0": "Iznad poluotoka Marin\u00a0Headlands, s pogledom na most Golden\u00a0Gate",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Iznad zapadne Afrike kre\u0107u\u0107i se prema Sahari",
+        "30": "Prelazak preko Sahare u Sjevernoj\u00a0Africi",
         "110": "Prelazak preko masiva\u00a0Ahaggar u Sahari, Sjeverna\u00a0Afrika",
         "155": "Iznad regije Grand\u00a0Erg\u00a0Oriental u Sjevernoj Africi prema Sredozemnom\u00a0moru",
         "195": "Obala Tunisa i Sredozemno\u00a0more",
@@ -64,7 +65,6 @@
         "230": "U smjeru Italije u Sredozemnom\u00a0moru",
         "245": "Iznad Italije putuju\u0107i prema Balkanskom\u00a0poluotoku",
         "285": "Iznad Balkanskog\u00a0poluotoka u smjeru Karpata",
-        "30": "Prelazak preko Sahare u Sjevernoj\u00a0Africi",
         "310": "Karpati i Crno\u00a0more"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Iznad zaljeva San\u00a0Francisca, u smjeru rive Embarcadero",
+        "90": "Iznad rive Embarcadero, s pogledom na ulicu Market\u00a0Street u San\u00a0Franciscu",
         "150": "Du\u017e ulice Market\u00a0Street kroz centar San\u00a0Francisca",
-        "360": "Du\u017e ulice Market\u00a0Street kroz San\u00a0Francisco",
-        "90": "Iznad rive Embarcadero, s pogledom na ulicu Market\u00a0Street u San\u00a0Franciscu"
+        "360": "Du\u017e ulice Market\u00a0Street kroz San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Prolazak kroz park Presidio u San\u00a0Franciscu, u smjeru mosta Golden\u00a0Gate",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "U smjeru mosta Golden\u00a0Gate iz smjera San\u00a0Francisca",
+        "60": "Du\u017e mosta Golden\u00a0Gate, u smjeru poluotoka Marin\u00a0Headlands",
         "140": "Prelazak preko mosta Golden\u00a0Gate",
         "230": "Prelazak sjevernog\u00a0tornja mosta Golden\u00a0Gate",
-        "260": "Iznad zaljeva San\u00a0Francisca, uzdu\u017e mosta Golden\u00a0Gate",
-        "60": "Du\u017e mosta Golden\u00a0Gate, u smjeru poluotoka Marin\u00a0Headlands"
+        "260": "Iznad zaljeva San\u00a0Francisca, uzdu\u017e mosta Golden\u00a0Gate"
     },
     "A014_C008": {
         "0": "Papiga\u010da iznad koraljnog grebena blizu Bornea"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "U smjeru mosta Bay\u00a0Bridge i centra San\u00a0Francisca",
-        "116": "Iznad zaljeva San\u00a0Francisca, u smjeru centra grada",
-        "80": "Prelazak preko mosta Bay\u00a0Bridge prema centru San\u00a0Francisca"
+        "80": "Prelazak preko mosta Bay\u00a0Bridge prema centru San\u00a0Francisca",
+        "116": "Iznad zaljeva San\u00a0Francisca, u smjeru centra grada"
     },
     "A016_C002": {
         "0": "Prolazak kroz \u0161umu morske trave blizu obale Kalifornije, SAD"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Putovanje preko Zapadne\u00a0Europe s Velikom\u00a0Britanijom i Irskom u daljini",
+        "20": "U smjeru jugoistoka iznad Alpa i doline rijeke\u00a0Po",
+        "50": "Kretanje niz Apeninski\u00a0poluotok i Jadransko\u00a0more",
         "100": "Gr\u010dka okru\u017eena Jonskim i Egejskim\u00a0morem",
         "160": "Putovanje prema jugoistoku preko Sredozemnog\u00a0mora",
         "185": "Sredozemno\u00a0more i delta\u00a0rijeke\u00a0Nil",
-        "20": "U smjeru jugoistoka iznad Alpa i doline rijeke\u00a0Po",
         "205": "Rijeka\u00a0Nil te\u010de kroz Saharu u Egiptu",
         "220": "Isto\u010dna pustinja s rijekom\u00a0Nil i Sueskim\u00a0zaljevom uz bok",
-        "240": "U smjeru jugoistoka iznad Crvenog\u00a0mora",
-        "50": "Kretanje niz Apeninski\u00a0poluotok i Jadransko\u00a0more"
+        "240": "U smjeru jugoistoka iznad Crvenog\u00a0mora"
     },
     "A083_C002_1130KZ": {
         "0": "Odraz Sunca du\u017e obale Irana",
@@ -153,63 +153,64 @@
         "0": "Iznad Afri\u010dkog\u00a0roga putuju\u0107i prema Adenskom\u00a0zaljevu"
     },
     "A103_C002_0205DG": {
+        "45": "Jugoisto\u010dni Arapski\u00a0poluotok",
         "115": "Omanski\u00a0zaljev prema obali\u00a0Makran",
         "145": "Obala\u00a0Makran Irana i Pakistana",
         "160": "Iznad Irana kre\u0107u\u0107i se prema Afganistanu i Pakistanu",
         "180": "Iznad Afganistana i Pakistana prema planinskom\u00a0lancu\u00a0Karakorum",
         "235": "Iznad planinskog\u00a0lanca\u00a0Karakorum putuju\u0107i u Kinu",
         "280": "Pustinja\u00a0Takla\u00a0Makan u zapadnoj\u00a0Kini",
-        "315": "Planina Tan\u0161an u Srednjoj Aziji",
-        "45": "Jugoisto\u010dni Arapski\u00a0poluotok"
+        "315": "Planina Tan\u0161an u Srednjoj Aziji"
     },
     "A105_C0022120602": {
         "0": "Iznad Tihog\u00a0oceana kre\u0107u\u0107i se prema Srednjoj\u00a0Americi"
     },
     "A105_C002_021206_002": {
+        "70": "Jugozapadna obala Srednje\u00a0Amerike kre\u0107u\u0107i se prema Karipskom\u00a0moru",
         "100": "Prelazak preko Srednje\u00a0Amerike prema Karipskom\u00a0moru",
         "150": "Iznad Karipskog\u00a0mora kre\u0107u\u0107i se prema Kubi",
         "240": "Iznad Kube s Floridom i Bahamima u daljini",
         "300": "Iznad Floride i Bahama putuju\u0107i prema Sarga\u0161kom\u00a0moru",
-        "350": "Iznad Sarga\u0161kog\u00a0mora u Atlantski\u00a0ocean",
-        "70": "Jugozapadna obala Srednje\u00a0Amerike kre\u0107u\u0107i se prema Karipskom\u00a0moru"
+        "350": "Iznad Sarga\u0161kog\u00a0mora u Atlantski\u00a0ocean"
     },
     "A105_C003212CT": {
         "0": "Prelazak iz no\u0107i u dan iznad Ju\u017enog\u00a0Tihog\u00a0oceana"
     },
     "A105_C003_0212CT": {
+        "70": "Prelazak iz no\u0107i u dan iznad Novog\u00a0Zelanda",
         "110": "U smjeru izlaska Sunca iznad Novog\u00a0Zelanda",
-        "170": "Napu\u0161tanje Novog\u00a0Zelanda u smjeru sjeveroistoka iznad Tihog\u00a0oceana",
-        "70": "Prelazak iz no\u0107i u dan iznad Novog\u00a0Zelanda"
+        "170": "Napu\u0161tanje Novog\u00a0Zelanda u smjeru sjeveroistoka iznad Tihog\u00a0oceana"
     },
     "A108_C001215V8": {
         "0": "Putovanje preko Tihog\u00a0oceana prema Srednjoj\u00a0Americi"
     },
     "A108_C001_0215V8": {
-        "110": "Prolazak pokraj oblacima prekrivene Jamajke u Karipskom\u00a0moru",
-        "125": "Prelazak preko Kube gledaju\u0107i prema Haitiju i Dominikanskoj\u00a0Republici",
-        "170": "Putovanje preko Bahama gledaju\u0107i prema Haitiju i Dominikanskoj\u00a0Republici",
-        "190": "Otoci Turks i Caicos u Atlantskom\u00a0oceanu",
         "35": "Obala Nikaragve, Kostarike i Paname",
         "50": "Prolazak preko Srednje\u00a0Amerike s Ju\u017enom\u00a0Amerikom u daljini",
         "65": "Obala\u00a0komaraca u Nikaragvi",
-        "85": "Iznad Karipskog\u00a0mora putuju\u0107i prema Kubi"
+        "85": "Iznad Karipskog\u00a0mora putuju\u0107i prema Kubi",
+        "110": "Prolazak pokraj oblacima prekrivene Jamajke u Karipskom\u00a0moru",
+        "125": "Prelazak preko Kube gledaju\u0107i prema Haitiju i Dominikanskoj\u00a0Republici",
+        "170": "Putovanje preko Bahama gledaju\u0107i prema Haitiju i Dominikanskoj\u00a0Republici",
+        "190": "Otoci Turks i Caicos u Atlantskom\u00a0oceanu"
     },
     "A114_C001305OT": {
         "0": "Iznad Tihog\u00a0oceana prema Sjedinjenim\u00a0Dr\u017eavama"
     },
     "A114_C001_0305OT": {
-        "130": "Planine Sierra\u00a0Madre Occidental na zapadnoj obali Meksika",
-        "185": "Iznad planina Sierra\u00a0Madre Occidental kre\u0107u\u0107i se prema zapadnoj obali Meksika",
         "20": "Putovanje prema jugu du\u017e obale Kalifornije",
-        "225": "Gledaju\u0107i ju\u017eno prema Tihom\u00a0oceanu iznad Sierra\u00a0Madre del Sur u Meksiku",
-        "280": "Tihi\u00a0ocean uz obalu Meksika",
-        "290": "Tihi\u00a0ocean uz obalu Meksika i Gvatemale",
         "50": "Iznad ju\u017ene\u00a0Kalifornije kre\u0107u\u0107i se prema Meksiku",
         "65": "U smjeru pustinje\u00a0Mojave u ju\u017enoj Kaliforniji s Meksikom u daljini",
-        "95": "Kalifornijski zaljev s pustinjom\u00a0Sonora i poluotokom Baja\u00a0California uz bok"
+        "95": "Kalifornijski zaljev s pustinjom\u00a0Sonora i poluotokom Baja\u00a0California uz bok",
+        "130": "Planine Sierra\u00a0Madre Occidental na zapadnoj obali Meksika",
+        "185": "Iznad planina Sierra\u00a0Madre Occidental kre\u0107u\u0107i se prema zapadnoj obali Meksika",
+        "225": "Gledaju\u0107i ju\u017eno prema Tihom\u00a0oceanu iznad Sierra\u00a0Madre del Sur u Meksiku",
+        "280": "Tihi\u00a0ocean uz obalu Meksika",
+        "290": "Tihi\u00a0ocean uz obalu Meksika i Gvatemale"
     },
     "A351_C001_1213SK": {
         "0": "Putovanje prema sjeveroistoku preko Etiopske visoravni",
+        "45": "Putovanje preko Crvenog\u00a0mora u Arapski\u00a0poluotok",
         "100": "U smjeru sjeveroistoka preko Arapskog\u00a0poluotoka",
         "130": "Iznad Arapskog\u00a0poluotoka kre\u0107u\u0107i se prema Iranu",
         "165": "Iznad Arapskog\u00a0poluotoka pribli\u017eavaju\u0107i se Iranu",
@@ -221,7 +222,6 @@
         "322": "Planina Pamir-Alai i Ferganska\u00a0dolina u srednjoj Aziji",
         "360": "U smjeru jugoisto\u010dnog Kazahstana iz Kirgistana",
         "400": "Putovanje prema sjeveru preko Kazahstana",
-        "45": "Putovanje preko Crvenog\u00a0mora u Arapski\u00a0poluotok",
         "450": "Iznad gorja\u00a0Altaj ulaze\u0107i u Mongoliju"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Kretanje jugoisto\u010dno iznad Sibira i Mongolije",
+        "22": "U smjeru Unutarnje\u00a0Mongolije",
+        "32": "Iznad Mongolije putuju\u0107i prema Kini",
+        "60": "Iznad sjeverne Kine kre\u0107u\u0107i se prema Korejskom\u00a0poluotoku",
         "110": "Iznad Kine u smjeru Korejskog\u00a0poluotoka",
         "150": "Korejski\u00a0poluotok s Japanom u daljini",
         "180": "Iznad Ju\u017ene\u00a0Koreje putuju\u0107i prema Japanu",
         "195": "Iznad Japana gledaju\u0107i prema Tihom\u00a0oceanu",
-        "22": "U smjeru Unutarnje\u00a0Mongolije",
-        "260": "Iznad Tihog\u00a0oceana, jugoistok Japana",
-        "32": "Iznad Mongolije putuju\u0107i prema Kini",
-        "60": "Iznad sjeverne Kine kre\u0107u\u0107i se prema Korejskom\u00a0poluotoku"
+        "260": "Iznad Tihog\u00a0oceana, jugoistok Japana"
     },
     "GMT060_117NC_363D": {
         "0": "Iznad Indijskog\u00a0oceana prema Perthu, Australija",
+        "50": "Putovanje prema sjeveroistoku preko Zapadne\u00a0Australije",
         "170": "Iznad Zapadne\u00a0Australije pribli\u017eavaju\u0107i se Sjevernom\u00a0teritoriju",
         "220": "Iznad Sjevernog\u00a0teritorija u Australiji, kre\u0107u\u0107i se prema Novoj\u00a0Gvineji",
-        "335": "Iznad Arafurskog\u00a0mora putuju\u0107i prema Novoj\u00a0Gvineji",
-        "50": "Putovanje prema sjeveroistoku preko Zapadne\u00a0Australije"
+        "335": "Iznad Arafurskog\u00a0mora putuju\u0107i prema Novoj\u00a0Gvineji"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Aurora\u00a0Australis iznad Antarktike"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Iznad Tihog\u00a0oceana kre\u0107u\u0107i se prema obali Kalifornije",
+        "70": "Iznad obale Kalifornije putuju\u0107i prema unutra\u0161njosti",
+        "85": "Prolazak preko Los\u00a0Angelesa na zapadnoj obali Sjedinjenih\u00a0Dr\u017eava",
+        "95": "Iznad Los\u00a0Angelesa pribli\u017eavaju\u0107i se Las\u00a0Vegasu u Sjedinjenim\u00a0Dr\u017eavama",
         "110": "Iznad Las\u00a0Vegasa u smjeru Salt\u00a0Lake\u00a0Cityja u Sjedinjenim\u00a0Dr\u017eavama",
         "120": "Iznad zapada Sjedinjenih\u00a0Dr\u017eava pribli\u017eavaju\u0107i se Salt\u00a0Lake\u00a0Cityju",
         "155": "Prolazak izme\u0111u Salt\u00a0Lake\u00a0Cityja i Denvera u Sjedinjenim\u00a0Dr\u017eavama",
-        "170": "Iznad planinskog niza Rocky\u00a0Mountains u Sjedinjenim\u00a0Dr\u017eavama",
-        "70": "Iznad obale Kalifornije putuju\u0107i prema unutra\u0161njosti",
-        "85": "Prolazak preko Los\u00a0Angelesa na zapadnoj obali Sjedinjenih\u00a0Dr\u017eava",
-        "95": "Iznad Los\u00a0Angelesa pribli\u017eavaju\u0107i se Las\u00a0Vegasu u Sjedinjenim\u00a0Dr\u017eavama"
+        "170": "Iznad planinskog niza Rocky\u00a0Mountains u Sjedinjenim\u00a0Dr\u017eavama"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Iznad Tihog\u00a0oceana prema Meksiku",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "U smjeru jugoistoka iznad Velike\u00a0nizine Sjedinjenih\u00a0Dr\u017eava",
+        "90": "U smjeru jugoistoka iznad Srednjeg\u00a0zapada Sjedinjenih\u00a0Dr\u017eava",
         "120": "Iznad jugoistoka Sjedinjenih\u00a0Dr\u017eava prema Floridi",
         "220": "Iznad Floride putuju\u0107i prema Bahamima",
         "240": "Kretanje jugoisto\u010dno iznad Bahama",
         "285": "Iznad Bahama pribli\u017eavaju\u0107i se Dominikanskoj\u00a0Republici i Haitiju",
         "300": "Iznad Dominikanske\u00a0Republike i Haitija pribli\u017eavaju\u0107i se Karipskom\u00a0moru",
-        "315": "Iznad Karipskog\u00a0mora u smjeru juga prema Venezueli",
-        "90": "U smjeru jugoistoka iznad Srednjeg\u00a0zapada Sjedinjenih\u00a0Dr\u017eava"
+        "315": "Iznad Karipskog\u00a0mora u smjeru juga prema Venezueli"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Putovanje prema sjeveroistoku preko Sahare no\u0107u",
+        "70": "Iznad regije Grand\u00a0Erg\u00a0Oriental prema Sredozemnom\u00a0moru",
         "100": "Obala\u00a0Sredozemlja Tunisa i Libije",
         "120": "Kretanje iznad Sredozemnog\u00a0mora prema Italiji",
         "140": "Iznad ju\u017ene Italije pribli\u017eavaju\u0107i se Balkanskom\u00a0poluotoku s Turskom u daljini",
         "165": "Iznad Balkanskog poluotoka kre\u0107u\u0107i se prema Crnom\u00a0moru",
         "180": "Iznad Balkanskog poluotoka pribli\u017eavaju\u0107i se Crnom\u00a0moru",
         "210": "Putovanje preko Crnog\u00a0mora prema Ukrajini",
-        "230": "Putovanje preko Ukrajine prema Rusiji",
-        "70": "Iznad regije Grand\u00a0Erg\u00a0Oriental prema Sredozemnom\u00a0moru"
+        "230": "Putovanje preko Ukrajine prema Rusiji"
     },
     "GMT314_139M_170NC": {
         "0": "Iznad Tihog\u00a0oceana kre\u0107u\u0107i se prema Baja\u00a0Californiji",
+        "45": "Iznad poluotoka Baja\u00a0California gledaju\u0107i prema sjeveru prema Sjedinjenim\u00a0Dr\u017eavama",
+        "55": "Iznad Meksika kre\u0107u\u0107i se prema jugozapadu Sjedinjenih\u00a0Dr\u017eava",
+        "75": "Iznad jugozapada Sjedinjenih\u00a0Dr\u017eava",
         "110": "Iznad planinskog niza Rocky\u00a0Mountains pribli\u017eavaju\u0107i se Denveru",
         "125": "Putovanje preko Velike\u00a0nizine Sjedinjenih\u00a0Dr\u017eava",
         "185": "U smjeru Velikih\u00a0jezera s Ontariom, Kanada u daljini",
@@ -361,28 +364,25 @@
         "210": "Aurora\u00a0Borealis iznad zapadnog Ontarija, Kanada",
         "235": "Aurora\u00a0Borealis iznad sjevernog Ontarija, Kanada",
         "250": "Aurora\u00a0Borealis iznad sjevernog Quebeca, Kanada",
-        "300": "U smjeru Sjevernog Atlantika s Aurorom\u00a0Borealis iznad Labradora, Kanada",
-        "45": "Iznad poluotoka Baja\u00a0California gledaju\u0107i prema sjeveru prema Sjedinjenim\u00a0Dr\u017eavama",
-        "55": "Iznad Meksika kre\u0107u\u0107i se prema jugozapadu Sjedinjenih\u00a0Dr\u017eava",
-        "75": "Iznad jugozapada Sjedinjenih\u00a0Dr\u017eava"
+        "300": "U smjeru Sjevernog Atlantika s Aurorom\u00a0Borealis iznad Labradora, Kanada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Iznad sjevernog\u00a0Atlantika pribli\u017eavaju\u0107i se Irskoj i Velikoj\u00a0Britaniji",
-        "105": "Iznad srednje\u00a0Europe u smjeru Rusije",
         "15": "Irska i Velika\u00a0Britanija",
+        "45": "Iznad Velike\u00a0Britanije putuju\u0107i prema unutra\u0161njosti Europe",
+        "65": "Iznad sjeverozapadne Europe u smjeru Rusije",
+        "105": "Iznad srednje\u00a0Europe u smjeru Rusije",
         "150": "Iznad isto\u010dne\u00a0Europe s Moskvom u daljini",
         "165": "Iznad isto\u010dne Europe gledaju\u0107i prema Moskvi",
         "185": "Iznad zapadne Rusije prolaze\u0107i Moskvu",
-        "195": "Iznad Rusije putuju\u0107i prema srednjoj Aziji",
-        "45": "Iznad Velike\u00a0Britanije putuju\u0107i prema unutra\u0161njosti Europe",
-        "65": "Iznad sjeverozapadne Europe u smjeru Rusije"
+        "195": "Iznad Rusije putuju\u0107i prema srednjoj Aziji"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Iznad Tunisa prema Italiji",
+        "5": "Iznad Sredozemnog\u00a0mora gledaju\u0107i prema Siciliji i Apeninskom\u00a0poluotoku",
         "15": "Iznad ju\u017ene Italije s Balkanskim\u00a0poluotokom u daljini",
         "25": "Iznad Balkanskog\u00a0poluotoka kre\u0107u\u0107i se prema srednjoj Aziji",
         "40": "Iznad Balkanskog\u00a0poluotoka prolaze\u0107i kraj Crnog\u00a0mora",
-        "5": "Iznad Sredozemnog\u00a0mora gledaju\u0107i prema Siciliji i Apeninskom\u00a0poluotoku",
         "55": "Iznad Ukrajine s Rusijom u daljini",
         "75": "Iznad jugozapadne Rusije prolaze\u0107i kraj Kazahstana"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "U smjeru mosta Tower\u00a0Bridge na rijeci\u00a0Temzi u Londonu",
-        "130": "Du\u017e rijeke\u00a0Temze, prema znamenitosti London\u00a0Eye",
         "20": "Du\u017e rijeke\u00a0Temze u Londonu",
+        "130": "Du\u017e rijeke\u00a0Temze, prema znamenitosti London\u00a0Eye",
         "210": "U smjeru znamenitosti London\u00a0Eye na rijeci\u00a0Temzi",
         "310": "Du\u017e rijeke\u00a0Temze, pored znamenitosti London\u00a0Eye",
         "325": "Prelazak zgrade parlamenta na rijeci\u00a0Temzi u Londonu"
     },
     "L007_C007": {
         "0": "Prolazak preko imanja Buckinghamske\u00a0pala\u010de u Londonu",
+        "24": "Iznad Buckinghamske\u00a0pala\u010de u Londonu",
+        "49": "Iznad parka St\u00a0James\u2019s\u00a0Park, u smjeru rijeke\u00a0Temze u Londonu",
         "104": "Prelazak preko rijeke\u00a0Temze pored znamenitosti London\u00a0Eye",
         "149": "Let iznad Ju\u017enog Londona",
-        "24": "Iznad Buckinghamske\u00a0pala\u010de u Londonu",
         "279": "Prolazak kraj nebodera The\u00a0Shard u Ju\u017enom Londonu",
         "299": "Prelazak preko rijeke\u00a0Temze u Londonu",
-        "324": "Prelazak preko rijeke\u00a0Temze mostom Tower\u00a0Bridge u Londonu",
-        "49": "Iznad parka St\u00a0James\u2019s\u00a0Park, u smjeru rijeke\u00a0Temze u Londonu"
+        "324": "Prelazak preko rijeke\u00a0Temze mostom Tower\u00a0Bridge u Londonu"
     },
     "L010_C006": {
         "0": "U smjeru mosta Tower\u00a0Bridge na rijeci\u00a0Temzi u Londonu",
+        "78": "Du\u017e rijeke\u00a0Temze u Londonu",
         "178": "Ju\u017eno od rijeke\u00a0Temze u Londonu",
-        "258": "Prelazak preko rijeke\u00a0Temze u Londonu",
-        "78": "Du\u017e rijeke\u00a0Temze u Londonu"
+        "258": "Prelazak preko rijeke\u00a0Temze u Londonu"
     },
     "L012_C002": {
         "0": "U smjeru mosta Tower\u00a0Bridge na rijeci\u00a0Temzi u Londonu",
         "20": "Prelazak preko rijeke\u00a0Temze u Londonu",
-        "200": "Prelazak preko rijeke\u00a0Temze u smjeru pala\u010de Westminster u Londonu",
-        "270": "Iznad Westminstera u Londonu",
         "60": "Prelazak nebodera The\u00a0Shard u Ju\u017enom Londonu",
-        "92": "Ju\u017eno od rijeke\u00a0Temze, prema znamenitosti London\u00a0Eye"
+        "92": "Ju\u017eno od rijeke\u00a0Temze, prema znamenitosti London\u00a0Eye",
+        "200": "Prelazak preko rijeke\u00a0Temze u smjeru pala\u010de Westminster u Londonu",
+        "270": "Iznad Westminstera u Londonu"
     },
     "LA_A005_C009": {
         "0": "Du\u017e autoceste 110 u Los\u00a0Angelesu, u smjeru sjevera"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Iznad njujor\u0161ke \u010detvrti Upper East Side i parka Central\u00a0Park",
+        "50": "Iznad \u010detvrti Midtown\u00a0Manhattan, u smjeru centra grada prema neboderu Empire\u00a0State Building",
         "160": "U smjeru nebodera Empire\u00a0State Building u New\u00a0Yorku",
-        "205": "Prelazak nebodera Empire\u00a0State Building, u smjeru \u010detvrti Lower Manhattan",
-        "50": "Iznad \u010detvrti Midtown\u00a0Manhattan, u smjeru centra grada prema neboderu Empire\u00a0State Building"
+        "205": "Prelazak nebodera Empire\u00a0State Building, u smjeru \u010detvrti Lower Manhattan"
     },
     "N006_C003": {
         "0": "U smjeru \u010detvrti Lower\u00a0Manhattan u New\u00a0Yorku",
-        "140": "Iznad njujor\u0161ke \u010detvrti Lower\u00a0Manhattan, u smjeru \u010detvrti Midtown",
-        "40": "Iznad njujor\u0161ke \u010detvrti Lower\u00a0Manhattan"
+        "40": "Iznad njujor\u0161ke \u010detvrti Lower\u00a0Manhattan",
+        "140": "Iznad njujor\u0161ke \u010detvrti Lower\u00a0Manhattan, u smjeru \u010detvrti Midtown"
     },
     "N008_C003": {
         "0": "U smjeru \u010detvrti Lower\u00a0Manhattan iz smjera luke New\u00a0York",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Du\u017e ulice 7th Avenue prema njujor\u0161koj \u010detvrti Times\u00a0Square",
-        "120": "Du\u017e ulice 7th Avenue u njujor\u0161koj \u010detvrti Midtown\u00a0Manhattan",
-        "40": "Iznad njujor\u0161ke \u010detvrti Times\u00a0Square"
+        "40": "Iznad njujor\u0161ke \u010detvrti Times\u00a0Square",
+        "120": "Du\u017e ulice 7th Avenue u njujor\u0161koj \u010detvrti Midtown\u00a0Manhattan"
     },
     "P001_C005_11059D": {
         "0": "Kretanje kroz Cuernos del Paine u Nacionalnom parku Torres del\u00a0Paine, \u010cile"
@@ -592,16 +592,16 @@
         "0": "Preko Nacionalnog\u00a0parka Yosemite u Sjedinjenim\u00a0Dr\u017eavama"
     },
     "Y002_C013_0226": {
-        "210": "Preko Nacionalnog\u00a0parka Yosemite u Sjedinjenim\u00a0Dr\u017eavama",
         "70": "Pribli\u017eavanje Half\u00a0Domeu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "87": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
+        "87": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
+        "210": "Preko Nacionalnog\u00a0parka Yosemite u Sjedinjenim\u00a0Dr\u017eavama"
     },
     "Y003_C009": {
         "0": "Preko Nacionalnog\u00a0parka Yosemite, Sjedinjene\u00a0Dr\u017eave",
+        "93": "Putovanje prema Merced\u00a0Peaku u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "130": "Merced\u00a0Peak u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "221": "Prolazak kraj Merced\u00a0Peaka u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "244": "Putovanje preko Nacionalnog\u00a0parka Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "93": "Putovanje prema Merced\u00a0Peaku u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
+        "244": "Putovanje preko Nacionalnog\u00a0parka Yosemite, Sjedinjene\u00a0Dr\u017eave"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
@@ -614,29 +614,29 @@
         "0": "Preko Nacionalnog\u00a0parka Yosemite u Sjedinjenim\u00a0Dr\u017eavama"
     },
     "Y005_C003_0228SC": {
+        "40": "Putovanje prema Half\u00a0Domeu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
+        "60": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "155": "Preko Nacionalnog\u00a0parka Yosemite s vodopadom Nevada\u00a0Fall u daljini",
         "255": "Nevada i Illilouette\u00a0Falls u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "285": "Nevada, Vernal i Illilouette\u00a0Falls u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "40": "Putovanje prema Half\u00a0Domeu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "60": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
+        "285": "Nevada, Vernal i Illilouette\u00a0Falls u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
     },
     "Y009_C015304I": {
         "0": "Prolazak kraj Tuolumne\u00a0Meadows u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
     },
     "Y011_C001": {
         "0": "Putovanje prema Bridalveil\u00a0Fallu i El\u00a0Capitanu u Nacionalnom\u00a0parku Yosemite",
+        "44": "Putovanje na istok prema El Capitanu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
+        "87": "Prolazak kraj El\u00a0Capitana u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "120": "Putovanje na istok prema Half\u00a0Domeu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "390": "Half\u00a0Dome u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "44": "Putovanje na istok prema El Capitanu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "470": "Putovanje pokraj Half\u00a0Domea u Yosemite\u00a0Valleyu, Sjedinjene\u00a0Dr\u017eave",
-        "585": "Putovanje na istok preko Yosemite\u00a0Valleya, Sjedinjene\u00a0Dr\u017eave",
-        "87": "Prolazak kraj El\u00a0Capitana u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
+        "585": "Putovanje na istok preko Yosemite\u00a0Valleya, Sjedinjene\u00a0Dr\u017eave"
     },
     "Y011_C008": {
         "0": "Putovanje prema Matthes\u00a0Crestu u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
+        "75": "Let preko Matthes\u00a0Cresta u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "124": "Let kroz Matthes\u00a0Crest u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
         "215": "Let preko Matthes\u00a0Cresta u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "396": "Kretanje prema Tuolumne\u00a0Meadows u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave",
-        "75": "Let preko Matthes\u00a0Cresta u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
+        "396": "Kretanje prema Tuolumne\u00a0Meadows u Nacionalnom\u00a0parku Yosemite, Sjedinjene\u00a0Dr\u017eave"
     }
 }

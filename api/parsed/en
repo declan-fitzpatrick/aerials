@@ -7,14 +7,14 @@
     },
     "A001_C004_1207W5": {
         "0": "The Canary\u00a0Islands, Atlantic\u00a0Ocean, and coast of Africa",
+        "45": "Moving northeast along the coast of Morocco",
+        "75": "Passing over the Atlas\u00a0Mountains in Morocco",
         "105": "Over Morocco approaching the Mediterranean\u00a0Sea",
         "125": "The Mediterranean\u00a0Sea and southern Spain",
         "145": "Traveling northeast over Spain\u2019s Costa\u00a0Blanca",
         "165": "Traveling northeast over Spain\u2019s Balearic\u00a0Islands",
         "185": "Over the western Mediterranean\u00a0Sea with the Alps beyond",
-        "220": "Moving northeast over the Alps",
-        "45": "Moving northeast along the coast of Morocco",
-        "75": "Passing over the Atlas\u00a0Mountains in Morocco"
+        "220": "Moving northeast over the Alps"
     },
     "A001_C007": {
         "0": "Golden\u00a0Jellyfish in the waters of Palau",
@@ -44,9 +44,9 @@
     },
     "A007_C017": {
         "0": "Over Fisherman\u2019s\u00a0Wharf heading toward downtown San\u00a0Francisco",
+        "80": "Approaching Coit\u00a0Tower with downtown San\u00a0Francisco and the Bay\u00a0Bridge in the background",
         "150": "Passing Coit\u00a0Tower toward downtown San\u00a0Francisco and the Bay\u00a0Bridge",
-        "196": "Downtown San Francisco",
-        "80": "Approaching Coit\u00a0Tower with downtown San\u00a0Francisco and the Bay\u00a0Bridge in the background"
+        "196": "Downtown San Francisco"
     },
     "A008_C007": {
         "0": "Over the Marin\u00a0Headlands looking toward the Golden\u00a0Gate Bridge",
@@ -57,6 +57,7 @@
     },
     "A009_C001_10181A": {
         "0": "Over western Africa moving toward the Sahara",
+        "30": "Crossing the Sahara in North Africa",
         "110": "Passing over the Ahaggar Mountains in the Sahara, North Africa",
         "155": "Over the Grand\u00a0Erg\u00a0Oriental in North Africa moving toward the Mediterranean\u00a0Sea",
         "195": "The coast of Tunisia and the Mediterranean\u00a0Sea",
@@ -64,7 +65,6 @@
         "230": "Approaching Italy in the Mediterranean\u00a0Sea",
         "245": "Over Italy traveling toward the Balkan\u00a0Peninsula",
         "285": "Over the Balkan\u00a0Peninsula heading toward the Carpathian\u00a0Mountains",
-        "30": "Crossing the Sahara in North Africa",
         "310": "The Carpathian\u00a0Mountains and the Black\u00a0Sea"
     },
     "A009_C007": {
@@ -89,9 +89,9 @@
     },
     "A013_C004": {
         "0": "Over the San\u00a0Francisco Bay moving toward the Embarcadero",
+        "90": "Over the Embarcadero looking down Market\u00a0Street in San\u00a0Francisco",
         "150": "Following Market\u00a0Street through downtown San\u00a0Francisco",
-        "360": "Following Market\u00a0Street through San\u00a0Francisco",
-        "90": "Over the Embarcadero looking down Market\u00a0Street in San\u00a0Francisco"
+        "360": "Following Market\u00a0Street through San\u00a0Francisco"
     },
     "A013_C005": {
         "0": "Moving along the Presidio of San\u00a0Francisco toward the Golden\u00a0Gate Bridge",
@@ -99,10 +99,10 @@
     },
     "A013_C012": {
         "0": "Approaching the Golden\u00a0Gate Bridge from San\u00a0Francisco",
+        "60": "Alongside the Golden\u00a0Gate Bridge heading toward the Marin\u00a0Headlands",
         "140": "Crossing over the Golden\u00a0Gate Bridge",
         "230": "Passing by the North\u00a0Tower of the Golden\u00a0Gate Bridge",
-        "260": "Over San\u00a0Francisco Bay traveling alongside the Golden\u00a0Gate Bridge",
-        "60": "Alongside the Golden\u00a0Gate Bridge heading toward the Marin\u00a0Headlands"
+        "260": "Over San\u00a0Francisco Bay traveling alongside the Golden\u00a0Gate Bridge"
     },
     "A014_C008": {
         "0": "Bumphead\u00a0Parrotfish over the coral reefs off Borneo"
@@ -116,8 +116,8 @@
     },
     "A015_C018": {
         "0": "Approaching the Bay\u00a0Bridge and downtown San\u00a0Francisco",
-        "116": "Over San\u00a0Francisco Bay heading toward downtown",
-        "80": "Crossing over the Bay\u00a0Bridge heading toward downtown San\u00a0Francisco"
+        "80": "Crossing over the Bay\u00a0Bridge heading toward downtown San\u00a0Francisco",
+        "116": "Over San\u00a0Francisco Bay heading toward downtown"
     },
     "A016_C002": {
         "0": "Moving through a kelp forest off of the California coast, United\u00a0States"
@@ -135,14 +135,14 @@
     },
     "A050_C004_1027V8": {
         "0": "Traveling over Western\u00a0Europe with Great\u00a0Britain and Ireland in the distance",
+        "20": "Heading southeast over the Alps and the Po\u00a0River Valley",
+        "50": "Moving down the Italian\u00a0Peninsula and the Adriatic\u00a0Sea",
         "100": "Greece flanked by the Ionian and Aegean Seas",
         "160": "Traveling southeast over the Mediterranean\u00a0Sea",
         "185": "The Mediterranean\u00a0Sea and the Nile\u00a0River\u00a0Delta",
-        "20": "Heading southeast over the Alps and the Po\u00a0River Valley",
         "205": "The Nile\u00a0River flowing through the Sahara in Egypt",
         "220": "The Eastern Desert flanked by the Nile\u00a0River and the Gulf of Suez",
-        "240": "Heading southeast over the Red\u00a0Sea",
-        "50": "Moving down the Italian\u00a0Peninsula and the Adriatic\u00a0Sea"
+        "240": "Heading southeast over the Red\u00a0Sea"
     },
     "A083_C002_1130KZ": {
         "0": "The reflection of the sun along the coast of Iran",
@@ -153,63 +153,64 @@
         "0": "Over the Horn of Africa traveling toward the Gulf of Aden"
     },
     "A103_C002_0205DG": {
+        "45": "The southeastern Arabian\u00a0Peninsula",
         "115": "The Gulf of Oman approaching the Makran\u00a0Coast",
         "145": "The Makran\u00a0Coast of Iran and Pakistan",
         "160": "Over Iran moving toward Afghanistan and Pakistan",
         "180": "Over Afghanistan and Pakistan moving toward the Karakoram\u00a0Range",
         "235": "Over the Karakoram\u00a0Range traveling into China",
         "280": "The Takla\u00a0Makan\u00a0Desert in western China",
-        "315": "The Tian\u00a0Shan mountains in Central Asia",
-        "45": "The southeastern Arabian\u00a0Peninsula"
+        "315": "The Tian\u00a0Shan mountains in Central Asia"
     },
     "A105_C0022120602": {
         "0": "Over the Pacific\u00a0Ocean moving toward Central\u00a0America"
     },
     "A105_C002_021206_002": {
+        "70": "The southwest coast of Central\u00a0America heading toward the Caribbean\u00a0Sea",
         "100": "Crossing Central\u00a0America toward the Caribbean\u00a0Sea",
         "150": "Over the Caribbean\u00a0Sea moving toward Cuba",
         "240": "Over Cuba with Florida and the Bahamas beyond",
         "300": "Over Florida and the Bahamas traveling toward the Sargasso\u00a0Sea",
-        "350": "Over the Sargasso\u00a0Sea heading out into the Atlantic\u00a0Ocean",
-        "70": "The southwest coast of Central\u00a0America heading toward the Caribbean\u00a0Sea"
+        "350": "Over the Sargasso\u00a0Sea heading out into the Atlantic\u00a0Ocean"
     },
     "A105_C003212CT": {
         "0": "Crossing from night to day over the South\u00a0Pacific\u00a0Ocean"
     },
     "A105_C003_0212CT": {
+        "70": "Crossing from night to day over New\u00a0Zealand",
         "110": "Approaching sunrise over New\u00a0Zealand",
-        "170": "Leaving New\u00a0Zealand heading northeast over the Pacific\u00a0Ocean",
-        "70": "Crossing from night to day over New\u00a0Zealand"
+        "170": "Leaving New\u00a0Zealand heading northeast over the Pacific\u00a0Ocean"
     },
     "A108_C001215V8": {
         "0": "Traveling over the Pacific\u00a0Ocean toward Central\u00a0America"
     },
     "A108_C001_0215V8": {
-        "110": "Passing by a cloud-covered Jamaica in the Caribbean\u00a0Sea",
-        "125": "Crossing over Cuba looking toward Haiti and the Dominican\u00a0Republic",
-        "170": "Traveling over the Bahamas looking toward Haiti and the Dominican\u00a0Republic",
-        "190": "Turks and Caicos Islands in the Atlantic\u00a0Ocean",
         "35": "The Pacific coasts of Nicaragua, Costa\u00a0Rica, and Panama",
         "50": "Passing over Central\u00a0America with South\u00a0America in the distance",
         "65": "The Mosquito Coast of Nicaragua",
-        "85": "Over the Caribbean\u00a0Sea traveling toward Cuba"
+        "85": "Over the Caribbean\u00a0Sea traveling toward Cuba",
+        "110": "Passing by a cloud-covered Jamaica in the Caribbean\u00a0Sea",
+        "125": "Crossing over Cuba looking toward Haiti and the Dominican\u00a0Republic",
+        "170": "Traveling over the Bahamas looking toward Haiti and the Dominican\u00a0Republic",
+        "190": "Turks and Caicos Islands in the Atlantic\u00a0Ocean"
     },
     "A114_C001305OT": {
         "0": "Over the Pacific\u00a0Ocean heading toward the United\u00a0States"
     },
     "A114_C001_0305OT": {
-        "130": "The Sierra\u00a0Madre Occidental mountains on the west coast of Mexico",
-        "185": "Over the Sierra\u00a0Madre Occidental mountains moving toward the west coast of Mexico",
         "20": "Traveling south down the coast of California",
-        "225": "Looking south to the Pacific\u00a0Ocean over the Sierra\u00a0Madre del Sur in Mexico",
-        "280": "The Pacific\u00a0Ocean off the coast of Mexico",
-        "290": "The Pacific\u00a0Ocean off the coast of Mexico and Guatemala",
         "50": "Over southern California moving toward Mexico",
         "65": "Approaching the Mojave\u00a0Desert in southern California with Mexico beyond",
-        "95": "The Gulf of California flanked by the Sonoran\u00a0Desert and the Baja\u00a0California Peninsula"
+        "95": "The Gulf of California flanked by the Sonoran\u00a0Desert and the Baja\u00a0California Peninsula",
+        "130": "The Sierra\u00a0Madre Occidental mountains on the west coast of Mexico",
+        "185": "Over the Sierra\u00a0Madre Occidental mountains moving toward the west coast of Mexico",
+        "225": "Looking south to the Pacific\u00a0Ocean over the Sierra\u00a0Madre del Sur in Mexico",
+        "280": "The Pacific\u00a0Ocean off the coast of Mexico",
+        "290": "The Pacific\u00a0Ocean off the coast of Mexico and Guatemala"
     },
     "A351_C001_1213SK": {
         "0": "Traveling northeast over the Ethiopian Highlands",
+        "45": "Traveling over the Red\u00a0Sea into the Arabian\u00a0Peninsula",
         "100": "Heading northeast over the Arabian\u00a0Peninsula",
         "130": "Over the Arabian\u00a0Peninsula moving toward Iran",
         "165": "Over the Arabian\u00a0Peninsula approaching Iran",
@@ -221,7 +222,6 @@
         "322": "The Pamir-Alay Mountains and the Fergana\u00a0Valley in central Asia",
         "360": "Heading into southeastern Kazakhstan from Kyrgyzstan",
         "400": "Traveling north over Kazakhstan",
-        "45": "Traveling over the Red\u00a0Sea into the Arabian\u00a0Peninsula",
         "450": "Over the Altai\u00a0Mountains moving into Mongolia"
     },
     "B002_C011": {
@@ -292,34 +292,34 @@
     },
     "GMT026_363A_103NC_E1027": {
         "0": "Moving southeast over Siberia and Mongolia",
+        "22": "Heading toward Inner Mongolia",
+        "32": "Over Mongolia traveling toward China",
+        "60": "Over northern China moving toward the Korean\u00a0Peninsula",
         "110": "Over China heading toward the Korean\u00a0Peninsula",
         "150": "The Korean\u00a0Peninsula with Japan in the distance",
         "180": "Over South Korea traveling toward Japan",
         "195": "Over Japan looking toward the Pacific\u00a0Ocean",
-        "22": "Heading toward Inner Mongolia",
-        "260": "Over the Pacific\u00a0Ocean southeast of Japan",
-        "32": "Over Mongolia traveling toward China",
-        "60": "Over northern China moving toward the Korean\u00a0Peninsula"
+        "260": "Over the Pacific\u00a0Ocean southeast of Japan"
     },
     "GMT060_117NC_363D": {
         "0": "Over the Indian\u00a0Ocean heading toward Perth, Australia",
+        "50": "Traveling northeast across Western Australia",
         "170": "Over Western\u00a0Australia approaching Northern\u00a0Territory",
         "220": "Over Northern\u00a0Territory, Australia moving toward New\u00a0Guinea",
-        "335": "Over the Arafura\u00a0Sea traveling toward New\u00a0Guinea",
-        "50": "Traveling northeast across Western Australia"
+        "335": "Over the Arafura\u00a0Sea traveling toward New\u00a0Guinea"
     },
     "GMT110_112NC_364D_1054": {
         "0": "Aurora\u00a0Australis over Antarctica"
     },
     "GMT306_139NC_139J_3066": {
         "0": "Over the Pacific\u00a0Ocean moving toward the California coast",
+        "70": "Over the California coast traveling inland",
+        "85": "Passing over Los\u00a0Angeles on the west coast of the United\u00a0States",
+        "95": "Over Los\u00a0Angeles approaching Las\u00a0Vegas in the United\u00a0States",
         "110": "Over Las\u00a0Vegas heading toward Salt\u00a0Lake\u00a0City in the United\u00a0States",
         "120": "Over the western United\u00a0States approaching Salt\u00a0Lake\u00a0City",
         "155": "Passing between Salt\u00a0Lake\u00a0City and Denver in the United\u00a0States",
-        "170": "Over the Rocky\u00a0Mountains in the United\u00a0States",
-        "70": "Over the California coast traveling inland",
-        "85": "Passing over Los\u00a0Angeles on the west coast of the United\u00a0States",
-        "95": "Over Los\u00a0Angeles approaching Las\u00a0Vegas in the United\u00a0States"
+        "170": "Over the Rocky\u00a0Mountains in the United\u00a0States"
     },
     "GMT307_136NC_134K_8277": {
         "0": "Over the Pacific\u00a0Ocean heading toward Mexico",
@@ -333,27 +333,30 @@
     },
     "GMT308_139K_142NC": {
         "0": "Heading southeast over the Great\u00a0Plains of the United\u00a0States",
+        "90": "Heading southeast over the Midwest United\u00a0States",
         "120": "Over the southeast United\u00a0States heading toward Florida",
         "220": "Over Florida traveling toward the Bahamas",
         "240": "Moving southeast over the Bahamas",
         "285": "Over the Bahamas approaching the Dominican\u00a0Republic and Haiti",
         "300": "Over the Dominican\u00a0Republic and Haiti approaching the Caribbean\u00a0Sea",
-        "315": "Over the Caribbean\u00a0Sea heading south toward Venezuela",
-        "90": "Heading southeast over the Midwest United\u00a0States"
+        "315": "Over the Caribbean\u00a0Sea heading south toward Venezuela"
     },
     "GMT312_162NC_139M_1041": {
         "0": "Traveling northeast over the Sahara at night",
+        "70": "Over the Grand\u00a0Erg\u00a0Oriental heading toward the Mediterranean\u00a0Sea",
         "100": "The Mediterranean coast of Tunisia and Libya",
         "120": "Moving over the Mediterranean Sea toward Italy",
         "140": "Over southern Italy approaching the Balkan\u00a0Peninsula with Turkey in the distance",
         "165": "Over the Balkan Peninsula moving toward the Black\u00a0Sea",
         "180": "Over the Balkan Peninsula approaching the Black\u00a0Sea",
         "210": "Traveling over the Black\u00a0Sea toward Ukraine",
-        "230": "Traveling over Ukraine toward Russia",
-        "70": "Over the Grand\u00a0Erg\u00a0Oriental heading toward the Mediterranean\u00a0Sea"
+        "230": "Traveling over Ukraine toward Russia"
     },
     "GMT314_139M_170NC": {
         "0": "Over the Pacific\u00a0Ocean moving toward Baja\u00a0California",
+        "45": "Over Baja\u00a0California looking north toward the United\u00a0States",
+        "55": "Over Mexico heading toward the southwest United\u00a0States",
+        "75": "Over the southwest United\u00a0States",
         "110": "Over the Rocky\u00a0Mountains approaching Denver",
         "125": "Traveling over the Great\u00a0Plains of the United\u00a0States",
         "185": "Approaching the Great\u00a0Lakes with Ontario, Canada beyond",
@@ -361,28 +364,25 @@
         "210": "The Aurora\u00a0Borealis over western Ontario, Canada",
         "235": "The Aurora\u00a0Borealis over northern Ontario, Canada",
         "250": "The Aurora\u00a0Borealis over northern Quebec, Canada",
-        "300": "Heading toward the North Atlantic with the Aurora\u00a0Borealis over Labrador, Canada",
-        "45": "Over Baja\u00a0California looking north toward the United\u00a0States",
-        "55": "Over Mexico heading toward the southwest United\u00a0States",
-        "75": "Over the southwest United\u00a0States"
+        "300": "Heading toward the North Atlantic with the Aurora\u00a0Borealis over Labrador, Canada"
     },
     "GMT329_117NC_401C_1037": {
         "0": "Over the North\u00a0Atlantic approaching Ireland and Great\u00a0Britain",
-        "105": "Over central Europe heading toward Russia",
         "15": "Ireland and Great\u00a0Britain",
+        "45": "Over Great\u00a0Britain traveling toward mainland Europe",
+        "65": "Over northwestern Europe heading toward Russia",
+        "105": "Over central Europe heading toward Russia",
         "150": "Over eastern Europe with Moscow in the distance",
         "165": "Over eastern Europe looking toward Moscow",
         "185": "Over western Russia passing Moscow",
-        "195": "Over Russia traveling toward central Asia",
-        "45": "Over Great\u00a0Britain traveling toward mainland Europe",
-        "65": "Over northwestern Europe heading toward Russia"
+        "195": "Over Russia traveling toward central Asia"
     },
     "GMT329_1_113NC_396B_1105": {
         "0": "Over Tunisia heading toward Italy",
+        "5": "Over the Mediterranean\u00a0Sea looking toward Sicily and the Italian\u00a0Peninsula",
         "15": "Over southern Italy with the Balkan\u00a0Peninsula beyond",
         "25": "Over the Balkan\u00a0Peninsula moving toward central Asia",
         "40": "Over the Balkan\u00a0Peninsula passing by the Black\u00a0Sea",
-        "5": "Over the Mediterranean\u00a0Sea looking toward Sicily and the Italian\u00a0Peninsula",
         "55": "Over Ukraine with Russia beyond",
         "75": "Over southwest Russia passing by Kazakhstan"
     },
@@ -461,35 +461,35 @@
     },
     "L004_C011": {
         "0": "Approaching Tower\u00a0Bridge on the River\u00a0Thames, London",
-        "130": "Following the River\u00a0Thames toward the London\u00a0Eye",
         "20": "Following the River\u00a0Thames in London",
+        "130": "Following the River\u00a0Thames toward the London\u00a0Eye",
         "210": "Approaching the London\u00a0Eye on the River\u00a0Thames",
         "310": "Following the River\u00a0Thames past the London\u00a0Eye",
         "325": "Passing the Houses of Parliament on the River\u00a0Thames in London"
     },
     "L007_C007": {
         "0": "Passing over the grounds of Buckingham\u00a0Palace, London",
+        "24": "Over Buckingham\u00a0Palace in London",
+        "49": "Over St\u00a0James\u2019s Park heading toward the River\u00a0Thames, London",
         "104": "Crossing the River\u00a0Thames and passing over the London\u00a0Eye",
         "149": "Passing over South London",
-        "24": "Over Buckingham\u00a0Palace in London",
         "279": "Passing by The\u00a0Shard in South London",
         "299": "Crossing the River\u00a0Thames in London",
-        "324": "Crossing the River\u00a0Thames at Tower\u00a0Bridge in London",
-        "49": "Over St\u00a0James\u2019s Park heading toward the River\u00a0Thames, London"
+        "324": "Crossing the River\u00a0Thames at Tower\u00a0Bridge in London"
     },
     "L010_C006": {
         "0": "Approaching Tower\u00a0Bridge on the River\u00a0Thames, London",
+        "78": "Following the River\u00a0Thames in London",
         "178": "South of the River\u00a0Thames in London",
-        "258": "Crossing the River\u00a0Thames in London",
-        "78": "Following the River\u00a0Thames in London"
+        "258": "Crossing the River\u00a0Thames in London"
     },
     "L012_C002": {
         "0": "Approaching Tower\u00a0Bridge on the River\u00a0Thames, London",
         "20": "Crossing the River\u00a0Thames in London",
-        "200": "Crossing the River\u00a0Thames toward Westminster, London",
-        "270": "Over Westminster, London",
         "60": "Passing The\u00a0Shard in South London",
-        "92": "South of the River\u00a0Thames heading toward the London\u00a0Eye"
+        "92": "South of the River\u00a0Thames heading toward the London\u00a0Eye",
+        "200": "Crossing the River\u00a0Thames toward Westminster, London",
+        "270": "Over Westminster, London"
     },
     "LA_A005_C009": {
         "0": "Following Interstate 110 north through Los\u00a0Angeles"
@@ -520,14 +520,14 @@
     },
     "N003_C006": {
         "0": "Over the Upper East Side and Central\u00a0Park in New\u00a0York",
+        "50": "Over Midtown\u00a0Manhattan heading downtown toward the Empire\u00a0State Building",
         "160": "Approaching the Empire\u00a0State Building in New York",
-        "205": "Passing the Empire\u00a0State Building moving toward Lower Manhattan",
-        "50": "Over Midtown\u00a0Manhattan heading downtown toward the Empire\u00a0State Building"
+        "205": "Passing the Empire\u00a0State Building moving toward Lower Manhattan"
     },
     "N006_C003": {
         "0": "Approaching Lower\u00a0Manhattan in New\u00a0York",
-        "140": "Over Lower\u00a0Manhattan in New\u00a0York moving toward Midtown",
-        "40": "Over Lower\u00a0Manhattan in New\u00a0York"
+        "40": "Over Lower\u00a0Manhattan in New\u00a0York",
+        "140": "Over Lower\u00a0Manhattan in New\u00a0York moving toward Midtown"
     },
     "N008_C003": {
         "0": "Approaching Lower\u00a0Manhattan from New\u00a0York Harbor",
@@ -541,8 +541,8 @@
     },
     "N013_C004": {
         "0": "Heading down 7th Avenue toward Times\u00a0Square, New\u00a0York",
-        "120": "Heading down 7th Avenue in Midtown\u00a0Manhattan, New\u00a0York",
-        "40": "Over Times\u00a0Square in New\u00a0York"
+        "40": "Over Times\u00a0Square in New\u00a0York",
+        "120": "Heading down 7th Avenue in Midtown\u00a0Manhattan, New\u00a0York"
     },
     "P001_C005_11059D": {
         "0": "Moving along Cuernos del Paine in Torres del Paine National\u00a0Park, Chile"
@@ -592,16 +592,16 @@
         "0": "Over Yosemite National\u00a0Park in the United\u00a0States"
     },
     "Y002_C013_0226": {
-        "210": "Over Yosemite National\u00a0Park in the United\u00a0States",
         "70": "Approaching Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
-        "87": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States"
+        "87": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
+        "210": "Over Yosemite National\u00a0Park in the United\u00a0States"
     },
     "Y003_C009": {
         "0": "Over Yosemite National\u00a0Park, United\u00a0States",
+        "93": "Traveling toward Merced\u00a0Peak in Yosemite National\u00a0Park, United\u00a0States",
         "130": "Merced\u00a0Peak in Yosemite National\u00a0Park, United\u00a0States",
         "221": "Passing by Merced\u00a0Peak in Yosemite National\u00a0Park, United\u00a0States",
-        "244": "Traveling over Yosemite National\u00a0Park, United\u00a0States",
-        "93": "Traveling toward Merced\u00a0Peak in Yosemite National\u00a0Park, United\u00a0States"
+        "244": "Traveling over Yosemite National\u00a0Park, United\u00a0States"
     },
     "Y004_C015227PD": {
         "0": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States"
@@ -614,29 +614,29 @@
         "0": "Over Yosemite National\u00a0Park in the United\u00a0States"
     },
     "Y005_C003_0228SC": {
+        "40": "Traveling toward Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
+        "60": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
         "155": "Over Yosemite National\u00a0Park with Nevada\u00a0Fall in the distance",
         "255": "Nevada and Illilouette\u00a0Falls in Yosemite National\u00a0Park, United\u00a0States",
-        "285": "Nevada, Vernal, and Illilouette\u00a0Falls in Yosemite National\u00a0Park, United\u00a0States",
-        "40": "Traveling toward Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
-        "60": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States"
+        "285": "Nevada, Vernal, and Illilouette\u00a0Falls in Yosemite National\u00a0Park, United\u00a0States"
     },
     "Y009_C015304I": {
         "0": "Passing over Tuolumne\u00a0Meadows in Yosemite National\u00a0Park, United\u00a0States"
     },
     "Y011_C001": {
         "0": "Traveling toward Bridalveil\u00a0Fall and El\u00a0Capitan in Yosemite National\u00a0Park",
+        "44": "Traveling east toward El Capitan in Yosemite National Park, United\u00a0States",
+        "87": "Passing El\u00a0Capitan, Yosemite National\u00a0Park, United\u00a0States",
         "120": "Traveling east toward Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
         "390": "Half\u00a0Dome in Yosemite National\u00a0Park, United\u00a0States",
-        "44": "Traveling east toward El Capitan in Yosemite National Park, United\u00a0States",
         "470": "Traveling past Half\u00a0Dome in Yosemite\u00a0Valley, United\u00a0States",
-        "585": "Traveling east over Yosemite\u00a0Valley, United\u00a0States",
-        "87": "Passing El\u00a0Capitan, Yosemite National\u00a0Park, United\u00a0States"
+        "585": "Traveling east over Yosemite\u00a0Valley, United\u00a0States"
     },
     "Y011_C008": {
         "0": "Traveling toward Matthes\u00a0Crest in Yosemite National\u00a0Park, United\u00a0States",
+        "75": "Flying over Matthes\u00a0Crest in Yosemite National\u00a0Park, United\u00a0States",
         "124": "Flying through Matthes\u00a0Crest in Yosemite National\u00a0Park, United\u00a0States",
         "215": "Flying over Matthes\u00a0Crest in Yosemite National\u00a0Park, United\u00a0States",
-        "396": "Moving toward Tuolumne\u00a0Meadows in Yosemite National\u00a0Park, United\u00a0States",
-        "75": "Flying over Matthes\u00a0Crest in Yosemite National\u00a0Park, United\u00a0States"
+        "396": "Moving toward Tuolumne\u00a0Meadows in Yosemite National\u00a0Park, United\u00a0States"
     }
 }
