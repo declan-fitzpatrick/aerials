@@ -8,6 +8,9 @@ This script also turns the `Localizable.nocache.strings` into a json file that i
 These can be pulled using the following url: 
 `https://declan-fitzpatrick.github.io/aerials/api/{parsed|raw}/{lang}`
 
+## todos
+* todo list
+* github action for sub strings
 
 ## running this script
 
