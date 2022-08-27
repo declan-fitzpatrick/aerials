@@ -20,7 +20,7 @@ else:
 
 TVOS_VERSION = 16
 if 'TVOS_VERSION' in os.environ: TVOS_VERSION = os.environ['TVOS_VERSION']
-LOCAL_SERVER_URL = "test.com"
+LOCAL_SERVER_URL = ""
 if 'LOCAL_SERVER_URL' in os.environ: LOCAL_SERVER_URL = os.environ['LOCAL_SERVER_URL']
 VIDEO_QUALITY = "url-1080-H264"
 if 'VIDEO_QUALITY' in os.environ: VIDEO_QUALITY = os.environ['VIDEO_QUALITY']
@@ -135,7 +135,8 @@ def download_aerials():
     for index, asset in enumerate(entries['assets']):
         filename = asset[VIDEO_QUALITY].replace(APPLE_SERVER_URL, "")
         url = asset[VIDEO_QUALITY]
-        entries['assets'][index][f"{VIDEO_QUALITY}-local"] = f'{LOCAL_SERVER_URL}/{filename}'
+        if LOCAL_SERVER_URL != "":
+            entries['assets'][index][f"{VIDEO_QUALITY}-local"] = f'{LOCAL_SERVER_URL}/{filename}'
         try: 
             print(f"Downloading {filename} {index+1}/{len(entries['assets'])}")
             download_aerial(url, filename)
