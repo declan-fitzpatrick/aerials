@@ -1,0 +1,8 @@
+# ignore tar files
+.tar
+
+# ignore notes.md
+notes.md
+
+# ignore downloads folder
+downloads/
