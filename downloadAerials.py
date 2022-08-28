@@ -8,6 +8,7 @@ import tarfile
 import shutil
 import concurrent.futures
 import urllib3
+import time
 urllib3.disable_warnings()
 
 SKIP_GENERATE_POI = False
@@ -32,6 +33,9 @@ if VIDEO_QUALITY == "url-1080-H264":
     APPLE_SERVER_URL = "https://sylvan.apple.com/Videos/"
 else: 
     APPLE_SERVER_URL = "https://sylvan.apple.com/Aerials/2x/Videos"
+
+BW_LIMIT = False
+if 'BW_LIMIT' in os.environ: BW_LIMIT = True
 
 
 def upload_strings(file):
@@ -115,19 +119,30 @@ def get_sub_strings():
 
 def download_aerial(url, filename):
     chunk_size = 4096
-    if not os.path.exists(f"downloads/{filename}"):
-        with requests.get(url, stream=True, verify=False) as r:
-            file_size = r.headers.get("Content-Length")
-            
-            with open(f"downloads/{filename}", 'wb') as f:
-                received = 0
-                for chunk in r.iter_content(chunk_size): 
-                    if chunk:
-                        received += chunk_size
-                        print(
-                            f"({int(received)/(1024*1024):.2f} MB/{int(file_size)/(1024*1024):.2f} MB)", end="\r"
-                        )
-                        f.write(chunk)
+    
+    # check if file exists and it is the same size as the downloadable file.
+    if os.path.exists(f"downloads/{filename}"):
+        response = requests.head(url, verify=False)
+        rf_size = response.headers.get("Content-Length")
+        lf_size = os.stat(f"downloads/{filename}").st_size
+        print(f"\t{filename} ", end="")
+        if int(rf_size) == int(lf_size): 
+            print("exists: skipping...")
+            return
+        else:
+            print(f"exists, but has a size of {int(lf_size)/(1024*1024):.2f} MB v {int(rf_size)/(1024*1024):.2f} MB: downloading...")
+
+    with requests.get(url, stream=True, verify=False) as r:
+        file_size = r.headers.get("Content-Length")
+        with open(f"downloads/{filename}", 'wb') as f:
+            received = 0
+            for chunk in r.iter_content(chunk_size): 
+                if BW_LIMIT: time.sleep(0.004) # approx 1 MB/s
+                if chunk:
+                    received += chunk_size
+                    print(f"\t({int(received)/(1024*1024):.2f} MB/{int(file_size)/(1024*1024):.2f} MB)", end="\r")
+                    f.write(chunk)
+    print("")
 
 def download_aerials(): 
     print("WARNING: Downloading using the HTTPS urls in entries.json uses unverified HTTPS because the cert on sylvan.apple.com is self signed by Apple")
@@ -141,9 +156,11 @@ def download_aerials():
         if LOCAL_SERVER_URL != "":
             entries['assets'][index][f"{VIDEO_QUALITY}-local"] = f'{LOCAL_SERVER_URL}/{filename}'
         try: 
-            print(f"Downloading {filename} {index+1}/{len(entries['assets'])}")
-            download_aerial(url, filename)
-            print("")
+            if not SKIP_DOWNLOADS:
+                print(f"{index+1}/{len(entries['assets'])} Downloading {filename}")
+                download_aerial(url, filename)
+            else: 
+                print(f"{index+1}/{len(entries['assets'])} skipped downloading {filename}")
         except KeyError as e: 
             print(f"Died downloading {filename}", str(e))
     
@@ -178,9 +195,9 @@ if __name__ == "__main__":
             delete_assets()
             print("generating sub strings...")
             get_sub_strings()
-        if not SKIP_DOWNLOADS:
-            print("downloading files...")
-            download_aerials()
+
+        print("downloading files...")
+        download_aerials()
     except Exception as e: 
         print("Something failed...", str(e))
     finally:
