@@ -135,7 +135,6 @@ def download_aerials():
         os.mkdir("downloads")
     with open('resources/entries.json') as f:
         entries = json.loads(f.read())
-    print(len(entries['assets']))
     for index, asset in enumerate(entries['assets']):
         filename = asset[VIDEO_QUALITY].replace(APPLE_SERVER_URL, "")
         url = asset[VIDEO_QUALITY]
