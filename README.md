@@ -4,10 +4,10 @@ This Python script will download all the tvOS videos to the downloads folder.
 
 This script also turns the `Localizable.nocache.strings` into a json file that is hosted here in the api folder. 
 
-`entries.json` is also avaliable under `api/entries.json`
+`entries.json` is also avaliable under `api/{release}/entries.json`
 
 These can be pulled using the following url: 
-`https://declan-fitzpatrick.github.io/aerials/api/{parsed|raw}/{lang}`
+`https://declan-fitzpatrick.github.io/aerials/api/{release}/{parsed|raw}/{lang}`
 
 ## running this script
 

@@ -37,6 +37,7 @@ else:
 BW_LIMIT = False
 if 'BW_LIMIT' in os.environ: BW_LIMIT = True
 
+RELEASE_VERSION = "0.0.1"
 
 def upload_strings(file):
     password=""
@@ -94,7 +95,7 @@ def write_api_file(data, folder, lang, ext=False):
         # sort time stamps _ts
         d = { video : {int(_ts): _desc for _ts,_desc in pois.items()} for video,pois in data.items()}
 
-    with open(f'api/{folder}/{lang}{_ext}', "w") as dl:
+    with open(f'api/{RELEASE_VERSION}/{folder}/{lang}{_ext}', "w") as dl:
         json.dump(d, dl, indent=4, sort_keys=True)
 
 def get_poi():
@@ -164,7 +165,7 @@ def download_aerials():
         except KeyError as e: 
             print(f"Died downloading {filename}", str(e))
     
-    with open(f'api/entries.json', "w") as f:
+    with open(f'api/{RELEASE_VERSION}/entries.json', "w") as f:
         json.dump(entries, f, indent=4, sort_keys=True)
 
 
