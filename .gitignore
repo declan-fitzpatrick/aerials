@@ -6,3 +6,7 @@ notes.md
 
 # ignore downloads folder
 downloads/
+
+# ignore resources and resources.tar
+resources/
+resources.tar
