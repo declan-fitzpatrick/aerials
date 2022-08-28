@@ -44,12 +44,12 @@ def upload_strings(file):
     with open(file, 'rb') as payload:
         response = requests.post(url, auth=HTTPBasicAuth(LOCALISE_BIZ_API_KEY, password), data=payload)
 
-def download_strings(lang):
+def download_poi_json(lang):
     password = ''
     url = "https://localise.biz/api/export/locale/en_za.json"
     response = requests.get(url, auth=HTTPBasicAuth(LOCALISE_BIZ_API_KEY, password))
     locales = response.json()
-    sub_strings = {}
+    poi = {}
     write_api_file(locales, 'raw', lang)
     for locale in locales:
         if '_' in locale:
@@ -60,11 +60,11 @@ def download_strings(lang):
             # L007_C007_149: "Passing over South London"
             timestamp = locale.split('_')[-1]
             key = locale.replace(f'_{timestamp}', '')
-            if key not in sub_strings: sub_strings[key] = {}
+            if key not in poi: poi[key] = {}
             description = locales[locale]
             if "\n" in description: description = description.replace("\n", " ") # some have newlines in them
-            sub_strings[key][timestamp] = description
-    return sub_strings
+            poi[key][timestamp] = description
+    return poi
 
 def delete_asset(id):
     # https://localise.biz/api/docs/assets/deleteasset 
@@ -97,7 +97,7 @@ def write_api_file(data, folder, lang, ext=False):
     with open(f'api/{folder}/{lang}{_ext}', "w") as dl:
         json.dump(d, dl, indent=4, sort_keys=True)
 
-def get_sub_strings():
+def get_poi():
     path = 'resources/TVIdleScreenStrings.bundle'
     total = 1
     count = 1
@@ -110,11 +110,11 @@ def get_sub_strings():
         for dir in dirs: 
             if 'lproj' in dir: 
                 lang = dir.split(".")[0]
-                print(f"Getting substring for lang {lang} {count}/{total}")
+                print(f"Getting poi for lang {lang} {count}/{total}")
                 upload_strings(f'{path}/{lang}.lproj/Localizable.nocache.strings')
-                sub_strings = download_strings(lang)
+                poi = download_poi_json(lang)
                 delete_assets()
-                write_api_file(sub_strings, 'parsed', lang)
+                write_api_file(poi, 'parsed', lang)
                 count +=1
 
 def download_aerial(url, filename):
@@ -193,8 +193,8 @@ if __name__ == "__main__":
         if not SKIP_GENERATE_POI:
             print("cleaning old assets...")
             delete_assets()
-            print("generating sub strings...")
-            get_sub_strings()
+            print("generating poi...")
+            get_poi()
 
         print("downloading files...")
         download_aerials()
