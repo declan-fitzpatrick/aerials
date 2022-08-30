@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>aerials downloader</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body class="text-left">
+    <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+      <header class="masthead mb-auto">
+        <div class="inner">
+          <h3 class="masthead-brand"><a href="https://github.com/declan-fitzpatrick/aerials">aerials downloader</a> </h3>
+        </div>
+      </header>
+
+      <main role="main" class="inner cover">
+        <h3>What is this?</h3>
+            This project hosts the api and local downloadable files in a docker container. It is also hosted on GitHub Pages because why not?
+            
+            Clone the whole project for the full file downloader (downloads are not hosted here).
+            <br>
+
+        <h3>tl;dr</h3>
+            <a href="https://declan-fitzpatrick.github.io/aerials/api/0.0.2/raw/en_GB">Raw GB localised file</a> 
+            <br>
+            <a href="https://declan-fitzpatrick.github.io/aerials/api/0.0.2/parsed/en_GB">Parsed GB localised file</a> 
+            <br>
+            <a href="https://declan-fitzpatrick.github.io/aerials/api/0.0.2/entries.json">Entries.json file</a> 
+            <br>
+            
+
+
+        <h3>Langs</h3>
+            The public api is under the api/ folder and hosts two folders, which contain the localised points of interest files. The languages available are: 
+            <br>
+            ar, ca, cs, da, de, el, en, en_AU, en_GB, es, es_419, fi, fr, fr_CA, he, hi, hr, hu, id, it, ja, ko, ms, nl, no, pl, pt, pt_BR, pr_PT, ro, ru, sk, sv, th, tr, uk, vi, zh_CN, zh_HK, zh_TW
+            <br>
+            poi lang files are available on GitHub and locally if this is running in a docker container. urls take the form of: 
+            <br>
+            https://declan-fitzpatrick.github.io/aerials/api/{version}/{raw|parsed}/{lang}
+            <br> 
+            or: 
+            {your.domain.name:port}/aerials/api/{version}/{raw|parsed}/{lang}
+        <h3>Videos</h3>
+            videos are not stored in git and should be downloaded. Url will have the form of below where the filename is in entries.json['filename'] as of v0.0.2
+            <br>
+            {your.domain.name:port}/downloads/{file}
+
+        </main>
+
+      <footer class="mastfoot mt-auto">
+
+      </footer>
+    </div>
+    
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
