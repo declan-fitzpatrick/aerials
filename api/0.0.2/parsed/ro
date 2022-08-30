@@ -1,0 +1,642 @@
+{
+    "A001_C001_120530": {
+        "0": "Peste Atlanticul\u00a0de\u00a0Nord, spre Portugalia",
+        "115": "Peste Portugalia \u0219i Spania",
+        "150": "\u00cendep\u0103rtare de Peninsula\u00a0Iberic\u0103 \u0219i trecere peste Golful Biscaya \u0219i Fran\u021ba",
+        "180": "Peste Europa\u00a0de\u00a0Vest, cu vedere spre Oceanul\u00a0Atlantic de Nord \u00een dep\u0103rtare"
+    },
+    "A001_C004_1207W5": {
+        "0": "Insulele\u00a0Canare, Oceanul\u00a0Atlantic \u0219i coasta Africii",
+        "45": "Deplasare spre nord-est de-a lungul coastei Marocului",
+        "75": "Trec\u00e2nd peste Mun\u021bii\u00a0Atlas \u00een Maroc",
+        "105": "Peste Maroc, apropiere de Marea\u00a0Mediteran\u0103",
+        "125": "Marea\u00a0Mediteran\u0103 \u0219i sudul Spaniei",
+        "145": "Deplasare spre nord-est peste Costa\u00a0Blanca a Spaniei",
+        "165": "Deplasare spre nord-est peste Insulele\u00a0Baleare ale Spaniei",
+        "185": "Peste vestul M\u0103rii\u00a0Mediterane, cu vedere spre Alpi \u00een dep\u0103rtare",
+        "220": "Deplasare spre nord-est peste Alpi"
+    },
+    "A001_C007": {
+        "0": "Meduze\u00a0aurii \u00een apele din apropierea insulelor Palau",
+        "282": "Meduze\u00a0aurii cu o meduz\u0103\u2011lun\u0103 \u00een mijlocul lor",
+        "348": "Meduze\u00a0aurii \u00een apele din apropierea insulelor Palau"
+    },
+    "A002_C009": {
+        "0": "Meduze\u00a0aurii \u00een apele din apropierea insulelor Palau"
+    },
+    "A003_C014": {
+        "0": "Plutind peste meduze-lun\u0103 \u00een apropiere de coasta Alask\u0103i, Statele\u00a0Unite"
+    },
+    "A004_C003": {
+        "0": "Recif de corali \u00een apropiere de Palau"
+    },
+    "A004_C012": {
+        "0": "Meduze-lun\u0103 \u00een apropiere de coasta Alask\u0103i, Statele\u00a0Unite",
+        "100": "Centrul comercial al ora\u0219ului San\u00a0Francisco cu Coit\u00a0Tower \u00een prim-plan"
+    },
+    "A006_C003": {
+        "0": "Golful San\u00a0Francisco \u0219i podul Golden\u00a0Gate",
+        "140": "Deplasare peste turnul de nord al podului Golden\u00a0Gate, c\u0103tre San\u00a0Francisco",
+        "191": "Peste golful San Francisco"
+    },
+    "A006_C008": {
+        "0": "Banc de Rhinoptera bonasus \u00een largul coastelor Mexicului"
+    },
+    "A007_C017": {
+        "0": "Peste Fisherman\u2019s\u00a0Wharf, spre centrul comercial al ora\u0219ului San\u00a0Francisco",
+        "80": "Apropiere de Coit\u00a0Tower cu centrul comercial al ora\u0219ului San\u00a0Francisco \u0219i Bay\u00a0Bridge \u00een fundal",
+        "150": "Trec\u00e2nd pe l\u00e2ng\u0103 Turnul\u00a0Coit, spre centrul ora\u0219ului San\u00a0Francisco \u0219i spre Bay\u00a0Bridge",
+        "196": "Centrul comercial al ora\u0219ului San Francisco"
+    },
+    "A008_C007": {
+        "0": "Peste Marin\u00a0Headlands, cu vedere spre podul Golden\u00a0Gate",
+        "150": "Travers\u00e2nd podul Golden\u00a0Gate spre parcul na\u021bional Presidio din San\u00a0Francisco"
+    },
+    "A008_C010": {
+        "0": "Recif de corali \u00een Marea\u00a0Ro\u0219ie, \u00een apropiere de Egipt"
+    },
+    "A009_C001_10181A": {
+        "0": "Peste vestul Africii, c\u0103tre Sahara",
+        "30": "Travers\u00e2nd Sahara \u00een Africa\u00a0de\u00a0Nord",
+        "110": "Trec\u00e2nd peste Mun\u021bii\u00a0Ahaggar \u00een Sahara, Africa\u00a0Nordic\u0103",
+        "155": "Peste Marele\u00a0Erg\u00a0Oriental din Africa\u00a0Nordic\u0103, c\u0103tre Marea\u00a0Mediteran\u0103",
+        "195": "Coasta Tunisiei \u0219i Marea\u00a0Mediteran\u0103",
+        "210": "Peste coasta Tunisiei, deplasare c\u0103tre Italia",
+        "230": "Apropiere de Italia \u00een Marea\u00a0Mediteran\u0103",
+        "245": "Peste Italia, deplasare c\u0103tre Peninsula\u00a0Balcanic\u0103",
+        "285": "Peste Peninsula\u00a0Balcanic\u0103, spre Mun\u021bii\u00a0Carpa\u021bi",
+        "310": "Mun\u021bii\u00a0Carpa\u021bi \u0219i Marea\u00a0Neagr\u0103"
+    },
+    "A009_C007": {
+        "0": "Delfini rotitori \u00een apele din largul Costa Ric\u0103i"
+    },
+    "A010_C002": {
+        "0": "Plutind printr\u2011o p\u0103dure subacvatic\u0103 din apropiere de Peninsula\u00a0Capului, Africa\u00a0de\u00a0Sud"
+    },
+    "A010_C007": {
+        "0": "Meduze\u00a0aurii \u00een apele din apropierea insulelor Palau"
+    },
+    "A012_C004": {
+        "0": "Peste Marin\u00a0Headlands, cu vedere spre podul Golden\u00a0Gate",
+        "150": "Travers\u00e2nd podul Golden\u00a0Gate spre parcul na\u021bional Presidio din San\u00a0Francisco"
+    },
+    "A012_C014": {
+        "0": "Peste golful San\u00a0Francisco, c\u0103tre Embarcadero",
+        "208": "Urm\u00e2nd Market\u00a0Street prin San\u00a0Francisco"
+    },
+    "A012_C031": {
+        "0": "Stele\u00a0de\u00a0mare cu coarne pe fundul oceanului, \u00een apropiere de Borneo"
+    },
+    "A013_C004": {
+        "0": "Peste golful San\u00a0Francisco, c\u0103tre Embarcadero",
+        "90": "Peste Embarcadero privind \u00een jos Market\u00a0Street \u00een San\u00a0Francisco",
+        "150": "Urm\u00e2nd Market\u00a0Street prin centrul ora\u0219ului San\u00a0Francisco",
+        "360": "Urm\u00e2nd Market\u00a0Street prin San\u00a0Francisco"
+    },
+    "A013_C005": {
+        "0": "Deplasare de-a lungul Presidio of San\u00a0Francisco c\u0103tre podul Golden\u00a0Gate",
+        "190": "Travers\u00e2nd podul Golden\u00a0Gate spre Marin\u00a0Headlands"
+    },
+    "A013_C012": {
+        "0": "Apropiere de podul Golden\u00a0Gate din San\u00a0Francisco",
+        "60": "De-a lungul podului Golden\u00a0Gate, spre Marin\u00a0Headlands",
+        "140": "Travers\u00e2nd podul Golden\u00a0Gate",
+        "230": "Trec\u00e2nd pe l\u00e2ng\u0103 turnul\u00a0nordic al podului Golden\u00a0Gate",
+        "260": "Peste golful San\u00a0Francisco, deplasare de-a lungul podului Golden\u00a0Gate"
+    },
+    "A014_C008": {
+        "0": "Pe\u0219ti\u2011papagal peste recifele de corali din largul insulei Borneo"
+    },
+    "A014_C023": {
+        "0": "Un banc de carangide \u00een largul insulei Borneo"
+    },
+    "A015_C014": {
+        "0": "Peste golful San\u00a0Francisco, c\u0103tre Embarcadero",
+        "210": "Urm\u00e2nd Market\u00a0Street prin centrul ora\u0219ului San\u00a0Francisco"
+    },
+    "A015_C018": {
+        "0": "Apropiere de Bay\u00a0Bridge \u0219i de centrul comercial al ora\u0219ului San\u00a0Francisco",
+        "80": "Travers\u00e2nd Bay\u00a0Bridge, spre centrul ora\u0219ului San\u00a0Francisco",
+        "116": "Peste golful San\u00a0Francisco, spre centrul comercial al ora\u0219ului"
+    },
+    "A016_C002": {
+        "0": "Deplasare printr\u2011o p\u0103dure subacvatic\u0103 \u00een largul coastelor Californiei, Statele\u00a0Unite"
+    },
+    "A016_C009": {
+        "0": "Ur\u0219i\u00a0de\u00a0mare\u00a0cu\u00a0cap\u0103 \u00een largul coastelor Peninsulei\u00a0Capului, Africa\u00a0de\u00a0Sud"
+    },
+    "A018_C014": {
+        "0": "Apropiere de centrul comercial al ora\u0219ului San\u00a0Francisco, cu vedere spre Sutro\u00a0Tower \u00een dep\u0103rtare",
+        "10": "Cl\u0103direa Transamerica\u00a0Pyramid \u00een centrul comercial al ora\u0219ului San\u00a0Franciso",
+        "40": "Centrul comercial al ora\u0219ului San\u00a0Francisco, cu vedere spre Sutro\u00a0Tower \u00een dep\u0103rtare"
+    },
+    "A018_C029": {
+        "0": "Un banc de baracude \u00een apele din apropierea insulei Borneo"
+    },
+    "A050_C004_1027V8": {
+        "0": "Deplasare peste Europa\u00a0de\u00a0Vest, cu vedere spre Marea\u00a0Britanie \u0219i Irlanda \u00een dep\u0103rtare",
+        "20": "Deplasare spre sud-est peste Alpi \u0219i C\u00e2mpia\u00a0Padului",
+        "50": "Apropiere de Peninsula\u00a0Italic\u0103 \u0219i Marea\u00a0Adriatic\u0103",
+        "100": "Grecia, \u00eencadrat\u0103 de Marea\u00a0Ionic\u0103 \u0219i Marea\u00a0Egee",
+        "160": "Deplasare spre sud-est deasupra M\u0103rii\u00a0Mediterane",
+        "185": "Marea\u00a0Mediteran\u0103 \u0219i Delta\u00a0Nilului",
+        "205": "Fluviul\u00a0Nil curg\u00e2nd spre Sahara \u00een Egipt",
+        "220": "De\u0219ertul Estic \u00eencadrat de Fluviul\u00a0Nil \u0219i de Golful Suez",
+        "240": "Deplasare spre sud-est peste Marea\u00a0Ro\u0219ie"
+    },
+    "A083_C002_1130KZ": {
+        "0": "Reflexia soarelui de-a lungul coastei din Iran",
+        "15": "Deplasare dinspre zi spre noapte peste Iran",
+        "60": "Deplasare dinspre zi spre noapte peste Asia\u00a0Central\u0103"
+    },
+    "A103_C002205DG": {
+        "0": "Peste Cornul\u00a0Africii, deplasare spre Golful\u00a0Aden"
+    },
+    "A103_C002_0205DG": {
+        "45": "Sud-estul Peninsulei\u00a0Arabice",
+        "115": "Golful Oman, apropiere de Coasta\u00a0Makran",
+        "145": "Coasta\u00a0Makran a Iranului \u0219i Pakistanului",
+        "160": "Peste Iran, c\u0103tre Afganistan \u0219i Pakistan",
+        "180": "Peste Afganistan \u0219i Pakistan, c\u0103tre Mun\u021bii\u00a0Karakorum",
+        "235": "Peste Mun\u021bii\u00a0Karakorum, deplasare \u00een China",
+        "280": "De\u0219ertul\u00a0Taklamakan din vestul Chinei",
+        "315": "Mun\u021bii\u00a0Tian-\u0218an \u00een Asia Central\u0103"
+    },
+    "A105_C0022120602": {
+        "0": "Peste Oceanul\u00a0Pacific, c\u0103tre America\u00a0Central\u0103"
+    },
+    "A105_C002_021206_002": {
+        "70": "Sud-vestul coastei din America\u00a0Central\u0103, spre Marea\u00a0Caraibilor",
+        "100": "Travers\u00e2nd America\u00a0Central\u0103 spre Marea\u00a0Caraibilor",
+        "150": "Peste Marea\u00a0Caraibilor, c\u0103tre Cuba",
+        "240": "Peste Cuba, cu vedere spre Florida \u0219i Bahamas \u00een dep\u0103rtare",
+        "300": "Peste Florida \u0219i Bahamas, deplasare c\u0103tre Marea\u00a0Sargaselor",
+        "350": "Peste Marea\u00a0Sargaselor, deplasare spre Oceanul\u00a0Atlantic"
+    },
+    "A105_C003212CT": {
+        "0": "Travers\u00e2nd dinspre noapte spre zi peste Oceanul\u00a0Pacific\u00a0de\u00a0Sud"
+    },
+    "A105_C003_0212CT": {
+        "70": "Travers\u00e2nd dinspre noapte spre zi peste Noua\u00a0Zeeland\u0103",
+        "110": "Apropiere de r\u0103s\u0103rit deasupra Noii\u00a0Zeelande",
+        "170": "P\u0103r\u0103sind Noua\u00a0Zeeland\u0103, deplasare spre nord-est peste Oceanul\u00a0Pacific"
+    },
+    "A108_C001215V8": {
+        "0": "Deplasare peste Oceanul\u00a0Pacific spre America\u00a0Central\u0103"
+    },
+    "A108_C001_0215V8": {
+        "35": "Coastele pacifice ale Nicaraguei, Costa\u00a0Ric\u0103i \u0219i Panamaului",
+        "50": "Trec\u00e2nd de America\u00a0Central\u0103, cu vedere spre America\u00a0de\u00a0Sud \u00een dep\u0103rtare",
+        "65": "Mosquito\u00a0Coast \u00een Nicaragua",
+        "85": "Peste Marea\u00a0Caraibilor, deplasare c\u0103tre Cuba",
+        "110": "Trec\u00e2nd de Jamaica acoperit\u0103 de nori \u00een Marea\u00a0Caraibilor",
+        "125": "Travers\u00e2nd Cuba, cu vedere spre Haiti \u0219i Republica\u00a0Dominican\u0103",
+        "170": "Deplasare peste Bahamas, cu vedere spre Haiti \u0219i Republica\u00a0Dominican\u0103",
+        "190": "Insulele Turks \u0219i Caicos \u00een Oceanul\u00a0Atlantic"
+    },
+    "A114_C001305OT": {
+        "0": "Peste Oceanul\u00a0Pacific, spre Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "A114_C001_0305OT": {
+        "20": "Deplasare spre sudul coastei Californiei",
+        "50": "Peste sudul Californiei, c\u0103tre Mexic",
+        "65": "Apropiere de De\u0219ertul\u00a0Mojave din sudul Californiei, cu vedere spre Mexic \u00een dep\u0103rtare",
+        "95": "Golful California \u00eencadrat de De\u0219ertul\u00a0Sonora \u0219i Peninsula Baja\u00a0California",
+        "130": "Mun\u021bii Sierra\u00a0Madre Occidental pe coasta vestic\u0103 a Mexicului",
+        "185": "Peste mun\u021bii Sierra\u00a0Madre Occidental, c\u0103tre coasta vestic\u0103 a Mexicului",
+        "225": "Vedere spre Oceanul\u00a0Pacific la sud, peste Sierra\u00a0Madre del Sur \u00een Mexic",
+        "280": "Oceanul\u00a0Pacific spre coasta Mexicului",
+        "290": "Oceanul\u00a0Pacific spre coasta Mexicului \u0219i Guatemalei"
+    },
+    "A351_C001_1213SK": {
+        "0": "Deplasare spre nord-est peste Mun\u021bii\u00a0Etiopiei",
+        "45": "Deplasare peste Marea\u00a0Ro\u0219ie \u00een Peninsula\u00a0Arabic\u0103",
+        "100": "Deplasare spre nord-est peste Peninsula\u00a0Arabic\u0103",
+        "130": "Peste Peninsula\u00a0Arabic\u0103, c\u0103tre Iran",
+        "165": "Peste Peninsula\u00a0Arabic\u0103, apropiere de Iran",
+        "190": "Apropiere de coasta Iranului, cu vedere spre Mun\u021bii\u00a0Zagros \u00een dep\u0103rtare",
+        "210": "Peste Mun\u021bii\u00a0Zagros \u00een Iran",
+        "240": "Peste de\u0219ertul Dasht-e\u00a0Lut \u00een Iran",
+        "265": "C\u0103tre Turkmenistan \u0219i de\u0219ertul Karakum",
+        "305": "Fluviul\u00a0Amudaria \u0219i Mun\u021bii Pamir-Alay \u00een Asia Central\u0103",
+        "322": "Mun\u021bii Pamir-Alay \u0219i Valea\u00a0Fergana \u00een Asia Central\u0103",
+        "360": "Deplasare spre sud-estul Kazahstanului dinspre K\u00e2rg\u00e2zstan",
+        "400": "Deplasare spre nord peste Kazahstan",
+        "450": "Peste Mun\u021bii\u00a0Altai, deplasare \u00een Mongolia"
+    },
+    "B002_C011": {
+        "0": "Delfini comuni cu cioc scurt \u00een largul coastelor Californiei, Statele\u00a0Unite"
+    },
+    "C001_C005": {
+        "0": "Sec\u021biunea Mutianyu a Marelui\u00a0Zid, \u00een districtul\u00a0Huairou,\u00a0China"
+    },
+    "C003_C003": {
+        "0": "Sec\u021biunea Mutianyu a Marelui\u00a0Zid, \u00een districtul\u00a0Huairou, China"
+    },
+    "C004_C003": {
+        "0": "Sec\u021biunea Mutianyu a Marelui\u00a0Zid, \u00een districtul\u00a0Huairou, China"
+    },
+    "CH_C002_C005": {
+        "0": "Trec\u00e2nd deasupra teraselor de orez Longji din provincia\u00a0Guangxi, China"
+    },
+    "CH_C007_C004": {
+        "0": "Explor\u00e2nd Parcul\u00a0Na\u021bional Wulingyuan din China"
+    },
+    "CH_C007_C011": {
+        "0": "Deplasare prin Parcul\u00a0Na\u021bional Wulingyuan din China"
+    },
+    "D004_L014": {
+        "0": "O balen\u0103 cu cocoa\u0219\u0103 \u00een apele Polineziei\u00a0Franceze"
+    },
+    "DB_D001_C001": {
+        "0": "Zbur\u00e2nd deasupra districtului Dubai\u00a0Marina, \u00een Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "DB_D001_C005": {
+        "0": "Zbur\u00e2nd de-a lungul districtului Dubai\u00a0Marina, \u00een Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "DB_D002_C003": {
+        "0": "Apropiere de centrul comercial al ora\u0219ului Dubai, \u00een Emiratele\u00a0Arabe\u00a0Unite",
+        "210": "Deplasare c\u0103tre centrul comercial al ora\u0219ului Dubai, \u00een Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "DB_D008_C010": {
+        "0": "Deplasare de-a lungul \u0219oselei Sheikh\u00a0Zayed din Dubai, Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "DB_D011_C010": {
+        "0": "Apropiere de Burj\u00a0Khalifa, \u00een centrul comercial al ora\u0219ului Dubai, Emiratele\u00a0Arabe\u00a0Unite",
+        "280": "Trec\u00e2nd pe l\u00e2ng\u0103 Burj\u00a0Khalifa \u00een centrul ora\u0219ului Dubai, Emiratele\u00a0Arabe\u00a0Unite",
+        "330": "Peste centrul comercial al ora\u0219ului\u00a0Dubai, apropiere de coast\u0103"
+    },
+    "G007_C004": {
+        "0": "Urm\u00e2nd r\u00e2ul\u00a0Colorado prin Marele\u00a0Canion din Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "G008_C015106MB": {
+        "0": "Zbur\u00e2nd deasupra zonei Burnt\u00a0Canyon a Marelui\u00a0Canion, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "G009_C00310678": {
+        "0": "Deplasare peste Marele\u00a0Canion din Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "G009_C014106B9": {
+        "0": "Deplasare prin Marele\u00a0Canion din Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "G010_C026107KE": {
+        "0": "C\u0103l\u0103torind de-a lungul r\u00e2ului\u00a0Colorado \u00een Marele\u00a0Canion, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "GL_G002_C002": {
+        "0": "Fiordul\u00a0Ilulissat, \u00een largul coastelor Groenlandei"
+    },
+    "GL_G004_C010": {
+        "0": "C\u0103l\u0103torind de-a lungul peninsulei\u00a0Nuussuaq din Groenlanda"
+    },
+    "GL_G010_C006": {
+        "0": "Fiordul\u00a0Ilulissat, \u00een largul coastelor Groenlandei"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Deplasare spre sud-est peste Siberia \u0219i Mongolia",
+        "22": "Deplasare spre Mongolia\u00a0Interioar\u0103",
+        "32": "Peste Mongolia, deplasare c\u0103tre China",
+        "60": "Peste nordul Chinei, c\u0103tre Peninsula\u00a0Coreean\u0103",
+        "110": "Peste China, spre Peninsula\u00a0Coreean\u0103",
+        "150": "Peninsula\u00a0Coreean\u0103, cu vedere spre Japonia \u00een dep\u0103rtare",
+        "180": "Peste Coreea\u00a0de\u00a0Sud, deplasare c\u0103tre Japonia",
+        "195": "Peste Japonia, cu vedere spre Oceanul\u00a0Pacific",
+        "260": "Peste Oceanul\u00a0Pacific, sud-estul Japoniei"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Peste Oceanul\u00a0Indian, spre Perth, Australia",
+        "50": "Deplasare spre nord-est peste Australia\u00a0de\u00a0Vest",
+        "170": "Peste Australia\u00a0de\u00a0Vest, apropiere de Teritoriul\u00a0de\u00a0Nord",
+        "220": "Peste Teritoriul\u00a0de\u00a0Nord, Australia, c\u0103tre Noua\u00a0Guinee",
+        "335": "Peste Marea\u00a0Arafura, deplasare c\u0103tre Noua\u00a0Guinee"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Aurora\u00a0austral\u0103 deasupra Antarcticii"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Peste Oceanul\u00a0Pacific, c\u0103tre coasta Californiei",
+        "70": "Peste coasta Californiei, deplasare spre continent",
+        "85": "Trec\u00e2nd peste Los\u00a0Angeles pe coasta de vest a Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "95": "Peste Los\u00a0Angeles, apropiere de Las\u00a0Vegas \u00een Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "110": "Peste Las\u00a0Vegas, spre Salt\u00a0Lake\u00a0City din Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "120": "Peste vestul Statelor\u00a0Unite\u00a0ale\u00a0Americii, apropiere de Salt\u00a0Lake\u00a0City",
+        "155": "Trec\u00e2nd \u00eentre Salt\u00a0Lake\u00a0City \u0219i Denver \u00een Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "170": "Peste Mun\u021bii\u00a0St\u00e2nco\u0219i, \u00een Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Peste Oceanul\u00a0Pacific, spre Mexic",
+        "105": "Trec\u00e2nd peste Ciudad\u00a0de\u00a0M\u00e9xico spre Golful\u00a0Mexic",
+        "122": "Zbur\u00e2nd peste Golful\u00a0Mexic spre Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "180": "Trec\u00e2nd de Houston, apropiere de New\u00a0Orleans \u00een Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "190": "Deplasare peste New\u00a0Orleans \u0219i coasta\u00a0Golfului Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "215": "Deplasare peste sud-estul Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "280": "Peste estul Statelor\u00a0Unite\u00a0ale\u00a0Americii, deplasare spre New\u00a0York",
+        "320": "Peste estul Statelor\u00a0Unite\u00a0ale\u00a0Americii, apropiere de ora\u0219ul New\u00a0York"
+    },
+    "GMT308_139K_142NC": {
+        "0": "Deplasare spre sud-est peste Marile\u00a0C\u00e2mpii\u00a0Centrale ale Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "90": "Deplasare spre sud-est peste Vestul\u00a0mijlociu al Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "120": "Peste sud-estul Statelor\u00a0Unite\u00a0ale\u00a0Americii, spre Florida",
+        "220": "Peste Florida, deplasare c\u0103tre Bahamas",
+        "240": "Deplasare spre sud-est peste Bahamas",
+        "285": "Peste Bahamas, apropiere de Republica\u00a0Dominican\u0103 \u0219i Haiti",
+        "300": "Peste Republica\u00a0Dominican\u0103 \u0219i Haiti, apropiere de Marea\u00a0Caraibilor",
+        "315": "Peste Marea\u00a0Caraibilor, deplasare spre sud c\u0103tre Venezuela"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Deplasare spre nord-est peste Sahara pe timpul nop\u021bii",
+        "70": "Peste Marele\u00a0Erg\u00a0Oriental, spre Marea\u00a0Mediteran\u0103",
+        "100": "Coasta Mediteranei \u00een Tunisia \u0219i Libia",
+        "120": "Deplasare peste Marea Mediteran\u0103 spre Italia",
+        "140": "Peste sudul Italiei, apropiere de Peninsula\u00a0Balcanic\u0103, cu vedere spre Turcia \u00een dep\u0103rtare",
+        "165": "Peste Peninsula\u00a0Balcanic\u0103, c\u0103tre Marea\u00a0Neagr\u0103",
+        "180": "Peste Peninsula\u00a0Balcanic\u0103, apropiere de Marea\u00a0Neagr\u0103",
+        "210": "Deplasare peste Marea\u00a0Neagr\u0103 spre Ucraina",
+        "230": "Deplasare peste Ucraina spre Rusia"
+    },
+    "GMT314_139M_170NC": {
+        "0": "Peste Oceanul\u00a0Pacific, c\u0103tre Baja\u00a0California",
+        "45": "Peste Baja\u00a0California, cu vedere spre nord, spre Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "55": "Peste Mexic, spre sud-vestul Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "75": "Peste sud-vestul Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "110": "Peste Mun\u021bii\u00a0St\u00e2nco\u0219i, apropiere de Denver",
+        "125": "Deplasare peste Marile\u00a0C\u00e2mpii\u00a0Centrale ale Statelor\u00a0Unite\u00a0ale\u00a0Americii",
+        "185": "Apropiere de Marile\u00a0Lacuri, cu vedere spre Ontario, Canada, \u00een dep\u0103rtare",
+        "200": "Peste Marile\u00a0Lacuri, apropiere de Ontario, Canada",
+        "210": "Aurora\u00a0polar\u0103 deasupra vestului provinciei Ontario, Canada",
+        "235": "Aurora\u00a0polar\u0103 deasupra nordului provinciei Ontario, Canada",
+        "250": "Aurora\u00a0polar\u0103 deasupra nordului provinciei Quebec, Canada",
+        "300": "Deplasare spre Atlanticul\u00a0de\u00a0Nord cu Aurora\u00a0polar\u0103 peste Labrador, Canada"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Peste Atlanticul\u00a0de\u00a0Nord, apropiere de Irlanda \u0219i Marea\u00a0Britanie",
+        "15": "Irlanda \u0219i Marea\u00a0Britanie",
+        "45": "Peste Marea\u00a0Britanie, deplasare spre Europa continental\u0103",
+        "65": "Peste nord-vestul Europei, spre Rusia",
+        "105": "Peste Europa\u00a0Central\u0103, spre Rusia",
+        "150": "Peste Europa\u00a0de\u00a0Est, cu vedere spre Moscova \u00een dep\u0103rtare",
+        "165": "Peste Europa\u00a0de\u00a0Est, cu vedere spre Moscova",
+        "185": "Peste vestul Rusiei, trec\u00e2nd de Moscova",
+        "195": "Peste Rusia, deplasare c\u0103tre Asia\u00a0Central\u0103"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Peste Tunisia, spre Italia",
+        "5": "Peste Marea\u00a0Mediteran\u0103, cu vedere spre Sicilia \u0219i Peninsula\u00a0Italic\u0103",
+        "15": "Peste sudul Italiei, cu vedere spre Peninsula\u00a0Balcanic\u0103 \u00een dep\u0103rtare",
+        "25": "Peste Peninsula\u00a0Balcanic\u0103, c\u0103tre Asia\u00a0Central\u0103",
+        "40": "Peste Peninsula\u00a0Balcanic\u0103, trec\u00e2nd pe l\u00e2ng\u0103 Marea\u00a0Neagr\u0103",
+        "55": "Peste Ucraina, cu vedere spre Rusia \u00een dep\u0103rtare",
+        "75": "Peste sud-vestul Rusiei trec\u00e2nd pe l\u00e2ng\u0103 Kazahstan"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "Peste Asia\u00a0Central\u0103, deplasare c\u0103tre coasta Chinei",
+        "10": "Peste China\u00a0Central\u0103, deplasare c\u0103tre Shanghai",
+        "30": "Deplasare peste estul Chinei, apropiere de Shanghai",
+        "45": "Apropiere de Shanghai, spre Marea\u00a0Chinei\u00a0de\u00a0Est",
+        "50": "Peste Shanghai, c\u0103tre Marea\u00a0Chinei\u00a0de\u00a0Est"
+    },
+    "H004_C007": {
+        "0": "Deasupra Rezerva\u021biei naturale Pu\u2018u\u00a0O\u00a0\u2018Umi, pe insula\u00a0Hawaii"
+    },
+    "H004_C009": {
+        "0": "Deasupra Rezerva\u021biei naturale Pu\u2018u\u00a0O\u00a0\u2018Umi, pe insula\u00a0Hawaii"
+    },
+    "H005_C012": {
+        "0": "Valea\u00a0Waimanu din rezerva\u021bia forestier\u0103\u00a0Kohala de pe insula\u00a0Hawaii"
+    },
+    "H007_C003": {
+        "0": "Zbur\u00e2nd deasupra Laup\u0101hoehoe\u00a0Nui din rezerva\u021bia forestier\u0103\u00a0Kohala de pe insula\u00a0Hawaii"
+    },
+    "H010_C006": {
+        "0": "Apropiere de Valea\u00a0Honop\u016b din rezerva\u021bia forestier\u0103\u00a0Kohala de pe insula\u00a0Hawaii",
+        "300": "Valea\u00a0Honop\u016b din rezerva\u021bia forestier\u0103\u00a0Kohala de pe insula\u00a0Hawaii"
+    },
+    "H012_C009": {
+        "0": "Urm\u00e2nd linia de coast\u0103 Kohala pe insula\u00a0Hawaii"
+    },
+    "HK_B005_C011": {
+        "0": "Peste Victoria\u00a0Harbour, spre districtul Central din Hong\u00a0Kong"
+    },
+    "HK_H004_C001": {
+        "0": "Peste Victoria\u00a0Harbour, spre districtul Central din Hong\u00a0Kong"
+    },
+    "HK_H004_C008": {
+        "0": "Deasupra Victoria\u00a0Harbour, cu fa\u021ba c\u0103tre insula Hong\u00a0Kong"
+    },
+    "HK_H004_C010": {
+        "0": "Zbur\u00e2nd peste Victoria\u00a0Peak din Hong\u00a0Kong",
+        "150": "Zbur\u00e2nd deasupra Hong\u00a0Kongului, c\u0103tre Victoria\u00a0Harbour",
+        "330": "Deasupra Victoria\u00a0Harbour, apropiere de peninsula\u00a0Kowloon"
+    },
+    "HK_H004_C013": {
+        "0": "Deasupra districtului Wan Chai, apropiere de centrul\u00a0Hong\u00a0Kongului",
+        "150": "Deasupra districtului Central din Hong\u00a0Kong",
+        "270": "Deasupra Insulei Hong\u00a0Kong"
+    },
+    "I001_C014": {
+        "0": "C\u0103l\u0103torind de\u2011a lungul r\u00e2ului J\u00f6kulgilskv\u00edsl \u00een apropiere de Landmannalaugar, Islanda"
+    },
+    "I003_C004": {
+        "0": "Zbur\u00e2nd peste Langisj\u00f3r \u00een Islanda"
+    },
+    "I003_C005": {
+        "0": "Zbur\u00e2nd peste Langisj\u00f3r \u0219i Mun\u021bii F\u00f6grufj\u00f6ll \u00een Islanda"
+    },
+    "I003_C008": {
+        "0": "Deplasare peste Tungna\u00e1 \u00een Platoul Islandez"
+    },
+    "I003_C011": {
+        "0": "Urm\u00e2nd r\u00e2ul J\u00f6kulgilskv\u00edsl \u00een Landmannalaugar, Islanda",
+        "308": "Deplasare peste Platoul Islandez"
+    },
+    "I003_C015": {
+        "0": "Deplasare prin J\u00f6kulgil \u00een Landmannalaugar, Islanda"
+    },
+    "I004_C014": {
+        "0": "Deplasare peste Landmannalaugar \u00een Islanda"
+    },
+    "I005_C008": {
+        "0": "Deplasare spre ghe\u021barul M\u00fdrdalsj\u00f6kull din Islanda",
+        "150": "Apropiere de ghe\u021barul M\u00fdrdalsj\u00f6kull din Islanda",
+        "225": "Ghe\u021barul M\u00fdrdalsj\u00f6kull din Islanda",
+        "324": "Deplasare peste ghe\u021barul M\u00fdrdalsj\u00f6kull din Islanda"
+    },
+    "L004_C011": {
+        "0": "Apropiere de Tower\u00a0Bridge pe r\u00e2ul\u00a0Tamisa, Londra",
+        "20": "Urm\u00e2nd r\u00e2ul\u00a0Tamisa, \u00een Londra",
+        "130": "Urm\u00e2nd r\u00e2ul\u00a0Tamisa, c\u0103tre London\u00a0Eye",
+        "210": "Apropiere de London\u00a0Eye pe r\u00e2ul\u00a0Tamisa",
+        "310": "Urm\u00e2nd r\u00e2ul\u00a0Tamisa, dincolo de London\u00a0Eye",
+        "325": "Trec\u00e2nd pe l\u00e2ng\u0103 Palatul Westminster pe r\u00e2ul\u00a0Tamisa, \u00een Londra"
+    },
+    "L007_C007": {
+        "0": "Deasupra Palatului\u00a0Buckingham, Londra",
+        "24": "Deasupra Palatului\u00a0Buckingham din Londra",
+        "49": "Deasupra parcului St\u00a0James, spre r\u00e2ul\u00a0Tamisa, Londra",
+        "104": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa \u0219i trec\u00e2nd deasupra London\u00a0Eye",
+        "149": "Trec\u00e2nd deasupra sudului Londrei",
+        "279": "Trec\u00e2nd pe l\u00e2ng\u0103 The\u00a0Shard, \u00een sudul Londrei",
+        "299": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa, \u00een Londra",
+        "324": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa pe deasupra podului Tower\u00a0Bridge, \u00een Londra"
+    },
+    "L010_C006": {
+        "0": "Apropiere de Tower\u00a0Bridge pe r\u00e2ul\u00a0Tamisa, Londra",
+        "78": "Urm\u00e2nd r\u00e2ul\u00a0Tamisa, \u00een Londra",
+        "178": "La sud de r\u00e2ul\u00a0Tamisa, \u00een Londra",
+        "258": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa, \u00een Londra"
+    },
+    "L012_C002": {
+        "0": "Apropiere de Tower\u00a0Bridge pe r\u00e2ul\u00a0Tamisa, Londra",
+        "20": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa, \u00een Londra",
+        "60": "Trec\u00e2nd pe l\u00e2ng\u0103 The\u00a0Shard \u00een sudul Londrei",
+        "92": "La sud de r\u00e2ul\u00a0Tamisa, spre London\u00a0Eye",
+        "200": "Travers\u00e2nd r\u00e2ul\u00a0Tamisa spre Westminster, Londra",
+        "270": "Peste Westminster, Londra"
+    },
+    "LA_A005_C009": {
+        "0": "Urm\u00e2nd autostrada Interstate 110 North prin Los\u00a0Angeles"
+    },
+    "LA_A006_C004": {
+        "0": "Semnul Hollywood din Los\u00a0Angeles",
+        "250": "Deasupra Hollywood\u00a0Hills, apropiere de Burbank, California"
+    },
+    "LA_A006_C008": {
+        "0": "Zbur\u00e2nd deasupra aeroportului\u00a0interna\u021bional din Los\u00a0Angeles"
+    },
+    "LA_A008_C004": {
+        "0": "Deasupra Santa\u00a0Monica State Beach, l\u00e2ng\u0103 Los\u00a0Angeles",
+        "365": "Trec\u00e2nd deasupra docului Santa\u00a0Monica, l\u00e2ng\u0103 Los\u00a0Angeles",
+        "430": "Deasupra Santa\u00a0Monica State Beach, l\u00e2ng\u0103 Los\u00a0Angeles"
+    },
+    "LA_A009_C009": {
+        "0": "Observatorul\u00a0Griffith \u0219i Hollywood\u00a0Hills, \u00een Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Trec\u00e2nd prin centrul ora\u0219ului Los\u00a0Angeles"
+    },
+    "LW_L001_C003": {
+        "0": "Zbur\u00e2nd deasupra oazei\u00a0Liwa din Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "LW_L001_C006": {
+        "0": "Zbur\u00e2nd deasupra oazei\u00a0Liwa din Emiratele\u00a0Arabe\u00a0Unite"
+    },
+    "N003_C006": {
+        "0": "Deasupra Upper East Side \u0219i Central\u00a0Park, \u00een New\u00a0York",
+        "50": "Peste Midtown\u00a0Manhattan, deplasare c\u0103tre Empire\u00a0State Building",
+        "160": "Apropiere de Empire\u00a0State Building \u00een New York",
+        "205": "Pe l\u00e2ng\u0103 Empire\u00a0State Building, c\u0103tre Lower Manhattan"
+    },
+    "N006_C003": {
+        "0": "Apropiere de Lower\u00a0Manhattan, \u00een New\u00a0York",
+        "40": "Deasupra Lower\u00a0Manhattan, \u00een New\u00a0York",
+        "140": "Peste Lower\u00a0Manhattan din New\u00a0York, c\u0103tre Midtown"
+    },
+    "N008_C003": {
+        "0": "Apropiere de Lower\u00a0Manhattan, din New\u00a0York Harbor",
+        "110": "De-a lungul Lower\u00a0Manhattan, apropiere de One World\u00a0Trade\u00a0Center",
+        "180": "Trec\u00e2nd pe l\u00e2ng\u0103 One World\u00a0Trade\u00a0Center spre Midtown\u00a0Manhattan",
+        "210": "Peste Lower\u00a0Manhattan din New\u00a0York, c\u0103tre Midtown"
+    },
+    "N008_C009": {
+        "0": "Deasupra Central\u00a0Park, deplasare c\u0103tre Midtown\u00a0Manhattan din New\u00a0York",
+        "246": "Deasupra Midtown\u00a0Manhattan, \u00een New\u00a0York"
+    },
+    "N013_C004": {
+        "0": "Pe 7th Avenue c\u0103tre Times\u00a0Square, New\u00a0York",
+        "40": "Deasupra Times\u00a0Square, \u00een New\u00a0York",
+        "120": "Pe 7th Avenue \u00een Midtown\u00a0Manhattan, New\u00a0York"
+    },
+    "P001_C005_11059D": {
+        "0": "Deplasare de-a lungul Cuernos del Paine \u00een Parcul\u00a0Na\u021bional Torres del Paine, Chile"
+    },
+    "P005_C002_1109E1": {
+        "0": "C\u0103l\u0103torind de-a lungul lacului\u00a0Nordenskj\u00f6ld \u00een Parcul\u00a0Na\u021bional Torres del Paine, Chile"
+    },
+    "P006_C002_11106T": {
+        "0": "Deasupra lacului\u00a0Nordenskj\u00f6ld \u00een Parcul\u00a0Na\u021bional Torres Del Paine, Chile"
+    },
+    "P007_C027": {
+        "0": "Deplasare peste Parcul\u00a0Na\u021bional Torres del Paine din Chile"
+    },
+    "S003_C020": {
+        "0": "C\u0103l\u0103torind de\u2011a lungul coastei Insulei Skye, Sco\u021bia",
+        "338": "Farul Neist Point, Insula Skye, Sco\u021bia",
+        "372": "Insula Skye, Sco\u021bia"
+    },
+    "S004_C019": {
+        "0": "Deplasare peste Cuillin Hills, Insula Skye, Sco\u021bia"
+    },
+    "S005_C015": {
+        "0": "Peste Loch Moidart, pe coasta de vest a Sco\u021biei",
+        "252": "Apropiere de Marea Hebridelor, Sco\u021bia"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart, pe coasta de vest a Sco\u021biei",
+        "139": "Apropiere de Castelul Tioram,  de pe coasta de vest a Sco\u021biei",
+        "181": "Castelul Tioram de pe coasta de vest a Sco\u021biei",
+        "214": "Deplasare peste coasta de vest a Sco\u021biei"
+    },
+    "S009_C007": {
+        "0": "Deplasare peste Insula Skye, Sco\u021bia",
+        "135": "Old Man of Storr pe Insula Skye, Sco\u021bia",
+        "173": "Deplasare peste Insula Skye, Sco\u021bia"
+    },
+    "TH_803_A001_8": {
+        "0": "Valuri sp\u0103rg\u00e2ndu\u2011se pe \u021b\u0103rmurile insulei Tahiti"
+    },
+    "TH_804_A001_8": {
+        "0": "Valuri sp\u0103rg\u00e2ndu\u2011se pe \u021b\u0103rmurile insulei Tahiti"
+    },
+    "U009_C004": {
+        "0": "Rechini cenu\u0219ii de recif \u00eenot\u00e2nd \u00een apropiere de Polinezia\u00a0Francez\u0103"
+    },
+    "Y002_C013226": {
+        "0": "Deasupra Parcului\u00a0Na\u021bional Yosemite din Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y002_C013_0226": {
+        "70": "Apropiere de Half\u00a0Dome \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale Americii",
+        "87": "Half\u00a0Dome \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "210": "Deasupra Parcului\u00a0Na\u021bional Yosemite din Statele\u00a0Unite\u00a0ale Americii"
+    },
+    "Y003_C009": {
+        "0": "Deasupra Parcului\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "93": "Deplasare c\u0103tre V\u00e2rful\u00a0Merced din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "130": "V\u00e2rful\u00a0Merced \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "221": "Trec\u00e2nd pe l\u00e2ng\u0103 V\u00e2rful\u00a0Merced din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "244": "Deplasare peste Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Trec\u00e2nd de Half\u00a0Dome, apropiere de Cascada\u00a0Nevada din Parcul\u00a0Na\u021bional Yosemite",
+        "146": "Half\u00a0Dome \u0219i Cascada\u00a0Nevada din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y005_C003228SC": {
+        "0": "Deasupra Parcului\u00a0Na\u021bional Yosemite din Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Deplasare c\u0103tre Half\u00a0Dome din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "60": "Half\u00a0Dome \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "155": "Deasupra Parcului\u00a0Na\u021bional Yosemite cu vedere spre Cascada\u00a0Nevada \u00een dep\u0103rtare",
+        "255": "Cascadele Nevada \u0219i Illilouette din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "285": "Cascadele Nevada, Vernal \u0219i Illilouette din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y009_C015304I": {
+        "0": "Trec\u00e2nd peste Tuolumne\u00a0Meadows din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y011_C001": {
+        "0": "Deplasare c\u0103tre Cascada\u00a0Bridalveil \u0219i El\u00a0Capitan \u00een Parcul Na\u021bional\u00a0Yosemite",
+        "44": "Deplasare spre est, c\u0103tre El\u00a0Capitan, \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "87": "Trec\u00e2nd pe l\u00e2ng\u0103 El\u00a0Capitan, Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "120": "Deplasare spre est, c\u0103tre Half\u00a0Dome, \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "390": "Half\u00a0Dome \u00een Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "470": "Trec\u00e2nd de Half\u00a0Dome \u00een Valea\u00a0Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "585": "Deplasare spre est peste Valea\u00a0Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    },
+    "Y011_C008": {
+        "0": "Deplasare c\u0103tre Matthes\u00a0Crest din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "75": "Zbur\u00e2nd peste Matthes\u00a0Crest din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "124": "Zbur\u00e2nd prin Matthes\u00a0Crest din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "215": "Zbur\u00e2nd peste Matthes\u00a0Crest din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii",
+        "396": "Deplasare spre Tuolumne\u00a0Meadows din Parcul\u00a0Na\u021bional Yosemite, Statele\u00a0Unite\u00a0ale\u00a0Americii"
+    }
+}

@@ -1,0 +1,642 @@
+{
+    "A001_C001_120530": {
+        "0": "Portug\u00e1lia fel\u00e9 haladva az \u00c9szak-Atlanti-\u00f3ce\u00e1n felett",
+        "115": "Portug\u00e1lia \u00e9s Spanyolorsz\u00e1g felett",
+        "150": "\u00c1tkel\u00e9s a Vizcayai-\u00f6b\u00f6l \u00e9s Franciaorsz\u00e1g felett, az Ib\u00e9riai-f\u00e9lszigett\u0151l t\u00e1volodva",
+        "180": "Nyugat-Eur\u00f3pa felett, a t\u00e1volban az \u00c9szak-Atlanti-\u00f3ce\u00e1n"
+    },
+    "A001_C004_1207W5": {
+        "0": "A Kan\u00e1ri-szigetek, az Atlanti-\u00f3ce\u00e1n \u00e9s Afrika partja",
+        "45": "Marokk\u00f3 partjai ment\u00e9n \u00e9szakkelet fel\u00e9 haladva",
+        "75": "Az Atlasz felett elhaladva, Marokk\u00f3ban",
+        "105": "Marokk\u00f3 felett, a F\u00f6ldk\u00f6zi-tengerhez k\u00f6zeledve",
+        "125": "A F\u00f6ldk\u00f6zi-tenger \u00e9s D\u00e9l-Spanyolorsz\u00e1g",
+        "145": "Utaz\u00e1s \u00e9szakkeleti ir\u00e1nyban, a spanyolorsz\u00e1gi Costa\u00a0Blanca felett",
+        "165": "Utaz\u00e1s \u00e9szakkeleti ir\u00e1nyban, a spanyolorsz\u00e1gi Bale\u00e1r-szigetek felett",
+        "185": "A F\u00f6ldk\u00f6zi-tenger nyugati r\u00e9sze felett, h\u00e1tt\u00e9rben az Alpok",
+        "220": "Az Alpok felett \u00e9szakkelet fel\u00e9 haladva"
+    },
+    "A001_C007": {
+        "0": "Arany med\u00faz\u00e1k Palau vizeiben",
+        "282": "Arany med\u00faz\u00e1k, k\u00f6z\u00e9pen egy f\u00fclesmed\u00faz\u00e1val",
+        "348": "Arany med\u00faz\u00e1k Palau vizeiben"
+    },
+    "A002_C009": {
+        "0": "Arany med\u00faz\u00e1k Palau vizeiben"
+    },
+    "A003_C014": {
+        "0": "Lebeg\u00e9s f\u00fclesmed\u00faz\u00e1k felett az egyes\u00fclt \u00e1llamokbeli Alaszka partjain\u00e1l"
+    },
+    "A004_C003": {
+        "0": "Korallz\u00e1tony Palau k\u00f6zel\u00e9ben"
+    },
+    "A004_C012": {
+        "0": "F\u00fclesmed\u00faz\u00e1k az egyes\u00fclt \u00e1llamokbeli Alaszka partjain\u00e1l",
+        "100": "San\u00a0Francisco belv\u00e1rosa, el\u0151t\u00e9rben a Coit\u00a0Towerrel"
+    },
+    "A006_C003": {
+        "0": "A San\u00a0Francisco-\u00f6b\u00f6l \u00e9s a Golden\u00a0Gate-h\u00edd",
+        "140": "A Golden\u00a0Gate-h\u00edd \u00e9szaki tornya felett San\u00a0Francisco fel\u00e9 haladva",
+        "191": "A San\u00a0Francisco-\u00f6b\u00f6l felett"
+    },
+    "A006_C008": {
+        "0": "Teh\u00e9norr\u00fa r\u00e1j\u00e1k Mexik\u00f3 partjain\u00e1l"
+    },
+    "A007_C017": {
+        "0": "A Fisherman\u2019s\u00a0Wharf felett San\u00a0Francisco belv\u00e1rosa fel\u00e9 haladva",
+        "80": "A Coit Tower fel\u00e9 k\u00f6zeledve, a Bay Bridge-dzsel \u00e9s San Francisco belv\u00e1ros\u00e1val a h\u00e1tt\u00e9rben",
+        "150": "A Coit Tower mellett haladva San Francisco belv\u00e1rosa \u00e9s a Bay Bridge fel\u00e9",
+        "196": "San\u00a0Francisco belv\u00e1rosa"
+    },
+    "A008_C007": {
+        "0": "A Marin\u00a0Headlands felett a Golden\u00a0Gate-h\u00edd fel\u00e9 n\u00e9zve",
+        "150": "A Golden Gate-h\u00eddon \u00e1tkelve a The Presidio of San Francisco fel\u00e9"
+    },
+    "A008_C010": {
+        "0": "Korallz\u00e1tony a V\u00f6r\u00f6s-tengerben, Egyiptom k\u00f6zel\u00e9ben"
+    },
+    "A009_C001_10181A": {
+        "0": "Nyugat-Afrika felett, a Szahara fel\u00e9 haladva",
+        "30": "\u00c1tkel\u00e9s a Szahar\u00e1n \u00c9szak-Afrik\u00e1ban",
+        "110": "Az \u00e9szak-afrikai Szahar\u00e1ban tal\u00e1lhat\u00f3 Ahaggar-hegys\u00e9g felett elhaladva",
+        "155": "A F\u00f6ldk\u00f6zi-tenger fel\u00e9 haladva az \u00e9szak-afrikai Grand\u00a0Erg\u00a0Oriental felett",
+        "195": "Tun\u00e9zia partja \u00e9s a F\u00f6ldk\u00f6zi-tenger",
+        "210": "Tun\u00e9zia partjai felett, utaz\u00e1s Olaszorsz\u00e1g ir\u00e1ny\u00e1ban",
+        "230": "Olaszorsz\u00e1g fel\u00e9 k\u00f6zeledve a F\u00f6ldk\u00f6zi-tengeren",
+        "245": "Olaszorsz\u00e1g felett, utaz\u00e1s a Balk\u00e1n-f\u00e9lsziget fel\u00e9",
+        "285": "A K\u00e1rp\u00e1tok fel\u00e9 haladva a Balk\u00e1n-f\u00e9lsziget felett",
+        "310": "A K\u00e1rp\u00e1tok \u00e9s a Fekete-tenger"
+    },
+    "A009_C007": {
+        "0": "Tr\u00f3pusi delfinek a Costa Rica-menti vizekben"
+    },
+    "A010_C002": {
+        "0": "Lebeg\u00e9s egy tengeri moszaterd\u0151n kereszt\u00fcl a D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1gban l\u00e9v\u0151 Cape\u00a0Peninsula k\u00f6zel\u00e9ben"
+    },
+    "A010_C007": {
+        "0": "Arany med\u00faz\u00e1k Palau vizeiben"
+    },
+    "A012_C004": {
+        "0": "A Marin\u00a0Headlands felett a Golden\u00a0Gate-h\u00edd fel\u00e9 n\u00e9zve",
+        "150": "A Golden Gate-h\u00eddon \u00e1tkelve a The Presidio of San Francisco fel\u00e9"
+    },
+    "A012_C014": {
+        "0": "A San\u00a0Francisco-\u00f6b\u00f6l felett az Embarcadero fel\u00e9 haladva",
+        "208": "A Market\u00a0Streeten haladva\u00a0San\u00a0Francisc\u00f3ban"
+    },
+    "A012_C031": {
+        "0": "Szarvas tengeri\u00a0csillagok az \u00f3ce\u00e1n fenek\u00e9n Borne\u00f3 k\u00f6zel\u00e9ben"
+    },
+    "A013_C004": {
+        "0": "A San\u00a0Francisco-\u00f6b\u00f6l felett az Embarcadero fel\u00e9 haladva",
+        "90": "Az Embarcadero felett a Market\u00a0Street fel\u00e9 n\u00e9zve San\u00a0Francisc\u00f3ban",
+        "150": "A Market Streeten haladva San Francisco belv\u00e1ros\u00e1ban",
+        "360": "A Market Streeten haladva San Francisc\u00f3ban"
+    },
+    "A013_C005": {
+        "0": "A The Presidio of San Francisco ment\u00e9n haladva a Golden Gate-h\u00edd fel\u00e9",
+        "190": "A Golden Gate-h\u00eddon \u00e1tkelve a Marin Headlands fel\u00e9"
+    },
+    "A013_C012": {
+        "0": "A Golden\u00a0Gate-h\u00eddhoz k\u00f6zeledve San\u00a0Francisco fel\u0151l",
+        "60": "A Golden\u00a0Gate-h\u00edd ment\u00e9n a Marin\u00a0Headlands fel\u00e9 haladva",
+        "140": "A Golden\u00a0Gate-h\u00eddon \u00e1tkelve",
+        "230": "A Golden\u00a0Gate-h\u00edd \u00e9szaki\u00a0tornya mellett haladva",
+        "260": "A San\u00a0Francisco-\u00f6b\u00f6l felett a Golden\u00a0Gate-h\u00edd ment\u00e9n haladva"
+    },
+    "A014_C008": {
+        "0": "B\u00fctyk\u00f6sfej\u0171\u00a0papag\u00e1jhalak a korallz\u00e1tonyok felett Borne\u00f3 partjain\u00e1l"
+    },
+    "A014_C023": {
+        "0": "Egy csapat nagy\u00a0szem\u0171\u00a0t\u00fcsk\u00e9smakr\u00e9la Borne\u00f3 partj\u00e1n\u00e1l"
+    },
+    "A015_C014": {
+        "0": "A San\u00a0Francisco-\u00f6b\u00f6l felett az Embarcadero fel\u00e9 haladva",
+        "210": "A Market Streeten haladva San Francisco belv\u00e1ros\u00e1ban"
+    },
+    "A015_C018": {
+        "0": "A Bay Bridgehez \u00e9s San Francisco belv\u00e1ros\u00e1hoz k\u00f6zeledve",
+        "80": "A Bay Bridge-en \u00e1tkelve San Francisco belv\u00e1rosa fel\u00e9 haladva",
+        "116": "A San\u00a0Francisco-\u00f6b\u00f6l felett a belv\u00e1ros fel\u00e9 haladva"
+    },
+    "A016_C002": {
+        "0": "\u00c1tkel\u00e9s egy h\u00edn\u00e1rerd\u0151 felett az egyes\u00fclt \u00e1llamokbeli Kalifornia partjain\u00e1l"
+    },
+    "A016_C009": {
+        "0": "D\u00e9l-afrikai medvef\u00f3k\u00e1k a D\u00e9l-afrikai K\u00f6zt\u00e1rsas\u00e1gban l\u00e9v\u0151 Cape\u00a0Peninsula partj\u00e1n\u00e1l"
+    },
+    "A018_C014": {
+        "0": "San Francisco belv\u00e1ros\u00e1hoz k\u00f6zeledve, a Sutro Towerrel a h\u00e1tt\u00e9rben",
+        "10": "A Transamerica\u00a0piramis San\u00a0Francisco belv\u00e1ros\u00e1ban",
+        "40": "San\u00a0Francisco belv\u00e1rosa, a t\u00e1volban a Sutro\u00a0Towerrel"
+    },
+    "A018_C029": {
+        "0": "Egy csapat chevron barrakuda a Borne\u00f3 k\u00f6zel\u00e9ben l\u00e9v\u0151 vizekben"
+    },
+    "A050_C004_1027V8": {
+        "0": "Utaz\u00e1s Nyugat-Eur\u00f3pa felett, a t\u00e1volban Nagy-Britannia \u00e9s \u00cdrorsz\u00e1g",
+        "20": "Az Alpok \u00e9s a P\u00f3\u00a0foly\u00f3 v\u00f6lgye felett d\u00e9lkeleti ir\u00e1nyban haladva",
+        "50": "Az Appennini-f\u00e9lsziget \u00e9s az Adriai-tenger ment\u00e9n haladva",
+        "100": "G\u00f6r\u00f6gorsz\u00e1g, a J\u00f3n- \u00e9s az \u00c9gei-tenger \u00f6lel\u00e9s\u00e9ben",
+        "160": "Utaz\u00e1s d\u00e9lkelet fel\u00e9 a F\u00f6ldk\u00f6zi-tenger felett",
+        "185": "A F\u00f6ldk\u00f6zi-tenger \u00e9s a N\u00edlus\u00a0delt\u00e1ja",
+        "205": "A Szahar\u00e1n \u00e1tfoly\u00f3 N\u00edlus Egyiptomban",
+        "220": "A Keleti-sivatag a N\u00edlus \u00e9s a Szuezi-\u00f6b\u00f6l k\u00f6z\u00f6tt",
+        "240": "A V\u00f6r\u00f6s-tenger felett d\u00e9lkelet fel\u00e9 haladva"
+    },
+    "A083_C002_1130KZ": {
+        "0": "A t\u00fckr\u00f6z\u0151d\u0151 Nap Ir\u00e1n partjai ment\u00e9n",
+        "15": "\u00c1tmenet nappalb\u00f3l \u00e9jszak\u00e1ba Ir\u00e1n felett",
+        "60": "\u00c1tmenet nappalb\u00f3l \u00e9jszak\u00e1ba K\u00f6z\u00e9p-\u00c1zsia felett"
+    },
+    "A103_C002205DG": {
+        "0": "Afrika szarva felett, utaz\u00e1s az \u00c1deni-\u00f6b\u00f6l ir\u00e1ny\u00e1ban"
+    },
+    "A103_C002_0205DG": {
+        "45": "Az Arab-f\u00e9lsziget d\u00e9lkeleti r\u00e9sze",
+        "115": "Az Om\u00e1ni-\u00f6b\u00f6l, a Makr\u00e1n\u00a0partja fel\u00e9 k\u00f6zeledve",
+        "145": "Az ir\u00e1ni \u00e9s pakiszt\u00e1ni Makr\u00e1n\u00a0partja",
+        "160": "Ir\u00e1n felett, utaz\u00e1s Afganiszt\u00e1n \u00e9s Pakiszt\u00e1n fel\u00e9",
+        "180": "Afganiszt\u00e1n \u00e9s Pakiszt\u00e1n felett, utaz\u00e1s a Karakorum fel\u00e9",
+        "235": "A Karakorum felett, utaz\u00e1s K\u00edn\u00e1ba",
+        "280": "A Takla-Mak\u00e1n\u00a0sivatag Nyugat-K\u00edn\u00e1ban",
+        "315": "A Tien-san hegys\u00e9g K\u00f6z\u00e9p-\u00c1zsi\u00e1ban"
+    },
+    "A105_C0022120602": {
+        "0": "A Csendes-\u00f3ce\u00e1n felett, K\u00f6z\u00e9p-Amerika fel\u00e9 haladva"
+    },
+    "A105_C002_021206_002": {
+        "70": "A Karib-tenger fel\u00e9 haladva K\u00f6z\u00e9p-Amerika d\u00e9lnyugati partja ment\u00e9n",
+        "100": "\u00c1tkel\u00e9s K\u00f6z\u00e9p-Amerik\u00e1n a Karib-tenger ir\u00e1ny\u00e1ban",
+        "150": "A Karib-tenger felett Kuba fel\u00e9 haladva",
+        "240": "Kuba felett, a t\u00e1volban Florida \u00e9s a Baham\u00e1k",
+        "300": "Florida \u00e9s a Baham\u00e1k felett, utaz\u00e1s a Sargasso-tenger fel\u00e9",
+        "350": "Az Atlanti-\u00f3ce\u00e1n fel\u00e9 haladva a Sargasso-tenger felett"
+    },
+    "A105_C003212CT": {
+        "0": "\u00c1tmenet \u00e9jszak\u00e1b\u00f3l nappalba a d\u00e9li\u00a0Csendes-\u00f3ce\u00e1n felett"
+    },
+    "A105_C003_0212CT": {
+        "70": "\u00c1tmenet \u00e9jszak\u00e1b\u00f3l nappalba \u00daj-Z\u00e9land felett",
+        "110": "\u00daj-Z\u00e9land feletti k\u00f6zeled\u0151 napfelkelte",
+        "170": "\u00daj-Z\u00e9landot elhagyva, \u00e9szakkeleti ir\u00e1nyban a Csendes-\u00f3ce\u00e1n felett"
+    },
+    "A108_C001215V8": {
+        "0": "Utaz\u00e1s a Csendes-\u00f3ce\u00e1n felett, K\u00f6z\u00e9p-Amerika ir\u00e1ny\u00e1ban"
+    },
+    "A108_C001_0215V8": {
+        "35": "Nicaragua, Costa\u00a0Rica \u00e9s Panama csendes-\u00f3ce\u00e1ni partja",
+        "50": "K\u00f6z\u00e9p-Amerika felett elhaladva, a t\u00e1volban D\u00e9l-Amerika",
+        "65": "A Moszk\u00edt\u00f3-part Nicaragu\u00e1ban",
+        "85": "A Karib-tenger felett, utaz\u00e1s Kuba ir\u00e1ny\u00e1ban",
+        "110": "A felh\u0151s Jamaica mellett elhaladva a Karib-tengeren",
+        "125": "\u00c1tkel\u00e9s Kuba felett, Haiti \u00e9s a Dominikai\u00a0K\u00f6zt\u00e1rsas\u00e1g fel\u00e9 n\u00e9zve",
+        "170": "Utaz\u00e1s a Baham\u00e1k felett, Haiti \u00e9s a Dominikai\u00a0K\u00f6zt\u00e1rsas\u00e1g fel\u00e9 n\u00e9zve",
+        "190": "A Turks- \u00e9s Caicos-szigetek az Atlanti-\u00f3ce\u00e1nban"
+    },
+    "A114_C001305OT": {
+        "0": "Az Egyes\u00fclt\u00a0\u00c1llamok fel\u00e9 haladva a Csendes-\u00f3ce\u00e1n felett"
+    },
+    "A114_C001_0305OT": {
+        "20": "Utaz\u00e1s d\u00e9l fel\u00e9, Kalifornia partjai ment\u00e9n",
+        "50": "D\u00e9l-Kalifornia felett, utaz\u00e1s Mexik\u00f3 fel\u00e9",
+        "65": "A d\u00e9l-kaliforniai Mojave-sivatag fel\u00e9 k\u00f6zeledve, h\u00e1tt\u00e9rben Mexik\u00f3",
+        "95": "A Kaliforniai-\u00f6b\u00f6l a Sonora-sivatag \u00e9s az Als\u00f3-Kaliforniai-f\u00e9lsziget k\u00f6z\u00f6tt",
+        "130": "A Nyugati-Sierra\u00a0Madre hegys\u00e9g Mexik\u00f3 nyugati partjain\u00e1l",
+        "185": "A Nyugati-Sierra\u00a0Madre hegys\u00e9g felett, Mexik\u00f3 nyugati partjai fel\u00e9 haladva",
+        "225": "D\u00e9li ir\u00e1nyban a Csendes-\u00f3ce\u00e1nra n\u00e9zve, a mexik\u00f3i Sierra\u00a0Madre del Sur felett",
+        "280": "A Csendes-\u00f3ce\u00e1n Mexik\u00f3 partjai mellett",
+        "290": "A Csendes-\u00f3ce\u00e1n Mexik\u00f3 \u00e9s Guatemala partjai mellett"
+    },
+    "A351_C001_1213SK": {
+        "0": "Utaz\u00e1s \u00e9szakkeleti ir\u00e1nyban, az Eti\u00f3p-magasf\u00f6ld felett",
+        "45": "Utaz\u00e1s a V\u00f6r\u00f6s-tenger felett, az Arab-f\u00e9lsziget ir\u00e1ny\u00e1ban",
+        "100": "Az Arab-f\u00e9lsziget felett \u00e9szakkeleti ir\u00e1nyban haladva",
+        "130": "Az Arab-f\u00e9lsziget felett, utaz\u00e1s Ir\u00e1n ir\u00e1ny\u00e1ban",
+        "165": "Az Arab-f\u00e9lsziget felett, Ir\u00e1n fel\u00e9 k\u00f6zeledve",
+        "190": "Ir\u00e1n partjai fel\u00e9 k\u00f6zeledve, h\u00e1tt\u00e9rben a Zagrosz-hegys\u00e9g",
+        "210": "Az ir\u00e1ni Zagrosz-hegys\u00e9g felett",
+        "240": "Az ir\u00e1ni Dast-e\u00a0Lut sivatag felett",
+        "265": "Utaz\u00e1s T\u00fcrkmeniszt\u00e1n \u00e9s a Kara-kum sivatag fel\u00e9",
+        "305": "Az Amu-darja foly\u00f3 \u00e9s a Pam\u00edr-Alaj-hegys\u00e9g K\u00f6z\u00e9p-\u00c1zsi\u00e1ban",
+        "322": "A Pam\u00edr-Alaj-hegys\u00e9g \u00e9s a Ferg\u00e1nai-medence K\u00f6z\u00e9p-\u00c1zsi\u00e1ban",
+        "360": "Kirgiziszt\u00e1nb\u00f3l D\u00e9lkelet-Kazahszt\u00e1n fel\u00e9 haladva",
+        "400": "Utaz\u00e1s \u00e9szaki ir\u00e1nyban, Kazahszt\u00e1n felett",
+        "450": "Az Alt\u00e1j\u00a0hegys\u00e9g felett, utaz\u00e1s Mong\u00f3li\u00e1ba"
+    },
+    "B002_C011": {
+        "0": "K\u00f6z\u00f6ns\u00e9ges delfinek az egyes\u00fclt \u00e1llamokbeli Kalifornia partjain\u00e1l"
+    },
+    "C001_C005": {
+        "0": "A K\u00ednai\u00a0nagy\u00a0fal Mutianyu szakasza Huairou\u00a0k\u00f6rzetben, K\u00edn\u00e1ban"
+    },
+    "C003_C003": {
+        "0": "A K\u00ednai\u00a0nagy\u00a0fal Mutianyu szakasza Huairou\u00a0k\u00f6rzetben, K\u00edn\u00e1ban"
+    },
+    "C004_C003": {
+        "0": "A K\u00ednai\u00a0nagy\u00a0fal Mutianyu szakasza Huairou\u00a0k\u00f6rzetben, K\u00edn\u00e1ban"
+    },
+    "CH_C002_C005": {
+        "0": "A Longji rizs\u00fcltetv\u00e9nyek felett haladva K\u00edna Kuanghszi tartom\u00e1ny\u00e1ban"
+    },
+    "CH_C007_C004": {
+        "0": "A Vulingj\u00fcan Nemzeti\u00a0Park felfedez\u00e9se K\u00edn\u00e1ban"
+    },
+    "CH_C007_C011": {
+        "0": "Utaz\u00e1s a Vulingj\u00fcan\u00a0Nemzeti\u00a0Parkon kereszt\u00fcl K\u00edn\u00e1ban"
+    },
+    "D004_L014": {
+        "0": "Egy hossz\u00fasz\u00e1rny\u00fa b\u00e1lna Francia\u00a0Polin\u00e9zi\u00e1n\u00e1l"
+    },
+    "DB_D001_C001": {
+        "0": "A Dubai Marina negyed felett rep\u00fclve az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben"
+    },
+    "DB_D001_C005": {
+        "0": "A Dubai Marina negyed ment\u00e9n rep\u00fclve az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben"
+    },
+    "DB_D002_C003": {
+        "0": "Dubaj belv\u00e1ros\u00e1hoz k\u00f6zeledve az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben",
+        "210": "Dubaj belv\u00e1rosa felett haladva az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben"
+    },
+    "DB_D008_C010": {
+        "0": "Utaz\u00e1s a Sheikh\u00a0Zayed Roadon Dubajban, az Egyes\u00fclt\u00a0Arab\u00a0Em\u00edrs\u00e9gekben"
+    },
+    "DB_D011_C010": {
+        "0": "A Kalifa-toronyhoz k\u00f6zeledve Dubaj belv\u00e1ros\u00e1ban, az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben",
+        "280": "A Kalifa-torony mellett haladva Dubaj belv\u00e1ros\u00e1ban, az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben",
+        "330": "Dubaj\u00a0belv\u00e1rosa felett a part fel\u00e9 k\u00f6zeledve"
+    },
+    "G007_C004": {
+        "0": "A Colorado\u00a0foly\u00f3t k\u00f6vetve a Grand\u00a0Canyonon \u00e1t az Egyes\u00fclt\u00a0\u00c1llamokban"
+    },
+    "G008_C015106MB": {
+        "0": "A Grand\u00a0Canyon Burnt\u00a0Canyon ter\u00fclete felett rep\u00fclve az Egyes\u00fclt\u00a0\u00c1llamokban"
+    },
+    "G009_C00310678": {
+        "0": "Utaz\u00e1s a Grand\u00a0Canyon felett az Egyes\u00fclt\u00a0\u00c1llamokban"
+    },
+    "G009_C014106B9": {
+        "0": "Utaz\u00e1s a Grand\u00a0Canyonon kereszt\u00fcl az Egyes\u00fclt\u00a0\u00c1llamokban"
+    },
+    "G010_C026107KE": {
+        "0": "Utaz\u00e1s a Colorado\u00a0foly\u00f3 ment\u00e9n az egyes\u00fclt\u00a0\u00e1llamokbeli Grand\u00a0Canyonban"
+    },
+    "GL_G002_C002": {
+        "0": "Az Ilulissat\u00a0j\u00e9gfjord Gr\u00f6nland partjain\u00e1l"
+    },
+    "GL_G004_C010": {
+        "0": "Utaz\u00e1s a Nuussuaq-f\u00e9lsziget ment\u00e9n Gr\u00f6nlandon"
+    },
+    "GL_G010_C006": {
+        "0": "Az Ilulissat\u00a0j\u00e9gfjord Gr\u00f6nland partjain\u00e1l"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Utaz\u00e1s d\u00e9lkelet fel\u00e9 Szib\u00e9ria \u00e9s Mong\u00f3lia felett",
+        "22": "Bels\u0151-Mong\u00f3lia fel\u00e9 haladva",
+        "32": "Mong\u00f3lia felett, utaz\u00e1s K\u00edna fel\u00e9",
+        "60": "\u00c9szak-K\u00edna felett, utaz\u00e1s a Koreai-f\u00e9lsziget fel\u00e9",
+        "110": "A Koreai-f\u00e9lsziget fel\u00e9 haladva K\u00edna felett",
+        "150": "A Koreai-f\u00e9lsziget, a t\u00e1volban Jap\u00e1n",
+        "180": "D\u00e9l-Korea felett, utaz\u00e1s Jap\u00e1n fel\u00e9",
+        "195": "Jap\u00e1n felett, a Csendes-\u00f3ce\u00e1n fel\u00e9 n\u00e9zve",
+        "260": "A Csendes-\u00d3ce\u00e1n felett, Jap\u00e1nt\u00f3l d\u00e9lkeletre"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Az ausztr\u00e1liai Perth fel\u00e9 haladva az Indiai-\u00f3ce\u00e1n felett",
+        "50": "Utaz\u00e1s \u00e9szakkeleti ir\u00e1nyban, Nyugat-Ausztr\u00e1li\u00e1n kereszt\u00fcl",
+        "170": "Nyugat-Ausztr\u00e1lia felett, az \u00c9szaki\u00a0ter\u00fclet fel\u00e9 k\u00f6zel\u00edtve",
+        "220": "Az ausztr\u00e1liai \u00c9szaki\u00a0ter\u00fclet felett, utaz\u00e1s \u00daj-Guinea fel\u00e9",
+        "335": "Az Arafura-tenger felett, utaz\u00e1s \u00daj-Guinea ir\u00e1ny\u00e1ban"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Sarki\u00a0f\u00e9ny az Antarktisz felett"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "A Csendes-\u00f3ce\u00e1n felett, a kaliforniai part fel\u00e9 haladva",
+        "70": "A kaliforniai partvid\u00e9k felett a sz\u00e1razf\u00f6ld belseje fel\u00e9 haladva",
+        "85": "Los\u00a0Angeles felett elhaladva, az Egyes\u00fclt\u00a0\u00c1llamok nyugati partja felett",
+        "95": "Los\u00a0Angeles felett, az egyes\u00fclt\u00a0\u00e1llamokbeli Las\u00a0Vegas fel\u00e9 k\u00f6zeledve",
+        "110": "Las\u00a0Vegas felett, az egyes\u00fclt\u00a0\u00e1llamokbeli Salt\u00a0Lake\u00a0City fel\u00e9 haladva",
+        "120": "Az Egyes\u00fclt\u00a0\u00c1llamok nyugati r\u00e9sze felett, Salt\u00a0Lake\u00a0City fel\u00e9 k\u00f6zeledve",
+        "155": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Salt\u00a0Lake\u00a0City \u00e9s Denver k\u00f6z\u00f6tt elhaladva",
+        "170": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Szikl\u00e1s-hegys\u00e9g felett"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Mexik\u00f3 fel\u00e9 haladva a Csendes-\u00f3ce\u00e1n felett",
+        "105": "Mexik\u00f3v\u00e1ros felett, a Mexik\u00f3i-\u00f6b\u00f6l fel\u00e9 haladva",
+        "122": "A Mexik\u00f3i-\u00f6b\u00f6l felett rep\u00fclve az Egyes\u00fclt\u00a0\u00c1llamok ir\u00e1ny\u00e1ba",
+        "180": "Az Egyes\u00fclt\u00a0\u00c1llamokban, Houston mellett elhaladva \u00e9s New\u00a0Orleans fel\u00e9 k\u00f6zeledve",
+        "190": "New\u00a0Orleans \u00e9s az Egyes\u00fclt\u00a0\u00c1llamok \u00f6b\u00f6lmenti\u00a0partja felett haladva",
+        "215": "Utaz\u00e1s az Egyes\u00fclt\u00a0\u00c1llamok d\u00e9lkeleti r\u00e9sze felett",
+        "280": "Az Egyes\u00fclt\u00a0\u00c1llamok keleti r\u00e9sze felett, utaz\u00e1s New\u00a0York fel\u00e9",
+        "320": "Az Egyes\u00fclt\u00a0\u00c1llamok keleti r\u00e9sze felett, New\u00a0York fel\u00e9 k\u00f6zeledve"
+    },
+    "GMT308_139K_142NC": {
+        "0": "Az Egyes\u00fclt\u00a0\u00c1llamok Bels\u0151-s\u00edks\u00e1ga felett d\u00e9lkelet fel\u00e9 haladva",
+        "90": "Az Egyes\u00fclt\u00a0\u00c1llamok k\u00f6z\u00e9p-nyugati r\u00e9sze felett d\u00e9lkelet fel\u00e9 haladva",
+        "120": "Az Egyes\u00fclt\u00a0\u00c1llamok d\u00e9lkeleti r\u00e9sze felett Florida fel\u00e9 haladva",
+        "220": "Florida felett, utaz\u00e1s a Baham\u00e1k fel\u00e9",
+        "240": "A Baham\u00e1k felett d\u00e9lkelet fel\u00e9 haladva",
+        "285": "A Baham\u00e1k felett, a Dominikai\u00a0K\u00f6zt\u00e1rsas\u00e1g \u00e9s Haiti fel\u00e9 k\u00f6zeledve",
+        "300": "A Dominikai\u00a0K\u00f6zt\u00e1rsas\u00e1g \u00e9s Haiti felett, a Karib-tenger fel\u00e9 k\u00f6zeledve",
+        "315": "D\u00e9li ir\u00e1nyban, Venezuela fel\u00e9 haladva a Karib-tenger felett"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Utaz\u00e1s \u00e9szakkeleti ir\u00e1nyban a Szahara felett, \u00e9jszaka",
+        "70": "A F\u00f6ldk\u00f6zi-tenger fel\u00e9 haladva a Grand\u00a0Erg\u00a0Oriental felett",
+        "100": "Tun\u00e9zia \u00e9s L\u00edbia f\u00f6ldk\u00f6zi-tengeri partja",
+        "120": "A F\u00f6ldk\u00f6zi-tenger felett Olaszorsz\u00e1g fel\u00e9 haladva",
+        "140": "D\u00e9l-Olaszorsz\u00e1g felett, a Balk\u00e1n-f\u00e9lsziget fel\u00e9 k\u00f6zeledve, a t\u00e1volban T\u00f6r\u00f6korsz\u00e1g",
+        "165": "A Balk\u00e1n-f\u00e9lsziget felett, utaz\u00e1s a Fekete-tenger ir\u00e1ny\u00e1ban",
+        "180": "A Balk\u00e1n-f\u00e9lsziget felett, a Fekete-tenger fel\u00e9 k\u00f6zeledve",
+        "210": "Utaz\u00e1s a Fekete-tenger felett, Ukrajna ir\u00e1ny\u00e1ban",
+        "230": "Utaz\u00e1s Ukrajna felett, Oroszorsz\u00e1g ir\u00e1ny\u00e1ban"
+    },
+    "GMT314_139M_170NC": {
+        "0": "A Csendes-\u00f3ce\u00e1n felett, Als\u00f3-Kalifornia fel\u00e9 haladva",
+        "45": "Als\u00f3-Kalifornia felett, \u00e9szak, vagyis az Egyes\u00fclt\u00a0\u00c1llamok fel\u00e9 tekintve",
+        "55": "Mexik\u00f3 felett, az Egyes\u00fclt\u00a0\u00c1llamok d\u00e9lnyugati r\u00e9sze fel\u00e9 haladva",
+        "75": "Az Egyes\u00fclt\u00a0\u00c1llamok d\u00e9lnyugati r\u00e9sze felett",
+        "110": "A Szikl\u00e1s-hegys\u00e9g felett, Denver fel\u00e9 k\u00f6zeledve",
+        "125": "Utaz\u00e1s az Egyes\u00fclt\u00a0\u00c1llamok Bels\u0151-s\u00edks\u00e1ga felett",
+        "185": "A Nagy-tavak fel\u00e9 k\u00f6zeledve, h\u00e1tt\u00e9rben a kanadai Ontario",
+        "200": "A Nagy-Tavak felett, a kanadai Ontario fel\u00e9 k\u00f6zeledve",
+        "210": "Sarki\u00a0f\u00e9ny a kanadai Nyugat-Ontario felett",
+        "235": "Sarki\u00a0f\u00e9ny a kanadai \u00c9szak-Ontario felett",
+        "250": "Sarki\u00a0f\u00e9ny a kanadai \u00c9szak-Quebec felett",
+        "300": "Az \u00c9szak-Atlanti-\u00f3ce\u00e1n ir\u00e1ny\u00e1ban haladva; a kanadai Labrador felett Sarki\u00a0f\u00e9ny l\u00e1that\u00f3"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Az \u00c9szak-Atlanti-\u00f3ce\u00e1n felett, \u00cdrorsz\u00e1g \u00e9s Nagy-Britannia fel\u00e9 k\u00f6zeledve",
+        "15": "\u00cdrorsz\u00e1g \u00e9s Nagy-Britannia",
+        "45": "Nagy-Britannia felett, az eur\u00f3pai kontinens fel\u00e9 haladva",
+        "65": "Oroszorsz\u00e1g fel\u00e9 haladva \u00c9szaknyugat-Eur\u00f3pa felett",
+        "105": "Oroszorsz\u00e1g fel\u00e9 haladva K\u00f6z\u00e9p-Eur\u00f3pa felett",
+        "150": "Kelet-Eur\u00f3pa felett, a t\u00e1volban Moszkva",
+        "165": "Kelet-Eur\u00f3pa felett, Moszkva fel\u00e9 n\u00e9zve",
+        "185": "Nyugat-Oroszorsz\u00e1g felett, Moszkv\u00e1t elhagyva",
+        "195": "Oroszorsz\u00e1g felett, K\u00f6z\u00e9p-\u00c1zsia fel\u00e9 haladva"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Olaszorsz\u00e1g fel\u00e9 haladva Tun\u00e9zia felett",
+        "5": "A F\u00f6ldk\u00f6zi-tenger felett, Szic\u00edlia \u00e9s az Appennini-f\u00e9lsziget fel\u00e9 tekintve",
+        "15": "D\u00e9l-Olaszorsz\u00e1g felett, a t\u00e1volban a Balk\u00e1n-f\u00e9lsziget",
+        "25": "A Balk\u00e1n-f\u00e9lsziget felett, utaz\u00e1s K\u00f6z\u00e9p-\u00c1zsia ir\u00e1ny\u00e1ban",
+        "40": "A Balk\u00e1n-f\u00e9lsziget felett, \u00e1tkel\u00e9s a Fekete-tengeren",
+        "55": "Ukrajna felett, a h\u00e1tt\u00e9rben Oroszorsz\u00e1g",
+        "75": "D\u00e9lnyugat-Oroszorsz\u00e1g felett, Kazahszt\u00e1nt elhagyva"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "K\u00f6z\u00e9p-\u00c1zsia felett, utaz\u00e1s K\u00edna partvid\u00e9ke fel\u00e9",
+        "10": "K\u00f6z\u00e9p-K\u00edna felett, Sanghaj fel\u00e9 haladva",
+        "30": "Kelet-K\u00edna felett, Sanghaj fel\u00e9 k\u00f6zeledve",
+        "45": "Sanghaj fel\u00e9 k\u00f6zeledve a Kelet-k\u00ednai-tenger ir\u00e1ny\u00e1ban",
+        "50": "Sanghaj felett, a Kelet-k\u00ednai-tenger fel\u00e9 haladva"
+    },
+    "H004_C007": {
+        "0": "A Pu\u2019u\u00a0O\u00a0\u2018Umi Term\u00e9szetv\u00e9delmi\u00a0Ter\u00fclet felett Hawaii\u00a0sziget\u00e9n"
+    },
+    "H004_C009": {
+        "0": "A Pu\u2019u\u00a0O\u00a0\u2018Umi Term\u00e9szetv\u00e9delmi\u00a0Ter\u00fclet felett Hawaii\u00a0sziget\u00e9n"
+    },
+    "H005_C012": {
+        "0": "A Waimanu\u00a0Valley a Kohala\u00a0Erd\u0151rezerv\u00e1tumban Hawaii\u00a0sziget\u00e9n"
+    },
+    "H007_C003": {
+        "0": "A Laup\u0101hoehoe\u00a0Nui felett rep\u00fclve a Kohala\u00a0Erd\u0151rezerv\u00e1tumban Hawaii\u00a0sziget\u00e9n"
+    },
+    "H010_C006": {
+        "0": "A Honop\u016b\u00a0Valleyhez k\u00f6zeledve a Kohala\u00a0Erd\u0151rezerv\u00e1tumban Hawaii\u00a0sziget\u00e9n",
+        "300": "A Honop\u016b\u00a0Valley a Kohala\u00a0Erd\u0151rezerv\u00e1tumban Hawaii\u00a0sziget\u00e9n"
+    },
+    "H012_C009": {
+        "0": "A kohalai partszakaszon haladva Hawaii\u00a0sziget\u00e9n"
+    },
+    "HK_B005_C011": {
+        "0": "A Victoria\u00a0Harbour felett Hongkong Central negyede fel\u00e9 k\u00f6zeledve"
+    },
+    "HK_H004_C001": {
+        "0": "A Victoria\u00a0Harbour felett Hongkong Central negyede fel\u00e9 k\u00f6zeledve"
+    },
+    "HK_H004_C008": {
+        "0": "A Victoria\u00a0Harbour felett a Hongkong-szigettel szemben"
+    },
+    "HK_H004_C010": {
+        "0": "A Victoria\u00a0Peak felett rep\u00fclve Hongkongban",
+        "150": "Hongkong felett rep\u00fclve a Victoria\u00a0Harbour fel\u00e9",
+        "330": "A Victoria\u00a0Harbour felett a Kowloon-f\u00e9lsziget fel\u00e9 k\u00f6zeledve"
+    },
+    "HK_H004_C013": {
+        "0": "Wan\u00a0Chai felett Hongkong\u00a0Central negyede fel\u00e9 k\u00f6zeledve",
+        "150": "Hongkong Central negyede felett",
+        "270": "A Hongkong-sziget felett"
+    },
+    "I001_C014": {
+        "0": "A J\u00f6kulgilskv\u00edsl ment\u00e9n haladva, az izlandi Landmannalaugar k\u00f6zel\u00e9ben"
+    },
+    "I003_C004": {
+        "0": "A Langisj\u00f3r felett \u00e1trep\u00fclve Izlandon"
+    },
+    "I003_C005": {
+        "0": "A Langisj\u00f3r \u00e9s a F\u00f6grufj\u00f6ll ter\u00fclete felett \u00e1trep\u00fclve Izlandon"
+    },
+    "I003_C008": {
+        "0": "A Tungna\u00e1 felett haladva az Izlandi-felf\u00f6ld\u00f6n"
+    },
+    "I003_C011": {
+        "0": "A J\u00f6kulgilskv\u00edsl foly\u00f3 ment\u00e9n haladva az izlandi Landmannalaugarban",
+        "308": "Az Izlandi-felf\u00f6ld felett haladva"
+    },
+    "I003_C015": {
+        "0": "A J\u00f6kulgil-kanyon ment\u00e9n haladva az izlandi Landmannalaugarban"
+    },
+    "I004_C014": {
+        "0": "Az izlandi Landmannalaugar felett haladva"
+    },
+    "I005_C008": {
+        "0": "Az izlandi M\u00fdrdalsj\u00f6kull gleccser fel\u00e9 haladva",
+        "150": "Az izlandi M\u00fdrdalsj\u00f6kull gleccser fel\u00e9 k\u00f6zeledve",
+        "225": "A M\u00fdrdalsj\u00f6kull gleccser Izlandon",
+        "324": "Az izlandi M\u00fdrdalsj\u00f6kull gleccser felett haladva"
+    },
+    "L004_C011": {
+        "0": "A Tower-h\u00eddhoz k\u00f6zeledve a Temz\u00e9n Londonban",
+        "20": "A Temze ment\u00e9n haladva Londonban",
+        "130": "A Temz\u00e9n haladva a London Eye fel\u00e9",
+        "210": "A London\u00a0Eye-hoz k\u00f6zeledve a Temz\u00e9n",
+        "310": "A Temz\u00e9n haladva a London Eye \u00e9rint\u00e9s\u00e9vel",
+        "325": "A Parlament mellett haladva a Temz\u00e9n, Londonban"
+    },
+    "L007_C007": {
+        "0": "A Buckingham-palota felett haladva Londonban",
+        "24": "A Buckingham-palota felett Londonban",
+        "49": "A Saint\u00a0James-park felett a Temze fel\u00e9 haladva Londonban",
+        "104": "A Temz\u00e9n \u00e1tkelve a London\u00a0Eye felett haladva",
+        "149": "D\u00e9l-London felett haladva",
+        "279": "A The\u00a0Shard mellett haladva London d\u00e9li r\u00e9sz\u00e9n",
+        "299": "A Temz\u00e9n \u00e1tkelve Londonban",
+        "324": "A Temz\u00e9n \u00e1tkelve a Tower-h\u00eddn\u00e1l Londonban"
+    },
+    "L010_C006": {
+        "0": "A Tower-h\u00eddhoz k\u00f6zeledve a Temz\u00e9n Londonban",
+        "78": "A Temze ment\u00e9n haladva Londonban",
+        "178": "A Temz\u00e9t\u0151l d\u00e9lre, Londonban",
+        "258": "A Temz\u00e9n \u00e1tkelve Londonban"
+    },
+    "L012_C002": {
+        "0": "A Tower-h\u00eddhoz k\u00f6zeledve a Temz\u00e9n Londonban",
+        "20": "A Temz\u00e9n \u00e1tkelve Londonban",
+        "60": "A The\u00a0Shard mellett haladva London d\u00e9li r\u00e9sz\u00e9n",
+        "92": "A Temze d\u00e9li r\u00e9sze a London\u00a0Eye fel\u00e9 haladva",
+        "200": "\u00c1tkelve a Temz\u00e9n Westminster fel\u00e9 Londonban",
+        "270": "A Westminster felett Londonban"
+    },
+    "LA_A005_C009": {
+        "0": "Az Interstate 110 north aut\u00f3p\u00e1ly\u00e1n haladva Los Angelesben"
+    },
+    "LA_A006_C004": {
+        "0": "A Hollywood-felirat Los\u00a0Angelesben",
+        "250": "A Hollywood\u00a0Hills felett Burbank fel\u00e9 haladva Kaliforni\u00e1ban"
+    },
+    "LA_A006_C008": {
+        "0": "A Los Angeles-i nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r felett rep\u00fclve"
+    },
+    "LA_A008_C004": {
+        "0": "A Santa\u00a0Monica\u00a0State\u00a0Beach felett Los\u00a0Angeles k\u00f6zel\u00e9ben",
+        "365": "A Santa\u00a0Monica\u00a0Pier felett haladva Los\u00a0Angeles k\u00f6zel\u00e9ben",
+        "430": "A Santa\u00a0Monica\u00a0State\u00a0Beach felett Los\u00a0Angeles k\u00f6zel\u00e9ben"
+    },
+    "LA_A009_C009": {
+        "0": "A Griffith\u00a0Obszervat\u00f3rium \u00e9s a Hollywood\u00a0Hills Los\u00a0Angelesben"
+    },
+    "LA_A011_C003": {
+        "0": "Los Angeles belv\u00e1rosa felett haladva"
+    },
+    "LW_L001_C003": {
+        "0": "A Liwa o\u00e1zis felett rep\u00fclve az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben"
+    },
+    "LW_L001_C006": {
+        "0": "A Liwa o\u00e1zis felett rep\u00fclve az Egyes\u00fclt Arab Em\u00edrs\u00e9gekben"
+    },
+    "N003_C006": {
+        "0": "Az Upper\u00a0East\u00a0Side \u00e9s a Central\u00a0Park felett New\u00a0Yorkban",
+        "50": "Manhattan\u00a0Midtown r\u00e9sze felett a belv\u00e1rosban l\u00e9v\u0151 Empire\u00a0State Building fel\u00e9 haladva",
+        "160": "Az Empire State Buildinghez k\u00f6zeledve New Yorkban",
+        "205": "Als\u00f3-Manhattan fel\u00e9 haladva az Empire State Building mellett"
+    },
+    "N006_C003": {
+        "0": "Als\u00f3-Manhattanhez k\u00f6zeledve New Yorkban",
+        "40": "Als\u00f3-Manhattan felett New\u00a0Yorkban",
+        "140": "Als\u00f3-Manhattan felett New\u00a0Yorkban, Midtown fel\u00e9 haladva"
+    },
+    "N008_C003": {
+        "0": "Als\u00f3-Manhattanhez k\u00f6zeledve a New\u00a0York-i kik\u00f6t\u0151 fel\u0151l",
+        "110": "Als\u00f3-Manhattan ment\u00e9n a One\u00a0World\u00a0Trade\u00a0Centerhez k\u00f6zeledve",
+        "180": "Midtown fel\u00e9 haladva Manhattanben, a One World Trade Center mellett",
+        "210": "Als\u00f3-Manhattan felett New\u00a0Yorkban, Midtown fel\u00e9 haladva"
+    },
+    "N008_C009": {
+        "0": "A Central\u00a0Park felett Manhattan\u00a0Midtown r\u00e9sze fel\u00e9 haladva New\u00a0Yorkban",
+        "246": "Manhattan\u00a0Midtown r\u00e9sze felett New\u00a0Yorkban"
+    },
+    "N013_C004": {
+        "0": "A 7. sug\u00e1r\u00fat felett haladva a Times Square fel\u00e9 New Yorkban",
+        "40": "A Times\u00a0Square felett New\u00a0Yorkban",
+        "120": "A 7. sug\u00e1r\u00faton haladva Manhattan\u00a0Midtown r\u00e9sz\u00e9ben, New\u00a0Yorkban"
+    },
+    "P001_C005_11059D": {
+        "0": "A Cuernos del Paine ment\u00e9n haladva a chilei Torres del\u00a0Paine Nemzeti\u00a0Parkban"
+    },
+    "P005_C002_1109E1": {
+        "0": "Utaz\u00e1s a Lago\u00a0Nordenskj\u00f6ld ment\u00e9n a chilei Torres del Paine Nemzeti\u00a0Parkban"
+    },
+    "P006_C002_11106T": {
+        "0": "Lago Nordenskj\u00f6ld\u00a0felett a chilei Torres del Paine Nemzeti\u00a0Parkban"
+    },
+    "P007_C027": {
+        "0": "Utaz\u00e1s a chilei Torres del Paine Nemzeti\u00a0Park felett"
+    },
+    "S003_C020": {
+        "0": "A sk\u00f3ciai Skye sziget\u00e9nek partjai ment\u00e9n haladva",
+        "338": "A Neist Point vil\u00e1g\u00edt\u00f3torony, Skye szigete, Sk\u00f3cia",
+        "372": "Skye szigete, Sk\u00f3cia"
+    },
+    "S004_C019": {
+        "0": "A sk\u00f3ciai Skye sziget\u00e9n tal\u00e1lhat\u00f3 Cuillin-hegys\u00e9g felett haladva"
+    },
+    "S005_C015": {
+        "0": "A Loch Moidart felett, Sk\u00f3cia nyugati partjain\u00e1l",
+        "252": "A sk\u00f3ciai Hebrida-tenger fel\u00e9 k\u00f6zeledve"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart Sk\u00f3cia nyugati partjain\u00e1l",
+        "139": "A Tioram kast\u00e9ly fel\u00e9 k\u00f6zeledve, Sk\u00f3cia nyugati partjain\u00e1l",
+        "181": "A Tioram kast\u00e9ly Sk\u00f3cia nyugati partjain\u00e1l",
+        "214": "Sk\u00f3cia nyugati partjai felett haladva"
+    },
+    "S009_C007": {
+        "0": "A sk\u00f3ciai Skye szigete felett haladva",
+        "135": "Old Man of Storr Skye sziget\u00e9n, Sk\u00f3ci\u00e1ban",
+        "173": "A sk\u00f3ciai Skye szigete felett haladva"
+    },
+    "TH_803_A001_8": {
+        "0": "Tahiti partjain\u00e1l megt\u00f6r\u0151 hull\u00e1mok"
+    },
+    "TH_804_A001_8": {
+        "0": "Tahiti partjain\u00e1l megt\u00f6r\u0151 hull\u00e1mok"
+    },
+    "U009_C004": {
+        "0": "Francia Polin\u00e9zia partjain\u00e1l \u00fasz\u00f3 sz\u00fcrke szirtc\u00e1p\u00e1k"
+    },
+    "Y002_C013226": {
+        "0": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Park felett"
+    },
+    "Y002_C013_0226": {
+        "70": "A Half\u00a0Dome fel\u00e9 k\u00f6zeledve az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "87": "A Half\u00a0Dome az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "210": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Park felett"
+    },
+    "Y003_C009": {
+        "0": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Park felett",
+        "93": "Utaz\u00e1s a Merced\u00a0Peak fel\u00e9 az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "130": "A Merced\u00a0Peak az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "221": "A Merced\u00a0Peak mellett haladva az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "244": "Utaz\u00e1s az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Park felett"
+    },
+    "Y004_C015227PD": {
+        "0": "A Half\u00a0Dome az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban"
+    },
+    "Y004_C015_0227PD": {
+        "124": "A Yosemite Nemzeti\u00a0Parkban, a Half\u00a0Dome mellett elhaladva \u00e9s a Nevada-v\u00edzes\u00e9s fel\u00e9 k\u00f6zeledve",
+        "146": "A Half\u00a0Dome \u00e9s a Nevada-v\u00edzes\u00e9s az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban"
+    },
+    "Y005_C003228SC": {
+        "0": "Az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Park felett"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Utaz\u00e1s a Half\u00a0Dome fel\u00e9 az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "60": "A Half\u00a0Dome az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "155": "A Yosemite Nemzeti\u00a0Park felett, a t\u00e1volban a Nevada-v\u00edzes\u00e9ssel",
+        "255": "A Nevada- \u00e9s Illilouette-v\u00edzes\u00e9sek az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "285": "A Nevada-, Vernal- \u00e9s Illilouette-v\u00edzes\u00e9sek az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban"
+    },
+    "Y009_C015304I": {
+        "0": "A Tuolumne\u00a0Meadows f\u00f6l\u00f6tt haladva az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban"
+    },
+    "Y011_C001": {
+        "0": "A Bridalveil-v\u00edzes\u00e9s \u00e9s az El\u00a0Capitan fel\u00e9 haladva a Yosemite Nemzeti\u00a0Parkban",
+        "44": "Keletre haladva az El Capitan fel\u00e9 az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "87": "Az El\u00a0Capitan mellett haladva az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "120": "Keletre haladva a Half\u00a0Dome fel\u00e9 az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "390": "A Half\u00a0Dome az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "470": "Elhaladva a Half Dome mellett az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite-v\u00f6lgyben",
+        "585": "Utaz\u00e1s kelet fel\u00e9, az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite-v\u00f6lgy felett"
+    },
+    "Y011_C008": {
+        "0": "Utaz\u00e1s a Matthes\u00a0Crest fel\u00e9 az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "75": "A Matthes\u00a0Crest felett rep\u00fclve az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "124": "A Matthes\u00a0Cresten kereszt\u00fclrep\u00fclve az\u00a0egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "215": "A Matthes\u00a0Crest felett rep\u00fclve az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban",
+        "396": "Utaz\u00e1s az egyes\u00fclt\u00a0\u00e1llamokbeli Yosemite Nemzeti\u00a0Parkban tal\u00e1lhat\u00f3 Toulumne\u00a0Meadows fel\u00e9"
+    }
+}

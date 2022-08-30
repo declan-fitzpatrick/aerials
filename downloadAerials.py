@@ -25,8 +25,6 @@ else:
 
 TVOS_VERSION = 16
 if 'TVOS_VERSION' in os.environ: TVOS_VERSION = os.environ['TVOS_VERSION']
-LOCAL_SERVER_URL = ""
-if 'LOCAL_SERVER_URL' in os.environ: LOCAL_SERVER_URL = os.environ['LOCAL_SERVER_URL']
 VIDEO_QUALITY = "url-1080-H264"
 if 'VIDEO_QUALITY' in os.environ: VIDEO_QUALITY = os.environ['VIDEO_QUALITY']
 if VIDEO_QUALITY == "url-1080-H264":
@@ -37,7 +35,7 @@ else:
 BW_LIMIT = False
 if 'BW_LIMIT' in os.environ: BW_LIMIT = True
 
-RELEASE_VERSION = "0.0.1"
+RELEASE_VERSION = "0.0.2"
 
 def upload_strings(file):
     password=""
@@ -154,8 +152,7 @@ def download_aerials():
     for index, asset in enumerate(entries['assets']):
         filename = asset[VIDEO_QUALITY].replace(APPLE_SERVER_URL, "")
         url = asset[VIDEO_QUALITY]
-        if LOCAL_SERVER_URL != "":
-            entries['assets'][index][f"{VIDEO_QUALITY}-local"] = f'{LOCAL_SERVER_URL}/{filename}'
+        entries['assets'][index][f"filename"] = f'{filename}'
         try: 
             if not SKIP_DOWNLOADS:
                 print(f"{index+1}/{len(entries['assets'])} Downloading {filename}")
