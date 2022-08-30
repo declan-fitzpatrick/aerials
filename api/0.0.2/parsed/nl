@@ -1,0 +1,642 @@
+{
+    "A001_C001_120530": {
+        "0": "Je bevindt je boven de Noord-Atlantische\u00a0Oceaan en vliegt in de richting van Portugal",
+        "115": "Je bevindt je boven Portugal en Spanje",
+        "150": "Je verlaat het Iberisch\u00a0Schiereiland en passeert de Golf van Biskaje en Frankrijk",
+        "180": "Je bevindt je boven West-Europa met de Noord-Atlantische\u00a0Oceaan in de verte"
+    },
+    "A001_C004_1207W5": {
+        "0": "De Canarische\u00a0Eilanden, de Noord-Atlantische\u00a0Oceaan en de kust van Afrika",
+        "45": "Je vliegt in noordoostelijke richting langs de kust van Marokko",
+        "75": "Je vliegt over het Atlasgebergte in Marokko",
+        "105": "Je bevindt je boven Marokko en nadert de Middellandse\u00a0Zee",
+        "125": "De Middellandse\u00a0Zee en Zuid-Spanje",
+        "145": "Je vliegt in noordoostelijke richting over de Costa\u00a0Blanca van Spanje",
+        "165": "Je vliegt in noordoostelijke richting over de Balearen van Spanje",
+        "185": "Je bevindt je boven de westelijke Middellandse\u00a0Zee met de Alpen in de verte",
+        "220": "Je vliegt in noordoostelijke richting over de Alpen"
+    },
+    "A001_C007": {
+        "0": "Gouden\u00a0kwallen in de wateren rond Palau",
+        "282": "Gouden\u00a0kwallen met daartussen een oorkwal",
+        "348": "Gouden\u00a0kwallen in de wateren rond Palau"
+    },
+    "A002_C009": {
+        "0": "Gouden\u00a0kwallen in de wateren rond Palau"
+    },
+    "A003_C014": {
+        "0": "Je drijft over oorkwallen bij de kust van Alaska in de Verenigde Staten"
+    },
+    "A004_C003": {
+        "0": "Koraalrif bij Palau"
+    },
+    "A004_C012": {
+        "0": "Oorkwallen bij de kust van Alaska in de Verenigde Staten",
+        "100": "Het centrum van San\u00a0Francisco met de Coit\u00a0Tower op de voorgrond"
+    },
+    "A006_C003": {
+        "0": "De baai van San\u00a0Francisco en de Golden\u00a0Gate\u00a0Bridge",
+        "140": "Je vliegt over de noordelijke toren van de Golden\u00a0Gate\u00a0Bridge in de richting van San\u00a0Francisco",
+        "191": "Je bevindt je boven de baai van San\u00a0Francisco"
+    },
+    "A006_C008": {
+        "0": "Adelaarsroggen voor de kust van Mexico"
+    },
+    "A007_C017": {
+        "0": "Je bevindt je boven Fisherman's\u00a0Wharf en vliegt in de richting van het centrum van San\u00a0Francisco",
+        "80": "Je nadert de Coit\u00a0Tower met het centrum van San\u00a0Francisco en de Bay\u00a0Bridge op de achtergrond",
+        "150": "Je passeert de Coit\u00a0Tower en vliegt in de richting van het centrum van San\u00a0Francisco en de Bay\u00a0Bridge",
+        "196": "Het centrum van San Francisco"
+    },
+    "A008_C007": {
+        "0": "Je bevindt je boven de Marin\u00a0Headlands en kijkt in de richting van de Golden\u00a0Gate\u00a0Bridge",
+        "150": "Je steekt de Golden\u00a0Gate\u00a0Bridge over in de richting van de Presidio van San\u00a0Francisco"
+    },
+    "A008_C010": {
+        "0": "Koraalrif in de Rode Zee bij Egypte"
+    },
+    "A009_C001_10181A": {
+        "0": "Je bevindt je boven West-Afrika en vliegt in de richting van de Sahara",
+        "30": "Je steekt de Sahara over in Noord-Afrika",
+        "110": "Je vliegt over het Ahaggargebergte in de Sahara, Noord-Afrika",
+        "155": "Je bevindt je boven de Grand\u00a0Erg\u00a0Oriental in Noord-Afrika en vliegt in de richting van de Middellandse\u00a0Zee",
+        "195": "De kust van Tunesi\u00eb en de Middellandse\u00a0Zee",
+        "210": "Je bevindt je boven de kust van Tunesi\u00eb en vliegt in de richting van Itali\u00eb",
+        "230": "Je nadert Itali\u00eb in de Middellandse\u00a0Zee",
+        "245": "Je bevindt je boven Itali\u00eb en vliegt in de richting van de Balkan",
+        "285": "Je bevindt je boven de Balkan en vliegt in de richting van de Karpaten",
+        "310": "De Karpaten en de Zwarte\u00a0Zee"
+    },
+    "A009_C007": {
+        "0": "Langsnuitdolfijnen in de wateren rond Costa Rica"
+    },
+    "A010_C002": {
+        "0": "Drijven door een kelpwoud bij het Kaapse schiereiland in Zuid-Afrika"
+    },
+    "A010_C007": {
+        "0": "Gouden\u00a0kwallen in de wateren rond Palau"
+    },
+    "A012_C004": {
+        "0": "Je bevindt je boven de Marin\u00a0Headlands en kijkt in de richting van de Golden\u00a0Gate\u00a0Bridge",
+        "150": "Je steekt de Golden\u00a0Gate\u00a0Bridge over in de richting van de Presidio van San\u00a0Francisco"
+    },
+    "A012_C014": {
+        "0": "Je bevindt je boven de baai van San\u00a0Francisco en vliegt in de richting van de Embarcadero",
+        "208": "Je volgt Market\u00a0Street door San\u00a0Francisco"
+    },
+    "A012_C031": {
+        "0": "Geknobbelde zeesterren op de oceaanbodem bij Borneo"
+    },
+    "A013_C004": {
+        "0": "Je bevindt je boven de baai van San\u00a0Francisco en vliegt in de richting van de Embarcadero",
+        "90": "Je bevindt je boven de Embarcadero en kijkt uit over Market\u00a0Street in San\u00a0Francisco",
+        "150": "Je volgt Market\u00a0Street door het centrum van San\u00a0Francisco",
+        "360": "Je volgt Market\u00a0Street door San\u00a0Francisco"
+    },
+    "A013_C005": {
+        "0": "Je beweegt je langs de Presidio van San\u00a0Francisco in de richting van de Golden\u00a0Gate\u00a0Bridge",
+        "190": "Je steekt de Golden\u00a0Gate\u00a0Bridge over in de richting van de Marin\u00a0Headlands"
+    },
+    "A013_C012": {
+        "0": "Je nadert de Golden\u00a0Gate\u00a0Bridge vanuit San\u00a0Francisco",
+        "60": "Je bevindt je parallel aan de Golden\u00a0Gate\u00a0Bridge en vliegt in de richting van de Marin\u00a0Headlands",
+        "140": "Je steekt de Golden\u00a0Gate\u00a0Bridge over",
+        "230": "Je passeert de noordelijke toren van de Golden\u00a0Gate\u00a0Bridge",
+        "260": "Je bevindt je boven de baai van San\u00a0Francisco en vliegt parallel aan de Golden\u00a0Gate\u00a0Bridge"
+    },
+    "A014_C008": {
+        "0": "Bultkoppapegaaivis boven de koraalriffen bij Borneo"
+    },
+    "A014_C023": {
+        "0": "Een school horsmakrelen voor de kust van Borneo"
+    },
+    "A015_C014": {
+        "0": "Je bevindt je boven de baai van San\u00a0Francisco en vliegt in de richting van de Embarcadero",
+        "210": "Je volgt Market\u00a0Street door het centrum van San\u00a0Francisco"
+    },
+    "A015_C018": {
+        "0": "Je nadert de Bay\u00a0Bridge en het centrum van San\u00a0Francisco",
+        "80": "Je steekt de Bay\u00a0Bridge over in de richting van het centrum van San\u00a0Francisco",
+        "116": "Je bevindt je boven de baai van San\u00a0Francisco en vliegt in de richting van het centrum"
+    },
+    "A016_C002": {
+        "0": "Je drijft door een kelpwoud voor de kust van Californi\u00eb in de Verenigde Staten"
+    },
+    "A016_C009": {
+        "0": "Zuid-Afrikaanse pelsrobben voor de kust van het Kaapse schiereiland in Zuid-Afrika"
+    },
+    "A018_C014": {
+        "0": "Je nadert het centrum van San\u00a0Francisco met de Sutro\u00a0Tower op de achtergrond",
+        "10": "De Transamericapiramide in het centrum van San\u00a0Francisco",
+        "40": "Het centrum van San\u00a0Francisco met de Sutro\u00a0Tower op de achtergrond"
+    },
+    "A018_C029": {
+        "0": "Een school donkervinbarracuda's in de wateren bij Borneo"
+    },
+    "A050_C004_1027V8": {
+        "0": "Je vliegt over West\u2011Europa met Groot\u2011Brittanni\u00eb en Ierland in de verte",
+        "20": "Je vliegt in zuidoostelijke richting over de Alpen en de Povlakte",
+        "50": "Je vliegt in zuidelijke richting langs het Apennijns\u00a0Schiereiland en de Adriatische\u00a0Zee",
+        "100": "Griekenland met de Ionische Zee aan de ene kant en de Ege\u00efsche Zee aan de andere kant",
+        "160": "Je vliegt in zuidoostelijke richting over de Middellandse\u00a0Zee",
+        "185": "De Middellandse\u00a0Zee en de Nijldelta",
+        "205": "De Nijl die door de Sahara in Egypte stroomt",
+        "220": "De Arabische\u00a0Woestijn met de Nijl aan de ene kant en de Golf van Suez aan de andere kant",
+        "240": "Je vliegt in zuidoostelijke richting over de Rode\u00a0Zee"
+    },
+    "A083_C002_1130KZ": {
+        "0": "De weerspiegeling van de zon langs de kust van Iran",
+        "15": "Van dag naar nacht boven Iran",
+        "60": "Van dag naar nacht boven Centraal-Azi\u00eb"
+    },
+    "A103_C002205DG": {
+        "0": "Je bevindt je boven de Hoorn van Afrika en vliegt in de richting van de Golf van Aden"
+    },
+    "A103_C002_0205DG": {
+        "45": "Het zuidoostelijk Arabisch\u00a0Schiereiland",
+        "115": "De Golf van Oman in de richting van de Makran-kust",
+        "145": "De Makran-kust van Iran en Pakistan",
+        "160": "Je bevindt je boven Iran en vliegt in de richting van Afghanistan en Pakistan",
+        "180": "Je bevindt je boven Afghanistan en Pakistan en vliegt in de richting van de Karakoram",
+        "235": "Je bevindt je boven de Karakoram en vliegt in de richting van China",
+        "280": "De Taklamakan-woestijn in het westen van China",
+        "315": "De Tiensjan in Centraal-Azi\u00eb"
+    },
+    "A105_C0022120602": {
+        "0": "Je bevindt je boven de Stille\u00a0Oceaan en vliegt in de richting van Midden-Amerika"
+    },
+    "A105_C002_021206_002": {
+        "70": "De zuidwestkust van Midden-Amerika in de richting van de Cara\u00efbische\u00a0Zee",
+        "100": "Je steekt Midden-Amerika over in de richting van de Cara\u00efbische\u00a0Zee",
+        "150": "Je bevindt je boven de Cara\u00efbische\u00a0Zee en vliegt in de richting van Cuba",
+        "240": "Je bevindt je boven Cuba met Florida en de Bahama's in de verte",
+        "300": "Je bevindt je boven Florida en de Bahama's en vliegt in de richting van de Sargassozee",
+        "350": "Je bevindt je boven de Sargassozee en vliegt in de richting van de Atlantische\u00a0Oceaan"
+    },
+    "A105_C003212CT": {
+        "0": "Van nacht naar dag boven de Stille\u00a0Oceaan"
+    },
+    "A105_C003_0212CT": {
+        "70": "Van nacht naar dag boven Nieuw-Zeeland",
+        "110": "Je nadert de zonsopgang boven Nieuw-Zeeland",
+        "170": "Je verlaat Nieuw-Zeeland en vliegt in noordoostelijke richting over de Stille\u00a0Oceaan"
+    },
+    "A108_C001215V8": {
+        "0": "Je vliegt over de Stille\u00a0Oceaan in de richting van Midden-Amerika"
+    },
+    "A108_C001_0215V8": {
+        "35": "De westkust van Nicaragua, Costa\u00a0Rica en Panama",
+        "50": "Je vliegt over Midden-Amerika met Zuid-Amerika in de verte",
+        "65": "De Muskietenkust van Nicaragua",
+        "85": "Je bevindt je boven de Cara\u00efbische\u00a0Zee en vliegt in de richting van Cuba",
+        "110": "Je passeert een bewolkt Jamaica in de Cara\u00efbische\u00a0Zee",
+        "125": "Je steekt Cuba over en kijkt in de richting van Ha\u00efti en de Dominicaanse\u00a0Republiek",
+        "170": "Je vliegt over de Bahama's en kijkt in de richting van Ha\u00efti en de Dominicaanse\u00a0Republiek",
+        "190": "De Turks- en Caicoseilanden in de Atlantische\u00a0Oceaan"
+    },
+    "A114_C001305OT": {
+        "0": "Je bevindt je boven de Stille\u00a0Oceaan en vliegt in de richting van de Verenigde\u00a0Staten"
+    },
+    "A114_C001_0305OT": {
+        "20": "Je vliegt in zuidelijke richting langs de kust van Californi\u00eb",
+        "50": "Je bevindt je boven Zuid-Californi\u00eb en vliegt in de richting van Mexico",
+        "65": "Je nadert de Mojavewoestijn in Zuid-Californi\u00eb met Mexico in de verte",
+        "95": "De Golf van Californi\u00eb met de Sonorawoestijn aan de ene kant en Neder-Californi\u00eb aan de andere kant",
+        "130": "De Westelijke\u00a0Sierra\u00a0Madre aan de westkust van Mexico",
+        "185": "Je bevindt je boven de Westelijke\u00a0Sierra\u00a0Madre en vliegt in de richting van de westkust van Mexico",
+        "225": "Je kijkt in zuidelijke richting naar de Stille\u00a0Oceaan boven de Zuidelijke\u00a0Sierra\u00a0Madre in Mexico",
+        "280": "De Stille\u00a0Oceaan voor de kust van Mexico",
+        "290": "De Stille\u00a0Oceaan voor de kust van Mexico en Guatemala"
+    },
+    "A351_C001_1213SK": {
+        "0": "Je vliegt in noordoostelijke richting over het Ethiopisch\u00a0Hoogland",
+        "45": "Je vliegt over de Rode\u00a0Zee in de richting van het Arabisch\u00a0Schiereiland",
+        "100": "Je vliegt in noordoostelijke richting over het Arabisch\u00a0Schiereiland",
+        "130": "Je bevindt je boven het Arabisch\u00a0Schiereiland en vliegt in de richting van Iran",
+        "165": "Je bevindt je boven het Arabisch\u00a0Schiereiland en nadert Iran",
+        "190": "Je nadert de kust van Iran met het Zagrosgebergte in de verte",
+        "210": "Je bevindt je boven het Zagrosgebergte in Iran",
+        "240": "Je bevindt je boven de Dasht-e\u00a0Lut-woestijn in Iran",
+        "265": "Je vliegt in de richting van Turkmenistan en de Karakum",
+        "305": "De rivier de Amu\u00a0Darja en het Pamir-gebergte in Centraal-Azi\u00eb",
+        "322": "Het Pamir-gebergte en de Vallei van Fergana in Centraal-Azi\u00eb",
+        "360": "Je vliegt vanuit Kirgizi\u00eb in de richting van Zuidoost-Kazachstan",
+        "400": "Je vliegt in noordelijke richting over Kazachstan",
+        "450": "Je bevindt je boven het Altajgebergte en vliegt in de richting van Mongoli\u00eb"
+    },
+    "B002_C011": {
+        "0": "Gewone dolfijnen voor de kust van Californi\u00eb in de Verenigde\u00a0Staten"
+    },
+    "C001_C005": {
+        "0": "Het Mutianyu-deel van de Grote\u00a0Muur in het district\u00a0Huairou van China"
+    },
+    "C003_C003": {
+        "0": "Het Mutianyu-deel van de Grote\u00a0Muur in het district\u00a0Huairou van China"
+    },
+    "C004_C003": {
+        "0": "Het Mutianyu-deel van de Grote\u00a0Muur in het district\u00a0Huairou van China"
+    },
+    "CH_C002_C005": {
+        "0": "Je vliegt over de terrasvormige rijstvelden van Longji in de provincie\u00a0Guangxi in China"
+    },
+    "CH_C007_C004": {
+        "0": "Je verkent het nationale\u00a0park Wulingyuan in China"
+    },
+    "CH_C007_C011": {
+        "0": "Je reist door het nationale\u00a0park Wulingyuan in China"
+    },
+    "D004_L014": {
+        "0": "Een bultrug voor de kust van Frans-Polynesi\u00eb"
+    },
+    "DB_D001_C001": {
+        "0": "Je vliegt over Dubai\u00a0Marina in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "DB_D001_C005": {
+        "0": "Je vliegt langs Dubai\u00a0Marina in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "DB_D002_C003": {
+        "0": "Je nadert het centrum van Dubai in de Verenigde\u00a0Arabische\u00a0Emiraten",
+        "210": "Je vliegt over het centrum van Dubai in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "DB_D008_C010": {
+        "0": "Je reist langs de Sheikh\u00a0Zayed\u00a0Road in Dubai in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "DB_D011_C010": {
+        "0": "Je nadert Burj\u00a0Khalifa in het centrum van Dubai in de Verenigde\u00a0Arabische\u00a0Emiraten",
+        "280": "Je passeert Burj\u00a0Khalifa in het centrum van Dubai in de Verenigde\u00a0Arabische\u00a0Emiraten",
+        "330": "Je bevindt je boven het centrum van Dubai en nadert de kust"
+    },
+    "G007_C004": {
+        "0": "Je volgt de rivier de Colorado door de Grand\u00a0Canyon in de Verenigde\u00a0Staten"
+    },
+    "G008_C015106MB": {
+        "0": "Je vliegt over het gebied Burnt\u00a0Canyon van de Grand\u00a0Canyon in de Verenigde\u00a0Staten"
+    },
+    "G009_C00310678": {
+        "0": "Je vliegt over de Grand\u00a0Canyon in de Verenigde\u00a0Staten"
+    },
+    "G009_C014106B9": {
+        "0": "Je vliegt door de Grand\u00a0Canyon in de Verenigde\u00a0Staten"
+    },
+    "G010_C026107KE": {
+        "0": "Je vliegt langs de rivier de Colorado in de Grand\u00a0Canyon in de Verenigde\u00a0Staten"
+    },
+    "GL_G002_C002": {
+        "0": "De ijsfjord van Ilulissat voor de kust van Groenland"
+    },
+    "GL_G004_C010": {
+        "0": "Je reist over het schiereiland\u00a0Nuussuaq in Groenland"
+    },
+    "GL_G010_C006": {
+        "0": "De ijsfjord van Ilulissat voor de kust van Groenland"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Je vliegt in zuidoostelijke richting over Siberi\u00eb en Mongoli\u00eb",
+        "22": "Je vliegt in de richting van Binnen-Mongoli\u00eb",
+        "32": "Je bevindt je boven Mongoli\u00eb en vliegt in de richting van China",
+        "60": "Je bevindt je boven Noord-China en vliegt in de richting van het Koreaans\u00a0Schiereiland",
+        "110": "Je bevindt je boven China en vliegt in de richting van het Koreaans\u00a0Schiereiland",
+        "150": "Het Koreaans\u00a0Schiereiland met Japan in de verte",
+        "180": "Je bevindt je boven Zuid-Korea en vliegt in de richting van Japan",
+        "195": "Je bevindt je boven Japan en kijkt in de richting van de Stille\u00a0Oceaan",
+        "260": "Je bevindt je boven de Stille\u00a0Oceaan ten zuidoosten van Japan"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Je bevindt je boven de Indische\u00a0Oceaan en vliegt in de richting van Perth, Australi\u00eb",
+        "50": "Je vliegt in noordoostelijke richting over West-Australi\u00eb",
+        "170": "Je bevindt je boven West-Australi\u00eb en nadert het Noordelijk\u00a0Territorium",
+        "220": "Je bevindt je boven het Noordelijk\u00a0Territorium van Australi\u00eb en vliegt in de richting van Nieuw-Guinea",
+        "335": "Je bevindt je boven de Arafurazee en vliegt in de richting van Nieuw-Guinea"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Het zuiderlicht boven Antarctica"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Je bevindt je boven de Stille\u00a0Oceaan en vliegt in de richting van de kust van Californi\u00eb",
+        "70": "Je bevindt je boven de kust van Californi\u00eb en vliegt landinwaarts",
+        "85": "Je vliegt over Los\u00a0Angeles aan de westkust van de Verenigde\u00a0Staten",
+        "95": "Je bevindt je boven Los\u00a0Angeles en nadert Las\u00a0Vegas in de Verenigde\u00a0Staten",
+        "110": "Je bevindt je boven Las\u00a0Vegas en vliegt in de richting van Salt\u00a0Lake\u00a0City in de Verenigde\u00a0Staten",
+        "120": "Je bevindt je boven het weten van de Verenigde\u00a0Staten en nadert Salt\u00a0Lake\u00a0City",
+        "155": "Je vliegt tussen Salt\u00a0Lake\u00a0City en Denver in de Verenigde\u00a0Staten",
+        "170": "Je bevindt je boven de Rocky\u00a0Mountains in de Verenigde\u00a0Staten"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Je bevindt je boven de Stille\u00a0Oceaan en vliegt in de richting van Mexico",
+        "105": "Je vliegt over Mexico\u00a0Stad richting de Golf\u00a0van\u00a0Mexico",
+        "122": "Je vliegt over de Golf\u00a0van\u00a0Mexico in de richting van de Verenigde\u00a0Staten",
+        "180": "Je passeert Houston en nadert New\u00a0Orleans in de Verenigde\u00a0Staten",
+        "190": "Je vliegt over New\u00a0Orleans en de Golfkust van de Verenigde\u00a0Staten",
+        "215": "Je vliegt over het zuidoosten van de Verenigde\u00a0Staten",
+        "280": "Je bevindt je boven het oosten van de Verenigde\u00a0Staten en vliegt in de richting van New\u00a0York",
+        "320": "Je bevindt je boven het oosten van de Verenigde\u00a0Staten en nadert New\u00a0York\u00a0City"
+    },
+    "GMT308_139K_142NC": {
+        "0": "Je vliegt in zuidoostelijke richting over de Great\u00a0Plains van de Verenigde\u00a0Staten",
+        "90": "Je vliegt in zuidoostelijke richting over het Middenwesten van de Verenigde\u00a0Staten",
+        "120": "Je bevindt je boven het zuidoosten van de Verenigde\u00a0Staten en vliegt in de richting van Florida",
+        "220": "Je bevindt je boven Florida en vliegt in de richting van de Bahama's",
+        "240": "Je vliegt in zuidoostelijke richting over de Bahama's",
+        "285": "Je bevindt je boven de Bahama's en nadert de Dominicaanse\u00a0Republiek en Ha\u00efti",
+        "300": "Je bevindt je boven de Dominicaanse\u00a0Republiek en Ha\u00efti en nadert de Cara\u00efbische\u00a0Zee",
+        "315": "Je bevindt je boven de Cara\u00efbische\u00a0Zee en vliegt in zuidelijke richting naar Venezuela"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Je vliegt 's nachts in noordoostelijke richting over de Sahara",
+        "70": "Je bevindt je boven de Grand\u00a0Erg\u00a0Oriental en vliegt in de richting van de Middellandse\u00a0Zee",
+        "100": "De Middellandse Zeekust van Tunesi\u00eb en Libi\u00eb",
+        "120": "Je vliegt over de Middellandse\u00a0Zee in de richting van Itali\u00eb",
+        "140": "Je bevindt je boven Zuid-Itali\u00eb en nadert de Balkan met Turkije in de verte",
+        "165": "Je bevindt je boven de Balkan en vliegt in de richting van de Zwarte\u00a0Zee",
+        "180": "Je bevindt je boven de Balkan en nadert de Zwarte\u00a0Zee",
+        "210": "Je vliegt over de Zwarte\u00a0Zee in de richting van Oekra\u00efne",
+        "230": "Je vliegt over Oekra\u00efne in de richting van Rusland"
+    },
+    "GMT314_139M_170NC": {
+        "0": "Je bevindt je boven de Stille\u00a0Oceaan en vliegt in de richting van Baja\u00a0California",
+        "45": "Je bevindt je boven Baja\u00a0California en kijkt in noordelijke richting naar de Verenigde\u00a0Staten",
+        "55": "Je bevindt je boven Mexico en vliegt in de richting van het zuidwesten van de Verenigde\u00a0Staten",
+        "75": "Je bevindt je boven het zuidwesten van de Verenigde\u00a0Staten",
+        "110": "Je bevindt je boven de Rocky\u00a0Mountains en nadert Denver",
+        "125": "Je vliegt over de Great\u00a0Plains van de Verenigde\u00a0Staten",
+        "185": "Je nadert de Great\u00a0Lakes met Ontario, Canada in de verte",
+        "200": "Je bevindt je boven de Great\u00a0Lakes en nadert Ontario, Canada",
+        "210": "Het noorderlicht boven West-Ontario, Canada",
+        "235": "Het noorderlicht boven Noord-Ontario, Canada",
+        "250": "Het noorderlicht boven Noord-Quebec, Canada",
+        "300": "Je vliegt in de richting van de Noord-Atlantische\u00a0Oceaan met het zuiderlicht over Labrador, Canada"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Je bevindt je boven de Noord\u2011Atlantische\u00a0Oceaan en nadert Ierland en Groot\u2011Brittanni\u00eb",
+        "15": "Ierland en Groot-Brittanni\u00eb",
+        "45": "Je bevindt je boven Groot-Brittanni\u00eb en vliegt in de richting van het vasteland van Europa",
+        "65": "Je bevindt je boven Noordwest-Europa en vliegt in de richting van Moskou",
+        "105": "Je bevindt je boven Midden-Europa en vliegt in de richting van Rusland",
+        "150": "Je bevindt je boven Oost-Europa met Moskou in de verte",
+        "165": "Je bevindt je boven Oost-Europa en kijkt in de richting van Moskou",
+        "185": "Je bevindt je boven West-Rusland en passeert Moskou",
+        "195": "Je bevindt je boven Rusland en vliegt in de richting van Centraal-Azi\u00eb"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Je bevindt je boven Tunesi\u00eb en vliegt in de richting van Itali\u00eb",
+        "5": "Je bevindt je boven de Middellandse\u00a0Zee en kijkt in de richting van Sicili\u00eb en het Apennijns\u00a0Schiereiland",
+        "15": "Je bevindt je boven Zuid-Itali\u00eb met de Balkan in de verte",
+        "25": "Je bevindt je boven de Balkan en vliegt in de richting van Centraal-Azi\u00eb",
+        "40": "Je bevindt je boven de Balkan en passeert de Zwarte\u00a0Zee",
+        "55": "Je bevindt je boven Oekra\u00efne met Rusland in de verte",
+        "75": "Je bevindt je boven Zuidwest-Rusland en passeert Kazachstan"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "Je bevindt je boven Centraal-Azi\u00eb en vliegt in de richting van de kust van China",
+        "10": "Je bevindt je boven China en vliegt in de richting van Shanghai",
+        "30": "Je vliegt over Oost-China en nadert Shanghai",
+        "45": "Je nadert Shanghai en vliegt in de richting van de Oost-Chinese\u00a0Zee",
+        "50": "Je bevindt je boven Shanghai en vliegt in de richting van de Oost-Chinese\u00a0Zee"
+    },
+    "H004_C007": {
+        "0": "Je bevindt je boven het natuurreservaat Pu'u\u00a0O\u00a0'Umi op het eiland\u00a0Hawa\u00ef"
+    },
+    "H004_C009": {
+        "0": "Je bevindt je boven het natuurreservaat Pu'u\u00a0O\u00a0'Umi op het eiland\u00a0Hawa\u00ef"
+    },
+    "H005_C012": {
+        "0": "De Waimanu-vallei in het bosreservaat\u00a0Kohala op het eiland\u00a0Hawa\u00ef"
+    },
+    "H007_C003": {
+        "0": "Je vliegt over Laup\u0101hoehoe\u00a0Nui in het bosreservaat\u00a0Kohala op het eiland\u00a0Hawa\u00ef"
+    },
+    "H010_C006": {
+        "0": "Je nadert de Honop\u016b-vallei in het bosreservaat\u00a0Kohala op het eiland\u00a0Hawa\u00ef",
+        "300": "De Honop\u016b-vallei in het bosreservaat\u00a0Kohala op het eiland\u00a0Hawa\u00ef"
+    },
+    "H012_C009": {
+        "0": "Je volgt de kustlijn van Kohala op het eiland\u00a0Hawa\u00ef"
+    },
+    "HK_B005_C011": {
+        "0": "Je bevindt je boven Victoria\u00a0Harbour en vliegt in de richting van het centrum van Hongkong"
+    },
+    "HK_H004_C001": {
+        "0": "Je bevindt je boven Victoria\u00a0Harbour en vliegt in de richting van het centrum van Hongkong"
+    },
+    "HK_H004_C008": {
+        "0": "Je bevindt je boven Victoria\u00a0Harbour en kijkt in de richting van Hong\u00a0Kong\u00a0Island"
+    },
+    "HK_H004_C010": {
+        "0": "Je vliegt over Victoria\u00a0Peak in Hongkong",
+        "150": "Je vliegt over Hongkong in de richting van Victoria\u00a0Harbour",
+        "330": "Je bevindt je boven Victoria\u00a0Harbour en nadert het schiereiland\u00a0Kowloon"
+    },
+    "HK_H004_C013": {
+        "0": "Je bevindt je boven Wan\u00a0Chai en nadert het centrum van Hongkong",
+        "150": "Je bevindt je boven het centrum van Hongkong",
+        "270": "Je bevindt je boven Hong\u00a0Kong\u00a0Island"
+    },
+    "I001_C014": {
+        "0": "Je vliegt langs de J\u00f6kulgilskv\u00edsl bij Landmannalaugar, IJsland"
+    },
+    "I003_C004": {
+        "0": "Je vliegt over Langisj\u00f3r in IJsland"
+    },
+    "I003_C005": {
+        "0": "Je vliegt over Langisj\u00f3r en het F\u00f6grufj\u00f6ll-gebergte in IJsland"
+    },
+    "I003_C008": {
+        "0": "Je vliegt over Tungna\u00e1 in de hooglanden van IJsland"
+    },
+    "I003_C011": {
+        "0": "Je volgt de rivier de J\u00f6kulgilskv\u00edsl in Landmannalaugar, IJsland",
+        "308": "Je vliegt over de hooglanden van IJsland"
+    },
+    "I003_C015": {
+        "0": "Je vliegt door J\u00f6kulgil in Landmannalaugar, IJsland"
+    },
+    "I004_C014": {
+        "0": "Je vliegt over Landmannalaugar in IJsland"
+    },
+    "I005_C008": {
+        "0": "Je vliegt richting de M\u00fdrdalsj\u00f6kull-gletsjer in IJsland",
+        "150": "Je nadert de M\u00fdrdalsj\u00f6kull-gletsjer in IJsland",
+        "225": "De M\u00fdrdalsj\u00f6kull-gletsjer in IJsland",
+        "324": "Je vliegt over de M\u00fdrdalsj\u00f6kull-gletsjer in IJsland"
+    },
+    "L004_C011": {
+        "0": "Je nadert de Tower\u00a0Bridge over de rivier de Theems in Londen",
+        "20": "Je volgt de rivier de Theems in Londen",
+        "130": "Je volgt de rivier de Theems en nadert de London\u00a0Eye",
+        "210": "Je nadert de London\u00a0Eye aan de rivier de Theems",
+        "310": "Je volgt de rivier de Theems voorbij de London\u00a0Eye",
+        "325": "Je passeert de Houses of Parliament aan de rivier de Theems in Londen"
+    },
+    "L007_C007": {
+        "0": "Je vliegt over het terrein van Buckingham\u00a0Palace in Londen",
+        "24": "Je bevindt je boven Buckingham\u00a0Palace in Londen",
+        "49": "Je bevindt je boven St\u00a0James's Park en vliegt in de richting van de rivier de Theems in Londen",
+        "104": "Je steekt de rivier de Theems over en vliegt over de London\u00a0Eye",
+        "149": "Je vliegt over Zuid-Londen",
+        "279": "Je komt langs The\u00a0Shard in Zuid-Londen",
+        "299": "Je steekt de rivier de Theems over in Londen",
+        "324": "Je steekt de rivier de Theems over via de Tower\u00a0Bridge in Londen"
+    },
+    "L010_C006": {
+        "0": "Je nadert de Tower\u00a0Bridge over de rivier de Theems in Londen",
+        "78": "Je volgt de rivier de Theems in Londen",
+        "178": "Je bevindt je ten zuiden van de rivier de Theems in Londen",
+        "258": "Je steekt de rivier de Theems over in Londen"
+    },
+    "L012_C002": {
+        "0": "Je nadert de Tower\u00a0Bridge over de rivier de Theems in Londen",
+        "20": "Je steekt de rivier de Theems over in Londen",
+        "60": "Je komt langs The\u00a0Shard in Zuid-Londen",
+        "92": "Je bevindt je ten zuiden van de rivier de Theems en vliegt in de richting van de London\u00a0Eye",
+        "200": "Je steekt de rivier de Theems over in de richting van Westminster in Londen",
+        "270": "Je bevindt je boven Westminster in Londen"
+    },
+    "LA_A005_C009": {
+        "0": "Je volgt Interstate 110 in noordelijke richting door Los\u00a0Angeles"
+    },
+    "LA_A006_C004": {
+        "0": "Het Hollywood\u00a0Sign in Los\u00a0Angeles",
+        "250": "Je bevindt je boven de Hollywood\u00a0Hills en nadert Burbank in Californi\u00eb"
+    },
+    "LA_A006_C008": {
+        "0": "Je vliegt over de internationale luchthaven van Los\u00a0Angeles"
+    },
+    "LA_A008_C004": {
+        "0": "Je bevindt je boven Santa\u00a0Monica State Beach in de buurt van Los\u00a0Angeles",
+        "365": "Je vliegt over de Santa\u00a0Monica\u00a0Pier in de buurt van Los\u00a0Angeles",
+        "430": "Je bevindt je boven Santa\u00a0Monica State Beach in de buurt van Los\u00a0Angeles"
+    },
+    "LA_A009_C009": {
+        "0": "Het Griffith-observatorium en de Hollywood\u00a0Hills in Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Je passeert het centrum van Los\u00a0Angeles"
+    },
+    "LW_L001_C003": {
+        "0": "Je vliegt over Liwa-oase in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "LW_L001_C006": {
+        "0": "Je vliegt over Liwa-oase in de Verenigde\u00a0Arabische\u00a0Emiraten"
+    },
+    "N003_C006": {
+        "0": "Je bevindt je boven de Upper\u00a0East\u00a0Side en Central\u00a0Park in New\u00a0York",
+        "50": "Je bevindt je boven Midtown\u00a0Manhattan en vliegt in zuidelijke richting naar het Empire\u00a0State\u00a0Building",
+        "160": "Je nadert het Empire\u00a0State\u00a0Building in New\u00a0York",
+        "205": "Je passeert het Empire\u00a0State\u00a0Building en vliegt in de richting van Lower\u00a0Manhattan"
+    },
+    "N006_C003": {
+        "0": "Je nadert Lower\u00a0Manhattan in New\u00a0York",
+        "40": "Je bevindt je boven Lower\u00a0Manhattan in New\u00a0York",
+        "140": "Je bevindt je boven Lower\u00a0Manhattan in New\u00a0York en vliegt in de richting van Midtown"
+    },
+    "N008_C003": {
+        "0": "Je nadert Lower\u00a0Manhattan vanuit de richting van de haven van New\u00a0York",
+        "110": "Je bevindt je parallel aan Lower\u00a0Manhattan en nadert het One World\u00a0Trade\u00a0Center",
+        "180": "Je passeert het One\u00a0World\u00a0Trade\u00a0Center en vliegt in de richting van Midtown\u00a0Manhattan",
+        "210": "Je bevindt je boven Lower\u00a0Manhattan in New\u00a0York en vliegt in de richting van Midtown"
+    },
+    "N008_C009": {
+        "0": "Je bevindt je boven Central\u00a0Park en vliegt in de richting van Midtown\u00a0Manhattan in New\u00a0York",
+        "246": "Je bevindt je boven Midtown\u00a0Manhattan in New\u00a0York"
+    },
+    "N013_C004": {
+        "0": "Je vliegt in zuidelijke richting over 7th\u00a0Avenue in de richting van Times\u00a0Square in New\u00a0York",
+        "40": "Je bevindt je boven Times\u00a0Square in New\u00a0York",
+        "120": "Je vliegt in zuidelijke richting over 7th\u00a0Avenue in Midtown\u00a0Manhattan in New\u00a0York"
+    },
+    "P001_C005_11059D": {
+        "0": "Je vliegt langs Cuernos del Paine in het nationale\u00a0park Torres del Paine in Chili"
+    },
+    "P005_C002_1109E1": {
+        "0": "Je vliegt langs Lago\u00a0Nordenskj\u00f6ld in het nationale\u00a0park Torres del Paine in Chili"
+    },
+    "P006_C002_11106T": {
+        "0": "Boven Lago\u00a0Nordenskj\u00f6ld in het nationale\u00a0park Torres Del Paine in Chili"
+    },
+    "P007_C027": {
+        "0": "Je vliegt over het nationale\u00a0park Torres del Paine in Chili"
+    },
+    "S003_C020": {
+        "0": "Je vliegt langs de kust van het eiland Skye, Schotland",
+        "338": "De vuurtoren van Neist Point, het eiland Skye, Schotland",
+        "372": "Het eiland Skye, Schotland"
+    },
+    "S004_C019": {
+        "0": "Je vliegt over Cuillin Hills, het eiland Skye, Schotland"
+    },
+    "S005_C015": {
+        "0": "Boven Loch Moidart aan de westkust van Schotland",
+        "252": "Je nadert de Zee van de Hebriden, Schotland"
+    },
+    "S006_C007": {
+        "0": "Loch Moidart aan de westkust van Schotland",
+        "139": "Je nadert Castle Tioram aan de westkust van Schotland",
+        "181": "Castle Tioram aan de westkust van Schotland",
+        "214": "Je vliegt over de westkust van Schotland"
+    },
+    "S009_C007": {
+        "0": "Je vliegt over het eiland Skye, Schotland",
+        "135": "Old Man of Storr op het eiland Skye, Schotland",
+        "173": "Je vliegt over het eiland Skye, Schotland"
+    },
+    "TH_803_A001_8": {
+        "0": "Golven die breken op de kust van Tahiti"
+    },
+    "TH_804_A001_8": {
+        "0": "Golven die breken op de kust van Tahiti"
+    },
+    "U009_C004": {
+        "0": "Grijze rifhaaien die in de buurt van Frans-Polynesi\u00eb rondzwemmen"
+    },
+    "Y002_C013226": {
+        "0": "Boven Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y002_C013_0226": {
+        "70": "Je nadert Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "87": "Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "210": "Boven Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y003_C009": {
+        "0": "Boven Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "93": "Je vliegt richting Merced\u00a0Peak in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "130": "Merced\u00a0Peak in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "221": "Je passeert Merced\u00a0Peak in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "244": "Je vliegt over Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y004_C015227PD": {
+        "0": "Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Je passeert Half\u00a0Dome en nadert Nevada\u00a0Fall in Yosemite National\u00a0Park",
+        "146": "Half\u00a0Dome en Nevada\u00a0Fall in Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y005_C003228SC": {
+        "0": "Boven Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Je vliegt richting Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "60": "Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "155": "Boven Yosemite National\u00a0Park met Nevada\u00a0Fall in de verte",
+        "255": "Nevada en Illilouette\u00a0Falls in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "285": "Nevada, Vernal en Illilouette\u00a0Falls in Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y009_C015304I": {
+        "0": "Je vliegt over Tuolumne\u00a0Meadows in Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    },
+    "Y011_C001": {
+        "0": "Je vliegt richting Bridalveil\u00a0Fall en El\u00a0Capitan in Yosemite National\u00a0Park",
+        "44": "Je vliegt naar het oosten richting El\u00a0Capitan in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "87": "Je passeert El\u00a0Capitan in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "120": "Je vliegt naar het oosten richting Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "390": "Half\u00a0Dome in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "470": "Je vliegt langs Half\u00a0Dome in Yosemite\u00a0Valley in de Verenigde\u00a0Staten",
+        "585": "Je vliegt naar het oosten over Yosemite\u00a0Valley in de Verenigde\u00a0Staten"
+    },
+    "Y011_C008": {
+        "0": "Je vliegt richting Matthes\u00a0Crest in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "75": "Je vliegt over Matthes\u00a0Crest in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "124": "Je vliegt door Matthes\u00a0Crest in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "215": "Je vliegt over Matthes\u00a0Crest in Yosemite National\u00a0Park in de Verenigde\u00a0Staten",
+        "396": "Je vliegt richting Tuolumne\u00a0Meadows in Yosemite National\u00a0Park in de Verenigde\u00a0Staten"
+    }
+}

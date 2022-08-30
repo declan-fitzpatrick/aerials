@@ -1,0 +1,642 @@
+{
+    "A001_C001_120530": {
+        "0": "Kuzey\u00a0Atlantik\u00a0Okyanusu \u00fczerinde Portekiz\u2019e do\u011fru yol al\u0131n\u0131yor",
+        "115": "Portekiz ve \u0130spanya \u00fczerinde",
+        "150": "\u0130ber\u00a0Yar\u0131madas\u0131ndan uzakla\u015f\u0131p Biskay\u00a0K\u00f6rfezi ve Fransa \u00fczerinden ge\u00e7iliyor",
+        "180": "Bat\u0131\u00a0Avrupa \u00fczerinde ufukta Kuzey\u00a0Atlantik\u00a0Okyanusu"
+    },
+    "A001_C004_1207W5": {
+        "0": "Kanarya\u00a0Adalar\u0131, Atlantik\u00a0Okyanusu ve Afrika k\u0131y\u0131lar\u0131",
+        "45": "Fas k\u0131y\u0131lar\u0131ndan kuzeye do\u011fru gidiliyor",
+        "75": "Fas\u2019ta Atlas\u00a0Da\u011flar\u0131 \u00fczerinden ge\u00e7iliyor",
+        "105": "Fas \u00fczerinde Akdeniz\u2019e yakla\u015f\u0131l\u0131yor",
+        "125": "Akdeniz ve g\u00fcney \u0130spanya",
+        "145": "\u0130spanya, Costa\u00a0Blanca \u00fczerinde kuzeydo\u011fuya do\u011fru yolculuk",
+        "165": "\u0130spanya\u2019n\u0131n Balear\u00a0Adalar\u0131 \u00fczerinde kuzeydo\u011fuya do\u011fru yolculuk",
+        "185": "Bat\u0131 Akdeniz \u00fczerinde ufukta Alp da\u011flar\u0131",
+        "220": "Alp\u00a0Da\u011flar\u0131 \u00fczerinde kuzeydo\u011fuya do\u011fru gidiliyor"
+    },
+    "A001_C007": {
+        "0": "Palau sular\u0131nda Alt\u0131n Rengi\u00a0Denizanas\u0131",
+        "282": "Ortas\u0131nda Ay\u00a0Denizanas\u0131 olan Alt\u0131n\u00a0Denizanas\u0131",
+        "348": "Palau sular\u0131nda Alt\u0131n Rengi\u00a0Denizanas\u0131"
+    },
+    "A002_C009": {
+        "0": "Palau sular\u0131nda Alt\u0131n Rengi\u00a0Denizanas\u0131"
+    },
+    "A003_C014": {
+        "0": "Amerika Birle\u015fik Devletleri\u2019nde Alaska k\u0131y\u0131lar\u0131 yak\u0131n\u0131nda ay denizanas\u0131n\u0131n \u00fczerinde dola\u015f\u0131l\u0131yor"
+    },
+    "A004_C003": {
+        "0": "Palau yak\u0131nlar\u0131ndaki mercan resifi"
+    },
+    "A004_C012": {
+        "0": "Amerika Birle\u015fik Devletleri\u2019nde Alaska k\u0131y\u0131lar\u0131 yak\u0131n\u0131nda ay denizanas\u0131",
+        "100": "\u00d6nde Coit\u00a0Kulesi ile San\u00a0Francisco \u015fehir merkezi"
+    },
+    "A006_C003": {
+        "0": "San\u00a0Francisco K\u00f6rfezi ve Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc",
+        "140": "San\u00a0Francisco\u2019ya do\u011fru Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019n\u00fcn kuzey kulesi \u00fczerinde yol al\u0131n\u0131yor",
+        "191": "San\u00a0Francisco k\u00f6rfezi \u00fczerinde"
+    },
+    "A006_C008": {
+        "0": "Meksika k\u0131y\u0131lar\u0131 a\u00e7\u0131klar\u0131nda alt\u0131n renkli inek burunlu vatozlar"
+    },
+    "A007_C017": {
+        "0": "Fisherman\u2019s\u00a0Wharf \u00fczerinde San\u00a0Francisco \u015fehir merkezine do\u011fru yol al\u0131n\u0131yor",
+        "80": "Arka planda San\u00a0Francisco \u015fehir merkezi ve K\u00f6rfez\u00a0K\u00f6pr\u00fcs\u00fc ile Coit\u00a0Tower\u2019a yakla\u015f\u0131l\u0131yor",
+        "150": "San\u00a0Francisco \u015fehir merkezi ve K\u00f6rfez\u00a0K\u00f6pr\u00fcs\u00fc\u2019ne do\u011fru Coit\u00a0Kulesi\u2019nden ge\u00e7iliyor",
+        "196": "San Francisco \u015fehir merkezi"
+    },
+    "A008_C007": {
+        "0": "Marin\u00a0Headlands \u00fczerinde Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019ne do\u011fru bak\u0131l\u0131yor",
+        "150": "Presidio of San\u00a0Francisco y\u00f6n\u00fcne do\u011fru Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc \u00fczerinden ge\u00e7iliyor"
+    },
+    "A008_C010": {
+        "0": "M\u0131s\u0131r yak\u0131n\u0131nda K\u0131z\u0131ldeniz\u2019de mercan resifi"
+    },
+    "A009_C001_10181A": {
+        "0": "Bat\u0131\u00a0Afrika \u00fczerinde Sahra\u00a0\u00c7\u00f6l\u00fc\u2019ne do\u011fru yolculuk",
+        "30": "Kuzey Afrika\u2019da Sahra\u00a0\u00c7\u00f6l\u00fc \u00fczerinde yolculuk",
+        "110": "Kuzey Afrika\u2019da Sahra\u00a0\u00c7\u00f6l\u00fc\u2019ndeki Ahaggar Da\u011flar\u0131 \u00fczerinde yolculuk",
+        "155": "Kuzey\u00a0Afrika Sahra\u00a0\u00c7\u00f6l\u00fc \u00fczerinde Akdeniz\u2019e do\u011fru yol al\u0131n\u0131yor",
+        "195": "Tunus k\u0131y\u0131lar\u0131 ve Akdeniz",
+        "210": "Tunus k\u0131y\u0131lar\u0131 \u00fczerinde \u0130talya\u2019ya do\u011fru yolculuk",
+        "230": "Akdeniz\u2019den \u0130talya\u2019ya yakla\u015f\u0131l\u0131yor",
+        "245": "\u0130talya \u00fczerinde Balkan\u00a0Yar\u0131madas\u0131\u2019na do\u011fru yolculuk",
+        "285": "Balkan\u00a0Yar\u0131madas\u0131 \u00fczerinde Karpat\u00a0Da\u011flar\u0131\u2019na do\u011fru yol al\u0131n\u0131yor",
+        "310": "Karpatlar ve Karadeniz"
+    },
+    "A009_C007": {
+        "0": "Kosta Rika a\u00e7\u0131klar\u0131ndaki sularda d\u00f6n\u00fcc\u00fc yunuslar\u0131"
+    },
+    "A010_C002": {
+        "0": "G\u00fcney\u00a0Afrika'daki Cape\u00a0Yar\u0131madas\u0131 yak\u0131nlar\u0131nda bir yosun orman\u0131nda dola\u015f\u0131l\u0131yor"
+    },
+    "A010_C007": {
+        "0": "Palau sular\u0131nda Alt\u0131n Rengi\u00a0Denizanas\u0131"
+    },
+    "A012_C004": {
+        "0": "Marin\u00a0Headlands \u00fczerinde Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019ne do\u011fru bak\u0131l\u0131yor",
+        "150": "Presidio of San\u00a0Francisco y\u00f6n\u00fcne do\u011fru Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc \u00fczerinden ge\u00e7iliyor"
+    },
+    "A012_C014": {
+        "0": "San\u00a0Francisco K\u00f6rfezi \u00fczerinde Embarcadero\u2019ya do\u011fru gidiliyor",
+        "208": "San\u00a0Francisco \u00fczerinde Market\u00a0Street takip ediliyor"
+    },
+    "A012_C031": {
+        "0": "Borneo\u2019nun okyanus taban\u0131nda Boynuzlu Deniz\u00a0Y\u0131ld\u0131zlar\u0131"
+    },
+    "A013_C004": {
+        "0": "San\u00a0Francisco K\u00f6rfezi \u00fczerinde Embarcadero\u2019ya do\u011fru gidiliyor",
+        "90": "Embarcadero\u2019dan San\u00a0Francisco\u2019daki Market\u00a0Street\u2019e bak\u0131l\u0131yor",
+        "150": "San\u00a0Francisco \u015fehir merkezi \u00fczerinde Market\u00a0Street takip ediliyor",
+        "360": "San\u00a0Francisco \u00fczerinde Market\u00a0Street takip ediliyor"
+    },
+    "A013_C005": {
+        "0": "Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019ne do\u011fru Presidio of San\u00a0Francisco boyunca ilerleniyor",
+        "190": "Marin\u00a0Headlands y\u00f6n\u00fcne do\u011fru Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc ge\u00e7iliyor"
+    },
+    "A013_C012": {
+        "0": "San\u00a0Francisco\u2019dan Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019ne yakla\u015f\u0131l\u0131yor",
+        "60": "Marin\u00a0Headlands y\u00f6n\u00fcne do\u011fru Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc yak\u0131nlar\u0131",
+        "140": "Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc \u00fczerinden ge\u00e7iliyor",
+        "230": "Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc\u2019n\u00fcn Kuzey\u00a0Kulesi taraf\u0131ndan ge\u00e7iliyor",
+        "260": "San\u00a0Francisco K\u00f6rfezi \u00fczerinde Golden\u00a0Gate K\u00f6pr\u00fcs\u00fc yak\u0131nlar\u0131na gidiliyor"
+    },
+    "A014_C008": {
+        "0": "Borneo\u2019nun mercan resifleri \u00fczerinde K\u00fct\u00a0Kafal\u0131\u00a0Papa\u011fan\u00a0Bal\u0131klar\u0131"
+    },
+    "A014_C023": {
+        "0": "Borneo a\u00e7\u0131klar\u0131nda Bigeye\u00a0Jack s\u00fcr\u00fcs\u00fc"
+    },
+    "A015_C014": {
+        "0": "San\u00a0Francisco K\u00f6rfezi \u00fczerinde Embarcadero\u2019ya do\u011fru gidiliyor",
+        "210": "San\u00a0Francisco \u015fehir merkezi \u00fczerinde Market\u00a0Street takip ediliyor"
+    },
+    "A015_C018": {
+        "0": "K\u00f6rfez\u00a0K\u00f6pr\u00fcs\u00fc ve San\u00a0Francisco \u015fehir merkezine yakla\u015f\u0131l\u0131yor",
+        "80": "San\u00a0Francisco \u015fehir merkezine do\u011fru K\u00f6rfez\u00a0K\u00f6pr\u00fcs\u00fc \u00fczerinden ge\u00e7iliyor",
+        "116": "San\u00a0Francisco K\u00f6pr\u00fcs\u00fc \u00fczerinde \u015fehir merkezine do\u011fru gidiliyor"
+    },
+    "A016_C002": {
+        "0": "Amerika Birle\u015fik Devletleri\u2019nde Kaliforniya k\u0131y\u0131lar\u0131 a\u00e7\u0131klar\u0131nda bir yosun orman\u0131nda dola\u015f\u0131l\u0131yor"
+    },
+    "A016_C009": {
+        "0": "G\u00fcney\u00a0Afrika'daki Cape\u00a0Yar\u0131madas\u0131 a\u00e7\u0131klar\u0131nda G\u00fcney\u00a0Afrika\u00a0K\u00fcrkl\u00fc\u00a0Foklar\u0131"
+    },
+    "A018_C014": {
+        "0": "Uzakta g\u00f6r\u00fcnen Sutro\u00a0Tower ile San\u00a0Francisco \u015fehir merkezine yakla\u015f\u0131l\u0131yor",
+        "10": "San\u00a0Francisco \u015fehir merkezindeki Transamerica\u00a0Piramidi",
+        "40": "Uzakta g\u00f6r\u00fcnen Sutro\u00a0Tower ile San\u00a0Francisco \u015fehir merkezi"
+    },
+    "A018_C029": {
+        "0": "Borneo yak\u0131nlar\u0131ndaki sularda Chevron\u00a0Barracuda s\u00fcr\u00fcs\u00fc"
+    },
+    "A050_C004_1027V8": {
+        "0": "Uzakta B\u00fcy\u00fck\u00a0Britanya ve \u0130rlanda ile Bat\u0131\u00a0Avrupa \u00fczerinde seyahat ediliyor",
+        "20": "Alp\u00a0Da\u011flar\u0131 ve Po\u00a0Nehri\u00a0Ovas\u0131 \u00fczerinde kuzeydo\u011fuya do\u011fru ilerleniyor",
+        "50": "\u0130talyan\u00a0Yar\u0131madas\u0131\u2019n\u0131n ve Adriyatik\u00a0Denizi\u2019nin g\u00fcneyine do\u011fru ilerleniyor",
+        "100": "\u0130yonya\u00a0Denizi ve Ege\u00a0Denizi aras\u0131nda Yunanistan",
+        "160": "Akdeniz \u00fczerinde g\u00fcneydo\u011fuya do\u011fru yolculuk",
+        "185": "Akdeniz ve Nil\u00a0Nehri\u00a0Havzas\u0131",
+        "205": "M\u0131s\u0131r\u2019da Sahra\u00a0\u00c7\u00f6l\u00fc boyunca akan Nil\u00a0Nehri",
+        "220": "Nil\u00a0Nehri ve S\u00fcvey\u015f\u00a0Kanal\u0131 aras\u0131nda Do\u011fu\u00a0Sahra\u00a0\u00c7\u00f6l\u00fc",
+        "240": "K\u0131z\u0131l\u00a0Deniz \u00fczerinde g\u00fcneydo\u011fuya do\u011fru ilerleniyor"
+    },
+    "A083_C002_1130KZ": {
+        "0": "\u0130ran s\u0131n\u0131rlar\u0131nda g\u00fcne\u015fin yans\u0131mas\u0131",
+        "15": "\u0130ran \u00fczerinde g\u00fcnd\u00fczden geceye ge\u00e7iliyor",
+        "60": "Orta Asya \u00fczerinde g\u00fcnd\u00fczden geceye ge\u00e7iliyor"
+    },
+    "A103_C002205DG": {
+        "0": "Afrika\u00a0Boynuzu \u00fczerinde Aden\u00a0K\u00f6rfezi\u2019ne do\u011fru yolculuk"
+    },
+    "A103_C002_0205DG": {
+        "45": "G\u00fcneydo\u011fu Arap\u00a0Yar\u0131madas\u0131",
+        "115": "Umman\u00a0K\u00f6rfezi \u00fczerinde Mekran\u2019a yakla\u015f\u0131l\u0131yor",
+        "145": "\u0130ran\u2019\u0131n and Pakistan\u2019\u0131n Mekran\u00a0B\u00f6lgesi",
+        "160": "\u0130ran \u00fczerinde, Afganistan\u2019a ve Pakistan\u2019a do\u011fru ilerleniyor",
+        "180": "Afganistan ve Pakistan \u00fczerinde Karakurum\u00a0Da\u011flar\u0131\u2019na do\u011fru ilerleniyor",
+        "235": "Karakurum\u00a0Da\u011flar\u0131 \u00fczerinde \u00c7in\u2019in i\u00e7 b\u00f6lgelerine do\u011fru yolculuk",
+        "280": "\u00c7in\u2019in bat\u0131s\u0131ndaki Taklamakan\u00a0\u00c7\u00f6l\u00fc",
+        "315": "Orta\u00a0Asya\u2019da Tanr\u0131\u00a0Da\u011flar\u0131"
+    },
+    "A105_C0022120602": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde Orta\u00a0Amerika\u2019ya do\u011fru yolculuk"
+    },
+    "A105_C002_021206_002": {
+        "70": "Orta\u00a0Amerika\u2019n\u0131n g\u00fcneybat\u0131 k\u0131y\u0131lar\u0131nda Karayip\u00a0Denizi\u2019ne do\u011fru yol al\u0131n\u0131yor",
+        "100": "Karayip\u00a0Denizi\u2019ne do\u011fru Orta\u00a0Amerika \u00fczerinden ge\u00e7iliyor",
+        "150": "Karayip\u00a0Denizi \u00fczerinde K\u00fcba\u2019ya do\u011fru ilerleniyor",
+        "240": "K\u00fcba \u00fczerinde, arkada Florida ve Bahamalar",
+        "300": "Florida ve Bahamalar \u00fczerinde Sargasso\u00a0Denizi\u2019ne do\u011fru yolculuk",
+        "350": "Sargasso\u00a0Denizi \u00fczerinde Atlantik Okyanusu\u2019na do\u011fru yol al\u0131n\u0131yor"
+    },
+    "A105_C003212CT": {
+        "0": "G\u00fcney\u00a0Pasifik\u00a0Okyanusu \u00fczerinde geceden g\u00fcnd\u00fcze ge\u00e7iliyor"
+    },
+    "A105_C003_0212CT": {
+        "70": "Yeni\u00a0Zelanda \u00fczerinde geceden g\u00fcnd\u00fcze ge\u00e7iliyor",
+        "110": "Yeni\u00a0Zelanda \u00fczerinde g\u00fcne\u015fin do\u011fu\u015funa yakla\u015f\u0131l\u0131yor",
+        "170": "Pasifik\u00a0Okyanusu \u00fczerinde Yeni\u00a0Zelanda\u2019dan kuzeydo\u011fuya do\u011fru yol al\u0131n\u0131yor"
+    },
+    "A108_C001215V8": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde Orta\u00a0Amerika\u2019ya do\u011fru gidiliyor"
+    },
+    "A108_C001_0215V8": {
+        "35": "Nikaragua\u2019n\u0131n, Kosta\u00a0Rika\u2019n\u0131n ve Panama\u2019n\u0131n Pasifik k\u0131y\u0131lar\u0131",
+        "50": "G\u00fcney\u00a0Amerika ufuktayken Orta\u00a0Amerika \u00fczerinden ge\u00e7iliyor",
+        "65": "Nikaragua\u2019da Sivrisinek Sahili",
+        "85": "Karayip\u00a0Denizi \u00fczerinde K\u00fcba\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "110": "Karayip\u00a0Denizi\u2019nde bulutlarla kapl\u0131 Jamaika \u00fczerinden ge\u00e7iliyor",
+        "125": "K\u00fcba \u00fczerinden Haiti\u2019ye ve Dominik\u00a0Cumhuriyeti\u2019ne do\u011fru ilerleniyor",
+        "170": "Bahamalar \u00fczerinde Haiti\u2019ye ve Dominik\u00a0Cumhuriyeti\u2019ne do\u011fru yolculuk",
+        "190": "Atlantik\u00a0Okyanusu\u2019nda Turks ve Caicos Adalar\u0131"
+    },
+    "A114_C001305OT": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ne do\u011fru yol al\u0131n\u0131yor"
+    },
+    "A114_C001_0305OT": {
+        "20": "Kaliforniya k\u0131y\u0131lar\u0131ndan g\u00fcneye do\u011fru yolculuk",
+        "50": "G\u00fcney\u00a0Kaliforniya \u00fczerinde Meksika\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "65": "G\u00fcney Kaliforniya\u2019da ufukta Meksika, Mojave\u00a0\u00c7\u00f6l\u00fc\u2019ne yakla\u015f\u0131l\u0131yor",
+        "95": "Sonoran\u00a0\u00c7\u00f6l\u00fc ve G\u00fcney A\u015fa\u011f\u0131 Kaliforniya\u00a0Yar\u0131madas\u0131 aras\u0131nda Kaliforniya\u00a0K\u00f6rfez",
+        "130": "Meksika\u2019n\u0131n bat\u0131 k\u0131y\u0131lar\u0131nda Sierra\u00a0Madre Occidental da\u011flar\u0131",
+        "185": "Sierra\u00a0Madre Occidental da\u011flar\u0131 \u00fczerinde Meksika\u2019n\u0131n bat\u0131 k\u0131y\u0131lar\u0131na do\u011fru yolculuk",
+        "225": "Meksika\u2019daki Sierra\u00a0Madre del Sur \u00fczerinde g\u00fcneye, Pasifik\u00a0Okyanusu\u2019na bak\u0131l\u0131yor",
+        "280": "Meksika\u2019n\u0131n Pasifik\u00a0Okyanusu k\u0131y\u0131lar\u0131",
+        "290": "Meksika\u2019n\u0131n ve Guatemala\u2019n\u0131n Pasifik\u00a0Okyanusu k\u0131y\u0131lar\u0131"
+    },
+    "A351_C001_1213SK": {
+        "0": "Etiyopya Y\u00fckseltileri \u00fczerinde kuzeydo\u011fuya do\u011fru yolculuk",
+        "45": "K\u0131z\u0131l\u00a0Deniz \u00fczerinde Arap\u00a0Yar\u0131madas\u0131\u2019na do\u011fru gidiliyor",
+        "100": "Arap\u00a0Yar\u0131madas\u0131 \u00fczerinde kuzeydo\u011fuya do\u011fru gidiliyor",
+        "130": "Arap\u00a0Yar\u0131madas\u0131 \u00fczerinde \u0130ran\u2019a do\u011fru ilerleniyor",
+        "165": "Arap\u00a0Yar\u0131madas\u0131 \u00fczerinde \u0130ran\u2019a yakla\u015f\u0131l\u0131yor",
+        "190": "Ufukta Zagros\u00a0Da\u011flar\u0131 \u0130ran\u2019a do\u011fru yakla\u015f\u0131l\u0131yor",
+        "210": "\u0130ran\u2019da Zagros\u00a0Da\u011flar\u0131 \u00fczerinde",
+        "240": "\u0130ran\u2019da Lut\u00a0\u00c7\u00f6l\u00fc \u00fczerinde",
+        "265": "T\u00fcrkmenistan\u2019a ve Karakum\u00a0\u00c7\u00f6l\u00fc\u2019ne do\u011fru ilerleniyor",
+        "305": "Orta\u00a0Asya\u2019da Ceyhun\u00a0Nehri ve Pamir-Altay\u00a0Da\u011flar\u0131",
+        "322": "Orta\u00a0Asya\u2019da Pamir-Altay Da\u011flar\u0131 ve Fergana\u00a0Vadisi",
+        "360": "K\u0131rg\u0131zistan\u2019dan g\u00fcneydo\u011fu Kazakistan\u2019a do\u011fru ilerleniyor",
+        "400": "Kazakistan \u00fczerinde kuzeye do\u011fru yolculuk",
+        "450": "Altay\u00a0Da\u011flar\u0131 \u00fczerinde Mo\u011folistan\u2019a do\u011fru ilerleniyor"
+    },
+    "B002_C011": {
+        "0": "Amerika Birle\u015fik Devletleri\u2019nde Kaliforniya k\u0131y\u0131lar\u0131 a\u00e7\u0131klar\u0131nda yunuslar"
+    },
+    "C001_C005": {
+        "0": "\u00c7in\u00a0Seddi\u2019nin Mutianyu b\u00f6l\u00fcm\u00fc, Huairou\u00a0Semti, \u00c7in"
+    },
+    "C003_C003": {
+        "0": "\u00c7in\u00a0Seddi\u2019nin Mutianyu b\u00f6l\u00fcm\u00fc, Huairou\u00a0Semti, \u00c7in"
+    },
+    "C004_C003": {
+        "0": "\u00c7in\u00a0Seddi\u2019nin Mutianyu b\u00f6l\u00fcm\u00fc, Huairou\u00a0Semti, \u00c7in"
+    },
+    "CH_C002_C005": {
+        "0": "Guangksi\u00a0B\u00f6lgesi, \u00c7in\u2019deki Longji pirin\u00e7 tarlalar\u0131ndan ge\u00e7iliyor"
+    },
+    "CH_C007_C004": {
+        "0": "\u00c7in\u2019de Wulingyuan Ulusal\u00a0Park\u0131\u2019nda dola\u015f\u0131l\u0131yor"
+    },
+    "CH_C007_C011": {
+        "0": "\u00c7in\u2019de Wulingyuan Ulusal\u00a0Park\u0131 boyunca ilerleniyor"
+    },
+    "D004_L014": {
+        "0": "Frans\u0131z Polinezyas\u0131\u2019n\u0131n a\u00e7\u0131klar\u0131nda kambur balinalar"
+    },
+    "DB_D001_C001": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai\u00a0Marina \u00fczerinde u\u00e7uluyor"
+    },
+    "DB_D001_C005": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai\u00a0Marina boyunca u\u00e7uluyor"
+    },
+    "DB_D002_C003": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai \u015fehir merkezine yakla\u015f\u0131l\u0131yor",
+        "210": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai \u015fehir merkezine do\u011fru yol al\u0131n\u0131yor"
+    },
+    "DB_D008_C010": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai\u2019deki \u015eeyh\u00a0Zayed Yolu boyunca ilerleniyor"
+    },
+    "DB_D011_C010": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai \u015fehir merkezi Burj\u00a0Khalifa\u2019ya yakla\u015f\u0131l\u0131yor",
+        "280": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Dubai \u015fehir merkezi Burj\u00a0Khalifa \u00fczerinden ge\u00e7iliyor",
+        "330": "Dubai \u015fehir merkezi \u00fczerinde sahil \u015feridine yakla\u015f\u0131l\u0131yor"
+    },
+    "G007_C004": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki B\u00fcy\u00fck\u00a0Kanyon\u2019dan ge\u00e7en Kolorado Nehri takip ediliyor"
+    },
+    "G008_C015106MB": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki B\u00fcy\u00fck\u00a0Kanyon\u2019un Burnt Kanyonu b\u00f6lgesi \u00fczerinde u\u00e7uluyor"
+    },
+    "G009_C00310678": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki B\u00fcy\u00fck\u00a0Kanyon \u00fczerinde seyahat ediliyor"
+    },
+    "G009_C014106B9": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki B\u00fcy\u00fck\u00a0Kanyon boyunca ilerleniyor"
+    },
+    "G010_C026107KE": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki B\u00fcy\u00fck\u00a0Kanyon\u2019dan ge\u00e7en Kolorado Nehri boyunca ilerleniyor"
+    },
+    "GL_G002_C002": {
+        "0": "Gr\u00f6nland a\u00e7\u0131klar\u0131nda Ilulissat\u00a0Buz\u00a0Fiyordu"
+    },
+    "GL_G004_C010": {
+        "0": "Gr\u00f6nland\u2019daki Nuussuaq\u00a0Yar\u0131madas\u0131 boyunca ilerleniyor"
+    },
+    "GL_G010_C006": {
+        "0": "Gr\u00f6nland a\u00e7\u0131klar\u0131nda Ilulissat\u00a0Buz\u00a0Fiyordu"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Sibirya ve Mo\u011folistan \u00fczerinde g\u00fcneydo\u011fuya do\u011fru gidiliyor",
+        "22": "Mo\u011folistan\u2019\u0131n i\u00e7 b\u00f6lgelerine do\u011fru ilerleniyor",
+        "32": "Mo\u011folistan \u00fczerinde \u00c7in\u2019e do\u011fru yolculuk",
+        "60": "Kuzey \u00c7in \u00fczerinde Kore\u00a0Yar\u0131madas\u0131\u2019na do\u011fru ilerleniyor",
+        "110": "Kore\u00a0Yar\u0131madas\u0131 \u00fczerinde \u00c7in\u2019e do\u011fru yolculuk",
+        "150": "Kore\u00a0Yar\u0131madas\u0131 \u00fczerinde, ufukta Japonya",
+        "180": "G\u00fcney Kore \u00fczerinde Japonya\u2019ya do\u011fru yolculuk",
+        "195": "Japonya \u00fczerinde Pasifik\u00a0Okyanusu\u2019na do\u011fru bak\u0131l\u0131yor",
+        "260": "Japonya\u2019n\u0131n g\u00fcney do\u011fusunda Pasifik\u00a0Okyanusu \u00fczerinde"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Hint\u00a0Okyanusu \u00fczerinde Perth, Avustralya\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "50": "Avustralya\u2019n\u0131n bat\u0131s\u0131 boyunca kuzeydo\u011fuya do\u011fru yolculuk",
+        "170": "Bat\u0131\u00a0Avustralya \u00fczerinde Kuzey\u00a0Topraklar\u0131\u2019na yakla\u015f\u0131l\u0131yor",
+        "220": "Avustralya\u2019n\u0131n Kuzey\u00a0Topraklar\u0131 \u00fczerinde Yeni\u00a0Gine\u2019ye do\u011fru ilerleniyor",
+        "335": "Arafura\u00a0Denizi \u00fczerinde Yeni\u00a0Gine\u2019ye do\u011fru yolculuk"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Antarktika \u00fczerinde G\u00fcney\u00a0I\u015f\u0131klar\u0131"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde Kaliforniya k\u0131y\u0131lar\u0131na do\u011fru yolculuk",
+        "70": "Kaliforniya k\u0131y\u0131lar\u0131 \u00fczerinde i\u00e7 b\u00f6lgelere do\u011fru yolculuk",
+        "85": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin bat\u0131 k\u0131y\u0131lar\u0131nda Los\u00a0Angeles \u00fczerinden ge\u00e7iliyor",
+        "95": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Los\u00a0Angeles \u00fczerinde Las\u00a0Vegas\u2019a yakla\u015f\u0131l\u0131yor",
+        "110": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Las\u00a0Vegas \u00fczerinde Salt\u00a0Lake\u00a0City\u2019ye do\u011fru yol al\u0131n\u0131yor",
+        "120": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin bat\u0131s\u0131 \u00fczerinde Salt\u00a0Lake\u00a0City\u2019ye yakla\u015f\u0131l\u0131yor",
+        "155": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Salt\u00a0Lake\u00a0City ve Denver aras\u0131ndan ge\u00e7iliyor",
+        "170": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde, Rocky\u00a0Da\u011flar\u0131 \u00fczerinde"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde Meksika\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "105": "Meksika\u00a0K\u00f6rfezi taraf\u0131ndan Meksiko \u00fczerinden ge\u00e7iliyor",
+        "122": "Meksika\u00a0K\u00f6rfezi \u00fczerinde Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ne do\u011fru gidiliyor",
+        "180": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Houston ge\u00e7ilip New\u00a0Orleans\u2019a yakla\u015f\u0131l\u0131yor",
+        "190": "Meksika\u00a0K\u00f6rfezi \u00fczerinde New\u00a0Orleans\u2019a do\u011fru yol al\u0131n\u0131yor",
+        "215": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin g\u00fcneydo\u011fusu \u00fczerinde ilerleniyor",
+        "280": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin do\u011fusu \u00fczerinde New York\u2019a do\u011fru yolculuk",
+        "320": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin do\u011fusu \u00fczerinde New\u00a0York\u00a0City\u2019ye yakla\u015f\u0131l\u0131yor"
+    },
+    "GMT308_139K_142NC": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde B\u00fcy\u00fck\u00a0Ovalar\u2019a do\u011fru ilerleniyor",
+        "90": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin Ortabat\u0131 eyaletleri \u00fczerinde g\u00fcneydo\u011fuya do\u011fru ilerleniyor",
+        "120": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin g\u00fcneydo\u011fusu \u00fczerinde Florida\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "220": "Florida \u00fczerinde Bahamalar\u2019a do\u011fru yolculuk",
+        "240": "Bahamalar \u00fczerinde g\u00fcneydo\u011fuya do\u011fru ilerleniyor",
+        "285": "Bahamalar \u00fczerinde Dominik\u00a0Cumhuriyeti\u2019ne ve Haiti\u2019ye yakla\u015f\u0131l\u0131yor",
+        "300": "Dominik\u00a0Cumhuriyeti ve Haiti \u00fczerinde Karayip\u00a0Denizi\u2019ne yakla\u015f\u0131l\u0131yor",
+        "315": "Karayip\u00a0Denizi \u00fczerinde Venezuela\u2019ya do\u011fru yol al\u0131n\u0131yor"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Gece Sahra\u00a0\u00c7\u00f6l\u00fc \u00fczerinde kuzeydo\u011fuya do\u011fru yolculuk",
+        "70": "Sahra\u00a0\u00c7\u00f6l\u00fc \u00fczerinde Akdeniz\u2019e do\u011fru yol al\u0131n\u0131yor",
+        "100": "Tunus\u2019un ve Libya\u2019n\u0131n Akdeniz k\u0131y\u0131lar\u0131",
+        "120": "Akdeniz \u00fczerinde \u0130talya\u2019ya do\u011fru gidiliyor",
+        "140": "G\u00fcney\u00a0\u0130talya \u00fczerinde uzakta g\u00f6r\u00fcnen T\u00fcrkiye\u2019ye do\u011fru Balkan\u00a0Yar\u0131madas\u0131\u2019na yakla\u015f\u0131l\u0131yor",
+        "165": "Balkan\u00a0Yar\u0131madas\u0131 \u00fczerinde Karadeniz\u2019e do\u011fru ilerleniyor",
+        "180": "Balkan\u00a0Yar\u0131madas\u0131 \u00fczerinde Karadeniz\u2019e yakla\u015f\u0131l\u0131yor",
+        "210": "Karadeniz \u00fczerinde Ukrayna\u2019ya do\u011fru gidiliyor",
+        "230": "Ukrayna \u00fczerinde Rusya\u2019ya do\u011fru gidiliyor"
+    },
+    "GMT314_139M_170NC": {
+        "0": "Pasifik\u00a0Okyanusu \u00fczerinde G\u00fcney\u00a0A\u015fa\u011f\u0131\u00a0Kaliforniya\u2019ya do\u011fru yolculuk",
+        "45": "G\u00fcney\u00a0A\u015fa\u011f\u0131\u00a0Kaliforniya \u00fczerinde kuzeye, Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ne do\u011fru bak\u0131l\u0131yor",
+        "55": "Meksika \u00fczerinde Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin g\u00fcneybat\u0131s\u0131na do\u011fru yol al\u0131n\u0131yor",
+        "75": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nin g\u00fcneybat\u0131s\u0131 \u00fczerinde",
+        "110": "Rocky\u00a0Da\u011flar\u0131 \u00fczerinde Denver\u2019a yakla\u015f\u0131l\u0131yor",
+        "125": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde B\u00fcy\u00fck\u00a0Ovalar \u00fczerinde yolculuk",
+        "185": "Ufukta Ontario, Kanada, B\u00fcy\u00fck\u00a0G\u00f6ller\u2019e do\u011fru yakla\u015f\u0131l\u0131yor",
+        "200": "B\u00fcy\u00fck\u00a0G\u00f6ller \u00fczerinde Ontario, Kanada\u2019ya yakla\u015f\u0131l\u0131yor",
+        "210": "Bat\u0131 Ontario, Kanada \u00fczerinde Kuzey\u00a0I\u015f\u0131klar\u0131",
+        "235": "Kuzey Ontario, Kanada \u00fczerinde Kuzey\u00a0I\u015f\u0131klar\u0131",
+        "250": "Quebec, Kanada \u00fczerinde Kuzey\u00a0I\u015f\u0131klar\u0131",
+        "300": "Labrador, Kanada \u00fczerinde Kuzey\u00a0I\u015f\u0131klar\u0131\u2019n\u0131n g\u00f6r\u00fcnd\u00fc\u011f\u00fc Kuzey\u00a0Atlantik\u2019e do\u011fru yol al\u0131n\u0131yor"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Kuzey\u00a0Atlantik \u00fczerinde \u0130rlanda\u2019ya ve B\u00fcy\u00fck\u00a0Britanya\u2019ya yakla\u015f\u0131l\u0131yor",
+        "15": "\u0130rlanda ve B\u00fcy\u00fck Britanya",
+        "45": "B\u00fcy\u00fck\u00a0Britanya \u00fczerinde Avrupa\u2019ya do\u011fru yolculuk",
+        "65": "Kuzeybat\u0131\u00a0Avrupa \u00fczerinde Rusya\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "105": "Orta\u00a0Avrupa \u00fczerinde Rusya\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "150": "Do\u011fu\u00a0Avrupa \u00fczerinde, ufukta Moskova",
+        "165": "Do\u011fu\u00a0Avrupa \u00fczerinde Moskova\u2019ya do\u011fru bak\u0131l\u0131yor",
+        "185": "Rusya\u2019n\u0131n bat\u0131s\u0131nda Moskova \u00fczerinden ge\u00e7iliyor",
+        "195": "Rusya \u00fczerinde orta Asya\u2019ya do\u011fru yolculuk"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Tunus \u00fczerinde \u0130talya\u2019ya do\u011fru yol al\u0131n\u0131yor",
+        "5": "Akdeniz \u00fczerinde uzakta Sicilya ve \u0130talya\u00a0Yar\u0131madas\u0131 g\u00f6r\u00fcn\u00fcyor",
+        "15": "G\u00fcney\u00a0\u0130talya \u00fczerinde, arkada Balkan\u00a0Yar\u0131madas\u0131",
+        "25": "Balkan\u00a0Yar\u0131madas\u0131 \u00fczerinde Orta\u00a0Asya\u2019ya do\u011fru ilerleniyor",
+        "40": "Balkan\u00a0Yar\u0131madas\u0131 \u00fczerinde Karadeniz ge\u00e7iliyor",
+        "55": "Ukrayna \u00fczerinde, arkada Rusya",
+        "75": "Rusya\u2019n\u0131n g\u00fcneybat\u0131s\u0131nda Kazakistan \u00fczerinden ge\u00e7iliyor"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "Orta\u00a0Asya \u00fczerinde \u00c7in sahillerine do\u011fru yolculuk",
+        "10": "\u00c7in \u00fczerinde \u015eangay\u2019a do\u011fru yolculuk",
+        "30": "Do\u011fu\u00a0\u00c7in yolunda \u015eangay\u2019a do\u011fru yol al\u0131n\u0131yor",
+        "45": "Do\u011fu\u00a0\u00c7in\u00a0Denizi yolunda \u015eangay\u2019a yakla\u015f\u0131l\u0131yor",
+        "50": "\u015eangay \u00fczerinden Do\u011fu\u00a0\u00c7in\u00a0Denizi\u2019ne do\u011fru gidiliyor"
+    },
+    "H004_C007": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Pu\u2019u\u00a0O\u00a0\u2019Umi Natural Area Reserve \u00fczerinde"
+    },
+    "H004_C009": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Pu\u2019u\u00a0O\u00a0\u2019Umi Natural Area Reserve \u00fczerinde"
+    },
+    "H005_C012": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Kohala\u00a0Forest Reserve\u2019de Waimanu\u00a0Valley"
+    },
+    "H007_C003": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Kohala\u00a0Forest Reserve\u2019de Laup\u0101hoehoe\u00a0Nui \u00fczerinde u\u00e7uluyor"
+    },
+    "H010_C006": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Kohala\u00a0Forest Reserve\u2019de Honop\u016b\u00a0Valley\u2019e yakla\u015f\u0131l\u0131yor",
+        "300": "Hawaii\u00a0adas\u0131ndaki Kohala\u00a0Forest Reserve\u2019de Honop\u016b\u00a0Valley"
+    },
+    "H012_C009": {
+        "0": "Hawaii\u00a0adas\u0131ndaki Kohala sahil \u015feridi takip ediliyor"
+    },
+    "HK_B005_C011": {
+        "0": "Victoria\u00a0Liman\u0131 \u00fczerinde Hong\u00a0Kong \u015fehir merkezine do\u011fru gidiliyor"
+    },
+    "HK_H004_C001": {
+        "0": "Victoria\u00a0Liman\u0131 \u00fczerinde Hong\u00a0Kong \u015fehir merkezine do\u011fru gidiliyor"
+    },
+    "HK_H004_C008": {
+        "0": "Victoria\u00a0Liman\u0131 \u00fczerinde, kar\u015f\u0131da Hong\u00a0Kong Adas\u0131"
+    },
+    "HK_H004_C010": {
+        "0": "Hong\u00a0Kong\u2019daki Victoria\u00a0Zirvesi \u00fczerinde u\u00e7uluyor",
+        "150": "Victoria\u00a0Liman\u0131\u2019na do\u011fru Hong\u00a0Kong \u00fczerinde u\u00e7uluyor",
+        "330": "Victoria\u00a0Liman\u0131 \u00fczerinde Kowloon\u00a0Yar\u0131madas\u0131\u2019na yakla\u015f\u0131l\u0131yor"
+    },
+    "HK_H004_C013": {
+        "0": "Wan Chai \u00fczerinde Hong\u00a0Kong\u00a0\u015fehir\u00a0merkezine yakla\u015f\u0131l\u0131yor",
+        "150": "Hong\u00a0Kong \u015fehir merkezi \u00fczerinde",
+        "270": "Hong\u00a0Kong Adas\u0131 \u00fczerinde"
+    },
+    "I001_C014": {
+        "0": "\u0130zlanda\u2019da Landmannalaugar yak\u0131n\u0131nda J\u00f6kulgilskv\u00edsl boyunca ilerleniyor"
+    },
+    "I003_C004": {
+        "0": "\u0130zlanda\u2019da Langisj\u00f3r \u00fczerinde u\u00e7uluyor"
+    },
+    "I003_C005": {
+        "0": "\u0130zlanda\u2019da Langisj\u00f3r ve F\u00f6grufj\u00f6ll s\u0131rada\u011flar\u0131 \u00fczerinde u\u00e7uluyor"
+    },
+    "I003_C008": {
+        "0": "\u0130zlanda yaylalar\u0131nda Tungna\u00e1 \u00fczerinde seyahat ediliyor"
+    },
+    "I003_C011": {
+        "0": "Landmannalaugar, \u0130zlanda\u2019da J\u00f6kulgilskv\u00edsl nehri takip ediliyor",
+        "308": "\u0130zlanda yaylalar\u0131 \u00fczerinde seyahat ediliyor"
+    },
+    "I003_C015": {
+        "0": "Landmannalaugar, \u0130zlanda\u2019da J\u00f6kulgil boyunca ilerleniyor"
+    },
+    "I004_C014": {
+        "0": "\u0130zlanda\u2019da Landmannalaugar \u00fczerinde seyahat ediliyor"
+    },
+    "I005_C008": {
+        "0": "\u0130zlanda\u2019da M\u00fdrdalsj\u00f6kull buzuluna do\u011fru hareket ediliyor",
+        "150": "\u0130zlanda\u2019da M\u00fdrdalsj\u00f6kull buzuluna yakla\u015f\u0131l\u0131yor",
+        "225": "\u0130zlanda\u2019da M\u00fdrdalsj\u00f6kull buzulu",
+        "324": "\u0130zlanda\u2019da M\u00fdrdalsj\u00f6kull buzulu \u00fczerinde seyahat ediliyor"
+    },
+    "L004_C011": {
+        "0": "Londra\u2019da Thames\u00a0Nehri \u00fczerindeki Tower\u00a0Bridge\u2019e yakla\u015f\u0131l\u0131yor",
+        "20": "Londra\u2019daki Thames\u00a0Nehri takip edilirken",
+        "130": "London\u00a0Eye\u2019a do\u011fru Thames\u00a0Nehri takip ediliyor",
+        "210": "Thames\u00a0Nehri \u00fczerindeki London\u00a0Eye\u2019a yakla\u015f\u0131l\u0131yor",
+        "310": "London\u00a0Eye ge\u00e7ilerek Thames\u00a0Nehri takip ediliyor",
+        "325": "Londra\u2019daki Thames\u00a0Nehri \u00fczerinde Parlamento Binas\u0131 \u00fczerinde ge\u00e7iliyor"
+    },
+    "L007_C007": {
+        "0": "Londra\u2019daki Buckingham\u00a0Saray\u0131 \u00fczerinden ge\u00e7iliyor",
+        "24": "Londra\u2019daki Buckingham\u00a0Saray\u0131 \u00fczerinde",
+        "49": "St James\u2019s\u00a0Park \u00fczerinde Thames\u00a0Nehri, Londra\u2019ya do\u011fru\u00a0gidiliyor",
+        "104": "Thames\u00a0Nehri ve\u00a0London\u00a0Eye \u00fczerinden ge\u00e7iliyor",
+        "149": "G\u00fcney\u00a0Londra \u00fczerinden ge\u00e7iliyor",
+        "279": "G\u00fcney\u00a0Londra\u2019da The\u00a0Shard \u00fczerinden ge\u00e7iliyor",
+        "299": "Londra\u2019daki Thames\u00a0Nehri \u00fczerinden ge\u00e7iliyor",
+        "324": "Londra\u2019da Tower\u00a0Bridge\u2019den\u00a0Thames\u00a0Nehri\u00a0\u00fczerinden ge\u00e7iliyor"
+    },
+    "L010_C006": {
+        "0": "Londra\u2019da Thames\u00a0Nehri \u00fczerindeki Tower\u00a0Bridge\u2019e yakla\u015f\u0131l\u0131yor",
+        "78": "Londra\u2019daki Thames\u00a0Nehri takip edilirken",
+        "178": "Londra\u2019daki Thames\u00a0Nehri\u2019nin g\u00fcneyi",
+        "258": "Londra\u2019daki Thames\u00a0Nehri \u00fczerinden ge\u00e7iliyor"
+    },
+    "L012_C002": {
+        "0": "Londra\u2019da Thames\u00a0Nehri \u00fczerindeki Tower\u00a0Bridge\u2019e yakla\u015f\u0131l\u0131yor",
+        "20": "Londra\u2019daki Thames\u00a0Nehri \u00fczerinden ge\u00e7iliyor",
+        "60": "G\u00fcney\u00a0Londra\u2019da The\u00a0Shard \u00fczerinden ge\u00e7iliyor",
+        "92": "Thames\u00a0Nehri\u2019nin g\u00fcneyinden London\u00a0Eye\u2019a do\u011fru gidiliyor",
+        "200": "Westminster, Londra y\u00f6n\u00fcne\u00a0do\u011fru Thames\u00a0Nehri \u00fczerinden ge\u00e7iliyor",
+        "270": "Westminster, Londra \u00fczerinde"
+    },
+    "LA_A005_C009": {
+        "0": "Los\u00a0Angeles \u00fczerinde Interstate 110 north takip ediliyor"
+    },
+    "LA_A006_C004": {
+        "0": "Los\u00a0Angeles\u2019taki Hollywood Yaz\u0131s\u0131",
+        "250": "Hollywood\u00a0Hills \u00fczerinde Burbank, Kaliforniya\u2019ya yakla\u015f\u0131l\u0131yor"
+    },
+    "LA_A006_C008": {
+        "0": "Los\u00a0Angeles Uluslararas\u0131\u00a0Havaliman\u0131 \u00fczerinde u\u00e7uluyor"
+    },
+    "LA_A008_C004": {
+        "0": "Los\u00a0Angeles yak\u0131nlar\u0131ndaki Santa\u00a0Monica State Beach \u00fczerinde",
+        "365": "Los\u00a0Angeles yak\u0131nlar\u0131nda Santa\u00a0Monica \u0130skelesi \u00fczerinden ge\u00e7iliyor",
+        "430": "Los\u00a0Angeles yak\u0131nlar\u0131ndaki Santa\u00a0Monica State Beach \u00fczerinde"
+    },
+    "LA_A009_C009": {
+        "0": "Los\u00a0Angeles\u2019taki Griffith\u00a0Rasathanesi ve Hollywood\u00a0Hills"
+    },
+    "LA_A011_C003": {
+        "0": "Los\u00a0Angeles \u015fehir merkezinden ge\u00e7iliyor"
+    },
+    "LW_L001_C003": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Liva\u00a0Vahas\u0131 \u00fczerinde u\u00e7uluyor"
+    },
+    "LW_L001_C006": {
+        "0": "Birle\u015fik\u00a0Arap\u00a0Emirlikleri\u2019nde Liva\u00a0Vahas\u0131 \u00fczerinde u\u00e7uluyor"
+    },
+    "N003_C006": {
+        "0": "New\u00a0York\u2019ta Upper\u00a0East\u00a0Side ve Central\u00a0Park \u00fczerinde",
+        "50": "Midtown\u00a0Manhattan \u00fczerinde Empire\u00a0State Binas\u0131\u2019na do\u011fru \u015fehir merkezine gidiliyor",
+        "160": "New\u00a0York\u2019taki Empire\u00a0State Binas\u0131\u2019na yakla\u015f\u0131l\u0131yor",
+        "205": "Empire\u00a0State Binas\u0131 ge\u00e7ilerek A\u015fa\u011f\u0131\u00a0Manhattan\u2019a do\u011fru gidiliyor"
+    },
+    "N006_C003": {
+        "0": "New\u00a0York\u2019ta A\u015fa\u011f\u0131\u00a0Manhattan\u2019a yakla\u015f\u0131rken",
+        "40": "New\u00a0York'ta A\u015fa\u011f\u0131\u00a0Manhattan \u00fczerinde",
+        "140": "New\u00a0York\u2019ta A\u015fa\u011f\u0131\u00a0Manhattan \u00fczerinden Midtown\u2019a do\u011fru gidiliyor"
+    },
+    "N008_C003": {
+        "0": "New\u00a0York Liman\u0131\u2019ndan A\u015fa\u011f\u0131\u00a0Manhattan\u2019a yakla\u015f\u0131l\u0131yor",
+        "110": "A\u015fa\u011f\u0131\u00a0Manhattan yak\u0131nlar\u0131ndan \u00d6zg\u00fcrl\u00fck Kulesi\u2019ne yakla\u015f\u0131l\u0131yor",
+        "180": "Midtown\u00a0Manhattan\u2019a do\u011fru One World\u00a0Trade\u00a0Center\u2019dan ge\u00e7iliyor",
+        "210": "New\u00a0York\u2019ta A\u015fa\u011f\u0131\u00a0Manhattan \u00fczerinden Midtown\u2019a do\u011fru gidiliyor"
+    },
+    "N008_C009": {
+        "0": "Central\u00a0Park \u00fczerinde New\u00a0York\u2019taki Midtown\u00a0Manhattan\u2019a do\u011fru yolculuk",
+        "246": "New\u00a0York\u2019ta Midtown\u00a0Manhattan \u00fczerinde"
+    },
+    "N013_C004": {
+        "0": "Times\u00a0Meydan\u0131, New\u00a0York\u2019a do\u011fru 7.\u00a0Cadde\u2019ye do\u011fru gidiliyor",
+        "40": "New\u00a0York\u2019ta A\u015fa\u011f\u0131\u00a0Manhattan \u00fczerinde",
+        "120": "Midtown\u00a0Manhattan, New\u00a0York\u2019ta 7.\u00a0Cadde\u2019ye do\u011fru gidiliyor"
+    },
+    "P001_C005_11059D": {
+        "0": "\u015eili\u2019de Torres del Paine Ulusal\u00a0Park\u0131\u2019ndaki Cuernos del Paine boyunca ilerleniyor"
+    },
+    "P005_C002_1109E1": {
+        "0": "\u015eili\u2019de Torres del Paine Ulusal\u00a0Park\u0131\u2019ndaki Lago\u00a0Nordenskj\u00f6ld boyunca ilerleniyor"
+    },
+    "P006_C002_11106T": {
+        "0": "\u015eili\u2019de Torres del Paine Ulusal\u00a0Park\u0131\u2019ndaki Lago\u00a0Nordenskj\u00f6ld \u00fczerinde"
+    },
+    "P007_C027": {
+        "0": "\u015eili\u2019deki Torres del Paine Ulusal\u00a0Park\u0131 \u00fczerinde seyahat ediliyor"
+    },
+    "S003_C020": {
+        "0": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131\u2019n\u0131n sahili boyunca ilerleniyor",
+        "338": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131\u2019nda Neist Point Deniz Feneri",
+        "372": "Skye Adas\u0131, \u0130sko\u00e7ya"
+    },
+    "S004_C019": {
+        "0": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131\u2019nda Cuillin Tepeleri \u00fczerinde seyahat ediliyor"
+    },
+    "S005_C015": {
+        "0": "\u0130sko\u00e7ya\u2019n\u0131n bat\u0131 sahilinde Loch Moidart \u00fczerinde",
+        "252": "\u0130sko\u00e7ya\u2019da Hebrides Denizi\u2019ne yakla\u015f\u0131l\u0131yor"
+    },
+    "S006_C007": {
+        "0": "\u0130sko\u00e7ya\u2019n\u0131n bat\u0131 sahilinde Loch Moidart",
+        "139": "\u0130sko\u00e7ya\u2019n\u0131n bat\u0131 sahilinde Tioram Kalesi\u2019ne yakla\u015f\u0131l\u0131yor",
+        "181": "\u0130sko\u00e7ya\u2019n\u0131n bat\u0131 sahilinde Tioram Kalesi",
+        "214": "\u0130sko\u00e7ya\u2019n\u0131n bat\u0131 sahili \u00fczerinde seyahat ediliyor"
+    },
+    "S009_C007": {
+        "0": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131 \u00fczerinde seyahat ediliyor",
+        "135": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131\u2019nda Old Man of Storr",
+        "173": "\u0130sko\u00e7ya\u2019da Skye Adas\u0131 \u00fczerinde seyahat ediliyor"
+    },
+    "TH_803_A001_8": {
+        "0": "Tahiti k\u0131y\u0131lar\u0131na \u00e7arpan dalgalar"
+    },
+    "TH_804_A001_8": {
+        "0": "Tahiti k\u0131y\u0131lar\u0131na \u00e7arpan dalgalar"
+    },
+    "U009_C004": {
+        "0": "Frans\u0131z Polinezyas\u0131 yak\u0131n\u0131nda y\u00fczen gri resif k\u00f6pek bal\u0131klar\u0131"
+    },
+    "Y002_C013226": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde"
+    },
+    "Y002_C013_0226": {
+        "70": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome\u2019a yakla\u015f\u0131l\u0131yor",
+        "87": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome",
+        "210": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde"
+    },
+    "Y003_C009": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde",
+        "93": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Merced\u00a0Zirvesi\u2019ne do\u011fru yol al\u0131n\u0131yor",
+        "130": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Merced\u00a0Zirvesi",
+        "221": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Merced\u00a0Zirvesi\u2019nden ge\u00e7iliyor",
+        "244": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde seyahat ediliyor"
+    },
+    "Y004_C015227PD": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome\u2019dan ge\u00e7iliyor ve Nevada\u00a0\u015eelalesi\u2019ne yakla\u015f\u0131l\u0131yor",
+        "146": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome ve Nevada\u00a0\u015eelalesi"
+    },
+    "Y005_C003228SC": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome\u2019a do\u011fru yol al\u0131n\u0131yor",
+        "60": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome",
+        "155": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019ndeki Yosemite Ulusal\u00a0Park\u0131 \u00fczerinde, ufukta Nevada\u00a0\u015eelalesi",
+        "255": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Nevada ve Illilouette\u00a0\u015eelaleleri",
+        "285": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Nevada, Vernal ve Illilouette\u00a0\u015eelaleleri"
+    },
+    "Y009_C015304I": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Tuolumne\u00a0\u00c7ay\u0131rlar\u0131 \u00fczerinden ge\u00e7iliyor"
+    },
+    "Y011_C001": {
+        "0": "Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Bridalveil\u00a0\u015eelalesi\u2019ne ve El\u00a0Capitan\u2019a do\u011fru yol al\u0131n\u0131yor",
+        "44": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal Park\u0131\u2019ndaki El Capitan\u2019a do\u011fru do\u011fuya seyahat ediliyor",
+        "87": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki El\u00a0Capitan\u2019dan ge\u00e7iliyor",
+        "120": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome\u2019a do\u011fru do\u011fuya seyahat ediliyor",
+        "390": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Half\u00a0Dome",
+        "470": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite\u00a0Vadisi\u2019ndeki Half\u00a0Dome\u2019dan ge\u00e7iliyor",
+        "585": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite\u00a0Vadisi \u00fczerinden do\u011fuya do\u011fru seyahat ediliyor"
+    },
+    "Y011_C008": {
+        "0": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Matthes\u00a0Crest\u2019e do\u011fru yol al\u0131n\u0131yor",
+        "75": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Matthes\u00a0Crest \u00fczerinden u\u00e7uluyor",
+        "124": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Matthes\u00a0Crest \u00fczerinden u\u00e7uluyor",
+        "215": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Matthes\u00a0Crest \u00fczerinden u\u00e7uluyor",
+        "396": "Amerika\u00a0Birle\u015fik\u00a0Devletleri\u2019nde Yosemite Ulusal\u00a0Park\u0131\u2019ndaki Tuolumne\u00a0\u00c7ay\u0131rlar\u0131\u2019na do\u011fru gidiliyor"
+    }
+}

@@ -1,0 +1,642 @@
+{
+    "A001_C001_120530": {
+        "0": "Au-dessus de l\u2019Atlantique\u00a0Nord, en direction du Portugal",
+        "115": "Au-dessus du Portugal et de l\u2019Espagne",
+        "150": "\u00c9loignement de la p\u00e9ninsule\u00a0Ib\u00e9rique et vol au-dessus du golfe\u00a0de\u00a0Gascogne et de la France",
+        "180": "Au-dessus de l\u2019Europe de l\u2019Ouest avec l\u2019Atlantique\u00a0Nord au loin"
+    },
+    "A001_C004_1207W5": {
+        "0": "Les \u00eeles\u00a0Canaries, l\u2019oc\u00e9an\u00a0Atlantique et la c\u00f4te africaine",
+        "45": "Vol vers le nord-est, le long de la c\u00f4te\u00a0marocaine",
+        "75": "Vol au-dessus des monts\u00a0Atlas, au Maroc",
+        "105": "Au-dessus du Maroc, \u00e0 l\u2019approche de la mer\u00a0M\u00e9diterran\u00e9e",
+        "125": "La mer\u00a0M\u00e9diterran\u00e9e et le sud de l\u2019Espagne",
+        "145": "Cap au nord-est, au-dessus de la Costa\u00a0Blanca en Espagne",
+        "165": "Cap au nord-est, au-dessus des \u00eeles Bal\u00e9ares en Espagne",
+        "185": "Au-dessus de l\u2019ouest de la mer\u00a0M\u00e9diterran\u00e9e avec les Alpes au loin",
+        "220": "Vol vers le nord-est, au-dessus des Alpes"
+    },
+    "A001_C007": {
+        "0": "M\u00e9duses dor\u00e9es dans les eaux des Palaos",
+        "282": "M\u00e9duse lune au milieu de m\u00e9duses dor\u00e9es",
+        "348": "M\u00e9duses dor\u00e9es dans les eaux des Palaos"
+    },
+    "A002_C009": {
+        "0": "M\u00e9duses dor\u00e9es dans les eaux des Palaos"
+    },
+    "A003_C014": {
+        "0": "\u00c0 la d\u00e9rive au-dessus de m\u00e9duses bleues, pr\u00e8s des c\u00f4tes de l\u2019Alaska aux \u00c9tats-Unis"
+    },
+    "A004_C003": {
+        "0": "R\u00e9cif corallien pr\u00e8s des Palaos"
+    },
+    "A004_C012": {
+        "0": "M\u00e9duses bleues, pr\u00e8s des c\u00f4tes de l\u2019Alaska aux \u00c9tats-Unis",
+        "100": "Centre-ville de San\u00a0Francisco avec la Coit\u00a0Tower au premier plan"
+    },
+    "A006_C003": {
+        "0": "La baie de San\u00a0Francisco et le pont Golden\u00a0Gate",
+        "140": "En direction de la tour nord du Golden\u00a0Gate, vers San\u00a0Francisco",
+        "191": "Au-dessus de la baie de San Francisco"
+    },
+    "A006_C008": {
+        "0": "Mourines du Pacifique au large du Mexique"
+    },
+    "A007_C017": {
+        "0": "Au-dessus de Fisherman\u2019s\u00a0Wharf, en direction du centre-ville de San\u00a0Francisco",
+        "80": "\u00c0 l\u2019approche de la Coit Tower, avec le centre-ville de San\u00a0Francisco et le Bay\u00a0Bridge en arri\u00e8re-plan",
+        "150": "Vue de la Coit Tower vers le centre-ville de San\u00a0Francisco et le Bay\u00a0Bridge",
+        "196": "Centre-ville de San Francisco"
+    },
+    "A008_C007": {
+        "0": "Au-dessus des Marin\u00a0Headlands, face au pont Golden\u00a0Gate",
+        "150": "Travers\u00e9e du pont\u00a0Golden\u00a0Gate vers le Presidio de San\u00a0Francisco"
+    },
+    "A008_C010": {
+        "0": "R\u00e9cifs de corail dans la mer Rouge, pr\u00e8s de l\u2019\u00c9gypte"
+    },
+    "A009_C001_10181A": {
+        "0": "Au-dessus de l\u2019Afrique\u00a0occidentale, cap sur le Sahara",
+        "30": "Travers\u00e9e du Sahara en Afrique du Nord",
+        "110": "Vol au-dessus du Hoggar dans le Sahara, en Afrique\u00a0du\u00a0Nord",
+        "155": "Au-dessus du Grand\u00a0Erg\u00a0oriental, en Afrique du Nord, cap sur la mer\u00a0M\u00e9diterran\u00e9e",
+        "195": "La c\u00f4te tunisienne et la mer\u00a0M\u00e9diterran\u00e9e",
+        "210": "Au-dessus de la c\u00f4te tunisienne, cap sur l\u2019Italie",
+        "230": "\u00c0 l\u2019approche de l\u2019Italie dans la mer\u00a0M\u00e9diterran\u00e9e",
+        "245": "Au-dessus de l\u2019Italie, en direction de la p\u00e9ninsule\u00a0des\u00a0Balkans",
+        "285": "Au-dessus de la p\u00e9ninsule\u00a0des\u00a0Balkans, en direction des monts\u00a0Carpathes",
+        "310": "Les monts\u00a0Carpathes et la mer\u00a0Noire"
+    },
+    "A009_C007": {
+        "0": "Dauphins \u00e0 long bec dans les eaux costaricaines"
+    },
+    "A010_C002": {
+        "0": "Travers\u00e9e d\u2019une for\u00eat de varech pr\u00e8s de la p\u00e9ninsule du Cap, en Afrique\u00a0du\u00a0Sud"
+    },
+    "A010_C007": {
+        "0": "M\u00e9duses dor\u00e9es dans les eaux des Palaos"
+    },
+    "A012_C004": {
+        "0": "Au-dessus des Marin\u00a0Headlands, face au pont Golden\u00a0Gate",
+        "150": "Travers\u00e9e du pont\u00a0Golden\u00a0Gate vers le Presidio de San\u00a0Francisco"
+    },
+    "A012_C014": {
+        "0": "Au-dessus de la baie de San\u00a0Francisco, cap sur l\u2019Embarcadero",
+        "208": "Le long de Market\u00a0Street dans San\u00a0Francisco"
+    },
+    "A012_C031": {
+        "0": "\u00c9toiles de mer \u00e0 cornes au fond de l\u2019oc\u00e9an pr\u00e8s de Born\u00e9o"
+    },
+    "A013_C004": {
+        "0": "Au-dessus de la baie de San\u00a0Francisco, cap sur l\u2019Embarcadero",
+        "90": "Au-dessus de l\u2019Embarcadero avec vue sur Market\u00a0Street, \u00e0 San\u00a0Francisco",
+        "150": "Le long de Market\u00a0Street dans le centre-ville de San\u00a0Francisco",
+        "360": "Le long de Market\u00a0Street dans San\u00a0Francisco"
+    },
+    "A013_C005": {
+        "0": "Le long du Presidio de San\u00a0Francisco vers le pont\u00a0Golden\u00a0Gate",
+        "190": "Travers\u00e9e du pont\u00a0Golden\u00a0Gate vers les Marin Headlands"
+    },
+    "A013_C012": {
+        "0": "\u00c0 l\u2019approche du pont Golden\u00a0Gate depuis San\u00a0Francisco",
+        "60": "Le long du pont Golden\u00a0Gate, en direction des Marin\u00a0Headlands",
+        "140": "Travers\u00e9e du Golden\u00a0Gate",
+        "230": "Vue de la tour\u00a0nord du Golden\u00a0Gate",
+        "260": "Au-dessus de la baie de San\u00a0Francisco, le long du pont du Golden\u00a0Gate"
+    },
+    "A014_C008": {
+        "0": "Poissons-perroquets \u00e0 bosse au-dessus des r\u00e9cifs coralliens au large de Born\u00e9o"
+    },
+    "A014_C023": {
+        "0": "Un banc de carangues \u00e0 gros yeux au large de la c\u00f4te de Born\u00e9o"
+    },
+    "A015_C014": {
+        "0": "Au-dessus de la baie de San\u00a0Francisco, cap sur l\u2019Embarcadero",
+        "210": "Le long de Market\u00a0Street dans le centre-ville de San\u00a0Francisco"
+    },
+    "A015_C018": {
+        "0": "\u00c0 l\u2019approche du Bay\u00a0Bridge et du centre-ville de San\u00a0Francisco",
+        "80": "Travers\u00e9e du Bay\u00a0Bridge vers le centre-ville de San\u00a0Francisco",
+        "116": "Au-dessus de la baie de San\u00a0Francisco, en direction du centre-ville"
+    },
+    "A016_C002": {
+        "0": "Dans une for\u00eat d\u2019algues au large des c\u00f4tes californiennes aux \u00c9tats-Unis"
+    },
+    "A016_C009": {
+        "0": "Otaries du Sud au large de la c\u00f4te de la p\u00e9ninsule du Cap, en Afrique\u00a0du\u00a0Sud"
+    },
+    "A018_C014": {
+        "0": "\u00c0 l\u2019approche du centre-ville de San\u00a0Francisco avec la Sutro\u00a0Tower au loin",
+        "10": "La Transamerica\u00a0Pyramid dans le centre-ville de San\u00a0Francisco",
+        "40": "Centre-ville de San\u00a0Francisco, avec la Sutro Tower au loin"
+    },
+    "A018_C029": {
+        "0": "Un banc de barracudas \u00e0 chevrons dans les eaux situ\u00e9es au large de Born\u00e9o"
+    },
+    "A050_C004_1027V8": {
+        "0": "Voyage au-dessus de l\u2019Europe\u00a0occidentale avec la Grande-Bretagne et l\u2019Irlande au loin",
+        "20": "En direction du sud-est, au-dessus des Alpes et de la vall\u00e9e\u00a0du\u00a0P\u00f4",
+        "50": "Le long de la p\u00e9ninsule\u00a0italienne et de la mer\u00a0Adriatique",
+        "100": "La Gr\u00e8ce bord\u00e9e par les mers Ionienne et \u00c9g\u00e9e",
+        "160": "Cap au sud-est, au-dessus de la mer\u00a0M\u00e9diterran\u00e9e",
+        "185": "La mer\u00a0M\u00e9diterran\u00e9e et le delta\u00a0du\u00a0Nil",
+        "205": "Vue du Nil qui traverse le Sahara, en \u00c9gypte",
+        "220": "Le d\u00e9sert oriental bord\u00e9 par le Nil et le golfe de Suez",
+        "240": "En direction du sud-est, au-dessus de la mer\u00a0Rouge"
+    },
+    "A083_C002_1130KZ": {
+        "0": "Le reflet du soleil le long de la c\u00f4te iranienne",
+        "15": "Vol au-dessus de l\u2019Iran au cr\u00e9puscule",
+        "60": "Vol au-dessus de l\u2019Asie\u00a0centrale au cr\u00e9puscule"
+    },
+    "A103_C002205DG": {
+        "0": "Au-dessus de la Corne\u00a0de\u00a0l\u2019Afrique, en direction du golfe\u00a0d\u2019Aden"
+    },
+    "A103_C002_0205DG": {
+        "45": "Le sud-est de la p\u00e9ninsule\u00a0d\u2019Arabie",
+        "115": "Le golfe d\u2019Oman \u00e0 l\u2019approche de la c\u00f4te\u00a0du\u00a0Makran",
+        "145": "La c\u00f4te\u00a0du\u00a0Makran de l\u2019Iran et du Pakistan",
+        "160": "Au-dessus de l\u2019Iran, en direction de l\u2019Afghanistan et du Pakistan",
+        "180": "Au-dessus de l\u2019Afghanistan et du Pakistan, cap sur le Karakoram",
+        "235": "Au-dessus du Karakoram, cap sur la Chine",
+        "280": "Le d\u00e9sert\u00a0du\u00a0Taklamakan dans l\u2019ouest de la Chine",
+        "315": "Les montagnes du Tian\u00a0Shan en Asie centrale"
+    },
+    "A105_C0022120602": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique, cap sur l\u2019Am\u00e9rique\u00a0centrale"
+    },
+    "A105_C002_021206_002": {
+        "70": "La c\u00f4te sud-ouest de l\u2019Am\u00e9rique\u00a0centrale en direction de la mer\u00a0des\u00a0Cara\u00efbes",
+        "100": "Travers\u00e9e de l\u2019Am\u00e9rique\u00a0centrale en direction de la mer\u00a0des\u00a0Cara\u00efbes",
+        "150": "Au-dessus de la mer\u00a0des\u00a0Cara\u00efbes, cap sur Cuba",
+        "240": "Au-dessus de Cuba, avec la Floride et les Bahamas au loin",
+        "300": "Au-dessus de la Floride et des Bahamas, en direction de la mer\u00a0des\u00a0Sargasses",
+        "350": "Au-dessus de la mer\u00a0des\u00a0Sargasses, en direction de l\u2019oc\u00e9an\u00a0Atlantique"
+    },
+    "A105_C003212CT": {
+        "0": "L\u2019aube au-dessus de l\u2019oc\u00e9an Pacifique\u00a0Sud"
+    },
+    "A105_C003_0212CT": {
+        "70": "L\u2019aube au-dessus de la Nouvelle-Z\u00e9lande",
+        "110": "\u00c0 l\u2019approche du lever du soleil sur la Nouvelle-Z\u00e9lande",
+        "170": "D\u00e9part de la Nouvelle-Z\u00e9lande en direction du nord-est, au-dessus de l\u2019oc\u00e9an\u00a0Pacifique"
+    },
+    "A108_C001215V8": {
+        "0": "Voyage au-dessus de l\u2019oc\u00e9an\u00a0Pacifique vers l\u2019Am\u00e9rique\u00a0centrale"
+    },
+    "A108_C001_0215V8": {
+        "35": "Les c\u00f4tes du Pacifique au Nicaragua, au Costa\u00a0Rica et au Panama",
+        "50": "Vol au-dessus de l\u2019Am\u00e9rique\u00a0centrale avec l\u2019Am\u00e9rique\u00a0du\u00a0Sud au loin",
+        "65": "La c\u00f4te\u00a0des\u00a0Mosquitos du Nicaragua",
+        "85": "Au-dessus de la mer\u00a0des\u00a0Cara\u00efbes, en direction de Cuba",
+        "110": "Au-dessus de la Jama\u00efque recouverte de nuages, dans la mer\u00a0des\u00a0Cara\u00efbes",
+        "125": "Travers\u00e9e de Cuba en direction d\u2019Ha\u00efti et de la R\u00e9publique\u00a0dominicaine",
+        "170": "Voyage au-dessus des Bahamas vers Ha\u00efti et la R\u00e9publique\u00a0dominicaine",
+        "190": "\u00celes Turques-et-Ca\u00efques dans l\u2019oc\u00e9an\u00a0Atlantique"
+    },
+    "A114_C001305OT": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique, en direction des \u00c9tats-Unis"
+    },
+    "A114_C001_0305OT": {
+        "20": "Cap au sud, le long de la c\u00f4te\u00a0californienne",
+        "50": "Au-dessus du sud de la Californie, cap sur le Mexique",
+        "65": "\u00c0 l\u2019approche du d\u00e9sert\u00a0de\u00a0Mojave dans le sud de la Californie, avec le Mexique au loin",
+        "95": "Le golfe de Californie bord\u00e9 par le d\u00e9sert\u00a0de\u00a0Sonora et la p\u00e9ninsule de Basse-Californie",
+        "130": "Les montagnes de la Sierra\u00a0Madre occidentale sur la c\u00f4te ouest du Mexique",
+        "185": "Au-dessus des montagnes de la Sierra\u00a0Madre occidentale, cap sur la c\u00f4te ouest du Mexique",
+        "225": "Vue vers le sud, sur l\u2019oc\u00e9an\u00a0Pacifique, au-dessus de la Sierra\u00a0Madre\u00a0del\u00a0Sur, au Mexique",
+        "280": "L\u2019oc\u00e9an\u00a0Pacifique au large de la c\u00f4te du Mexique",
+        "290": "L\u2019oc\u00e9an\u00a0Pacifique au large de la c\u00f4te du Mexique et du Guatemala"
+    },
+    "A351_C001_1213SK": {
+        "0": "Cap au nord-est, au-dessus des plateaux d\u2019\u00c9thiopie",
+        "45": "Voyage au-dessus de la mer\u00a0Rouge vers la p\u00e9ninsule\u00a0d\u2019Arabie",
+        "100": "En direction du nord-est, au-dessus de la p\u00e9ninsule\u00a0d\u2019Arabie",
+        "130": "Au-dessus de la p\u00e9ninsule\u00a0d\u2019Arabie, cap sur l\u2019Iran",
+        "165": "Au-dessus de la p\u00e9ninsule\u00a0d\u2019Arabie, \u00e0 l\u2019approche de l\u2019Iran",
+        "190": "\u00c0 l\u2019approche de la c\u00f4te de l\u2019Iran avec les monts\u00a0Zagros au loin",
+        "210": "Au-dessus des monts\u00a0Zagros, en Iran",
+        "240": "Au-dessus du d\u00e9sert du Dasht-e\u00a0Lut en Iran",
+        "265": "Cap sur le Turkm\u00e9nistan et le d\u00e9sert\u00a0du\u00a0Karakoum",
+        "305": "Le fleuve Amou-Daria et les montagnes du Pamir-Ala\u00ef en Asie centrale",
+        "322": "Les montagnes du Pamir-Ala\u00ef et la vall\u00e9e\u00a0du\u00a0Fergana en Asie centrale",
+        "360": "En direction du sud-est du Kazakhstan, en provenance du Kirghizistan",
+        "400": "Cap au nord, au-dessus du Kazakhstan",
+        "450": "Au-dessus des montagnes de l\u2019Alta\u00ef, cap sur la Mongolie"
+    },
+    "B002_C011": {
+        "0": "Dauphins communs au large des c\u00f4tes californiennes aux \u00c9tats-Unis"
+    },
+    "C001_C005": {
+        "0": "La section Mutianyu de la Grande\u00a0Muraille dans le district de Huairou, en Chine"
+    },
+    "C003_C003": {
+        "0": "La section Mutianyu de la Grande\u00a0Muraille dans le district de Huairou, en Chine"
+    },
+    "C004_C003": {
+        "0": "La section Mutianyu de la Grande\u00a0Muraille dans le district de Huairou, en Chine"
+    },
+    "CH_C002_C005": {
+        "0": "Vol au-dessus des rizi\u00e8res en terrasse de Longji dans la province\u00a0de\u00a0Guangxi, en Chine"
+    },
+    "CH_C007_C004": {
+        "0": "Exploration du parc\u00a0national de Wulingyuan en Chine"
+    },
+    "CH_C007_C011": {
+        "0": "Voyage dans le parc\u00a0national de Wulingyuan en Chine"
+    },
+    "D004_L014": {
+        "0": "Une baleine \u00e0 bosse au large de la Polyn\u00e9sie fran\u00e7aise"
+    },
+    "DB_D001_C001": {
+        "0": "Vol au-dessus de la marina de Duba\u00ef, aux \u00c9mirats\u00a0arabes\u00a0unis"
+    },
+    "DB_D001_C005": {
+        "0": "Vol le long de la marina de Duba\u00ef aux \u00c9mirats arabes unis"
+    },
+    "DB_D002_C003": {
+        "0": "\u00c0 l\u2019approche du centre-ville de Duba\u00ef aux \u00c9mirats arabes unis",
+        "210": "En direction du centre-ville de Duba\u00ef aux \u00c9mirats arabes unis"
+    },
+    "DB_D008_C010": {
+        "0": "Voyage le long de la Sheikh\u00a0Zayed Road \u00e0 Duba\u00ef, aux \u00c9mirats\u00a0arabes\u00a0unis"
+    },
+    "DB_D011_C010": {
+        "0": "\u00c0 l\u2019approche du Burj Khalifa au centre-ville de Duba\u00ef, aux \u00c9mirats arabes unis",
+        "280": "Le Burj Khalifa au centre-ville de Duba\u00ef, aux \u00c9mirats arabes unis",
+        "330": "Au-dessus du centre-ville de Duba\u00ef, \u00e0 l\u2019approche de la c\u00f4te"
+    },
+    "G007_C004": {
+        "0": "Le long du fleuve\u00a0Colorado traversant le Grand\u00a0Canyon, aux \u00c9tats-Unis"
+    },
+    "G008_C015106MB": {
+        "0": "Vol au-dessus de la r\u00e9gion du Burnt\u00a0Canyon dans le Grand\u00a0Canyon, aux \u00c9tats-Unis"
+    },
+    "G009_C00310678": {
+        "0": "Voyage au-dessus du Grand\u00a0Canyon, aux \u00c9tats-Unis"
+    },
+    "G009_C014106B9": {
+        "0": "Voyage au c\u0153ur du Grand\u00a0Canyon, aux \u00c9tats-Unis"
+    },
+    "G010_C026107KE": {
+        "0": "Voyage le long du fleuve\u00a0Colorado dans le Grand\u00a0Canyon, aux \u00c9tats-Unis"
+    },
+    "GL_G002_C002": {
+        "0": "Le fjord\u00a0glac\u00e9\u00a0d\u2019Ilulissat au large de la c\u00f4te du Groenland"
+    },
+    "GL_G004_C010": {
+        "0": "Voyage le long de la p\u00e9ninsule\u00a0de\u00a0Nuussuaq au Groenland"
+    },
+    "GL_G010_C006": {
+        "0": "Le fjord\u00a0glac\u00e9\u00a0d\u2019Ilulissat au large de la c\u00f4te du Groenland"
+    },
+    "GMT026_363A_103NC_E1027": {
+        "0": "Vol vers le sud-est, au-dessus de la Sib\u00e9rie et de la Mongolie",
+        "22": "Cap sur la Mongolie-Int\u00e9rieure",
+        "32": "Au-dessus de la Mongolie, en direction de la Chine",
+        "60": "Au-dessus du nord de la Chine, cap sur la p\u00e9ninsule\u00a0cor\u00e9enne",
+        "110": "Au-dessus de la Chine, en direction de la p\u00e9ninsule\u00a0cor\u00e9enne",
+        "150": "La p\u00e9ninsule\u00a0cor\u00e9enne avec le Japon au loin",
+        "180": "Au-dessus de la Cor\u00e9e\u00a0du\u00a0Sud, cap sur le Japon",
+        "195": "Au-dessus du Japon, face \u00e0 l\u2019oc\u00e9an\u00a0Pacifique",
+        "260": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique au sud-est du Japon"
+    },
+    "GMT060_117NC_363D": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Indien en direction de Perth, en Australie",
+        "50": "Cap au nord-est, \u00e0 travers l\u2019Australie\u00a0occidentale",
+        "170": "Au-dessus de l\u2019Australie-Occidentale, \u00e0 l\u2019approche du Territoire\u00a0du\u00a0Nord",
+        "220": "Au-dessus du Territoire\u00a0du\u00a0Nord, en Australie, cap sur la Nouvelle-Guin\u00e9e",
+        "335": "Au-dessus de la mer\u00a0d\u2019Arafura, en direction de la Nouvelle-Guin\u00e9e"
+    },
+    "GMT110_112NC_364D_1054": {
+        "0": "Aurore\u00a0australe sur l\u2019Antarctique"
+    },
+    "GMT306_139NC_139J_3066": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique, cap sur la c\u00f4te californienne",
+        "70": "Au-dessus de la c\u00f4te californienne, en direction de l\u2019int\u00e9rieur des terres",
+        "85": "Vol au-dessus de Los\u00a0Angeles et la c\u00f4te ouest des \u00c9tats-Unis",
+        "95": "Au-dessus de Los\u00a0Angeles, \u00e0 l\u2019approche de Las\u00a0Vegas aux \u00c9tats-Unis",
+        "110": "Au-dessus de Las\u00a0Vegas en direction de Salt\u00a0Lake\u00a0City, aux \u00c9tats-Unis",
+        "120": "Au-dessus de l\u2019ouest des \u00c9tats-Unis, \u00e0 l\u2019approche de Salt\u00a0Lake\u00a0City",
+        "155": "Au-dessus de Salt\u00a0Lake\u00a0City et Denver, aux \u00c9tats-Unis",
+        "170": "Au-dessus des Rocheuses aux \u00c9tats-Unis"
+    },
+    "GMT307_136NC_134K_8277": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique, en direction du Mexique",
+        "105": "Vol au-dessus de la ville de Mexico en direction du golfe\u00a0du\u00a0Mexique",
+        "122": "Vol au-dessus du golfe du Mexique, en direction des \u00c9tats-Unis",
+        "180": "Au-dessus de Houston, \u00e0 l\u2019approche de La Nouvelle-Orl\u00e9ans aux \u00c9tats-Unis",
+        "190": "En direction de La Nouvelle-Orl\u00e9ans et de la c\u00f4te\u00a0du\u00a0golfe\u00a0du\u00a0Mexique aux \u00c9tats-Unis",
+        "215": "Vol au-dessus du sud-est des \u00c9tats-Unis",
+        "280": "Au-dessus de l\u2019est des \u00c9tats-Unis, en direction de New\u00a0York",
+        "320": "Au-dessus de l\u2019est des \u00c9tats-Unis, \u00e0 l\u2019approche de la ville\u00a0de\u00a0New\u00a0York"
+    },
+    "GMT308_139K_142NC": {
+        "0": "En direction du sud-est, au-dessus des Grandes\u00a0Plaines des \u00c9tats-Unis",
+        "90": "En direction du sud-est, au-dessus du Midwest am\u00e9ricain",
+        "120": "Au-dessus du sud-est des \u00c9tats-Unis, en direction de la Floride",
+        "220": "Au-dessus de la Floride, en direction des Bahamas",
+        "240": "Vol vers le sud-est, au-dessus des Bahamas",
+        "285": "Au-dessus des Bahamas, \u00e0 l\u2019approche de la R\u00e9publique\u00a0dominicaine et d\u2019Ha\u00efti",
+        "300": "Au-dessus de la R\u00e9publique\u00a0dominicaine et d\u2019Ha\u00efti, \u00e0 l\u2019approche de la mer\u00a0des\u00a0Cara\u00efbes",
+        "315": "Au-dessus de la mer\u00a0des\u00a0Cara\u00efbes, cap au sud, en direction du Venezuela"
+    },
+    "GMT312_162NC_139M_1041": {
+        "0": "Cap au nord-est, au-dessus du Sahara, de nuit",
+        "70": "Au-dessus du Grand\u00a0Erg\u00a0oriental, en direction de la mer\u00a0M\u00e9diterran\u00e9e",
+        "100": "La c\u00f4te m\u00e9diterran\u00e9enne de Tunisie et de Libye",
+        "120": "Vol au-dessus de la mer\u00a0M\u00e9diterran\u00e9e, vers l\u2019Italie",
+        "140": "Au-dessus du sud de l\u2019Italie, \u00e0 l\u2019approche de la p\u00e9ninsule\u00a0des\u00a0Balkans avec la Turquie au loin",
+        "165": "Au-dessus de la p\u00e9ninsule des Balkans, cap sur la mer\u00a0Noire",
+        "180": "Au-dessus de la p\u00e9ninsule des Balkans, \u00e0 l\u2019approche de la mer\u00a0Noire",
+        "210": "Voyage au-dessus de la mer\u00a0Noire vers l\u2019Ukraine",
+        "230": "Voyage au-dessus de l\u2019Ukraine, en direction de la Russie"
+    },
+    "GMT314_139M_170NC": {
+        "0": "Au-dessus de l\u2019oc\u00e9an\u00a0Pacifique, cap sur la Basse-Californie",
+        "45": "Au-dessus de la Basse-Californie, vers le nord en direction des \u00c9tats-Unis",
+        "55": "Au-dessus du Mexique, en direction du sud-ouest des \u00c9tats-Unis",
+        "75": "Au-dessus du sud-ouest des \u00c9tats-Unis",
+        "110": "Au-dessus des Rocheuses, \u00e0 l\u2019approche de Denver",
+        "125": "Voyage au-dessus des Grandes\u00a0Plaines des \u00c9tats-Unis",
+        "185": "\u00c0 l\u2019approche des Grands\u00a0Lacs avec l\u2019Ontario, au Canada, au loin",
+        "200": "Au-dessus des Grands\u00a0Lacs, \u00e0 l\u2019approche de l\u2019Ontario, au Canada",
+        "210": "Une aurore\u00a0bor\u00e9ale au-dessus de l\u2019ouest de l\u2019Ontario, au Canada",
+        "235": "Une aurore\u00a0bor\u00e9ale au-dessus du nord de l\u2019Ontario, au Canada",
+        "250": "Une aurore\u00a0bor\u00e9ale au-dessus du nord du Qu\u00e9bec, au Canada",
+        "300": "En direction de l\u2019Atlantique Nord avec une aurore\u00a0bor\u00e9ale au-dessus du Labrador, au Canada"
+    },
+    "GMT329_117NC_401C_1037": {
+        "0": "Au-dessus de l\u2019Atlantique\u00a0Nord, \u00e0 l\u2019approche de l\u2019Irlande et de la Grande\u2011Bretagne",
+        "15": "Irlande et Grande-Bretagne",
+        "45": "Au-dessus de la Grande-Bretagne, en direction du continent europ\u00e9en",
+        "65": "Au-dessus du nord-ouest de l\u2019Europe, cap sur la Russie",
+        "105": "Au-dessus de l\u2019Europe, en direction de la Russie",
+        "150": "Au-dessus de l\u2019Europe\u00a0de\u00a0l\u2019Est avec Moscou au loin",
+        "165": "Au-dessus de l\u2019Europe\u00a0de\u00a0l\u2019Est, en direction de Moscou",
+        "185": "Au-dessus de la Russie\u00a0occidentale en passant par Moscou",
+        "195": "Au-dessus de la Russie, cap sur l\u2019Asie\u00a0centrale"
+    },
+    "GMT329_1_113NC_396B_1105": {
+        "0": "Au-dessus de la Tunisie, en direction de l\u2019Italie",
+        "5": "Au-dessus de la mer\u00a0M\u00e9diterran\u00e9e, face \u00e0 la Sicile et \u00e0 la p\u00e9ninsule\u00a0italienne",
+        "15": "Au-dessus du sud de l\u2019Italie avec la p\u00e9ninsule\u00a0des\u00a0Balkans au loin",
+        "25": "Au-dessus de la p\u00e9ninsule\u00a0des\u00a0Balkans, cap sur l\u2019Asie centrale",
+        "40": "Au-dessus de la p\u00e9ninsule\u00a0des\u00a0Balkans, passant par la mer\u00a0Noire",
+        "55": "Au-dessus de l\u2019Ukraine avec la Russie au loin",
+        "75": "Au-dessus du sud-ouest de la Russie en passant par le Kazakhstan"
+    },
+    "GMT329_2_113NC_396B_1105": {
+        "0": "Au-dessus de l\u2019Asie\u00a0centrale, en direction des c\u00f4tes chinoises",
+        "10": "Au-dessus du centre de la Chine, en direction de Shanghai",
+        "30": "\u00c0 l\u2019approche de Shanghai, en direction de la Chine\u00a0orientale",
+        "45": "\u00c0 l\u2019approche de Shanghai, en direction de la mer\u00a0de\u00a0Chine\u00a0orientale",
+        "50": "Au-dessus de Shanghai, cap sur la mer\u00a0de\u00a0Chine\u00a0orientale"
+    },
+    "H004_C007": {
+        "0": "Au-dessus de la r\u00e9serve naturelle de Puu\u00a0o\u00a0Umi sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "H004_C009": {
+        "0": "Au-dessus de la r\u00e9serve naturelle de Puu\u00a0o\u00a0Umi sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "H005_C012": {
+        "0": "La vall\u00e9e de Waimanu, dans la r\u00e9serve foresti\u00e8re\u00a0de\u00a0Kohala sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "H007_C003": {
+        "0": "Vol au-dessus de Laup\u0101hoehoe\u00a0Nui, dans la r\u00e9serve foresti\u00e8re\u00a0de\u00a0Kohala sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "H010_C006": {
+        "0": "\u00c0 l\u2019approche de la vall\u00e9e de Honop\u016b, dans la r\u00e9serve foresti\u00e8re\u00a0de\u00a0Kohala sur l\u2019\u00eele\u00a0de\u00a0Hawaii",
+        "300": "La vall\u00e9e de Honop\u016b, dans la r\u00e9serve foresti\u00e8re\u00a0de\u00a0Kohala sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "H012_C009": {
+        "0": "Survol de la c\u00f4te de Kohala sur l\u2019\u00eele\u00a0de\u00a0Hawaii"
+    },
+    "HK_B005_C011": {
+        "0": "Au-dessus de Victoria\u00a0Harbour, en direction du centre de Hong\u00a0Kong"
+    },
+    "HK_H004_C001": {
+        "0": "Au-dessus de Victoria\u00a0Harbour, en direction du centre de Hong\u00a0Kong"
+    },
+    "HK_H004_C008": {
+        "0": "Au-dessus de Victoria\u00a0Harbour, face \u00e0 l\u2019\u00cele de Hong\u00a0Kong"
+    },
+    "HK_H004_C010": {
+        "0": "Vol au-dessus du pic\u00a0Victoria \u00e0 Hong\u00a0Kong",
+        "150": "Vol au-dessus de Hong\u00a0Kong vers Victoria\u00a0Harbour",
+        "330": "Au-dessus de Victoria\u00a0Harbour, \u00e0 l\u2019approche de la p\u00e9ninsule\u00a0de\u00a0Kowloon"
+    },
+    "HK_H004_C013": {
+        "0": "Au-dessus de Wan Chai, \u00e0 l\u2019approche du centre de\u00a0Hong\u00a0Kong",
+        "150": "Au-dessus du centre de Hong\u00a0Kong",
+        "270": "Au-dessus de l\u2019\u00cele de Hong\u00a0Kong"
+    },
+    "I001_C014": {
+        "0": "Voyage le long de la J\u00f6kulgilskv\u00edsl, pr\u00e8s du Landmannalaugar en Islande"
+    },
+    "I003_C004": {
+        "0": "Vol au-dessus du Langisj\u00f3r en Islande"
+    },
+    "I003_C005": {
+        "0": "Vol au-dessus du Langisj\u00f3r et des montagnes F\u00f6grufj\u00f6ll en Islande"
+    },
+    "I003_C008": {
+        "0": "Voyage au-dessus de la Tungna\u00e1 dans les hautes terres islandaises"
+    },
+    "I003_C011": {
+        "0": "Le long de la rivi\u00e8re J\u00f6kulgilskv\u00edsl, dans le Landmannalaugar en Islande",
+        "308": "Voyage au-dessus des hautes terres islandaises"
+    },
+    "I003_C015": {
+        "0": "Voyage dans la vall\u00e9e du J\u00f6kulgil, dans le Landmannalaugar en Islande"
+    },
+    "I004_C014": {
+        "0": "Voyage au-dessus du Landmannalaugar en Islande"
+    },
+    "I005_C008": {
+        "0": "Cap sur le glacier M\u00fdrdalsj\u00f6kull en Islande",
+        "150": "\u00c0 l\u2019approche du glacier M\u00fdrdalsj\u00f6kull en Islande",
+        "225": "La glacier M\u00fdrdalsj\u00f6kull, en Islande",
+        "324": "Voyage au-dessus du glacier M\u00fdrdalsj\u00f6kull en Islande"
+    },
+    "L004_C011": {
+        "0": "\u00c0 l\u2019approche du Tower\u00a0Bridge sur la Tamise, \u00e0 Londres",
+        "20": "Le long de la Tamise \u00e0 Londres",
+        "130": "Le long de la Tamise vers le London\u00a0Eye",
+        "210": "\u00c0 l\u2019approche du London\u00a0Eye sur la Tamise",
+        "310": "Le long de la Tamise de l\u2019autre c\u00f4t\u00e9 du London\u00a0Eye",
+        "325": "Vue des Chambres du Parlement sur la Tamise, \u00e0 Londres"
+    },
+    "L007_C007": {
+        "0": "Vol au-dessus du domaine du palais\u00a0de\u00a0Buckingham, \u00e0 Londres",
+        "24": "Au-dessus du palais\u00a0de\u00a0Buckingham \u00e0 Londres",
+        "49": "Au-dessus du parc Saint\u00a0James en direction de la Tamise, \u00e0 Londres",
+        "104": "Travers\u00e9e de la Tamise et vol au-dessus du London\u00a0Eye",
+        "149": "Survol de South\u00a0London",
+        "279": "The\u00a0Shard \u00e0 South London",
+        "299": "Travers\u00e9e de la Tamise \u00e0 Londres",
+        "324": "Travers\u00e9e de la Tamise au niveau du Tower\u00a0Bridge, \u00e0 Londres"
+    },
+    "L010_C006": {
+        "0": "\u00c0 l\u2019approche du Tower\u00a0Bridge sur la Tamise, \u00e0 Londres",
+        "78": "Le long de la Tamise \u00e0 Londres",
+        "178": "Au sud de la Tamise \u00e0 Londres",
+        "258": "Travers\u00e9e de la Tamise \u00e0 Londres"
+    },
+    "L012_C002": {
+        "0": "\u00c0 l\u2019approche du Tower\u00a0Bridge sur la Tamise, \u00e0 Londres",
+        "20": "Travers\u00e9e de la Tamise \u00e0 Londres",
+        "60": "The\u00a0Shard \u00e0 South London",
+        "92": "Au sud de la Tamise, en direction du London\u00a0Eye",
+        "200": "Travers\u00e9e de la Tamise vers Westminster, \u00e0 Londres",
+        "270": "Au-dessus de Westminster, \u00e0 Londres"
+    },
+    "LA_A005_C009": {
+        "0": "Le long de l\u2019Interstate\u00a0110 North dans Los\u00a0Angeles"
+    },
+    "LA_A006_C004": {
+        "0": "Le panneau Hollywood \u00e0 Los\u00a0Angeles",
+        "250": "Au-dessus des collines\u00a0de\u00a0Hollywood, \u00e0 l\u2019approche de Burbank, en Californie"
+    },
+    "LA_A006_C008": {
+        "0": "Vol au-dessus de l\u2019a\u00e9roport\u00a0international de Los\u00a0Angeles"
+    },
+    "LA_A008_C004": {
+        "0": "Au-dessus de Santa\u00a0Monica State Beach, pr\u00e8s de Los\u00a0Angeles",
+        "365": "Vol au-dessus de la jet\u00e9e de Santa\u00a0Monica, pr\u00e8s de Los\u00a0Angeles",
+        "430": "Au-dessus de Santa\u00a0Monica State Beach, pr\u00e8s de Los\u00a0Angeles"
+    },
+    "LA_A009_C009": {
+        "0": "L\u2019observatoire\u00a0Griffith et les collines\u00a0d\u2019Hollywood \u00e0 Los\u00a0Angeles"
+    },
+    "LA_A011_C003": {
+        "0": "Vue du centre-ville de Los\u00a0Angeles"
+    },
+    "LW_L001_C003": {
+        "0": "Vol au-dessus de l\u2019oasis\u00a0de\u00a0Liwa aux \u00c9mirats\u00a0arabes\u00a0unis"
+    },
+    "LW_L001_C006": {
+        "0": "Vol au-dessus de l\u2019oasis\u00a0de\u00a0Liwa aux \u00c9mirats\u00a0arabes\u00a0unis"
+    },
+    "N003_C006": {
+        "0": "Au-dessus de l\u2019Upper East Side et de Central\u00a0Park \u00e0 New\u00a0York",
+        "50": "Au-dessus de Midtown\u00a0Manhattan, en direction du centre-ville et l\u2019Empire\u00a0State Building",
+        "160": "\u00c0 l\u2019approche de l\u2019Empire\u00a0State Building \u00e0 New\u00a0York",
+        "205": "L\u2019Empire\u00a0State Building, cap sur Lower Manhattan"
+    },
+    "N006_C003": {
+        "0": "\u00c0 l\u2019approche de Lower\u00a0Manhattan \u00e0 New\u00a0York",
+        "40": "Au-dessus de Lower\u00a0Manhattan \u00e0 New\u00a0York",
+        "140": "Au-dessus de Lower\u00a0Manhattan \u00e0 New\u00a0York, cap sur Midtown"
+    },
+    "N008_C003": {
+        "0": "\u00c0 l\u2019approche de Lower\u00a0Manhattan depuis le port de New\u00a0York",
+        "110": "Le long de Lower\u00a0Manhattan, \u00e0 l\u2019approche du One World\u00a0Trade\u00a0Center",
+        "180": "Le One World\u00a0Trade\u00a0Center vers Midtown\u00a0Manhattan",
+        "210": "Au-dessus de Lower\u00a0Manhattan \u00e0 New\u00a0York, cap sur Midtown"
+    },
+    "N008_C009": {
+        "0": "Au-dessus de Central\u00a0Park, en direction de Midtown\u00a0Manhattan \u00e0 New\u00a0York",
+        "246": "Au-dessus de Midtown\u00a0Manhattan \u00e0 New\u00a0York"
+    },
+    "N013_C004": {
+        "0": "En direction du sud de la 7th\u00a0Avenue vers Times\u00a0Square, \u00e0 New\u00a0York",
+        "40": "Au-dessus de Times\u00a0Square \u00e0 New\u00a0York",
+        "120": "En direction du sud de la 7th\u00a0Avenue \u00e0 Midtown\u00a0Manhattan, \u00e0 New\u00a0York"
+    },
+    "P001_C005_11059D": {
+        "0": "Le long de Cuernos del Paine, dans le parc national de Torres\u00a0del\u00a0Paine, au Chili"
+    },
+    "P005_C002_1109E1": {
+        "0": "Voyage le long du lac\u00a0Nordenskj\u00f6ld dans le parc national de Torres\u00a0del\u00a0Paine, au Chili"
+    },
+    "P006_C002_11106T": {
+        "0": "Au-dessus du lac\u00a0Nordenskj\u00f6ld dans le parc national de Torres\u00a0del\u00a0Paine, au Chili"
+    },
+    "P007_C027": {
+        "0": "Voyage au-dessus du parc national de Torres\u00a0del\u00a0Paine, au Chili"
+    },
+    "S003_C020": {
+        "0": "Voyage le long de la c\u00f4te de l\u2019\u00eele de Skye, en \u00c9cosse",
+        "338": "Le phare de Neist Point, sur l\u2019\u00eele de Skye en \u00c9cosse",
+        "372": "L\u2019\u00eele de Skye, en \u00c9cosse"
+    },
+    "S004_C019": {
+        "0": "Voyage au-dessus du Cuillin, sur l\u2019\u00eele de Skye, en \u00c9cosse"
+    },
+    "S005_C015": {
+        "0": "Au-dessus du loch Moidart sur la c\u00f4te ouest de l\u2019\u00c9cosse",
+        "252": "\u00c0 l\u2019approche de la mer des H\u00e9brides, en \u00c9cosse"
+    },
+    "S006_C007": {
+        "0": "Le loch Moidart sur la c\u00f4te ouest de l\u2019\u00c9cosse",
+        "139": "\u00c0 l\u2019approche du ch\u00e2teau de Tioram sur la c\u00f4te ouest de l\u2019\u00c9cosse",
+        "181": "Le ch\u00e2teau de Tioram sur la c\u00f4te ouest de l\u2019\u00c9cosse",
+        "214": "Voyage au-dessus de la c\u00f4te ouest de l\u2019\u00c9cosse"
+    },
+    "S009_C007": {
+        "0": "Voyage au-dessus de l\u2019\u00eele de Skye, en \u00c9cosse",
+        "135": "Le Old Man of Storr, sur l\u2019\u00eele de Skye en \u00c9cosse",
+        "173": "Voyage au-dessus de l\u2019\u00eele de Skye, en \u00c9cosse"
+    },
+    "TH_803_A001_8": {
+        "0": "Vagues qui se brisent sur la c\u00f4te de Tahiti"
+    },
+    "TH_804_A001_8": {
+        "0": "Vagues qui se brisent sur la c\u00f4te de Tahiti"
+    },
+    "U009_C004": {
+        "0": "Requins gris de r\u00e9cif qui nagent au large de la Polyn\u00e9sie fran\u00e7aise"
+    },
+    "Y002_C013226": {
+        "0": "Au-dessus du parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y002_C013_0226": {
+        "70": "\u00c0 l\u2019approche du Half\u00a0Dome dans le parc\u00a0national de Yosemite, aux \u00c9tats-Unis",
+        "87": "Le Half\u00a0Dome dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "210": "Au-dessus du parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y003_C009": {
+        "0": "Au-dessus du parc national de Yosemite, aux \u00c9tats-Unis",
+        "93": "Cap sur Merced\u00a0Peak dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "130": "Merced\u00a0Peak dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "221": "Vue de Merced\u00a0Peak dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "244": "Au-dessus du parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y004_C015227PD": {
+        "0": "Le Half\u00a0Dome dans le parc\u00a0national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y004_C015_0227PD": {
+        "124": "Au-dessus du Half\u00a0Dome et \u00e0 l\u2019approche de la chute\u00a0Nevada dans le parc national de Yosemite",
+        "146": "Le Half\u00a0Dome et la chute\u00a0Nevada dans le parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y005_C003228SC": {
+        "0": "Au-dessus du parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y005_C003_0228SC": {
+        "40": "Cap sur le Half\u00a0Dome dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "60": "Le Half\u00a0Dome dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "155": "Au-dessus du parc national de Yosemite avec la chute\u00a0Nevada au loin",
+        "255": "Chutes\u00a0Nevada et Illilouette dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "285": "Chutes\u00a0Nevada, Vernal et Illilouette dans le parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y009_C015304I": {
+        "0": "Vol au-dessus de Tuolumne\u00a0Meadows dans le parc national de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y011_C001": {
+        "0": "Cap sur Bridalveil\u00a0Fall et El\u00a0Capitan dans le parc national de Yosemite",
+        "44": "Cap vers l\u2019est sur El\u00a0Capitan dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "87": "Vue d\u2019El\u00a0Capitan dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "120": "Cap vers l\u2019est sur le Half\u00a0Dome dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "390": "Le Half\u00a0Dome dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "470": "Voyage au-del\u00e0 du Half\u00a0Dome dans la vall\u00e9e\u00a0de\u00a0Yosemite, aux \u00c9tats-Unis",
+        "585": "Cap vers l\u2019est au-dessus de la vall\u00e9e de Yosemite, aux \u00c9tats-Unis"
+    },
+    "Y011_C008": {
+        "0": "Cap sur la cr\u00eate Matthes dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "75": "Vol au-dessus de la cr\u00eate Matthes dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "124": "Survol de la cr\u00eate Matthes dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "215": "Vol au-dessus de la cr\u00eate Matthes dans le parc national de Yosemite, aux \u00c9tats-Unis",
+        "396": "Cap sur Tuolumne\u00a0Meadows dans le parc national de Yosemite, aux \u00c9tats-Unis"
+    }
+}

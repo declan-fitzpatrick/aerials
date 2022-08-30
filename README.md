@@ -18,7 +18,6 @@ Expected environment variables and their defaults:
 SKIP_GENERATE_POI | skip the generation of points of interest files | default False
 LOCALISE_BIZ_API_KEY | API key for your Loco project. Create project here [docs](https://localise.biz/api) | default None
 TVOS_VERSION | the tvOS version to use for downloads | default 16
-LOCAL_SERVER_URL | update entries.json with local location for these files | default none
 VIDEO_QUALITY | the tvOS quality to download | default "url-1080-H264", opts "url-1080-H264", "url-1080-HDR", "url-1080-SDR", "url-4K-HDR", "url-4K-SDR" 
 BW_LIMIT | Limit the video download to ~1MB/s | Default false
 
