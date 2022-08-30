@@ -4,7 +4,7 @@ services:
     image: flashspys/nginx-static
     container_name: aerials
     ports:
-      - 8080:80
+      - 5050:80
     volumes: 
       - ./downloads:/static/downloads
       - ./api:/static/api
