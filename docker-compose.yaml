@@ -10,3 +10,4 @@ services:
       - ./api:/static/api
       - ./index.html:/static/index.html
       - ./style.css:/static/style.css
+    restart: unless-stopped
