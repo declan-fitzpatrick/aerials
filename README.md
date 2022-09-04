@@ -9,6 +9,8 @@ This script also turns the `Localizable.nocache.strings` into a json file that i
 These can be pulled using the following url: 
 `https://declan-fitzpatrick.github.io/aerials/api/{release}/{parsed|raw}/{lang}`
 
+Finally, a Docker container will serve the files (with CORS) on localhost:5050. [Reverse proxy setup](https://hub.docker.com/r/flashspys/nginx-static/) is left as an exercise to the reader.
+
 ## running this script
 
 Expected environment variables and their defaults: 
@@ -65,4 +67,13 @@ plistutil -i Localizable.nocache.strings -f xml -o results.xml
 Mac uses:
 ```shell
 plutil -convert xml1 Localizable.nocache.strings
+```
+
+## Running the docker container
+The container is hosted in [DockerHub](https://hub.docker.com/repository/docker/declanfitzpatrick/aerials): 
+1. First run the downloader script above to grab the files
+2. run the docker compose file
+
+```shell
+docker-compose up
 ```

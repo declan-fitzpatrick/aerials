@@ -1,7 +1,7 @@
 version: '3'
 services:
   aerials:
-    image: flashspys/nginx-static
+    image: declanfitzpatrick/aerials:latest
     container_name: aerials
     ports:
       - 5050:80
