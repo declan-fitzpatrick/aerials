@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Aerials static file index for API and downloads.">
+
+    <title>aerials downloader</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+      <main role="main" class="inner cover my-auto">
+        <h1 class="h2 mb-2">aerials downloader</h1>
+        <p class="mb-3">
+          Static index for browsing API data and downloaded assets.
+        </p>
+        <p id="server-origin" class="small text-monospace mb-4"></p>
+
+        <div class="d-flex flex-column flex-sm-row">
+          <a id="api-index-link" class="btn btn-light mr-sm-2 mb-2" href="/api/">Browse API</a>
+          <a id="downloads-index-link" class="btn btn-outline-light mb-2" href="/downloads/">Browse Downloads</a>
+        </div>
+
+        <p class="small mt-3 mb-0">
+          Project repo:
+          <a href="https://github.com/declan-fitzpatrick/aerials" rel="noopener noreferrer" target="_blank">github.com/declan-fitzpatrick/aerials</a>
+        </p>
+      </main>
+    </div>
+
+    <script>
+      (function () {
+        var origin = window.location.origin;
+        var originEl = document.getElementById('server-origin');
+        if (originEl) {
+          originEl.textContent = 'server: ' + origin;
+        }
+
+        var apiLink = document.getElementById('api-index-link');
+        var downloadsLink = document.getElementById('downloads-index-link');
+        if (apiLink) {
+          apiLink.href = origin + '/api/';
+        }
+        if (downloadsLink) {
+          downloadsLink.href = origin + '/downloads/';
+        }
+      })();
+    </script>
+  </body>
+</html>

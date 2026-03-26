@@ -1,15 +1,15 @@
-version: '3'
 services:
   aerials:
-    image: declanfitzpatrick/aerials:latest
+    image: flashspys/nginx-static:latest
     container_name: aerials
     ports:
       - 5050:80
     volumes: 
       - ./downloads:/static/downloads
       - ./api:/static/api
-      - ./index.html:/static/index.html
-      - ./style.css:/static/style.css
+      - ./deployment/index.html:/static/index.html
+      - ./deployment/style.css:/static/style.css
+      - ./deployment/nginx-cors.conf:/etc/nginx/conf.d/default.conf
     restart: unless-stopped
     healthcheck:
       test: wget --no-verbose --tries=1 --spider http://localhost || exit 1
