@@ -113,11 +113,11 @@ def get_available_languages():
 
     return sorted(languages, key=lambda code: code.lower())
 
-def build_subcategory_map(all_entries, strings=None):
+def build_subcategory_map(all_metadata, strings=None):
     """Build {subcategory_id: display_name} from category definitions."""
     subcategory_map = {}
-    for entries in all_entries.values():
-        for category in entries.get('categories', []):
+    for metadata in all_metadata.values():
+        for category in metadata.get('categories', []):
             for subcat in category.get('subcategories', []):
                 sid = subcat.get('id')
                 name_key = subcat.get('localizedNameKey', '')
@@ -135,11 +135,11 @@ def build_subcategory_map(all_entries, strings=None):
                         subcategory_map[sid] = _re.sub(r'([a-z])([A-Z])', r'\1 \2', key)
     return subcategory_map
 
-def build_category_map(all_entries, strings=None):
+def build_category_map(all_metadata, strings=None):
     """Build {category_id: display_name} from top-level categories."""
     category_map = {}
-    for entries in all_entries.values():
-        for category in entries.get('categories', []):
+    for metadata in all_metadata.values():
+        for category in metadata.get('categories', []):
             cid = category.get('id')
             name_key = category.get('localizedNameKey', '')
             if cid and name_key:
@@ -155,15 +155,15 @@ def build_category_map(all_entries, strings=None):
                     category_map[cid] = _re.sub(r'([a-z])([A-Z])', r'\1 \2', key)
     return category_map
 
-def build_poi_map(all_entries, strings=None):
+def build_poi_map(all_metadata, strings=None):
     """Build {poi_id: localized_name} map from all assets' pointsOfInterest.
     
     If strings dict provided, looks up POI IDs directly (no _NAME suffix).
     Falls back to returning the POI ID as-is if not found in strings.
     """
     poi_map = {}
-    for entries in all_entries.values():
-        for asset in entries.get('assets', []):
+    for metadata in all_metadata.values():
+        for asset in metadata.get('assets', []):
             pois = asset.get('pointsOfInterest', {})
             if isinstance(pois, dict):
                 for poi_id in pois.values():
@@ -241,7 +241,7 @@ def write_readme_quality_table(consolidated_assets):
     table = [
         "## Auto-generated Download Qualities",
         "",
-        "Generated from the latest consolidated entries. Do not edit manually.",
+        "Generated from the latest consolidated metadata. Do not edit manually.",
     ]
 
     for category_name in sorted(groups.keys(), key=lambda g: (g == 'Uncategorized', g.lower())):
@@ -280,23 +280,23 @@ def write_readme_quality_table(consolidated_assets):
     with open(README_PATH, "w") as f:
         f.write(updated)
 
-def compare_and_consolidate_entries():
-    """Load all entries.json files, merge assets by id, and return consolidated assets."""
-    all_entries = {}
+def compare_and_consolidate_metadata():
+    """Load all metadata.json files, merge assets by id, and return consolidated assets."""
+    all_metadata = {}
     merged_assets_by_id = {}
 
-    print("\nComparing entries.json from all resources:")
+    print("\nComparing metadata.json from all resources:")
     for resource_key, resource_path in RESOURCE_PATHS.items():
-        entries_file = f'{resource_path}/entries.json'
-        if os.path.exists(entries_file):
-            with open(entries_file) as f:
-                entries = json.loads(f.read())
-                all_entries[resource_key] = entries
-                print(f"  {resource_key}: {len(entries.get('assets', []))} assets")
+        metadata_file = f'{resource_path}/entries.json'
+        if os.path.exists(metadata_file):
+            with open(metadata_file) as f:
+                metadata = json.loads(f.read())
+                all_metadata[resource_key] = metadata
+                print(f"  {resource_key}: {len(metadata.get('assets', []))} assets")
 
     # Consolidate by asset id and merge metadata from matching assets.
-    for resource_key, entries in all_entries.items():
-        for asset in entries.get('assets', []):
+    for resource_key, metadata in all_metadata.items():
+        for asset in metadata.get('assets', []):
             asset_id = asset.get('id')
             if not asset_id:
                 continue
@@ -310,9 +310,9 @@ def compare_and_consolidate_entries():
                     merged_assets_by_id[asset_id]['sources'].append(resource_key)
 
     def localize_assets(strings):
-        subcategory_map = build_subcategory_map(all_entries, strings)
-        category_map = build_category_map(all_entries, strings)
-        poi_map = build_poi_map(all_entries, strings)
+        subcategory_map = build_subcategory_map(all_metadata, strings)
+        category_map = build_category_map(all_metadata, strings)
+        poi_map = build_poi_map(all_metadata, strings)
         localized_assets = []
 
         for merged_asset in merged_assets_by_id.values():
@@ -349,7 +349,7 @@ def compare_and_consolidate_entries():
         available_languages = [fallback_language]
 
     localized_assets_by_language = {}
-    print(f"  Generating localized entries for {len(available_languages)} languages")
+    print(f"  Generating localized metadata for {len(available_languages)} languages")
     for language in available_languages:
         strings = load_localizations(language)
         localized_assets_by_language[language] = localize_assets(strings)
@@ -365,22 +365,22 @@ def compare_and_consolidate_entries():
     print(f"  Total unique assets: {len(consolidated_assets)}")
 
     os.makedirs('resources', exist_ok=True)
-    with open('resources/consolidated-entries.json', "w") as f:
+    with open('resources/consolidated-metadata.json', "w") as f:
         json.dump({'assets': consolidated_assets}, f, indent=4, sort_keys=True)
-    print("  Written to resources/consolidated-entries.json")
+    print("  Written to resources/consolidated-metadata.json")
 
-    api_version_dir = os.path.join('api', RELEASE_VERSION)
-    os.makedirs(api_version_dir, exist_ok=True)
+    metadata_version_dir = os.path.join('metadata', RELEASE_VERSION)
+    os.makedirs(metadata_version_dir, exist_ok=True)
 
-    with open(os.path.join(api_version_dir, 'entries.json'), "w") as f:
+    with open(os.path.join(metadata_version_dir, 'metadata.json'), "w") as f:
         json.dump({'assets': consolidated_assets}, f, indent=4, sort_keys=True)
 
     for language, assets in localized_assets_by_language.items():
-        language_file = os.path.join(api_version_dir, f'entries-{language}.json')
+        language_file = os.path.join(metadata_version_dir, f'metadata-{language}.json')
         with open(language_file, "w") as f:
             json.dump({'assets': assets}, f, indent=4, sort_keys=True)
 
-    print(f"  Written localized entries to {api_version_dir}")
+    print(f"  Written localized metadata to {metadata_version_dir}")
 
     write_readme_quality_table(consolidated_assets)
     print("  Updated README quality table")
@@ -388,29 +388,28 @@ def compare_and_consolidate_entries():
     return consolidated_assets
 
 def download_aerials():
-    print("\nWARNING: Downloading using the HTTPS urls in entries.json uses unverified HTTPS because the cert on sylvan.apple.com is self signed by Apple")
+    print("\nWARNING: Downloading using the HTTPS urls in metadata.json uses unverified HTTPS because the cert on sylvan.apple.com is self signed by Apple")
     if not os.path.exists("downloads"):
         os.mkdir("downloads")
     
-    # Get consolidated entries
-    consolidated_assets = compare_and_consolidate_entries()
-    entries = {'assets': consolidated_assets}
+    # Get consolidated metadata
+    consolidated_assets = compare_and_consolidate_metadata()
+    metadata = {'assets': consolidated_assets}
     
-    for index, asset in enumerate(entries['assets']):
+    for index, asset in enumerate(metadata['assets']):
         try:
             
             url = asset[VIDEO_QUALITY]
             filename = re.sub(r'^https?://[^/]+/(?:.*/)?', '', url)
-            entries['assets'][index][f"filename"] = f'{filename}'
+            metadata['assets'][index][f"filename"] = f'{filename}'
             friendly_name = f"{asset['shotID']} ({asset['localizedName']})"
             if not SKIP_DOWNLOADS:
-                print(f"{index+1}/{len(entries['assets'])} Downloading {friendly_name}")
+                print(f"{index+1}/{len(metadata['assets'])} Downloading {friendly_name}")
                 download_aerial(url, filename, friendly_name)
             else:
-                print(f"{index+1}/{len(entries['assets'])} skipped downloading {friendly_name}")
+                print(f"{index+1}/{len(metadata['assets'])} skipped downloading {friendly_name}")
         except KeyError as e:
-            print(f"{index+1}/{len(entries['assets'])} Quality {VIDEO_QUALITY} not found for {friendly_name}. Skipping...")
-    
+            print(f"{index+1}/{len(metadata['assets'])} Quality {VIDEO_QUALITY} not found for {friendly_name}. Skipping...")
 
 def get_resources():
     """Download and extract all resources from RESOURCE_URLS."""
@@ -453,14 +452,11 @@ def cleanup():
     """Clean up tar files and temp directories."""
     for resource_key in RESOURCE_URLS.keys():
         tar_filename = f"{resource_key}.tar"
-        # try: shutil.rmtree(f"resources-{resource_key}")
-        # except FileNotFoundError as e: pass
         if os.path.isfile(tar_filename):
             os.remove(tar_filename)
-    try:
-        shutil.rmtree('tmp')
-    except FileNotFoundError as e:
-        pass
+
+    try: shutil.rmtree(f"resources")
+    except FileNotFoundError as e: pass
 
 if __name__ == "__main__":
     try:

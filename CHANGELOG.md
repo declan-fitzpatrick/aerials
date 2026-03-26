@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## v0.1.0
+* add `macOS26` release with the latest metadata and localized data. 
+* Refactor output structure to separate consolidated metadata and localized data into `metadata/`.
+* Update readme to auto-generate download links. 
+
 ## v0.0.2
 
 * pull in feature

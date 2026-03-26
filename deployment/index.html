@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Aerials static file index for API and downloads.">
+    <meta name="description" content="Aerials static file index for metadata and downloads.">
 
     <title>aerials downloader</title>
 
@@ -16,12 +16,12 @@
       <main role="main" class="inner cover my-auto">
         <h1 class="h2 mb-2">aerials downloader</h1>
         <p class="mb-3">
-          Static index for browsing API data and downloaded assets.
+          Static index for browsing metadata and downloaded assets.
         </p>
         <p id="server-origin" class="small text-monospace mb-4"></p>
 
         <div class="d-flex flex-column flex-sm-row">
-          <a id="api-index-link" class="btn btn-light mr-sm-2 mb-2" href="/api/">Browse API</a>
+          <a id="metadata-index-link" class="btn btn-light mr-sm-2 mb-2" href="/metadata/">Browse Metadata</a>
           <a id="downloads-index-link" class="btn btn-outline-light mb-2" href="/downloads/">Browse Downloads</a>
         </div>
 
@@ -40,10 +40,10 @@
           originEl.textContent = 'server: ' + origin;
         }
 
-        var apiLink = document.getElementById('api-index-link');
+        var metadataLink = document.getElementById('metadata-index-link');
         var downloadsLink = document.getElementById('downloads-index-link');
-        if (apiLink) {
-          apiLink.href = origin + '/api/';
+        if (metadataLink) {
+          metadataLink.href = origin + '/metadata/';
         }
         if (downloadsLink) {
           downloadsLink.href = origin + '/downloads/';

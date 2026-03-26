@@ -10,7 +10,7 @@ This Python script downloads Apple's aerial videos from tvOS and macOS, consolid
 4. Loads localized asset names, category names, and points of interest from bundled strings files
 5. Downloads the actual video files in your preferred quality
 
-A Docker container can serve the files with CORS on `localhost:5050` — see the docker-compose setup below.
+A Docker container can serve a cached version of the files with CORS on `localhost:5050` — see the docker-compose setup below.
 
 ## References
 
@@ -37,6 +37,14 @@ Run:
 AERIAL_LANGUAGE=fr VIDEO_QUALITY=url-4K-SDR python downloadAerials.py
 ```
 
+## Using the consolidated metadata
+
+The script generates a versioned output of the consolidated entries and localized data in the `metadata/` folder. This can be used to serve metadata for a custom app or website.
+
+You can pull a file using the githubusercontent domain, e.g.:
+```
+https://raw.githubusercontent.com/declan-fitzpatrick/aerials/refs/heads/main/metadata/<version>/entries-<language>.json
+```
 
 ## Running Docker
 
@@ -49,12 +57,12 @@ To serve the consolidated assets with CORS:
 docker-compose up
 ```
 
-The container uses a reverse proxy (see [nginx-static Docker Hub](https://hub.docker.com/r/flashspys/nginx-static/)) to serve files on `localhost:5050` with CORS headers enabled.
+The container uses a reverse proxy (see [nginx-static Docker Hub](https://hub.docker.com/r/flashspys/nginx-static/)) to serve files on `localhost:5050` with CORS headers enabled. Visit `http://localhost:5050/entries/<version>/entries-<language>.json`, or the video files at `http://localhost:5050/downloads/<filename>`.
 
 <!-- AUTO-GENERATED-QUALITIES-TABLE:START -->
 ## Auto-generated Download Qualities
 
-Generated from the latest consolidated entries. Do not edit manually.
+Generated from the latest consolidated metadata. Do not edit manually.
 
 ### Cityscape
 
